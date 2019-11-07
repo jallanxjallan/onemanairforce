@@ -1,0 +1,1 @@
+•     Bob takes his responsibilities as Captain seriously. Sharing a simple curry lunch with Muharto, Boedi, and Pang at the Madras Curry House.

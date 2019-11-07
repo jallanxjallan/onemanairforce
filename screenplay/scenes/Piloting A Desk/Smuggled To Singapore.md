@@ -1,0 +1,1 @@
+• Muharto smuggles himself to Singapore, but is trapped there because of a lack of travel documentation. 

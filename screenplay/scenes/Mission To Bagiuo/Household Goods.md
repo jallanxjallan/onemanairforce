@@ -1,0 +1,2 @@
+-  Muharto hears that Halim and Iswandi had crashed. 
+- Investigators, looking for guns, find only household goods.

@@ -1,0 +1,1 @@
+- Freeberg, Muharto, and Boedi fly officials to Baguio. Meet with United Nations representatives. They are required to remain in Manila for the two weeks that the Indonesians will be attending meetings.

@@ -1,0 +1,1 @@
+-  Muharto sets up Ining At a house where he will train students to become guerrilla fighters. 

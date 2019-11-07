@@ -1,0 +1,1 @@
+  •    Bob flies GOC delegates around Sumatra. As they seek to determine how much grassroots support the Republic has.  

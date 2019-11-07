@@ -1,0 +1,2 @@
+1. Take off again a few days later to fly Ining's remains   to Manila, with a stop at Sumatra. 
+- Bad weather forces RI-002 to land in Singapore. At request of Dutch, British authorities ground RI-002 for airworthiness check.

@@ -1,0 +1,1 @@
+- When he learns of the opium runs, Spoor decides to consider Freeberg a major criminal, and orders his fighters to use deadly force. 

@@ -1,0 +1,2 @@
+-  Cam takes Julia dancing. At the Tanamur. 
+- Fahmi explains Indonesian unity. 

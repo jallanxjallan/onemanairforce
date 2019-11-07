@@ -1,0 +1,1 @@
+- Mysterious death of Lt Arnolt prompts Spoor to investigate rumors of corruption in the military. 

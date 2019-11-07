@@ -1,0 +1,1 @@
+-  Spoor hears reports of gun running. Orders an air and sea blockade.

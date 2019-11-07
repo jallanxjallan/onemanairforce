@@ -1,0 +1,1 @@
+-  Cameron assaulted by Pemuda Pancasila thugs outside of Tanamur.

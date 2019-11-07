@@ -1,0 +1,1 @@
+- Bob is annoyed when Bambang shows up late for opium run. 

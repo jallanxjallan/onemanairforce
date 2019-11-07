@@ -1,0 +1,1 @@
+•    Muharto acts as de facto liaison with Major Primitivo, head of intelligence. They arrange for Philippine army to give clandestine support to RI.

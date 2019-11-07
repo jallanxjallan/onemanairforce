@@ -1,0 +1,2 @@
+- Discovers that Westerling has been asking unit commanders if they would support a coup. 
+- Angrily tells him to knock it off. 

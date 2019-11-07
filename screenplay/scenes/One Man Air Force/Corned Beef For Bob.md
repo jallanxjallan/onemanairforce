@@ -1,0 +1,1 @@
+  •    Bob invites Muharto for dinner at the Hotel Merdeka.  He is embarrassed when a waiter insists he be served the last can of American corned beef left behind by the COG delegates. 

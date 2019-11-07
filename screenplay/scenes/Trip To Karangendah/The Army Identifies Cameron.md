@@ -1,0 +1,4 @@
+-   A friend in Bais calls Sabam to warn him that the army is now looking into the activities of the Jakarta Post.
+-   An agent in Karengendah has identified Cameron and Julia.
+-   Julia is in a great deal of trouble with her father
+-   Sabam has no choice but to fire Cameron and has his visa canceled, effective immediately.

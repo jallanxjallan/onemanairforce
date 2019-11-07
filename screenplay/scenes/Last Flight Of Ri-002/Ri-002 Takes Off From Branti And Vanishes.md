@@ -1,0 +1,1 @@
+-  Bob takes off from Branti and vanishes.

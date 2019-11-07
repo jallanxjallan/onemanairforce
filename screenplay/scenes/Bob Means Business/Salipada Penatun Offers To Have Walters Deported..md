@@ -1,0 +1,1 @@
+-  Salipada Penatun offers to have Walters deported. Tom Lee talks Bob out of it. 

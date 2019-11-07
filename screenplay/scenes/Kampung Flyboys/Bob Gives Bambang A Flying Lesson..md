@@ -1,0 +1,2 @@
+- Bob gives Bambang a flying lesson. 
+- Runs into problems because of Bambang’s weak command of English.

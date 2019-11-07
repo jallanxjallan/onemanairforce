@@ -1,0 +1,1 @@
+ Cobley accuses Bob. Says he is taking the best business for himself.

@@ -1,0 +1,3 @@
+- Hadi tells of stealing father's necklace from casket when guard's back was turned. 
+- Muharto holds necklace. He is transported to right-hand seat of RI-002. 
+- But he can not see who is in captain's seat before the crash.

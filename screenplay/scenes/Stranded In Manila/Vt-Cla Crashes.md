@@ -1,0 +1,1 @@
+•    When VT-CLA crashes, Muharto is convinced that RI-002 will be crucial to the survival of the Republic. 

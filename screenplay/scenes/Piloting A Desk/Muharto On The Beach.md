@@ -1,0 +1,1 @@
+• Muharto travels to Cilotok and finds Bob stuck in the sand. Muharto appeals to the nationalist pride of the local villages to construct a make-shift runway so the aircraft and take off before spotted by a Dutch patrol. 

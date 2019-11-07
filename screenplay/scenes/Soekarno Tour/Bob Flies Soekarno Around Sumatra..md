@@ -1,0 +1,1 @@
+- Props up support for the independence struggle and to raise money to purchase a presidential aircraft, to be named RI-001.

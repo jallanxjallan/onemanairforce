@@ -1,0 +1,1 @@
+ Suryadarma orders Muharto to smuggle gems. To Manila, to be traded for handguns.

@@ -1,0 +1,2 @@
+- Agus tells Cam and Julia of seeing Santoso. and the other Indonesians detained, but did not see Freeberg. He was in the room when Bambang argued with Santoso on what to do. Santoso says they should keep to the original mission and fly to Bengkulu, and then to Bukittinggi. 
+- But Bambang knows that if they go to Bukittinggi, one of the foreign pilots would then be asked to fly RI-002 back to Jogja. Bambang insists that they fly back to Branti, then to Jogja, where he can land in triumph. 
