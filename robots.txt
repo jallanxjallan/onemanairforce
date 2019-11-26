@@ -1,0 +1,4 @@
+Sitemap: https://onemanairforce.com/sitemapindex.xml
+
+User-Agent: *
+Host: onemanairforce.com
