@@ -17,10 +17,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Jeremy Allan"  # (translatable)
-BLOG_TITLE = "Book Site"  # (translatable)
+BLOG_TITLE = "One Man Air Force"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://onemanairforce.com/"
+SITE_URL = "http://onemanairforce.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
