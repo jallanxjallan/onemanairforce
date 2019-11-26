@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://onemanairforce.com/galleries/rss.xml</loc>
-  <lastmod>2019-11-26T07:46:00Z</lastmod>
+  <loc>http://onemanairforce.com/galleries/rss.xml</loc>
+  <lastmod>2019-11-26T10:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://onemanairforce.com/rss.xml</loc>
-  <lastmod>2019-11-26T07:46:00Z</lastmod>
+  <loc>http://onemanairforce.com/rss.xml</loc>
+  <lastmod>2019-11-26T10:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://onemanairforce.com/sitemap.xml</loc>
-  <lastmod>2019-11-26T07:46:00Z</lastmod>
+  <loc>http://onemanairforce.com/sitemap.xml</loc>
+  <lastmod>2019-11-26T10:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
