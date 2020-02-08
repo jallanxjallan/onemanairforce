@@ -1,1 +1,0 @@
-- Bambang tells  Muharto of his ambition to become captain of the Presidential Plane.

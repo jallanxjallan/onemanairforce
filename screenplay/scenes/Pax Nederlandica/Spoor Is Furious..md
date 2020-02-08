@@ -1,2 +1,0 @@
--  Spoor is furious that. Thai authorities released Freeberg. 
-- Appeals to American consul Walter Foote to do something about Freeberg. Though Foote also disagrees with Freeberg's actions, he can do nothing. 

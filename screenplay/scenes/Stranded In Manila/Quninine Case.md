@@ -1,1 +1,0 @@
-•    Dutch representatives take them to court over possession of the quinine cargo. As they wait for the verdict, Bob pays for their accommodation and food, insisting that as captain of RI•   002 he is responsible for them until they return to Java. 

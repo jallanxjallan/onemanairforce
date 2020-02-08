@@ -1,1 +1,0 @@
--  Suryadarma  takes away Bob fuel allowance.

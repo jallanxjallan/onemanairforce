@@ -1,1 +1,0 @@
- Muharto and Bob fight over smuggled gems. 

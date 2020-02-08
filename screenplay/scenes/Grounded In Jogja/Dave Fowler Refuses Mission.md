@@ -1,1 +1,0 @@
-- Over risk involved in transporting gold. Makes demands that Suryadarma thinks are impertinent, so Fowler walks out. Suryadarma signs in annoyance, then  calls the adjutant to summon Bob.   

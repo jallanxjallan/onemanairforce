@@ -1,2 +1,0 @@
-•    RI-002 flies non-stop from Manila instead of refueling in British-controlled Labuan to conceal the identity of their passenger, 
-- Captain Ignacio Espina, a commando in the Filipino army, who will train Indonesian guerrilla fighters.  Muharto navigates last leg, saving them from crashing.

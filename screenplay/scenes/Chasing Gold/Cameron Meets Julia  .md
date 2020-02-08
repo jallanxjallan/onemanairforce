@@ -1,2 +1,0 @@
-- Cameron visits library to research more about mystery of RI-002.
-- Freeberg. Cameron is directed to the rare books section. Julia, a post-graduate student interning at the library, finds the book, Recruit to Revolution, and tells Cameron that he can cannot take it out of the reading room. 

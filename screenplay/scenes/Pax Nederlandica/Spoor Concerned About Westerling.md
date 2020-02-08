@@ -1,1 +1,0 @@
--  Spoor concerned about Westerling.

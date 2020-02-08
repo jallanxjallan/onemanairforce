@@ -1,1 +1,0 @@
-- After Muharto is promoted, Bambang gets his coveted permanent place in the right hand seat.

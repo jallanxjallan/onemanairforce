@@ -1,2 +1,0 @@
-- Bambang is annoyed when Moeljono flies the twin-engine. Flies Ri-005  Avro-anson from Bukittinggi to Jogjakarta. 
-- He plots to do something great himself.

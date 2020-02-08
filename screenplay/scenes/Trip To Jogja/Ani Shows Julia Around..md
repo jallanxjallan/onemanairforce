@@ -1,1 +1,0 @@
--  Ani shows Julia around. The neighborhood where she taught refugee children.

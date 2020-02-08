@@ -1,1 +1,0 @@
- Muharto goes into trance. Holding dynamo in the museum

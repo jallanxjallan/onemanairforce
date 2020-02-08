@@ -1,2 +1,0 @@
--  RI-002  landing gear collapses in Bukittinggi. Cracking a wing. 
-- Bob fixes it and takes off the following day, with Dave Fowler shaking head in disapproval.

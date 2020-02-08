@@ -1,1 +1,0 @@
--  Bambang ingratiates himself with Soekarno. Hopes of being selected to fly RI-001. Boedi finds his efforts, and Soekarno's condescending replies amusing.  

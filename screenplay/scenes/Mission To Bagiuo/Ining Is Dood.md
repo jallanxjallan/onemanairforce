@@ -1,2 +1,0 @@
--  Boedi receives message about the suicide of Ining and death of Muharto’s brother. 
-- Muharto reports to Ining’s superiors, and is accused of being a communist and complicit in Ining’s death. 

@@ -1,1 +1,0 @@
--  Suryadarma assigns Bob mission to transport gold.

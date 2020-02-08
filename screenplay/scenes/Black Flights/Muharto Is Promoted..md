@@ -1,2 +1,0 @@
--  Muharto leaves RI-002 when he is promoted to major and assigned to headquarters. 
-- Bambang takes his place in the right-hand seat.

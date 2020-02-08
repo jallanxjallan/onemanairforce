@@ -1,1 +1,0 @@
- Bob flies to Manila. Suryadarma orders him back to Sumatra on another mission. Bob flatly refuses the mission, saying he has to return immediately to Manila to repair the wing cracked in the incident the month before.  Bob turns and walks away as Suryadarma fumes. 

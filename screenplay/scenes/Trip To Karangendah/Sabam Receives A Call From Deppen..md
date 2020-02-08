@@ -1,3 +1,0 @@
- Sabam receives a call from Deppen. Threatening to shut down the dreaded Minister of Information. Warns Cameron to drop his investigations.   
-  ## CAMERON DEPORTED.
-  - On his way to the airport, Cameron drops by Muharto's house to say goodbye and drop off his research materials for safe keeping. He shows Muharto a photo of RI-002 on a Dutch airfield. He lies to Muharto, saying that the gardener had seen  Freeberg being taken away in chains. Muharto believes this and is now convinced Freeberg had not betrayed his friendship. Cameron leaves Indonesia with some sense of satisfaction. 

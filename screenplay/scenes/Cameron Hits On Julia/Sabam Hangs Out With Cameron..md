@@ -1,1 +1,0 @@
- Sabam hangs out with Cameron. The go out for  batak food and beer. Confides in him about difficulty of reporting the truth in this land of lies.  Does a Batak take on Javanese propensity for prevarication.

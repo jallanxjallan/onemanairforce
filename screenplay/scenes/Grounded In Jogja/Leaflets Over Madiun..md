@@ -1,3 +1,0 @@
-- .Boedi goes along for the ride and to help Santoso with leaflets.
--  Santoso valuable in pointing out neighborhoods where residents my be receptive to message
--   Bambang watches intently as Bob puts RI-002 through tree-top maneuvers. Expression on his face reflects thoughts that he could do it himself.

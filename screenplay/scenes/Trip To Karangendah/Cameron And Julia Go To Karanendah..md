@@ -1,1 +1,0 @@
-- Sabam says that the newspaper has been given free domestic air tickets as part of a promotion package. He offers two tickets (one for Julia, his âresearch assistantâ) to anywhere he wants. Cameron suggests Palembang. Sabam raises his eyebrows, expecting Cameron to ask for an exotic beach, then says: OK. Palembang it is.  

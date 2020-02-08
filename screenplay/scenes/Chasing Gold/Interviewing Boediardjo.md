@@ -1,1 +1,0 @@
-• Julia’s father arranges coffee with Boediardjo at his house

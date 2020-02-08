@@ -1,1 +1,0 @@
- Bob buys parents a car. After finally being paid for the quinine, Bob pays his bills and sends money home to buy an Oldsmobile for his parents. 

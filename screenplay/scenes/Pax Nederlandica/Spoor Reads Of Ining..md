@@ -1,1 +1,0 @@
-- Newspaper report about Ining running guns, and sets a top priority on intercepting RI-002 and capturing Freeberg.  

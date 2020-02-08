@@ -1,1 +1,0 @@
- Muharto is appalled by Aviation Brotherhood. shooting down own squad leader and other general debauchery. He decides to not tell Freeberg about the smuggled gems in case his roommates find out.

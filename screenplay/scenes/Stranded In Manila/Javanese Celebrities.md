@@ -1,1 +1,0 @@
-•    Bob and his crew are treated as celebrities. Muharto stays with Tom Lee and his family.

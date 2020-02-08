@@ -1,2 +1,0 @@
--  Dave Fowler intercepted whjile piloting POAS plane carrying journalists. 
-- Was called off by Spoor.

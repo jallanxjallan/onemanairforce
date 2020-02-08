@@ -1,1 +1,0 @@
-- Realizes that he cannot feed all of the new recruits arriving in the Indies, so he orders a campaign to seize agricultural land, ports, and oil fields. 
