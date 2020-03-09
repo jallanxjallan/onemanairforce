@@ -3,6 +3,10 @@ date: October 1947
 location: Maguwo Airfield Jogja
 ---
 
+```treatment
+Affandi sketches Bob in front of RI-002.
+```
+
 Affandi is sketching at the edge of the runway, near where RI-002 is
 parked. Bob walks up to him and compliments the sketch. Affandi, who
 speaks some English, asks Bob to briefly pose for him. Affandi was

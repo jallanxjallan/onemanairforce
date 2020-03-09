@@ -3,6 +3,10 @@ date: 16 October 1988
 location: Affandi Museum Jogjakarta
 ---
 
+```treatment
+Affandi dashes off and signs a self-portrait for Cameron to give to Boedi.
+```
+
 Cameron asks what happened to the painting. Affandi laughs and explains
 that he and his friends at buried the propaganda paintings in the forest
 when the Dutch overran Jogja. When the Dutch withdrew from Jogja six

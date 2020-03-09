@@ -3,6 +3,10 @@ date: 17 October 1947
 location: RI-002 in flight
 ---
 
+```treatment
+Bob drops paratroopers into the Kalimantan forest. This is the first time in an aircraft for all, so Bob gives a pep talk to the terrified troopers, translated by Boedi. 
+```
+
 Bob drops paratroopers into a Republican area. It was the first jump for
 everyone, and many are terrified. One soldier pulls his ripcord,
 spilling his parachute on the deck. He swears it was an accident, but

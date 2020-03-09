@@ -3,6 +3,16 @@ date: 26 September 1988
 location: Jakarta Post Newsroom
 ---
 
+```treatment
+Sabam Siagian, managing editor of the Jakarta Post, assigns Cameron, an American copy editor, to interview his friend Petit Muharto about his experiences running the Dutch blockade with Bob Freeberg.
+```
+
+
+
+Sabam Siagian, a well-groomed, middle-aged Indonesian who is managing
+editor of the Jakarta Post, the nation's leading English-language
+newspaper, assigns Cameron, an American post-grad student on a one-year internship, to interview his long-time friend Petit Muharto. As a captain in the Indonesian Air Force during the post-war struggle for independence, Muharto had been the co-pilot of RI-002, a war-surplus C-47 owned by American veteran pilot Bob Freeberg chartered by the Air Force to run the Dutch-imposed blockade around the territories claimed by the newly declared Republic of Indonesia. 
+
 Cameron, an American in his mid 20s, stands at the desk of a middle-aged
 Indonesian man in the Jakarta Post newsroom. Cameron
 points to a sheet of paper on the desk and lectures the older man in a

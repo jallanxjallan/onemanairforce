@@ -3,7 +3,11 @@ date: 20 June 1947
 location: courtroom Manila
 ---
 
-Bob and Muharto attend their first court session to decide who owns Dutch representatives take them to court over possession of the quinine cargo. Their lawyer,
+```treatment
+Bob and Muharto attend their first court session to decide who owns Dutch representatives take them to court over possession of the quinine cargo.
+```
+
+ Their lawyer,
 Salipada Penatun, who is also a sitting senator with extensive
 high-level contacts, lays out the legal justification for ownership of
 the quinine, then lets Muharto give an impassioned plea, claiming that

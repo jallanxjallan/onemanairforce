@@ -1,8 +1,9 @@
 ---
-location: |
-    Frank Reuneker writes to Dave Fowler, who replies with a long, detailed
-    letter. Sends it to Cameron.
+date: November 1948
+location: Library
 ---
 
-Frank Reuneker writes to Dave Fowler, who replies with a long, detailed
-letter. Sends it to Cameron.
+```treatment
+Cameron receives a lengthy letter from Dave Fowler through Frank Reuneker. He reads it to Julia.
+```
+

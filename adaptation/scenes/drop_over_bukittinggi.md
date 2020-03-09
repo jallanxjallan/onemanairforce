@@ -3,6 +3,10 @@ date: 31 March 1947
 location: CALI Dakota cockpit
 ---
 
+```treatment
+Bob uses his wartime aviation skills to parachute Air Force engineers and their gear to a bull's eye landing on a pot-holed highland airstrip they are tasked to refurbish.  
+```
+
 The CALI Dakota flies over the Bukit Barisan mountaintops, and drops
 into a valley toward the town of Bukittinggi. At Muharto's direction,
 Bob passes low over an airstrip, which is plainly full of potholes and

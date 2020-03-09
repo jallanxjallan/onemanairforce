@@ -3,6 +3,10 @@ date: 16 October 1988
 location: Affandi Museum Jogjakarta
 ---
 
+```treatment
+Cameron meets Affandi, who tells him amusing stories of making propaganda posters to raise morale during the blockade. 
+```
+
 Muharto drops Cameron at the entrance to the Affandi museum, says he
 will pick him up again in two hours, then drives away. Affandi, an
 animated, disheveled elderly man, is sitting on a bench on the grounds

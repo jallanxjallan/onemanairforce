@@ -3,6 +3,10 @@ date: 31 March 1947
 location: Maguwo airfield
 ---
 
+```treatment
+In Jogja, Muharto introduces Bob to Suryadarma, who thanks the American for his assistance, and asks him to perform some risky tasks on the return leg. Bob grins and readily agrees. 
+```
+
 As the aircraft is being unloaded and refueled for the return to
 Singapore, Muharto introduces Bob to Suryadarma, who thanks him for his
 assistance. Then Suryadarma takes Muharto aside and tells him that this

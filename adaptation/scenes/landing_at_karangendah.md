@@ -1,7 +1,11 @@
 ---
-date: '• 31 March 1947'
-location: '• Karangendah Airfield'
+date: 31 March 1947
+location: Karangendah Airfield
 ---
+
+```treatment
+Muharto asks Bob to make a test landing on a refurbished wartime airstrip designed for smaller aircraft such as fighters. Bob happily complies, and sets the Dakota down with only a few meters to spare on the runway. Muharto introduces Bob to Santoso, the base commander.
+```
 
 Before takeoff on the return trip to Singapore, Muharto asks Bob if he
 can attempt a landing on a refurbished Japanese airstrip at Karenengah.

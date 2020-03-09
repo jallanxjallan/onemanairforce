@@ -1,7 +1,11 @@
 ---
-date: '• date: October 1947'
-location: '• location: Bangkok'
+date: October 1947
+location: Bangkok
 ---
+
+```treatment
+Bob flies two Indonesian aviators to Bangkok, who will purchase RI-003 and fly it back to Jogja. Bob is detained by Thai authorities at the insistence of Dutch diplomats, but is released soon afterward in a tacit recognition of the legitimacy of the new Republic of Indonesia. 
+```
 
 Bob flies Halim and Iswandi to Bangkok. They will fly a recently
 purchased Avro Ansen airplane back to Indonesia, where it will become

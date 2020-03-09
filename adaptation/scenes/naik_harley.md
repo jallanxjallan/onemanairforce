@@ -3,6 +3,12 @@ date: October 1988
 location: Library parking lot
 ---
 
+```treatment
+When the library closes, Cameron and Julia discover that they each have arrangements to meet friends at the nearby Hotel Borobudur. He offers her a ride on his vintage Harley-Davidson motorcycle. 
+```
+
+
+
 Cameron and Julia discover that they are now headed to the same
 destination: the Hotel Borobudur, a nearby luxury hotel, where she will
 meet friends in the coffee shop, and he a mate at the bar. Cameron
