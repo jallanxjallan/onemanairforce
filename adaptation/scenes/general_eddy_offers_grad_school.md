@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: Julia House
+location: Julia
 ---
 
-```treatment
+```synopsis
 The day after her date with Eric, General Eddy hints that the business deal with Eric's father will provide him with enough funds to send Julia to graduate school in America, fulfilling her dream. 
 ```
 

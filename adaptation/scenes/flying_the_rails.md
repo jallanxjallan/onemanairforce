@@ -1,9 +1,9 @@
 ---
 date: 31 March 1947
-location: CALI aircraft cockpit
+location: CALI
 ---
 
-```treatment
+```synopsis
 On the third blockade run, with Bob Freeberg as captain, the overcast sky forces Muharto to navigate by asking Bob to fly low enough to follow the railway line to Jogja. 
 ```
 

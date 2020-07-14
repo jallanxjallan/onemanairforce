@@ -1,9 +1,9 @@
 ---
 date: 28 September 1988
-location: Muhartos Living Room
+location: Muharto
 ---
 
-```treatment
+```synopsis
 Muharto tells Cameron that the sixth coffin, presumably containing Bob’s
 remains, could not be buried with the others as a foreigner cannot be interred in a cemetery for national heroes, however much he may deserve the honor himself through his services to the nation.
 

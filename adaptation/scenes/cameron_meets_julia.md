@@ -1,9 +1,9 @@
 ---
 date: 5 October 1988
-location: Library Reference Section
+location: Library
 ---
 
-```treatment
+```synopsis
 At the National Libary, Cameron is assisted by Julia, a bookish, attractive final-year student assigned to deal with foreign researchers because of her fluent English.   
 ```
 

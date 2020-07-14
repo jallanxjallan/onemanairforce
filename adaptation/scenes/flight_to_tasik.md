@@ -1,6 +1,6 @@
 ---
 date: 7 June 1947
-location: In the air
+location: Nishikoren
 ---
 
 ```treatment

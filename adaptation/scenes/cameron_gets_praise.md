@@ -1,9 +1,9 @@
 ---
 date: 3 October 1988
-location: JP newsroom
+location: JakPost
 ---
 
-```treatment
+```synopsis
 The day the story about Bob Freeberg appears, Sabam berates Syd for sneaking an amusing tone-perfect translation of a lurid sex-crime story from a local paper into the Post. He then praises Cameron for the Muharto story, saying that his old friend was delighted. When Sabam leaves, Cameron turns to Syd and says he is intrigued by the story, and wants to return to the Library for further research. With a smile and  a wink, Syd tells Cameron to give his regards to Julia. 
 
 ```

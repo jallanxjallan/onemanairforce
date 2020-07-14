@@ -1,10 +1,10 @@
 ---
 date: 5 October 1988
-location: library canteen
+location: library
 ---
 
-```treatment
-Julia and Cameron have coffee in the library canteen. She says that she is in her final year of university, and hopes to get a scholarship to do her post-grad overseas. In the meantime, she was hired by the library because of her fluency in written English and Dutch. Julia also casually mentions that her father is a general.
+```synopsis
+Over coffee in the library canteen. Julia tells Cameron that she is in her final year of university, and hopes to get a scholarship to do her post-grad overseas. In the meantime, she was hired by the library because of her fluency in written English and Dutch. Julia also casually mentions that her father is a general.
 ```
 
 

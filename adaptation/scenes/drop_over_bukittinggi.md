@@ -1,9 +1,9 @@
 ---
 date: 31 March 1947
-location: CALI Dakota cockpit
+location: CALI
 ---
 
-```treatment
+```synopsis
 Bob uses his wartime aviation skills to parachute Air Force engineers and their gear to a bull's eye landing on a pot-holed highland airstrip they are tasked to refurbish.  
 ```
 

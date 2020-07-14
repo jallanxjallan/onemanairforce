@@ -1,9 +1,9 @@
 ---
 date: 17 October 1947
-location: RI-002 in flight
+location: RI002
 ---
 
-```treatment
+```synopsis
 Bob drops paratroopers into the Kalimantan forest. This is the first time in an aircraft for all, so Bob gives a pep talk to the terrified troopers, translated by Boedi. 
 ```
 

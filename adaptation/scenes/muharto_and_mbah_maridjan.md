@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: Mount Merapi
+location: Merapi
 ---
 
-```treatment
+```synopsis
 Cameron accompanies Muharto to a village on the upper slopes of the
 Merapi volcano to meet Muharto’s spiritual advisor, Mbah Maridjan. The
 three hike the steep incline to a shrine, effortlessly in the case of

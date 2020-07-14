@@ -1,9 +1,9 @@
 ---
 date: 9 June 1947
-location: Maguwo Airfield Jogja
+location: Maguwo
 ---
 
-```treatment
+```synopsis
 In Jogja, Suradarma commissions Bob to fly a cargo valuable quinine to Manila and return with medicine and other goods. To forestall possible problems with authorities in Manila Muharto suggests that they paint a registration number, RI-002, on the unregistered war-surplus Dakota. 
 ```
 

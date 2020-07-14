@@ -1,10 +1,10 @@
 ---
 date: 26 September 1988
-location: Jakarta Post Newsroom
+location: JakPost
 ---
 
-```treatment
-Sabam Siagian, managing editor of the Jakarta Post, assigns Cameron, an American copy editor, to interview his friend Petit Muharto about his experiences running the Dutch blockade with Bob Freeberg.
+```synopsis
+Sabam Siagian, managing editor of the Jakarta Post, assigns Cameron, a young American recently hired as a copy editor, to interview his friend Petit Muharto about his experiences running the Dutch blockade with Bob Freeberg.
 ```
 
 

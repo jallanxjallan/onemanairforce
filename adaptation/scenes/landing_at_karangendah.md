@@ -1,6 +1,6 @@
 ---
 date: 31 March 1947
-location: Karangendah Airfield
+location: Karangendah
 ---
 
 ```treatment

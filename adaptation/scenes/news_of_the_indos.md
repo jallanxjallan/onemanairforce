@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: National Library
+location: Library
 ---
 
-```treatment
+```synopsis
 At the library, Julia introduces Cameron to Victor, a retired journalist for the colonial-era *Bataviaasch Nieuwsblad*. Victor relates humorous anecdotes of the frustration of colonial authorities with foreign blockade runners like Bob Freeberg, who they regarded as common criminals.  
 
 ```

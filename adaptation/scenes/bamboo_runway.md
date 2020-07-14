@@ -1,9 +1,9 @@
 ---
 date: 9 June 1947
-location: Cikolong Beach
+location: Cikolong
 ---
 
-```treatment
+```synopsis
 Bob tells Muharto that his Dakota is stuck in the soft sand. Muharto rallies the hundreds of villagers who have gathered for the spectacle of the foreigner and his giant aircraft to tear apart their houses and use the woven bamboo walls as a makeship runway. The Dakata takes off with Muharto on board and heads to Jogja.
 ```
 

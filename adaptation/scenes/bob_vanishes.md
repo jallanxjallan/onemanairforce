@@ -1,9 +1,9 @@
 ---
 date: 28 September 1988
-location: Muhartos Living Room
+location: Muharto
 ---
 
-```treatment
+```synopsis
 Muharto tells Cameron that he flew with RI-002 until May 1948, when he was promoted to Major and assigned to a desk at headquarters. He saw little of Bob after that, but was looking forward to having Bob as guest of honor at his wedding in October. But three weeks before the wedding he was devasted to learn that RI-002 had vanished on a mission.  
 ```
 

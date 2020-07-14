@@ -1,9 +1,9 @@
 ---
 date: 29 July 1947
-location: Freeberg apartment
+location: Bob
 ---
 
-```treatment
+```synopsis
 Muharto and Boedi listen in horror to shortwave radio reports that a blockade runner has been shot down on
 approach to Maguwo. 
 ```

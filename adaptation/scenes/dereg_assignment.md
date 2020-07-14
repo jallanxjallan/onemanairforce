@@ -1,10 +1,10 @@
 ---
 date: 1 November 1988
-location: JP Newsroom
+location: JakPost
 
 ---
 
-```treatment
+```synopsis
 Syd complains about the quality of the financial articles produced by the JP reporters in the run up to capital market deregulation. Sabam assigns Cameron to interview foreign financial experts and write uncredited background articles. 
 ```
 

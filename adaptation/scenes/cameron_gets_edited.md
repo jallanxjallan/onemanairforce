@@ -1,9 +1,9 @@
 ---
 date: 29 September 1988
-location: Jakarta Post Newsroom
+location: JakPost
 ---
 
-```treatment
+```synopsis
 Syd Jardine, a burnt-out Old Asia Hand who is senior copy editor for the Jakarta Post, tells Cameron that his story on Bob Freeberg needs more historical context, and suggests he do additional research at the new National Library, a modern, well-run institution that he visits regularly.
 ```
 

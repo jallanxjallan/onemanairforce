@@ -1,9 +1,9 @@
 ---
 date: August 1947
-location: AB Bar Manila
+location: ABBar
 ---
 
-```treatment
+```synopsis
 Bob Walters complains to Boedi about his business dealings with Bob Freeberg. 
 ```
 

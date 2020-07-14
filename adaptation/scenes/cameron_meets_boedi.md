@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: Boedi living room
+location: Boedi
 ---
 
-```treatment
+```synopsis
 Cameron attends a lecture on cultural tourism to visiting American academics. He is invited to the sponsor's reception, where he meets Boedi and discovers that he had been radio operator of RI-002. At Cameron's urging, he tells amusing anecodes of his days with RI-002 to his guests. 
 ```
 

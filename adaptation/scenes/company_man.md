@@ -1,9 +1,9 @@
 ---
 date: August 1947
-location: AB Bar Manila
+location: ABBar
 ---
 
-```treatment
+```synopsis
 Tom Lee invites Muharto and Boedi to dinner, during which he displays a great interest in the political and military situation in Jogjakarta. Boedi hints that Tom's hospitality had another purpose.
 ```
 

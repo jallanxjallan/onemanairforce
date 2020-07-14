@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: Hotel Borobudur
+location: Borobudur
 ---
 
-```treatment
+```synopsis
 Cameron drops Julia at the front entrance to the hotel, impressing her friends, who decides that he must be rich.
 ```
 

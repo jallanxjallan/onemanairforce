@@ -3,7 +3,7 @@ date: October 1988
 location: Tanamur
 ---
 
-```treatment
+```synopsis
 Julia and Cameron party with her friends at the Tanamur. The friends want to go next to an after-hours place, where girls are admitted free but men must pay a steep cover charge. Because of his tight budget, Cameron must demur, and Julia is embarrassed for her new friend. 
 ```
 

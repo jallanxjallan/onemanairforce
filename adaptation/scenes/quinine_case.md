@@ -1,9 +1,9 @@
 ---
 date: 20 June 1947
-location: courtroom Manila
+location: Courtroom
 ---
 
-```treatment
+```synopsis
 Bob and Muharto attend their first court session to decide who owns Dutch representatives take them to court over possession of the quinine cargo.
 ```
 

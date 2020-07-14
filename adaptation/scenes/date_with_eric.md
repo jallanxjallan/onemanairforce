@@ -1,9 +1,9 @@
 ---
 date: October 1988
-location: Hotel Hilton
+location: Borobudur
 ---
 
-```treatment
+```synopsis
 Julia goes on a date with Eric, the son of a friend of her father, a successful businessman. Eric reveals that their fathers are joining forces with an American venture capitalist to artifically inflate the value of his father's company for the sale on the capital market. 
 ```
 

@@ -1,9 +1,9 @@
 ---
 date: 3 October 1988
-location: Muharto living room
+location: Muharto
 ---
 
-```treatment
+```synopsis
 Cameron visits Muharto to help solve the mystery of RI-002. Muharto is delighted, and suggest they begin with a visit to Jogjakarta, where pieces of the RI-002 wreckage is kept. 
 ```
 

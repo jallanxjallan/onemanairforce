@@ -1,6 +1,6 @@
 ---
 date: October 1947
-location: RI-002 cockpit
+location: RI-002
 ---
 
 ```treatment

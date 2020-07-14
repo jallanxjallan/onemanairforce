@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <cherrytree>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091146.7" ts_lastsave="1582010671.15" unique_id="1">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091146.7" ts_lastsave="1584950818.43" unique_id="1">
 		<rich_text>
 </rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Historical" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1579064716.88" ts_lastsave="1580542021.01" unique_id="44">
@@ -441,6 +441,170 @@ Walter Foote betrays Bob
 			</node>
 		</node>
 	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1584950818.45" ts_lastsave="1584962081.74" unique_id="86">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584950840.99" ts_lastsave="1584956716.45" unique_id="182">
+			<rich_text>location: Petit Muharto's House
+place: Jakarta
+time: now
+decription: Tidy</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediadjo" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584950856.4" ts_lastsave="1584956711.9" unique_id="195">
+			<rich_text>location: Boediardjo's House
+place: Jakarta
+time: now
+description: Luxurious </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584950868.51" ts_lastsave="1584956707.89" unique_id="198">
+			<rich_text>location: Maguwo Air Base
+place: Jogjakarta
+time: Then</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="JakPost" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584951629.19" ts_lastsave="1584956703.45" unique_id="199">
+			<rich_text>location: The Jakarta Post
+place: Jakarta
+time: now
+description: messy</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Nishikoren" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584956143.82" ts_lastsave="1584956693.61" unique_id="200">
+			<rich_text>location: Nishikoren monoplane
+place: Over Java
+time: then
+description: an open-cockpit two-seater high performance Japanese aircraft</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Library" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584956641.58" ts_lastsave="1584956654.2" unique_id="205">
+			<rich_text>location: Library Reference Section
+place: Jakarta
+time: now
+description: stacks of books in air conditioning.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="HotBuk" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584960863.89" ts_lastsave="1584960865.3" unique_id="208">
+			<rich_text>location: Hotel Bukittinggi
+place: Bukittinggi
+time: then
+description: Aviators Hangout</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="CALI" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584961028.37" ts_lastsave="1584961029.58" unique_id="210">
+			<rich_text>location: CALI Dakota cockpit
+place: In the air
+time: then
+description: well kept aircraft flight deck </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584961159.27" ts_lastsave="1584961160.44" unique_id="211">
+			<rich_text>location: Karangendah Airfield
+place: Sumatra
+time: then and now
+description: airfield in the sawah</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tasik" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584961571.26" ts_lastsave="1584961571.73" unique_id="213">
+			<rich_text>location: Tasik Army Base
+place: Java
+time: then
+description: military base</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="RI002" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584961872.82" ts_lastsave="1584961874.1" unique_id="215">
+			<rich_text>location: RI-002 Cockpit
+place: In the air
+time: then
+description: Ramshackle flight deck</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tom" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584962081.79" ts_lastsave="1584962107.57" unique_id="216">
+			<rich_text>location: Tom Lee's House
+place: Manila
+time: then
+description: comfortable, moderately affluent house of government lawyer</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Courtroom" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584962373.37" ts_lastsave="1584962375.99" unique_id="217">
+			<rich_text>location: Courtroom 
+place: Manila
+time: then
+description: typical courtroom</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bob" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584962501.75" ts_lastsave="1584962503.25" unique_id="218">
+			<rich_text>location: Bob's Apartement
+place: Manila
+time: then
+description: shared bachelor pad</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584962694.84" ts_lastsave="1584962695.33" unique_id="219">
+			<rich_text>location: Madras Curry
+place: Manila
+time: then
+description: Cheap Indian joint</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Intel" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584962900.61" ts_lastsave="1584962949.93" unique_id="220">
+			<rich_text>location: Intel
+place: Philippines Army Intelligence Headquarters
+time: then
+description: Military Offices</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Palace" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584963149.68" ts_lastsave="1584963151.2" unique_id="221">
+			<rich_text>location: Presidential Palace
+place: Jogjakarta
+time: then
+description: ornate dutch architecture. </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Merdeka" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584967995.1" ts_lastsave="1584967996.62" unique_id="224">
+			<rich_text>location: Hotel Merdeka
+place: Jogjakarta
+time: then
+description: Stately Dutch colonial hotel</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Punggur" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584968219.56" ts_lastsave="1584968253.73" unique_id="225">
+			<rich_text>location: Mount Punggur
+place: Sumatra
+time: then
+description: rugged, forested hillside</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Betulu" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584968286.72" ts_lastsave="1584968288.2" unique_id="226">
+			<rich_text>location: Teluk Betulu Air Base
+place: Sumatra
+time: then
+description: provincial military base</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Borobudur" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584968575.32" ts_lastsave="1584968576.45" unique_id="227">
+			<rich_text>location: Hotel Borobudur
+place: Jakarta
+time: now
+description: luxury hotel and social center</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bangkok" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584968760.43" ts_lastsave="1584968761.35" unique_id="228">
+			<rich_text>location: Bangkok
+place: Thailand
+time: them
+desciption: various places in Bangkok.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Merapi" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584969696.71" ts_lastsave="1584969697.3" unique_id="230">
+			<rich_text>location: Gunung Merapi
+place: Jogjakarta
+time: now
+description: rugged volcanic hillside</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Museum" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584969781.59" ts_lastsave="1584969782.48" unique_id="231">
+			<rich_text>location: Aviation Museum
+place: Jogjakarta
+time: now
+description: airplane exhibits in hanger</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="ABBar" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584969923.16" ts_lastsave="1584969924.97" unique_id="232">
+			<rich_text>location: Aviation Brotherhood Bar
+place: Manila
+time: then
+description: cheap, rowdy drinking hole.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tanamur" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584971081.37" ts_lastsave="1584971082.92" unique_id="233">
+			<rich_text>location: Tanamur Disco
+place: Jakarta
+time: now
+description: Best disco in SE Asia</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia" prog_lang="plain-text" readonly="False" tags="" ts_creation="1584971245.85" ts_lastsave="1584971253.95" unique_id="235">
+			<rich_text>location: Julia's family home
+place: jakarta
+time: now
+description: bookish and spotlessly clean</rich_text>
+		</node>
+	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1571652157.31" ts_lastsave="1580806670.61" unique_id="145">
 		<rich_text>
 </rich_text>
@@ -624,6 +788,7 @@ But wasting away in a squalid cell because of money-grubbing criminal officers.<
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Boedi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1580979379.16" ts_lastsave="1582100984.73" unique_id="161">
 			<rich_text>Syd suggests Cameron meet Boedi </rich_text>
+			<rich_text justification="left"></rich_text>
 			<rich_text>, He was head of Deppen when Syd was bureau chief for a wire service, so they often interacted. and bonded on shared interest in art and classical music. 
 
 
@@ -1158,23 +1323,24 @@ The following flashbacks are each less than one minute, and VO narrated by Muhar
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Birth of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583723112.78" ts_lastsave="1583723166.22" unique_id="76">
 					<rich_text>
 </rich_text>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Surprise call" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582245094.88" ts_lastsave="1583723181.76" unique_id="52">
-						<rich_text>sat</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Surprise call" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582245094.88" ts_lastsave="1584955021.22" unique_id="52">
+						<rich_text>Muharto is </rich_text>
 						<rich_text link="node 272 surprise_call"> at his desk</rich_text>
 						<rich_text> and gets </rich_text>
-						<rich_text link="file c2NlbmVzL3N1cnByaXNlX2NhbGwubWQ=">a call from
+						<rich_text link="file c2NlbmVzL3N1cnByaXNlX2NhbGwubWQ=">a </rich_text>
+						<rich_text link="file c2NlbmVzL3N1cnByaXNlX2NhbGwubWQ=" scale="small">call</rich_text>
+						<rich_text link="file c2NlbmVzL3N1cnByaXNlX2NhbGwubWQ="> from
  Tasik</rich_text>
 						<rich_text>. </rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Assignment from Suryadarma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246481.13" ts_lastsave="1583723184.96" unique_id="55">
-						<rich_text> gets </rich_text>
-						<rich_text link="node 272 flies_to_tasik">permission to investigate</rich_text>
-						<rich_text> from Suryadarma </rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Assignment from Suryadarma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246481.13" ts_lastsave="1584955634.3" unique_id="55">
+						<rich_text link="file Li4vLi4vLi4vRGVza3RvcC9hZGFwdGF0aW9uL3NjZW5lcy9zdXJ5YWRhcm1hX3NlbmRzX211aGFydG8ubWQ=">Muharto reports the call</rich_text>
+						<rich_text> to Suryadarma and is dispatched to Tasik to investigate. </rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Flight to Tasik" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246531.08" ts_lastsave="1583723185.73" unique_id="70">
-						<rich_text>and </rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Flight to Tasik" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246531.08" ts_lastsave="1584960980.74" unique_id="70">
+						<rich_text>Muharto </rich_text>
 						<rich_text link="file c2NlbmVzL2ZsaWdodF90b190YXNpay5tZA==">flies to Tasik</rich_text>
-						<rich_text>. </rich_text>
+						<rich_text> on a Nishikoren high performance aircraft. </rich_text>
 					</node>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="Flying the rails" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246594.45" ts_lastsave="1583723186.43" unique_id="78">
 						<rich_text>4. In the air, Muharto remembers the </rich_text>
@@ -1199,8 +1365,9 @@ The following flashbacks are each less than one minute, and VO narrated by Muhar
 						<rich_text>and dropping </rich_text>
 						<rich_text link="file c2NlbmVzL2Ryb3Bfb3Zlcl9idWtpdHRpbmdnaS5tZA==">paratroopers over Bukittinggi.</rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Pang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246806.27" ts_lastsave="1583723189.42" unique_id="96">
-						<rich_text>The nikosoren lands in Tasik. Muharto is met by Pang, and army lieutenant, who tells him that it is good you came to investigate. My commander thought he was a spy and wanted to shoot him. The load up a jeep with aviation fuel and drive to the beach. </rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Pang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246806.27" ts_lastsave="1584961733.36" unique_id="96">
+						<rich_text link="file c2NlbmVzL211aGFydG9fbW1ldHNfcGFuZy5tZA==">Muharto meets Pang</rich_text>
+						<rich_text> Soeparto at Tasik Army Base</rich_text>
 					</node>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="On the beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582246790.61" ts_lastsave="1583723190.08" unique_id="93">
 						<rich_text link="file c2NlbmVzL29uX3RoZV9iZWFjaC5tZA==">Muharto drives to the beach</rich_text>
@@ -1243,9 +1410,8 @@ The following flashbacks are each less than one minute, and VO narrated by Muhar
 						<rich_text link="file c2NlbmVzL3Z0LWNsYV9jcmFzaGVzLm1k">isten in horror</rich_text>
 						<rich_text> to reports that VT-CLA has been shot down. </rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583722961.07" ts_lastsave="1583731276.11" unique_id="75">
-						<rich_text>As they wait for a buyer for the quinine Muharto, Boedi, and Pang eat one meal a day at a Indian restaurant. On most days Bob joins them and pays for all, because he is responsible for their well-being until he returns them to Java.
-</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583722961.07" ts_lastsave="1584962584.46" unique_id="75">
+						<rich_text></rich_text>
 					</node>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto meets Primitivo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583656649.61" ts_lastsave="1583724733.54" unique_id="34">
 						<rich_text link="file c2NlbmVzL211aGFydG9fbWVldHNfcHJpbWl0aXZvLm1k">Muharto liaises</rich_text>
@@ -1279,12 +1445,8 @@ The following flashbacks are each less than one minute, and VO narrated by Muhar
 						<rich_text link="file c2NlbmVzL2Nvcm5lZF9iZWVmLm1k">last can of corned beef</rich_text>
 						<rich_text> at the Hotel Merdeka. </rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Mission to Baguio" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582248905.04" ts_lastsave="1582248919.82" unique_id="110">
-						<rich_text>• date: 30 November 1947
-• location: RI-002 at Maguwo
-• </rich_text>
-						<rich_text link="file c2NlbmVzL21pc3Npb25fdG9fYmFnaXVvLm1k">Treatment</rich_text>
-						<rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mission to Baguio" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582248905.04" ts_lastsave="1584968123.67" unique_id="110">
+						<rich_text>Bob, Muharto, and Boedi prepare to fly delegates to Manila. 
 </rich_text>
 					</node>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="Muharo Promoted Out" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582249029.91" ts_lastsave="1583484382.87" unique_id="113">
@@ -1304,11 +1466,11 @@ The following flashbacks are each less than one minute, and VO narrated by Muhar
 						<rich_text link="file c2NlbmVzL2NyYXNoX3NpdGVfaW52ZXN0aWdhdGlvbi5tZA==">ead air force team</rich_text>
 						<rich_text> to crash site.</rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="The Sixth Coffin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582249350.06" ts_lastsave="1583567312.13" unique_id="116">
+					<node custom_icon_id="0" foreground="" is_bold="False" name="The Sixth Coffin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1582249350.06" ts_lastsave="1584968275.93" unique_id="116">
 						<rich_text link="file c2NlbmVzL3RoZV9zaXh0aF9jb2ZmaW4ubWQ=">Six coffins lie</rich_text>
 						<rich_text> in an air base hanger. One is larger than the others. 
 • date: 29 July 1977
-• location: Teluk Betulu Air Force base
+• location: Teluk  Air Force base
 </rich_text>
 					</node>
 				</node>
@@ -1496,8 +1658,7 @@ Muharto wants to see the dynamo himself. He suggests that they go to Jogja, wher
 				<rich_text>Cameron visits Boedi and asks about the incident with Espina.
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Party Time" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583563131.17" ts_lastsave="1583731735.47" unique_id="82">
-					<rich_text>Bob, Muharto, and Boedi celebrate selling</rich_text>
-					<rich_text> the quinine. Ining gets </rich_text>
+					<rich_text>Bob, Muharto, and Boedi celebrate selling the quinine. Ining gets </rich_text>
 					<rich_text link="node 247 ining_parties_hard">out of control</rich_text>
 					<rich_text>.</rich_text>
 				</node>
@@ -1546,8 +1707,10 @@ Knows little about after mid 48 since left spoor to become politician.
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Ining the gun runner." prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583728826.9" ts_lastsave="1583728929.66" unique_id="190">
 				<rich_text>In Manila, a newspaper reports that Ining was running guns. Primitivo again pissed off at Muharto.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob buys a buick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583728539.31" ts_lastsave="1583729963.08" unique_id="179">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob buys a buick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1583728539.31" ts_lastsave="1589600524.74" unique_id="179">
 				<rich_text>Muharto finally receives payment for the quinine. With his share, Bob buys a new car for his parents in Kansas.
+
+
 </rich_text>
 			</node>
 		</node>
