@@ -1,1 +1,0 @@
-Maria visits  Ani. She tells Maria that her husband regarded his friendship with Freeberg and their blockade-running exploits as the highlight of his life. the regret he felt when he was promoted and reassigned back to base, and his sorrow on learning that RI-002 had been lost on a mission.  Maria is impressed at tales of suffering, courage, and nobility. 

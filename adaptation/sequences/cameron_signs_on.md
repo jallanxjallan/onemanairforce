@@ -1,6 +1,0 @@
-The day the story about Bob Freeberg appears, Sabam storms out of his office, slams a copy of the paper in front of Syd. He points to the headline: **Ladyboy Molested By Sex-Crazed**
-**Gang**, and shouts: “This is a family newspaper!” 
-
-Sabam then turns to Cameron, now calm and composed, and says that Muharto was delighted with the article about Freeberg and RI-002. Cameron thanks Sabam for the praise, and says that he would like to do more research into the story as a basis for a grad-school paper when he returns home. Sabam agrees it would be an interesting and challenging research topic, and wishes him luck. As he returns to his office, Sabam turns back to Cameron and says: “On your own time, course. And don’t involve The Jakarta Post. You don’t have a research permit so keep it quiet.”
-
-After Sabam returns to his office, Syd tells Cameron that Sabam is right. The government does not like journalists or academics reexamining the past. If the fate of Bob Freeberg remains a mystery, they must think it is for good reason, perhaps to avoid questions about what might have happened to the gold. 
