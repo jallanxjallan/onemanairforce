@@ -1,0 +1,13 @@
+---
+note:
+  folder: notes
+  defaults:
+    template: note.tpl
+    writer: markdown
+    standalone: True
+sequence:
+  folder: sequences
+  defaults:
+    template: sequence.tpl
+    writer: markdown
+    standalone: True

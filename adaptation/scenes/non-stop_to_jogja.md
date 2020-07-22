@@ -4,7 +4,7 @@ location: RI-002
 ---
 
 ```synopsis
-RI-002 returns to Jogja, flying non-stop to conceal the presence of Captain Espina. They reach Java after dusk, with landmarks difficult to discern in the gloom. After some hesitation, during which tension rises in the cockpit, Muharto draws upon a vivid schoolboy memory to identify a range of hills and guides the aircraft to Jogja.
+    RI-002 returns to Jogja, flying non-stop to conceal the presence of Captain Espina. They reach Java after dusk, with landmarks difficult to discern in the gloom. After some hesitation, during which tension rises in the cockpit, Muharto draws upon a vivid schoolboy memory to identify a range of hills and guides the aircraft to Jogja.
 ```
 
 RI-002 returns to Jogja with their clandestine passenger, Captain Espina. The need for secrecy compels Freeberg to fly non-stop from the southernmost military airfield in the Philippines to Jogjakarta. Bob installs a spare fuel tank, but high winds deplete the reserve delay contact with Java until after dark. Muharto has difficulty identifying landmarks in the gloom, and tension mounts in the cabin as the fuels gauges slide toward empty. Finally, Muharto draws on the vivid schoolboy memory of his classmates describing a range of low, rounded hills near Jogja as female breasts. He orients himself by the landmark geographic feature and guides Bob to a safe landing in Jogja.   RI-002 flies between the volcanic peaks of Java, which throw ominous
