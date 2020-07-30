@@ -1,13 +1,13 @@
 ---
-date: October 1988
+identifier: 4936e053
+title: Julia Rides a Harley
+date: October 1988 
 location: Library
 ---
 
-```synopsis
+``` {.synopsis}
 When the library closes, Cameron and Julia discover that they each have arrangements to meet friends at the nearby Hotel Borobudur. He offers her a ride on his vintage Harley-Davidson motorcycle. 
 ```
-
-
 
 Cameron and Julia discover that they are now headed to the same
 destination: the Hotel Borobudur, a nearby luxury hotel, where she will

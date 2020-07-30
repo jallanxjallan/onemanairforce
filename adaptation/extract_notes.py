@@ -21,7 +21,6 @@ import roman
 
 
 compile_dir = Path(mkdtemp())
-blank_file = 'blank_file.md'
 
 @attr.s
 class Defaults():

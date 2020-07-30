@@ -1,9 +1,11 @@
 ---
-date: 31 March 1947
+identifier: 92670446
+title: Third CALI Run
+date: 31 March 1947 
 location: Maguwo
 ---
 
-```synopsis
+``` {.synopsis}
 In Jogja, Muharto introduces Bob to Suryadarma, who thanks the American for his assistance, and asks him to perform some risky tasks on the return leg. Bob grins and readily agrees. 
 ```
 

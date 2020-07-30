@@ -1,7 +1,8 @@
 <?xml version="1.0" ?>
 <cherrytree>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091146.7" ts_lastsave="1595240552.95" unique_id="1">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091146.7" ts_lastsave="1595656953.56" unique_id="1">
 		<rich_text>
+
 </rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Historical" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1579064716.88" ts_lastsave="1594860023.29" unique_id="44">
 			<rich_text>
@@ -357,7 +358,7 @@ Mentions that Karangendah was Palembang II.</rich_text>
 •
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091510.0" ts_lastsave="1582874706.64" unique_id="41">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1572091510.0" ts_lastsave="1595652976.22" unique_id="41">
 				<rich_text scale="h1">Model</rich_text>
 				<rich_text>
 • Based on partially on Syd Perret and David Jardine. 
@@ -392,6 +393,10 @@ Mentions that Karangendah was Palembang II.</rich_text>
 • Tells Cameron of </rich_text>
 				<rich_text link="webs https://en.wikipedia.org/wiki/Cornell_Paper">CIA involvement</rich_text>
 				<rich_text> in Suharto coup. 
+• • Syd suggests Cameron meet Boedi , He was head of Deppen when Syd was bureau chief for a wire service, so they often interacted. and bonded on shared interest in art and classical music. 
+
+
+
 • </rich_text>
 				<rich_text justification="left"></rich_text>
 				<rich_text>Connection with Boedi: Used to visit once a month to listen to classical music on the MacIntosh tube amp /quad speaker setup Boedi bought in Spain.
@@ -405,7 +410,7 @@ Mentions that Karangendah was Palembang II.</rich_text>
 
 
 </rich_text>
-				<encoded_png anchor="connection_to_boedi" char_offset="1415">anchor</encoded_png>
+				<encoded_png anchor="connection_to_boedi" char_offset="1609">anchor</encoded_png>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1573373466.72" ts_lastsave="1595060869.97" unique_id="118">
 				<rich_text scale="h1">Journalism Career</rich_text>
@@ -677,6 +682,7 @@ description: bookish and spotlessly clean</rich_text>
 			<rich_text foreground="#323233" justification="left"></rich_text>
 			<rich_text foreground="#323233"> on 18 September 1948. Republican officials flee or are captured.
 9. Dutch troops invade Jogja </rich_text>
+			<rich_text foreground="#323233" justification="left"></rich_text>
 			<rich_text foreground="#323233">on 27 Dec 1948. Capture Nationalist leaders</rich_text>
 			<rich_text>
 10.  It was the first jump for everyone, and many are terrified. One soldier pulls his ripcord, spilling his parachute on the deck. He swears it was an accident, but others grip their cords, possibly ready to do the same. Later, Bob discovers that all had been killed by the Dutch commandos within hours. crew </rich_text>

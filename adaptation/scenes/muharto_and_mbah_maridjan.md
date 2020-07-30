@@ -1,9 +1,11 @@
 ---
-date: October 1988
+identifier: 861d5036
+title: Visiting Mbah Marijan
+date: October 1988 
 location: Merapi
 ---
 
-```synopsis
+``` {.synopsis}
 Cameron accompanies Muharto to a village on the upper slopes of the
 Merapi volcano to meet Muharto’s spiritual advisor, Mbah Maridjan. The
 three hike the steep incline to a shrine, effortlessly in the case of
@@ -12,8 +14,6 @@ four decades their junior. Cameron watches respectfully as the two
 intone Islamic prayers, then lay Hindu-style floral offerings at the
 shrine to the gods of the fire mountain.
 ```
-
-
 
 Cameron accompanies Muharto to a village on the upper slopes of the
 Merapi volcano, to meet Muharto's spiritual advisor, Mbah Maridjan. The
