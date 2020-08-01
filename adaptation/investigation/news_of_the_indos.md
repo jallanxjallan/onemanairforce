@@ -1,5 +1,5 @@
 ---
-identifier: 11be60c9
+identifier: f079ea57
 title: Cameron Meets Victor
 date: October 1988 
 location: Library
@@ -19,6 +19,6 @@ the leading newspaper of the Dutch East Indies and the voice of the
 archipelago for many generations. In Bob's case, no one was surprised at
 the news that RI-002 had vanished with a small fortune in gold.
 
-Victor tells of the Dutch side of the RI-002 story, the almost
-comical interviews with Dutch officials who were driven to
-distraction by Freebergâs blockade runs.
+Victor tells of the Dutch side of the RI-002 story, the almost comical
+interviews with Dutch officials who were driven to distraction by
+Freebergâs blockade runs.

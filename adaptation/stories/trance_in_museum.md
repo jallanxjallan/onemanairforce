@@ -7,7 +7,7 @@ location: Museum
 
 ``` {.synopsis}
 Muharto takes Cameron to the Air Force museum in Jogja, a re-purposed
-hanger filled with decommissioned aircraft and other exhibits, which stir evoke vivid memories of the role of the Air Force in the struggle for independence. In the curator's office, Muharto handles the dynamo with the bullet lodged in the windings, and has a mystical vision of RI-002 in the seconds before the crash.
+hanger filled with decommissioned aircraft and other exhibits, which stir evoke vivid memories of the role of the Air Force in the struggle for independence. In the curator's office, Muharto handles the dynamo with the bullet lodged in the windings, and has a mystical vision of RI-002 in the seconds before the crash. Looks forward to see two silhouetted figures in pilot seats.
 ```
 
 Muharto takes Cameron to the Air Force museum in Jogja, a re-purposed

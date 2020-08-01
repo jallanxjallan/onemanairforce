@@ -1,5 +1,5 @@
 ---
-identifier: 16759078
+identifier: 7797eac8
 title: Muharto Finds Investigation Report
 date: 19 April 1977 
 location: Punggur
@@ -33,7 +33,7 @@ two empty wooden crates labeled: "Gold", but a through search of the
 area does not find any trace of the metal itself.
 
 Muharto researches in AURI archive and other collections. Finds only
-disorder and obstruction as librarians make life difficult. He finds
-the investigation report, which asks more questions than it answers.
-Photo of dynamo with bullet in windings. Sulaiman and team
-investigate wreckage. Find empty crates of gold
+disorder and obstruction as librarians make life difficult. He finds the
+investigation report, which asks more questions than it answers. Photo
+of dynamo with bullet in windings. Sulaiman and team investigate
+wreckage. Find empty crates of gold

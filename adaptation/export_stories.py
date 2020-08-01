@@ -16,9 +16,9 @@ sys.path.append('/home/jeremy/Library')
 from storage.cherrytree_xml import CherryTree
 from utility.helpers import make_identifier, snake_case
 
-doc_index = 'synopsis_test.ctd'
-target_dir = Path('stories')
-base_node = 'Stories'
+doc_index = 'synopsis.ctd'
+target_dir = Path('events')
+base_node = 'Events'
 
 def create_file(output, node, input=None, content=None):
     identifier = make_identifier()
