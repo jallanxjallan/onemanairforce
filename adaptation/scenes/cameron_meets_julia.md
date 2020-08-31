@@ -9,6 +9,11 @@ location: Library
 At the National Libary, Cameron is assisted by Julia, a bookish, attractive final-year student assigned to deal with foreign researchers because of her fluent English.   
 ```
 
+​                  \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cameron visits the library and 
+meets Julia. He discovers that Syd is correct, Julia brings him exactly what he requires from the restricted rare books section. He is not allowed to take the books with him, so he reads and takes notes all morning. He is not allowed to bring liquids into the reading room, so Julia takes Cameron to the library canteen for coffee. Julia tells Cameron about her desire to take her post graduate degree in Europe or American. In return, Cameron attempts to tell Julia about his background, but Julia cuts him off, saying, with a mischievous grin, that she can learn all about him from her father, a general in military intelligence.     
+
 Cameron visits the National Library. Using his Jakarta Post credentials,
 he is admitted to the limited-access reference section, an archive of
 publications and books dating back to colonial times. He is greeted, in

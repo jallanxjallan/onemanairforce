@@ -734,7 +734,8 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor in retirement" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596100121.37" ts_lastsave="1596100124.46" unique_id="382">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Learns Real Story" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1596100125.33" unique_id="83">
 					<rich_text>9. In present day, Victor discovers Spoor was investigating corruption, not planning a coup.</rich_text>
 				</node>
@@ -787,6 +788,9 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Pax Nederlandika" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1595998681.43" unique_id="182">
 				<rich_text>
 </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Gun running report" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609519.65" unique_id="191">
+					<rich_text>2. Spoor hears alarming reports of gun running. He imposes a tight an air and sea blockade around the entire archipelago.</rich_text>
+				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Appeal to Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="183">
 					<rich_text>6. Appeals to American consul Walter Foote to do something about Freeberg. Though Foote also disagrees with Freeberg's actions, he can do nothing. </rich_text>
 				</node>
@@ -809,14 +813,11 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 					<rich_text>
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Is Training Guerrillas" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="189">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Training Guerrillas" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609508.57" unique_id="189">
 					<rich_text>5. Spoor learns Ining is training guerrillas. </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Decides To Consider" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="190">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Major Criminal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609489.95" unique_id="190">
 					<rich_text>8. When he learns of the opium runs, Spoor decides to consider Freeberg a major criminal, and orders his fighters to use deadly force if they encounter RI-002.</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Hears Reports" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="191">
-					<rich_text>2. Spoor hears alarming reports of gun running. He imposes a tight an air and sea blockade around the entire archipelago.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Orders Night Patrol" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="192">
 					<rich_text>9. Spoor orders a night patrol not to engage a blockade running POAS flight because he is informed that American and other civilians are passengers. </rich_text>
@@ -828,29 +829,29 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Noble Duty" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1595998695.08" unique_id="165">
 				<rich_text>
 </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani And Formalize Their Engagement." prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="166">
-					<rich_text>2. Ani and formalize their engagement. </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Formal Engagement" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609442.83" unique_id="166">
+					<rich_text>2. Ani and Muharto formalize their engagement. </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Berates Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="167">
 					<rich_text>4. Ani berates Muharto for trying to learn to fly. Better to stick to a safe job as a bureaucrat, like his father.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Berates Westerling" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="168">
-					<rich_text>8. Ani berates Westerling when he and Muharto and stopped and searched on the evening of Operation Crow.</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Gives Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="169">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Shopping List" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609428.97" unique_id="169">
 					<rich_text>5. Ani gives Muharto a long list of household items to pick up in Manila.</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Serves Rice" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="170">
-					<rich_text>3. Ani serves rice to refugees. She has no idea what to do in kitchen, never having been in one before. </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Father Interrogates" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="171">
 					<rich_text>1. Ani's father questions Muharto's &quot;demotion&quot; from Lt Col. to Captain</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Marries" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="172">
-					<rich_text>7. Ani  and Muharto marry on a day marked by equal amounts and joy and sadness. </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Serves Rice" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609419.62" unique_id="170">
+					<rich_text>3. Ani serves rice to refugees. She has no idea what to do in kitchen, never having been in one before. </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Wants To Decline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="173">
 					<rich_text>6. Muharto wants to decline promotion and keep flying because he is worried about Bob, and saddened about the Smuggled Gems incident. But Ani insists that he take a safe desk job. </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Marries" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609414.91" unique_id="172">
+					<rich_text>7. Ani  and Muharto marry on a day marked by equal amounts and joy and sadness. </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Berates Westerling" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598609293.45" unique_id="168">
+					<rich_text>8. Ani berates Westerling when he and Muharto and stopped and searched on the evening of Operation Crow.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Kampung Flyboy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1595998705.84" unique_id="153">
@@ -1202,8 +1203,10 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Sequences" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595729325.59" ts_lastsave="1596006831.5" unique_id="211">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="One Man Air Force" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595754112.1" ts_lastsave="1596015049.07" unique_id="325">
-			<rich_text>Cameron Interviews Muharto and learns highlights of RI-002 story.
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Interviewing Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598608912.29" unique_id="384">
+			<rich_text>• Assignment
+• Interview
+• Cameron Interviews Muharto and learns highlights of RI-002 story.
 </rich_text>
 			<rich_text link="node 141">Surprise Call</rich_text>
 			<rich_text>
@@ -1235,8 +1238,16 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 			<rich_text link="node 371">Muharto Regrets</rich_text>
 			<rich_text>
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Cameron visits Muharto, who tells him of meeting Freeberg, having his unregistered aircraft designated  RI-002, and his essential role in facing down Dutch aggression by running essential supplies through the blockade. Muharto ends his recollection by explaining how Freeberg vanished  while transporting a fortune in gold to safety ahead of an expected Dutch invasion. Farmers had stumbled upon the wreckage of RI-002 on a remote mountainside ten years previously, but could not identify Freeberg's remains from the few fragments of bones they found. Cameron senses the genuine sadness in Muharto that the fate of his friend and fellow pilot remains unknown.  
 
 
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="One Man Air Force" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595754112.1" ts_lastsave="1598608905.9" unique_id="325">
+			<rich_text>
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Gives Advice" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595827303.05" ts_lastsave="1595827455.02" unique_id="326">
@@ -1295,6 +1306,53 @@ Boedi tells of stranded in Manila, Paradrop and Soekarno Tour
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Karang Endah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595838819.15" ts_lastsave="1595839930.34" unique_id="332">
 			<rich_text>1. Cameron and Julia go to Karangendah.
 2. Agus reveals that gold was traded for guns and shipped to Java.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameon assigned interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598584444.08" ts_lastsave="1598584463.3" unique_id="383">
+			<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In September 1988, Cameron, a  American journalism graduate doing a year's internship as a copy editor The Jakarta Post, an English-language daily newspaper, pitches a story idea to managing editor Sabam Siagian. Sabam rolls his eyes and explains, yet again, that, under the rules set down by the government,  non-Indonesian newsroom staff cannot do actual reporting. Then for a moment, Sabam relaxes his gruff demeanor and tells Cameron he can interview his old friend former Air Force officer Petit Muharto about his experiences during the post-war struggle against the Dutch. This is a feature, not news, and anyway, says Sabam &quot;No one else has time.&quot;</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Sent to the library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597741257.41" ts_lastsave="1598602860.15" unique_id="387">
+			<rich_text>• Sabam delegates work to Syd
+• Syd suggests library research and tells Cameron of Julia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his way to a diplomatic dinner, and simply hands the pages to Syd, an American  retired foreign correspondent who works as senior copy editor, and rushes out the door. Syd reads the piece, and suggests that Cameron corroborate 
+Muharto's story with newspaper and other reports, which he can find at the newly opened National Library. 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597739148.63" ts_lastsave="1598587087.04" unique_id="388">
+			<rich_text>• Cameron meets Julia
+• Learns about background in Coast book
+• Learns about Julia background over coffee
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cameron visits the library and 
+meets Julia. He discovers that Syd is correct, Julia brings him exactly what he requires from the restricted rare books section. He is not allowed to take the books with him, so he reads and takes notes all morning. He is not allowed to bring liquids into the reading room, so Julia takes Cameron to the library canteen for coffee. Julia tells Cameron about her desire to take her post graduate degree in Europe or American. In return, Cameron attempts to tell Julia about his background, but Julia cuts him off, saying, with a mischievous grin, that she can learn all about him from her father, a general in military intelligence.     </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597741414.18" ts_lastsave="1598587110.01" unique_id="389">
+			<rich_text>• Muharto visits Post to pick up newspapers to give to friends
+• Thanks Cameron for article. Tells him about attempts at investigation and his growing suspicion that there is a cover up.
+• ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597739187.04" ts_lastsave="1598587122.98" unique_id="390">
+			<rich_text>• Julia phones to congratulate Cameron.
+• Suggests meeting Victor
+• Victor tells of being Dutch conscript
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Julia takes initiative. Phones Cameron at the post to congratulate him on the story. Suggest he visit again on Wednesday. She will introduce him to victor, who is there every Wednesday.
+Victor tells Cameron about his background as a Dutch conscript 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Boedi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597739230.22" ts_lastsave="1597741574.88" unique_id="391">
+			<rich_text>• Muharto takes Cameron to meet Boedi
+• Boedi fills in some details about flights Muharto was not on
+• Describes Kalimantan paradrop and Soekarno Tour</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Trip to Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597739218.47" ts_lastsave="1598588375.89" unique_id="392">
+			<rich_text>• Cameron meets Affandi. Introduced to life in besieged Jogja. 
+• Intro to Javanese spiritualism
+• Dynamo Trance</rich_text>
 		</node>
 	</node>
 </cherrytree>
