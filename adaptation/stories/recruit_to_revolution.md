@@ -2,10 +2,10 @@
 identifier: 62c4038f
 title: Recruit to Revolution
 date: February 1948 
-location: HotBuk
+location: Bukittinggi
 ---
 
-``` {.synopsis}
+``` synopsis}
 In *Recruit to Revolution*, John Coast describes Freeberg as “America’s Best Ambassador” after their first meeting. Nevertheless, he notes that American officials in Batavia, who wanted Indonesia to remain in Dutch hands, disapproved of his activities. 
 ```
 

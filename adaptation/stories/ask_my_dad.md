@@ -1,12 +1,12 @@
 ---
-identifier: 2271d892
+identifier: 70db8d8f
 title: Julia Meets Cameron
 date: 5 October 1988 
 location: library
 ---
 
-``` {.synopsis}
-Over coffee in the library canteen. Julia tells Cameron that she is in her final year of university, and hopes to get a scholarship to do her post-grad overseas. In the meantime, she was hired by the library because of her fluency in written English and Dutch. Julia also casually mentions that her father is a general.
+``` synopsis
+Cameron asks Julia for coffee, but no food or beverages are allowed in the reading room. However, she is about to take her break, so invites him to accompany her to the library canteen. Over coffee and snacks, Julia tells Cameron about her desire to take her post graduate degree in Europe or American. In return, Cameron attempts to tell Julia about his background, but Julia cuts him off, telling him, with a mischievous grin, to not wasted his breath. She can learn anything she wants to know about his life from her father, a general in military intelligence.
 ```
 
 He asks Julia where he can get some coffee. No liquids are allowed the

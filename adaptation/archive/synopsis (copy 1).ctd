@@ -563,9 +563,9 @@ Plucked from Topographical service to Spoors office.
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bule Hunter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598778231.99" ts_lastsave="1598844554.34" unique_id="395">
 				<rich_text></rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Coffee With Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598757115.04" ts_lastsave="1599215665.16" unique_id="394">
+					<rich_text link="file c3Rvcmllcy9hc2tfbXlfZGFkLm1k">Story</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9hc2tfbXlfZGFkLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Calls Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598778689.51" ts_lastsave="1599037652.05" unique_id="396">
 					<rich_text>date: October 1988
@@ -575,17 +575,17 @@ Julia telephones Cameron at the Jakarta Post newsroom to congratulate him on the
 </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Rides a Harley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853451.8" ts_lastsave="1599215527.27" unique_id="341">
+					<rich_text link="file c3Rvcmllcy9uYWlrX2hhcmxleS5tZA==">Story</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9uYWlrX2hhcmxleS5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia at the Tanamur" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595923424.92" ts_lastsave="1599215791.59" unique_id="349">
+					<rich_text link="file c3Rvcmllcy9hdF90aGVfdGFuYW11ci5tZA==">Story</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9hdF90aGVfdGFuYW11ci5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Arranged Date" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598858749.55" ts_lastsave="1599216531.72" unique_id="401">
 					<rich_text>Parents push Julia on date with Eric
@@ -597,9 +597,10 @@ Julia telephones Cameron at the Jakarta Post newsroom to congratulate him on the
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia goes ballistic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599216637.55" unique_id="152">
 					<rich_text>3. Julia goes ballistic and calls Cameron a fucking bule just trying to rip us off.
-
 </rich_text>
 					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX2FuZF9qdWxpYV9maWdodC5tZA==">Story</rich_text>
+					<rich_text>
+</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Grad School Offer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596006616.85" ts_lastsave="1599216727.13" unique_id="369">
 					<rich_text link="file c3Rvcmllcy9nZW5lcmFsX2VkZHlfb2ZmZXJzX2dyYWRfc2Nob29sLm1k">Story</rich_text>
@@ -618,7 +619,9 @@ Cameron, an American journalism graduate doing a year's internship as a copy edi
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599038674.12" unique_id="126">
 					<rich_text>2. Muharto tells Cameron of some of his adventures with RI-002, praising Bob and glossing over the unpleasant parts. 
-3. 
+3. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2ludHJvZHVjaW5nX2ZyZWViZXJnLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/introducing_freeberg.md</rich_text>
+					<rich_text>
 date: September 1988
 location: Muharto Residence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -627,7 +630,6 @@ Once over his surprise at being interviewed by a &quot;Hell's Angel&quot; Muhart
 
 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9pbnRyb2R1Y2luZ19mcmVlYmVyZy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Wistful" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1599037002.31" ts_lastsave="1599037344.01" unique_id="408">
 					<rich_text>date: September 1988
@@ -638,13 +640,14 @@ Muharto ends his recollection by explaining how Freeberg vanished  while transpo
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Edits Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599037071.91" unique_id="178">
 					<rich_text>1. Syd Jardine, a burnt-out Old Asia Hand who is senior copy editor for the Jakarta Post, tells Cameron that his story on Bob Freeberg needs more historical context
-2. 
+2. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL2NhbWVyb25fZ2V0c19lZGl0ZWQubWQ=">file:///home/jeremy/Desktop/one-man_air_force/scenes/cameron_gets_edited.md</rich_text>
+					<rich_text>
 date: September 1988
 location: Jakarta Post 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his way to a diplomatic dinner, and simply hands the pages to Syd, an American  retired foreign correspondent who works as senior copy editor, and rushes out the door. Syd reads the piece, finds it interesting, and suggests that Cameron get the Dutch side of the story by reading contemporaneous newspaper accounts in the national library. Syd tells Cameron that a friend of his, Victor, a Dutch national turned Indonesian, is in the library in the most mornings. He will be glad to help you translate.   
  </rich_text>
-					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX2dldHNfZWRpdGVkLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599038404.47" unique_id="124">
 					<rich_text>1. Victor says he was &quot;Official Photographer&quot; for Spoor. Witnessed all meetings. 
@@ -652,22 +655,24 @@ Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his
 3. Victor says he left KNIL after the war and applied for citizenship. 
 4. Victor believes that Spoor was planning a coup with Westerling, and intercepted RI-002 for the gold to finance it. 
 5. First Date
-8. 
+8. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL25ld3Nfb2ZfdGhlX2luZG9zLm1k">file:///home/jeremy/Desktop/one-man_air_force/scenes/news_of_the_indos.md</rich_text>
+					<rich_text>
 date: September 1988
 location: Library Archives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 At the library, Cameron approaches an elderly white person who, indeed, is Victor. He tells Cameron that, as a Dutch soldier during the struggle, he was the &quot;Official Photographer&quot; for General Simon Spoor, the commander of the colonial military. Victor relates humorous anecdotes of the frustration of colonial authorities with foreign blockade runners like Bob Freeberg, who they regarded as common criminals. He notes that Spoor seemed to have had a personal vendetta against Freeberg, and was convinced that he had somehow absconded with the gold. </rich_text>
-					<rich_text link="file c3Rvcmllcy9uZXdzX29mX3RoZV9pbmRvcy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Into The Stacks" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599037173.75" unique_id="123">
 					<rich_text>4. Cameron and Julia go to the canteen for coffee.
-5. 
+5. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2NhbWVyb25fbWVldHNfanVsaWEubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/cameron_meets_julia.md</rich_text>
+					<rich_text>
 date: September 1988
 location: Library Archives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Victor introduces Cameron to Julia who is an attractive Indonesian woman in her early twenties. She demonstrates an impressive competence when disappears into the stacks and reappears almost immediately with an armload of binders and the books.    
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX21lZXRzX2p1bGlhLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Jakarta Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1597741414.18" ts_lastsave="1599037254.4" unique_id="389">
 					<rich_text>• Muharto visits Post to pick up newspapers to give to friends
@@ -689,9 +694,10 @@ Cameron puts down the phone, grins, and says to Muharto: &quot;I'm in!&quot;  Mu
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Recruit to Revolution" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599215367.64" unique_id="127">
 					<rich_text>3. Cameron goes to the library and reads Recruit to revolution. 
-
 </rich_text>
 					<rich_text link="file c3Rvcmllcy9yZWNydWl0X3RvX3Jldm9sdXRpb24ubWQ=">Story</rich_text>
+					<rich_text>
+</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="First Boedi Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1599018419.25" ts_lastsave="1599038175.79" unique_id="406">
 					<rich_text>Muharto takes Cameron to interview Boedi.
@@ -715,21 +721,23 @@ Before they he and Muharto leave, Cameron admires the Affandi paintings covering
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Visiting Mbah Marijan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596011776.24" ts_lastsave="1598863681.74" unique_id="372">
 					<rich_text>8. Muharto and Cameron go to Jogja. In the morning they visit Mbak Marijan at his village near the crater of Mount Merapa, where Muharto makes offerings. 
 9. </rich_text>
-					<rich_text link="file c3Rvcmllcy9tdWhhcnRvX2FuZF9tYmFoX21hcmlkamFuLm1k">Story</rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL211aGFydG9fYW5kX21iYWhfbWFyaWRqYW4ubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/muharto_and_mbah_maridjan.md</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Museum Trance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596011817.19" ts_lastsave="1598863829.46" unique_id="373">
 					<rich_text>9. They then go the the museum, where Muharto falls into trance. 
-10. 
+10. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3RyYW5jZV9pbl9tdXNldW0ubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/trance_in_museum.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto takes Cameron to the Air Force museum in Jogja, a re-purposed
 hanger filled with decommissioned aircraft and other exhibits, which stir evoke vivid memories of the role of the Air Force in the struggle for independence. In the curator's office, Muharto handles the dynamo with the bullet lodged in the windings, and has a mystical vision of RI-002 in the seconds before the crash.</rich_text>
-					<rich_text link="file c3Rvcmllcy90cmFuY2VfaW5fbXVzZXVtLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Warns Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598861278.06" unique_id="181">
 					<rich_text>2. Syd warns Cameron to keep a low profile. If the fate of Bob Freeberg remains a mystery, they must think it is for good reason, perhaps to avoid questions about what might have happened to the gold.
-3. 
+3. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL2NhbWVyb25fZ2V0c19pbnNwaXJlZC5tZA==">file:///home/jeremy/Desktop/one-man_air_force/scenes/cameron_gets_inspired.md</rich_text>
+					<rich_text>
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX2dldHNfaW5zcGlyZWQubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Explains Journalism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598778658.46" unique_id="177">
 					<rich_text>5. Syd explains journalism in Indonesia like walking a tightrope,&quot; Syd says, &quot;and I'm the safety net.&quot;</rich_text>
@@ -766,9 +774,9 @@ Ties them in to Boedi's assessment of Tom Lee</rich_text>
 					<rich_text>14. Sabam  has no choice but to fire Cameron and has his visa canceled, effective immediately.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Says Goodbye" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595924521.17" ts_lastsave="1598861282.61" unique_id="354">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2NhbWVyb25fc2F5c19nb29kYnllLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/cameron_says_goodbye.md</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX3NheXNfZ29vZGJ5ZS5tZA==">Story</rich_text>
 				</node>
 			</node>
 		</node>
@@ -778,16 +786,27 @@ Ties them in to Boedi's assessment of Tom Lee</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Tentara Pelajar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1595998669.58" unique_id="200">
 				<rich_text>
 </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Primitivo Introduces Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599227930.49" unique_id="209">
-					<rich_text link="file c3Rvcmllcy9tdWhhcnRvX21lZXRzX3ByaW1pdGl2by5tZA==">Story</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Primitivo Introduces Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940156.26" unique_id="209">
+					<rich_text>1.
+2. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL211aGFydG9fbWVldHNfcHJpbWl0aXZvLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/muharto_meets_primitivo.md</rich_text>
 					<rich_text>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Major Primitivo of Philippines army intelligence introduces Muharto to Captain Ignacio Espina, a guerrilla who fought the Japanese occupation of the Philippines. Epina, nicknamed Ining, will accompany RI-002 back to Jogja, where he will transfer his guerrilla warfare skills to the young  members of the Tentara Pelajar militia.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Buys Drinks" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940238.61" unique_id="202">
+					<rich_text>2. Ining buys drinks  for his companions and flirts with foreign women in the Aviation Brotherhood bar.
+3. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3BhcnR5X3RpbWUubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/party_time.md</rich_text>
+					<rich_text>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+At the party to celebrate the sale of the quinine and their return to Java, Ining shows himself to be a party animal, buying rounds for his companions flirting with the foreign women in the Aviation Brotherhood bar. When he hits on the teenage daughter of an American pilot, tempers flare, and Freeberg and Boedi have to hustle him out of the bar.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Will Train Students" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940263.05" unique_id="205">
+					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto moves Ining  into a house on the slopes of Mount Merapi. adjacent to the forest where Ining will train students to become guerrilla fighters. They toast the occasion with whiskey brought from Manila.
+
 </rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Buys Drinks" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599228013.56" unique_id="202">
-					<rich_text link="file c3Rvcmllcy9wYXJ0eV90aW1lLm1k">Story</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Will Train Students" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599228376.6" unique_id="205">
-					<rich_text link="file c3Rvcmllcy9hbWJhc3NhZG9yX21lbnRpb25zX2NpYS5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Asks George" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940341.44" unique_id="206">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -833,10 +852,11 @@ Spoor learns about Ining  training guerrillas in Jogja. </rich_text>
 					<rich_text>
 notices  Victor's byline 
 4. transfers Victor to his office as after noticing how often his byline appears and make inquiries. Spoor wants to use Victor as an asset. Spoor knows that many of the artistic community are Republican sympathizers. 
-5. 
+5. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19qdWxpdXMubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/cameron_interviews_julius.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Spoor learns that one of the recruits, Victor, is writing about art and socializing with artists, who are mostly Republican sympathizers. He decides to transfer Victor into his office as &quot;Official Photographer&quot; and use him to as an asset, and direct disinformation to the Republicans.  </rich_text>
-					<rich_text link="file c3Rvcmllcy9jYW1lcm9uX2ludGVydmlld3NfanVsaXVzLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Thai Authorities Released Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940756.36" unique_id="193">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -844,10 +864,11 @@ Spoor is furious that Thai authorities released Freeberg. </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor pissed at Bob" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940691.04" unique_id="188">
 					<rich_text>
-8. 
+8. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL3Nwb29yX3JhZ2VzX2Fib3V0X3RoZV9ibG9ja2FkZV9ydW5zLm1k">file:///home/jeremy/Desktop/one-man_air_force/scenes/spoor_rages_about_the_blockade_runs.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Spoor learns of Manila newspaper report speculating about  Ining  running guns. He issues a top-priority standing order to find and bring down RI-002. </rich_text>
-					<rich_text link="file c3Rvcmllcy9zcG9vcl9yYWdlc19hYm91dF90aGVfYmxvY2thZGVfcnVucy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Appeal to Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598940700.72" unique_id="183">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -997,10 +1018,11 @@ Suryadarma takes away Fowlers fuel allowance. Dave resolves it by going over Sur
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Fighter Planes Tailing Him" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598946750.54" unique_id="96">
 					<rich_text>
-7. 
+7. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL25pZ2h0X2ludGVyY2VwdGlvbi5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/night_interception.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 While flying a group of international journalists to Jogja under cover of darkness, Fowler believes he spots fighter planes tailing him while his radio operator hears traffic on Dutch military frequencies. When he looks again, the fighters are gone. </rich_text>
-					<rich_text link="file c3Rvcmllcy9uaWdodF9pbnRlcmNlcHRpb24ubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Fowler Refuses Request" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598946763.64" unique_id="97">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1032,11 +1054,12 @@ Bob orders suits from back home to suit his new role as businessman. With the sh
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Third CALI Run" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598947289.99" unique_id="107">
 					<rich_text>5. Bob pilots Third CALI run to Jogja.
-6. 
+6. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2JvYl9tZWV0c19zdXJ5YWRhcm1hLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/bob_meets_suryadarma.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob pilots third CALI run from Singapore to Jogja. Over Java, visibility is too poor to navigate by identifying mountains and landmarks, so Muharto tells Freeberg follow the railway line eastward, as it winds through the lowlands to Jogja. In Jogja, Muharto introduces Bob to Suryadarma, who thanks the American for his assistance, and asks him to perform some risky tasks on the return leg. Bob grins and readily agrees. 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9ib2JfbWVldHNfc3VyeWFkYXJtYS5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Missing Dakota" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598946875.35" unique_id="111">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1044,63 +1067,65 @@ Bob returns to Manila from the CALi run to Jogja and discovers that the jointly 
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Sues Walters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598947004.85" unique_id="109">
 					<rich_text>7. 
-8. 
+8. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2JvYl93YWx0ZXJzX2FjY3VzZXMubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/bob_walters_accuses.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob sues Walters. Walters does not attend the court hearing, so instead Bob asks the judge if he can use the Dakota for charter runs until the next court date. The judge agrees. </rich_text>
-					<rich_text link="file c3Rvcmllcy9ib2Jfd2FsdGVyc19hY2N1c2VzLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Beach Landing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598946904.29" unique_id="102">
 					<rich_text>8. 
-9. 
+9. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2JhbWJvb19ydW53YXkubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/bamboo_runway.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob flies to Java with two mechanics and make emergency landing on beach. </rich_text>
-					<rich_text link="file c3Rvcmllcy9iYW1ib29fcnVud2F5Lm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Birth of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596006263.03" ts_lastsave="1598948124.06" unique_id="367">
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL2JpcnRoX29mX3JpLTAwMi5tZA==">file:///home/jeremy/Desktop/one-man_air_force/scenes/birth_of_ri-002.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In Jogja, Suradarma commissions Bob to fly a cargo valuable quinine to Manila and return with medicine and other goods. To forestall possible problems with authorities in Manila Muharto suggests that they paint a registration number, RI-002, on the unregistered war-surplus Dakota. 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9iaXJ0aF9vZl9yaS0wMDIubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Meets Soekarno" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853782.55" ts_lastsave="1598946924.69" unique_id="344">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL21lZXRpbmdfc29la2Fybm8ubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/meeting_soekarno.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto takes Bob to meet Soekarno . At the presidential palace. As was
 his custom in private conversation, Soekarno treats Bob as an equal and
 urges him to stay and help the struggle.
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9tZWV0aW5nX3NvZWthcm5vLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paradrop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595925946.95" ts_lastsave="1598948153.33" unique_id="356">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2thbGltYW50YW5fcGFyYV9kcm9wLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/kalimantan_para_drop.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob drops paratroopers into the Kalimantan forest. This is the first time in an aircraft for all, so Bob gives a pep talk to the terrified troopers, translated by Boedi. 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9rYWxpbWFudGFuX3BhcmFfZHJvcC5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Detained in Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595854848.77" ts_lastsave="1598948193.31" unique_id="348">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2RldGFpbmVkX2luX2Jhbmdrb2subWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/detained_in_bangkok.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob flies two Indonesian aviators to Bangkok, who will purchase RI-003 and fly it back to Jogja. Bob is detained by Thai authorities at the insistence of Dutch diplomats, but is released soon afterward in a tacit recognition of the legitimacy of the new Republic of Indonesia. 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9kZXRhaW5lZF9pbl9iYW5na29rLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Last Corned Beef" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012205.19" ts_lastsave="1598946990.68" unique_id="376">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2Nvcm5lZF9iZWVmLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/corned_beef.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 On the day the GOC members leave Jogja, Bob invites Boedi and Muharto to join him for dinner at the Hotel Merdeka. He is embarrassed
 when a waiter insists he be served the last can of American corned beef
 left behind by visiting United Nations officials. </rich_text>
-					<rich_text link="file c3Rvcmllcy9jb3JuZWRfYmVlZi5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Mission to Bagiuo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853744.35" ts_lastsave="1599033919.36" unique_id="343">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL21pc3Npb25fdG9fYmFnaXVvLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/mission_to_bagiuo.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Freeberg, Muharto and Boedi fly Republican economists and other experts to Manila to meet
 with United Nations representatives in the hill town of Baguio. The delegates, who are all prominent figures in the Republic and have cosmopolitan backgrounds, treat Bob with as much respect as do the hero-worshipping common people of Jogja.
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9taXNzaW9uX3RvX2JhZ2l1by5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded in Changi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595928904.92" ts_lastsave="1598948242.74" unique_id="357">
 					<rich_text>
@@ -1124,21 +1149,21 @@ Bob learns that his partner Hugh Savage has done nothing to start Southeastern a
 Suryadarma orders Bob to transport several tons of Republican opium to Bukittinggi. </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Landing Gear Collapse" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853905.36" ts_lastsave="1598947060.6" unique_id="345">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2xhbmRpbmdfZ2Vhcl9jb2xsYXBzZS5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/landing_gear_collapse.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In Bukittinggi, the starboard landing gear collapses just as RI-002 is about to take
 off. Nevertheless, Bob and the airstrip crew right the craft,
 repressurize the hydraulics, and take off as Dave Fowler shakes his head
 in dismay.</rich_text>
-					<rich_text link="file c3Rvcmllcy9sYW5kaW5nX2dlYXJfY29sbGFwc2UubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Soekarno tour" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595854245.78" ts_lastsave="1598947087.45" unique_id="346">
+					<rich_text link="file L2hvbWUvamVyZW15L0Rlc2t0b3Avb25lLW1hbl9haXJfZm9yY2Uvc2NlbmVzL3NvZWthcm5vX3RvdXIubWQ=">file:///home/jeremy/Desktop/one-man_air_force/scenes/soekarno_tour.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Soekarno gives a speech near where RI-002 had landed. Soekarno points to
 Bob resting in the shade with Boedi under a wing and says: &quot;Here is a
 foreigner, but he is on our side.&quot;</rich_text>
-					<rich_text link="file c3Rvcmllcy9zb2VrYXJub190b3VyLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Defies Suryadarma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598947096.34" unique_id="106">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1169,9 +1194,9 @@ Suryadarma assigns Bob mission to transport gold to Bukittinggi</rich_text>
 				<rich_text>
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Joins AURI" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595854326.91" ts_lastsave="1595988987.59" unique_id="347">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2V4cGVjdGluZ190b19mbHkudHh0">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/expecting_to_fly.txt</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9leHBlY3RpbmdfdG9fZmx5LnR4dA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Licences" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598948292.84" unique_id="144">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1185,115 +1210,119 @@ Muharto negotiates a deal with CALI, an air-charter company based in the Philipp
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Landing at KarangEndah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598950209.41" unique_id="139">
 					<rich_text>5. 
-6. 
+6. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2xhbmRpbmdfYXRfa2FyYW5nZW5kYWgubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/landing_at_karangendah.md</rich_text>
+					<rich_text>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 On the return leg of the third CALI run, Muharto asks Bob to perform tasks more suited to a military mission that a commercial charter flight. Nevertheless, Bob readily agrees to test land at a refurbished wartime jungle air strip and to drop paratroopers over a highland town. </rich_text>
-					<rich_text link="file c3Rvcmllcy9sYW5kaW5nX2F0X2thcmFuZ2VuZGFoLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Drop Over Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012632.97" ts_lastsave="1598950253.33" unique_id="377">
-					<rich_text>7. 
+					<rich_text>7. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2Ryb3Bfb3Zlcl9idWtpdHRpbmdnaS5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/drop_over_bukittinggi.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob uses his war-honed aviation skills to parachute Air Force engineers and their gear to a bull's eye landing on a pot-holed highland airstrip they are tasked to refurbish.  
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9kcm9wX292ZXJfYnVraXR0aW5nZ2kubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Surprise Call" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1599038935.33" unique_id="141">
 					<rich_text>6. Muharto gets a surprise call from Pang in Tasik. 
-
+</rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3N1cnByaXNlX2NhbGwubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/surprise_call.md</rich_text>
+					<rich_text>
 date: June 1947
 location: Maguwo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto receives a telephone call from an army base in Tasikmalaya, reporting that a foreign pilot has landed on a remote beach nearby and asked for Muharto by name.   </rich_text>
-					<rich_text link="file c3Rvcmllcy9zdXJwcmlzZV9jYWxsLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Bamboo Runway" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598950326.76" unique_id="143">
 					<rich_text>    Muharto organizes villagers to build bamboo runway
 
-
+</rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL29uX3RoZV9iZWFjaC5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/on_the_beach.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto meets Pang Suparto, the army officer who had telephoned him, and together they take two barrels of aviation fuel to the beach where Freeberg is stranded. When Muharto sees the beach, bookended by two rivers and the gap between the water and palm trees scarcely more than the Dakota's wing span, he knew that, of all the pilots he had met, only Bob Freeberg had the skill to make that landing.</rich_text>
-					<rich_text link="file c3Rvcmllcy9vbl90aGVfYmVhY2gubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Setting The Flaps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848253.97" ts_lastsave="1598950469.42" unique_id="338">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3NldHRpbmdfdGhlX2ZsYXBzLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/setting_the_flaps.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob invites Muharto to sit in co-pilot seat and assist him with the flap controls during the final approach to Manila. But when Bob gives the command, the nervous Muharto pushes the levers to the full causing the Dakota to make a dramatic drop. Bob instantly repositions the levers, and gently reminds Muharto to not pass the half-flaps setting until they see the runway. 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9zZXR0aW5nX3RoZV9mbGFwcy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Subjects of the Queen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012684.44" ts_lastsave="1598950510.29" unique_id="378">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3N1YmplY3RzX29mX3RoZV9xdWVlbi5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/subjects_of_the_queen.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Over breakfast at Tom Lee's house, Tom reads the newspaper headlines
 about &quot;Fearless Bob Freeberg&quot; and his &quot;Javanese Crew&quot;. One article
 reports that the Dutch are laying claim to the valuable quinine cargo as
 the &quot;Javanese Crew&quot; are &quot;subjects of the Dutch Queen&quot;. </rich_text>
-					<rich_text link="file c3Rvcmllcy9zdWJqZWN0c19vZl90aGVfcXVlZW4ubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848143.85" ts_lastsave="1598950502.28" unique_id="336">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3F1aW5pbmVfY2FzZS5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/quinine_case.md</rich_text>
 					<rich_text>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob and Muharto attend their first court session to decide who owns Dutch representatives take them to court over possession of the quinine cargo.
 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9xdWluaW5lX2Nhc2UubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012705.55" ts_lastsave="1598950543.84" unique_id="379">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL21hZHJhc19jdXJyeS5tZA==">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/madras_curry.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 As they wait for a buyer for the quinine Muharto, Boedi, and Pang eat one meal a day at a Indian restaurant. On most days Bob joins them and pays for all, because he is responsible for their well-being until he returns them to Java.</rich_text>
-					<rich_text link="file c3Rvcmllcy9tYWRyYXNfY3VycnkubWQ=">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Money for Nothing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853678.35" ts_lastsave="1598950578.28" unique_id="342">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL21vbmV5X2Zvcl9ub3RoaW5nLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/money_for_nothing.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto attempts to pay for their meals at Madras Curry, explaining that
 it is an honorarium for the talk to the lady lawyers. To his surprise,
 Bob chastises him for &quot;taking money for nothing&quot;.
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9tb25leV9mb3Jfbm90aGluZy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Non Stop to Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853354.81" ts_lastsave="1598950599.61" unique_id="340">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL25vbi1zdG9wX3RvX2pvZ2phLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/non-stop_to_jogja.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 RI-002 returns to Jogja, flying non-stop to conceal the presence of Captain Espina. They reach Java after dusk, with landmarks difficult to discern in the gloom. After some hesitation, during which tension rises in the cockpit, Muharto draws upon a vivid schoolboy memory to identify a range of hills and guides the aircraft to Jogja.
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9ub24tc3RvcF90b19qb2dqYS5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Is Dood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848386.18" ts_lastsave="1599040215.02" unique_id="339">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2luaW5nX2lzX2Rvb2QubWQ=">Scene</rich_text>
 					<rich_text>
 During a routine radio contact with Jogja, Boedi is told that Ining and Mas Ded were found dead of gunshot wounds at Ining's house. </rich_text>
-					<rich_text link="file c3Rvcmllcy9pbmluZ19pc19kb29kLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Primitivo Accuses" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595988940.63" ts_lastsave="1598950665.12" unique_id="358">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3ByaW1pdGl2b19hY2N1c2VzLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/primitivo_accuses.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto reports the incident to Major Primitivo, who accuses Muharto of being a communist and Mas Ded being complicit in Ining ’s death. </rich_text>
-					<rich_text link="file c3Rvcmllcy9wcmltaXRpdm9fYWNjdXNlcy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Appalled" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012726.29" ts_lastsave="1598950682.62" unique_id="380">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL211aGFydG9fYXBwYWxsZWQubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/muharto_appalled.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 At a party in Manila, Muharto is appalled when one of Bob's housemates
 boasts of shooting down own squad leader. He decides to not tell Bob of his plan to smuggle gems into Manila to be traded for sidearms. </rich_text>
-					<rich_text link="file c3Rvcmllcy9tdWhhcnRvX2FwcGFsbGVkLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Smuggled Gems" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848217.65" ts_lastsave="1598950936.17" unique_id="337">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3NtdWdnbGVkX2dlbXMubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/smuggled_gems.md</rich_text>
 					<rich_text>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Filipino commandos enter RI-002 and open a compartment under the floorboard of the flight deck, taking out a bag of gems. But they hear the approach of a guard, and hurry out, leaving the hatch cover slightly ajar. 
 
 </rich_text>
-					<rich_text link="file c3Rvcmllcy9zbXVnZ2xlZF9nZW1zLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Furious" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012736.88" ts_lastsave="1598950966.74" unique_id="381">
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL2JvYl9mdXJpb3VzLm1k">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/bob_furious.md</rich_text>
 					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Bob returns to RI-002 the following morning and is instantly aware that someone had rummaged around his beloved Dakota the previous night. He angrily confronts Muharto, who tells him about the deal with the jewels to buy guns, and adds: &quot;The jewels were entrusted to me by my government,&quot; &quot;They are my sole responsibility. This has nothing to do with you.&quot; Bob replies: &quot;Damn you, Muharto! It has everything to do with me! I'm the captain---responsible for whatever happens on my ship, whatever she carries. If you get caught, I also go to jail!&quot;</rich_text>
-					<rich_text link="file c3Rvcmllcy9ib2JfZnVyaW91cy5tZA==">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Promoted to Major" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598950974.27" unique_id="147">
 					<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1311,10 +1340,11 @@ Boedi talks Bob into reconciling with Muharto.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Spite Their Face" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1598951027.71" unique_id="137">
 					<rich_text>11. Muharto drinks with Bob and Dave. He hears Bob complain, for the first time, about his financial problems. 
-12. 
+12. </rich_text>
+					<rich_text link="file L2hvbWUvamVyZW15L1Byb2plY3RzL29uZV9tYW5fYWlyX2ZvcmNlL2FkYXB0YXRpb24vc2NlbmVzL3NwaXRlX3RoZWlyX2ZhY2UubWQ=">file:///home/jeremy/Projects/one_man_air_force/adaptation/scenes/spite_their_face.md</rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Over whiskey with Fowler, Muharto, and Boedi at Hotel Merdeka, Bob complains about Suryadarma and some of his staff, saying they want this or that but never follow through. He says that many Indonesians (present company excepted) would cut off their nose to spite their face.</rich_text>
-					<rich_text link="file c3Rvcmllcy9zcGl0ZV90aGVpcl9mYWNlLm1k">Story</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Distressed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1596014011.4" unique_id="138">
 					<rich_text>12. Muharto is shocked and saddened when he hears reports that RI-002 has vanished. </rich_text>

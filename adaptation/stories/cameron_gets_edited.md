@@ -1,5 +1,5 @@
 ---
-identifier: 7cc34cb0
+identifier: e6f52dcc
 title: Syd Edits Cameron
 date: 29 September 1988 
 location: JakPost
@@ -8,6 +8,11 @@ location: JakPost
 ``` {.synopsis}
 Syd Jardine, a burnt-out Old Asia Hand who is senior copy editor for the Jakarta Post, tells Cameron that his story on Bob Freeberg needs more historical context, and suggests he do additional research at the new National Library, a modern, well-run institution that he visits regularly.
 ```
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his way to a diplomatic dinner, and simply hands the pages to Syd, an American  retired foreign correspondent who works as senior copy editor, and rushes out the door. Syd reads the piece, and suggests that Cameron corroborate 
+Muharto's story with newspaper and other reports, which he can find at the newly opened National Library. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the Jakarta Post newsroom, Cameron finishes the first draft of the
 Muharto interview, then hands it to Syd Jardine, a disheveled,

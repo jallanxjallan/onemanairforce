@@ -1,5 +1,5 @@
 ---
-identifier: 44db7f8d
+identifier: b2aec34e
 title: Birth of RI-002
 date: 9 June 1947 
 location: Maguwo

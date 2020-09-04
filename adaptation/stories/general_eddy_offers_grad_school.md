@@ -15,3 +15,10 @@ a relationship would be impossible because he will shortly to America
 for post-graduate study. At that Eddy smiles, and tells Julia that she
 could do the same. Julia counters it would be too expensive, but her
 father says not to worry.
+
+Doing a deal with American CIA vendor for surveillance electronics. 
+    "Not corruption if you take money from foreigners"
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The day after her date with Eric, General Eddy hints that the business deal with Eric's father will provide him with enough funds to send Julia to graduate school in America, fulfilling her dream. 
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,5 +1,5 @@
 ---
-identifier: 9690bc38
+identifier: 2f6aacfd
 title: Cameron Assigned Interview
 date: 26 September 1988 
 location: JakPost
