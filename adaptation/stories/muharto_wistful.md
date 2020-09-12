@@ -5,7 +5,7 @@ date: 28 September 1988
 location: Muharto
 ---
 
-``` {.synopsis}
+``` synopsis}
 Muharto tells Cameron that the sixth coffin, presumably containing Bob’s
 remains, could not be buried with the others as a foreigner cannot be interred in a cemetery for national heroes, however much he may deserve the honor himself through his services to the nation.
 
@@ -13,6 +13,8 @@ Muharto’s expression as he finished his reminiscences convinces
 Cameron that he regarded Freeberg as a close friend, and is seeking
 closure about his mysterious disappearance. Muharto wonders that if he had turned down promotion and had been with Bob on the final flight, maybe it would not have ended in tragedy. 
 ```
+
+Muharto ends his recollection by explaining how Freeberg vanished  while transporting a fortune in gold to safety ahead of an expected Dutch invasion. Farmers had stumbled upon the wreckage of RI-002 on a remote mountainside ten years previously, but could not identify Freeberg's remains from the few fragments of bones they found. Cameron senses the genuine sadness in Muharto that the fate of his friend and fellow pilot remains unknown.  
 
 Muharto tells Cameron that the sixth coffin, presumably containing Bob's
 remains, could not be buried with the others because he was a foreigner.

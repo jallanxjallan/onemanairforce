@@ -2,10 +2,10 @@
 identifier: 4fcdfb49
 title: Quinine Case
 date: 20 June 1947 
-location: Courtroom
+location: Manila Courtroom
 ---
 
-``` {.synopsis}
+``` synopsis
 Bob and Muharto attend their first court session to decide who owns Dutch representatives take them to court over possession of the quinine cargo.
 ```
 

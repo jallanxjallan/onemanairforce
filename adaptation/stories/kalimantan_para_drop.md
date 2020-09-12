@@ -5,7 +5,7 @@ date: 17 October 1947
 location: RI002
 ---
 
-``` {.synopsis}
+``` synopsis
 Bob drops paratroopers into the Kalimantan forest. This is the first time in an aircraft for all, so Bob gives a pep talk to the terrified troopers, translated by Boedi. 
 ```
 

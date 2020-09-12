@@ -1,10 +1,13 @@
 ---
 identifier: 33187a77
 title: Bob Defies Suryadarma
-date:  
-location: 
+date: June 1948 
+location: Maguwo
 ---
 
-12. Bob defies Suryadarma. Immediately after returning from the Soekarno
-    Tour, Suryadarma orders Bob to Sumatra on another mission. Bob
-    flatly refuses.
+```synopsis
+Immediately after returning from the Soekarno
+Tour, Suryadarma orders Bob to Sumatra on another mission. Bob
+flatly refuses.
+```
+

@@ -1,10 +1,13 @@
 ---
 identifier: 39b5db29
 title: Muharto Reports Incident
-date:  
-location: 
+date: 11 December 1947
+location: Intel
 ---
 
-8.  Muharto reports the incident to Major Primitivo, who accuses Muharto
-    of being a communist and Mas Ded being complicit in Ining âs
-    death.
+```synopsis
+Muharto reports the incident to Major Primitivo, who accuses Muharto
+of being a communist and Mas Ded being complicit in Ining's
+death.
+```
+

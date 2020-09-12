@@ -1,8 +1,11 @@
 ---
 identifier: dfa76318
 title: Suryadarma Takes Fuel Allowance
-date:  
-location: 
+date: September 1948 
+location: Maguwo
 ---
 
-    Suryadarma  takes away Bob's fuel allowance. 
+```synopsis
+Suryadarma  takes away Bob's fuel allowance. 
+```
+

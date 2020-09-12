@@ -1,11 +1,14 @@
 ---
 identifier: fd69b925
 title: Crushing Disappointment
-date:  
-location: 
+date:  July 1947
+location: Maguwo
 ---
 
-3.  Bambang is bitterly disappointed when he discovers that the machine
-    gun on his fighter is not working. He can only watch in frustration
-    as the other bombers and fighters take off to bomb Dutch facilities
-    on the North coast.
+```synopsis
+Bambang is bitterly disappointed when he discovers that the machine
+gun on his fighter is not working. He can only watch in frustration
+as the other bombers and fighters take off to bomb Dutch facilities
+on the North coast.
+```
+

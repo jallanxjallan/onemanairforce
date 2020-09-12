@@ -1,12 +1,12 @@
 ---
 identifier: 4d19b850
-title: Coffee With Julia
-date: 5 October 1988 
+title: Cameron Meets Julia
+date: 29 September 1988 
 location: Library
 ---
 
-``` {.synopsis}
-At the National Libary, Cameron is assisted by Julia, a bookish, attractive final-year student assigned to deal with foreign researchers because of her fluent English.   
+``` synopsis
+Victor introduces Cameron to Julia, an attractive, bookish Indonesian woman in her early twenties. She demonstrates an impressive competence when Victor makes a request for documents. Julia disappears into the stacks and reappears almost immediately with an armload of binders and books, which she dumps on the reading table. Victor looks at the material, nods in approval, and hands them to Cameron to read. 
 ```
 
 Cameron visits the National Library. Using his Jakarta Post credentials,
@@ -30,11 +30,6 @@ the person delegated to attending to foreign visitors. Julia finds the
 sole copy of Recruit to Revolution, reminds Cameron to be careful not to
 rip the pages of the volume, which is starting to deteriorate.
 
-``` {.synopsis}
-At the National Libary, Cameron is assisted by Julia, a bookish, attractive final-year student assigned to deal with foreign researchers because of her fluent English.   
-```
-
-                  \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Cameron visits the library and 
 meets Julia. He discovers that Syd is correct, Julia brings him exactly what he requires from the restricted rare books section. He is not allowed to take the books with him, so he reads and takes notes all morning. He is not allowed to bring liquids into the reading room, so Julia takes Cameron to the library canteen for coffee. Julia tells Cameron about her desire to take her post graduate degree in Europe or American. In return, Cameron attempts to tell Julia about his background, but Julia cuts him off, saying, with a mischievous grin, that she can learn all about him from her father, a general in military intelligence.     

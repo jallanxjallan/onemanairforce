@@ -1,8 +1,11 @@
 ---
 identifier: c525a485
 title: Victor Defects.
-date:  
-location: 
+date:  December 1948
+location: Jogja
 ---
 
-8.  Victor defects into hills with friend of Regina.
+```synopsis
+Victor defects into hills with friend of Emeria.
+```
+

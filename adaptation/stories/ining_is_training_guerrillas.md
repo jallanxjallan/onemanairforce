@@ -1,8 +1,11 @@
 ---
 identifier: b2d12a19
 title: Ining Is Training Guerrillas
-date:  
-location: 
+date: October 1947
+location: KNIL
 ---
 
-5.  Spoor learns Ining is training guerrillas.
+```synopsis
+Spoor learns Ining is training guerrillas.
+```
+

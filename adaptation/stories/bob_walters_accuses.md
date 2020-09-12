@@ -1,6 +1,6 @@
 ---
 identifier: d74ec0a1
-title: Bob Sues Walters
+title: Bob Walters Complains
 date: August 1947 
 location: ABBar
 ---

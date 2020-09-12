@@ -1,9 +1,12 @@
 ---
 identifier: 27d0fa94
 title: Ani Berates Westerling
-date:  
-location: 
+date: December 1948
+location: Jogja Market
 ---
 
-8.  Ani berates Westerling when he and Muharto and stopped and searched
-    on the evening of Operation Crow.
+```synopsis
+Ani berates Westerling when he and Muharto and stopped and searched
+on the evening of Operation Crow.
+```
+

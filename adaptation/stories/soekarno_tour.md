@@ -2,10 +2,10 @@
 identifier: 8925b00e
 title: Soekarno tour
 date: June 1948 
-location: RI-002 cockpit
+location: RI-002
 ---
 
-``` {.treatment}
+``` synopsis
 Soekarno gives a speech near where RI-002 had landed. Soekarno points to
 Bob resting in the shade with Boedi under a wing and says: "Here is a
 foreigner, but he is on our side."

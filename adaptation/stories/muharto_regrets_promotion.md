@@ -1,8 +1,11 @@
 ---
 identifier: 1974c32b
 title: Muharto regrets promotion
-date:  
-location: 
+date: October 1988 
+location: Boedi Residence
 ---
 
-9.  Cameron repeats muharto claim about regretting promotion.
+```synopsis
+Cameron repeats muharto claim about regretting promotion.
+```
+

@@ -4,7 +4,7 @@ location: Boedi
 ---
 
 ```synopsis
-Cameron attends a lecture on cultural tourism to visiting American academics. He is invited to the sponsor's reception, where he meets Boedi and discovers that he had been radio operator of RI-002. At Cameron's urging, he tells amusing anecodes of his days with RI-002 to his guests. 
+Muharto takes Cameron to interview Boediardjo, the RI-002 radio operation who would rise through the ranks to Air Marshall and then Minister of Information and an Ambassador in civilian life. Muharto and Boedi goad each other on amusing tales of living on cheap curry while stranded in Manila. Then Boediardjo tells of RI-002 missions that Muharto did not participate in.  
 ```
 
 Syd introduces Cameron to Boedi, Affandi and stereo.
@@ -26,7 +26,15 @@ The organization sponsoring Cameron's internship invites him to attend a gatheri
 
 Boedi begins by describing Bob as one of the most patient, unflappable persons he had ever met. Smiling, Boedi remarks that this was a necessary quality for flying with Indonesians during the early years of nation hood. During colonial times, the Dutch had only admitted a handful of native sons into flight school. So even Air Force officers had had little hands-on experience with actual aircraft, as Captain Muharto proved when Bob asked him to sit in the co-pilot seat as they approached Manila on the first flight of RI-002. 
 
-> 
+Muharto takes Cameron to interview Boedi.
+Muharto and Boedi goad each other on amusing tales of being stranded in Manila. Eating one curry meal a day etc
+Boedi tells of Paradrop and Soekarno Tour.
+Starts to talk about Ining, but sees Muharto pained expression. Drops the subject.
+Boedi talks about various theories on auri mess in following years.
+date: October 1988
+location: Boediardjo Residence
+
+
 
 
 

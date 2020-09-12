@@ -1,9 +1,12 @@
 ---
 identifier: 54e51fee
 title: Ani Serves Rice
-date:  
-location: 
+date:  June 1947
+location: Jogja Market
 ---
 
-3.  Ani serves rice to refugees. She has no idea what to do in kitchen,
-    never having been in one before.
+```synopsis
+Ani serves rice to refugees. She has no idea what to do in kitchen,
+never having been in one before.
+```
+

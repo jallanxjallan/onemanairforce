@@ -1,9 +1,12 @@
 ---
 identifier: 8bde9067
 title: Promoted to Major
-date:  
-location: 
+date:  May 1948
+location: Maguwo 
 ---
 
-8.  Suryadarma promotes Muharto to major and assigns him to desk duties
-    at Maguwo.
+```synopsis
+Suryadarma promotes Muharto to major and assigns him to desk duties
+at Maguwo.
+```
+

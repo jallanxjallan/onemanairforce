@@ -5,7 +5,7 @@ date: April 1948
 location: Manila Airport
 ---
 
-``` {.treatment}
+``` synopsis
 Bob enters the RI-002 cockpit and immediately discerns that someone had been there the previous night. He angrily confronts Muharto. 
 ```
 

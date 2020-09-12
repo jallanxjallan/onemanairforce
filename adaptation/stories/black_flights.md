@@ -1,9 +1,12 @@
 ---
 identifier: 5d5e2be3
 title: Black Flights
-date:  
-location: 
+date: March 1948 
+location: Maguwo
 ---
 
-11. Suryadarma orders Bob to transport several tons of Republican opium
-    to Bukittinggi.
+```synopsis
+Suryadarma orders Bob to transport several tons of Republican opium
+to Bukittinggi.
+```
+

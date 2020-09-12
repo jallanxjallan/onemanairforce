@@ -1,8 +1,11 @@
 ---
 identifier: 223cf54d
 title: Reconciling With Muharto.
-date:  
-location: 
+date: August 1948 
+location: RI-002
 ---
 
-10. Boedi talks Bob into reconciling with Muharto.
+```synopsis
+Boedi talks Bob into reconciling with Muharto.
+```
+

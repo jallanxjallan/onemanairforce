@@ -1,8 +1,11 @@
 ---
 identifier: 29b855de
 title: Victor Meets Emeria
-date:  
-location: 
+date: August 1947 
+location: Emeria Studio
 ---
 
-4.  Victor meets Emeria at her studio.
+```synopsis
+Victor meets Emeria at her studio.
+```
+

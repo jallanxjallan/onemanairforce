@@ -75,6 +75,6 @@ def export_stories():
         anchor = node.insert_anchor(identifier)
         node.insert_link(href=outputfile, text="Content")
         print (f'Notes from {node.name} written to {outputfile}')
-    ct.save()
+#     ct.save()
 if __name__ == '__main__':
     fire.Fire(export_stories)

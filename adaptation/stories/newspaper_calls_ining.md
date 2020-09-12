@@ -1,10 +1,13 @@
 ---
 identifier: 010901e9
 title: Newspaper Calls Ining
-date:  
-location: 
+date: 15 January 1948
+location: KNIL
 ---
 
-9.  Newspaper calls Ining a gun runner in an article in a Manila
-    newspaper after Ining's funeral speculates that Ining's death
-    resulted from an arms deal gone disastrously wrong.
+```synopsis
+Spoor reads newspaper report calling Ining a gun runner in an article in a Manila
+newspaper after Ining's funeral speculates that Ining's death
+resulted from an arms deal gone disastrously wrong.
+```
+

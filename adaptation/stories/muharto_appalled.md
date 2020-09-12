@@ -5,7 +5,7 @@ date: April 1948
 location: Manila
 ---
 
-``` {.treatment}
+``` synopsis
 At a party in Manila, Muharto is appalled when one of Bob's housemates
 boasts of shooting down own squad leader. He decides to not tell Bob of his plan to smuggle gems into Manila to be traded for sidearms. 
 ```

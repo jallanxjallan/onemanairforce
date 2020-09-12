@@ -1,10 +1,13 @@
 ---
 identifier: 0346ab73
 title: Banteng Merah
-date:  
-location: 
+date: March 1946 
+location: Maguwo
 ---
 
-1.  In March 1946, one of a handful of Indonesian aviators, Augustinus
-    Adisucipto, flies a reconditioned biplane left behind by the
-    Japanese.
+```synopsis
+One of a handful of Indonesian aviators, Augustinus
+Adisucipto, flies a reconditioned biplane left behind by the
+Japanese.
+```
+

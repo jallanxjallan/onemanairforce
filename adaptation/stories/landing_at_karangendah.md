@@ -5,7 +5,7 @@ date: 31 March 1947
 location: Karangendah
 ---
 
-``` {.treatment}
+``` synopsis
 Muharto asks Bob to make a test landing on a refurbished wartime airstrip designed for smaller aircraft such as fighters. Bob happily complies, and sets the Dakota down with only a few meters to spare on the runway. Muharto introduces Bob to Santoso, the base commander.
 ```
 

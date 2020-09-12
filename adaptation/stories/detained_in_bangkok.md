@@ -5,7 +5,7 @@ date: October 1947
 location: Bangkok
 ---
 
-``` {.synopsis}
+``` synopsis
 Bob flies two Indonesian aviators to Bangkok, who will purchase RI-003 and fly it back to Jogja. Bob is detained by Thai authorities at the insistence of Dutch diplomats, but is released soon afterward in a tacit recognition of the legitimacy of the new Republic of Indonesia. 
 ```
 

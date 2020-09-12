@@ -2,7 +2,7 @@
 identifier: 9236ec29
 title: Primitivo Introduces Muharto
 date: August 1947 
-location: Intel
+location: Manila Intel
 ---
 
 ``` synopsis

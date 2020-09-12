@@ -1,8 +1,11 @@
 ---
 identifier: 93737e8e
 title: POAS Flights
-date:  
-location: 
+date: April 1048
+location: Maguwo
 ---
 
-3.  Dave Fowler begins POAS flights from Bangkok to Jogja.
+```synopsis
+Dave Fowler begins POAS flights from Bangkok to Jogja.
+```
+

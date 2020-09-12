@@ -5,7 +5,7 @@ date: 30 May 1948
 location: Bukittinggi
 ---
 
-``` {.treatment}
+``` synopsis
 The starboard landing gear collapses just as RI-002 is about to take
 off. Nevertheless, Bob and the airstrip crew right the craft,
 repressurize the hydraulics, and take off as Dave Fowler shakes his head

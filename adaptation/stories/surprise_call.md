@@ -5,7 +5,7 @@ date: 7 June 1947
 location: Nishikoren
 ---
 
-``` {.treatment}
+``` synopsis
 Flying to Tasik in a refurbished Japanese aircraft, whose pilot had only first seen an airplane a few months previously, Muharto takes his mind from possible catastrophe by recollecting his experiences during his blockade runs three months previously, wondering which pilot it might be.
 ```
 
