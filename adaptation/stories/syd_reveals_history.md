@@ -1,8 +1,11 @@
 ---
 identifier: 9bf2df40
 title: Syd Reveals History
-date:  
-location: 
+date: November 1988
+location: Jakarta Post
 ---
 
-6.  Syd reveals secret history of CIA in Indonesia.
+```synopsis
+Syd reveals secret history of CIA in Indonesia.
+```
+

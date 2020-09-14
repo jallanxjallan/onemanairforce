@@ -1,4 +1,6 @@
 ---
+identifier: 3cbe11a2
+title: VT-CLA crashes
 date: 29 July 1947
 location: Bob
 ---

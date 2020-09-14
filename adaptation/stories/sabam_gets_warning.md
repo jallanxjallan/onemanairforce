@@ -1,8 +1,11 @@
 ---
 identifier: 5d9ff194
 title: Sabam Gets Warning
-date:  
-location: 
+date: December 1988 
+location: Jakarta Post
 ---
 
-4.  Sabam gets last warning from military.
+```synopsis
+Sabam gets ominous telephone call from Deppen
+```
+

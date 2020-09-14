@@ -14,7 +14,6 @@ an army surplus Harley Davidson motorcycle in the parking lot. During
 the thrilling ride, she briefly grabs Cameron's waist, to her
 embarrassment.
 
-
 ```
 
 Cameron and Julia discover that they are now headed to the same

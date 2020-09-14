@@ -3,7 +3,7 @@ date: October 1947
 location: Marketplace Jogja
 ---
 
-```treatment
+```synopsis
 Affandi has set up his easel in a marketplace. The only food on display
 is withered vegetables, rotten casava, and a single, scrawny chicken.
 The vendors are dressed in rags. Affandi paints in his expressionistic

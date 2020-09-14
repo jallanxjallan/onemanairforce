@@ -6,6 +6,6 @@ location: KNIL
 ---
 
 ```synopsis
-Spoor learns Ining is training guerrillas.
+Spoor learns that Espina is training guerrillas in Jogja.
 ```
 

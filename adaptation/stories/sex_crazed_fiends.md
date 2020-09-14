@@ -1,12 +1,12 @@
 ---
 identifier: 2cd51520
-title: Sabam Praises Cameron
-date: 3 October 1988 
-location: JakPost
+title: Sex Crazed Fiends
+date: 2 October 1988 
+location: Jakarta Post
 ---
 
-``` {.synopsis}
-The day the story about Bob Freeberg appears, Sabam berates Syd for sneaking an amusing tone-perfect translation of a lurid sex-crime story from a local paper into the Post. He then praises Cameron for the Muharto story, saying that his old friend was delighted. When Sabam leaves, Cameron turns to Syd and says he is intrigued by the story, and wants to return to the Library for further research. With a smile and  a wink, Syd tells Cameron to give his regards to Julia. 
+``` synopsis
+Sabam berates Syd for sneaking an amusing tone-perfect translation of a lurid sex-crime story from a local paper into the Post.  
 ```
 
 Sabam strides into the newsroom, brandishing a copy of the paper, and

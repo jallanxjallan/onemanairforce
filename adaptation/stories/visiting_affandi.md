@@ -5,7 +5,7 @@ date: 16 October 1988
 location: Affandi Museum Jogjakarta
 ---
 
-``` {.treatment}
+``` synopsis
 Affandi dashes off and signs a self-portrait for Cameron to give to Boedi.
 ```
 

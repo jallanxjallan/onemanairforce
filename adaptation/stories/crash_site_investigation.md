@@ -5,7 +5,7 @@ date: 19 April 1977
 location: Punggur
 ---
 
-``` {.synopsis}
+``` synopsis
 An Air Force team investigating the crash site find a few human remains, confirmation that it was RI-002, but no sign of the gold cargo. 
 ```
 

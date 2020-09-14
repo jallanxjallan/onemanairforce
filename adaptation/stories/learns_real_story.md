@@ -1,9 +1,12 @@
 ---
 identifier: d5c6e48f
-title: Learns Real Story
-date:  
-location: 
+title: Victor Learns Truth
+date: December 1988  
+location: Library
 ---
 
-9.  In present day, Victor discovers Spoor was investigating corruption,
-    not planning a coup.
+```synopsis
+Cameron tells Victor that Spoor was investigating corruption,
+not planning a coup with the CIA.
+```
+

@@ -5,10 +5,7 @@ date: October 1988
 location: Borobudur
 ---
 
-``` {.synopsis}
-Cameron drops Julia at the front entrance to the hotel, impressing her friends, who decides that he must be rich.
-```
-
+``` synopsis}
 Cameron pulls up at the hotel entrance, impressing Julia's friends, who
 are waiting for her by the door. Cameron drives away to park his Harley,
 while Julia and her friends go to their event, a birthday party for
@@ -17,6 +14,9 @@ The friends press Julia for information about Cameron, and suggest that
 since he rides a huge motorcycle, and is a *bule*, he must be rich,
 teasing her that since her father, unlike other generals, does not give
 his daughter unlimited amounts of money, she needs a rich boyfriend.
+```
+
+
 Cameron and Julia walk into the lobby of the Hotel Borobudur together,
 where her friends are waiting. Julia introduces Cameron to them, then he
 walks toward the bar. Julia's friends grill her about the bule, with

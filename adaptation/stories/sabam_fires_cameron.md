@@ -5,5 +5,8 @@ date: December 1988
 location: Jakarta Post
 ---
 
-14. Sabam has no choice but to fire Cameron and has his visa canceled,
-    effective immediately.
+```synopsis
+Sabam learns of Karangendah exploit. On thin ice with Deppen because of corruption story, Sabam has no choice but to fire Cameron and has his visa canceled,
+effective immediately.
+```
+

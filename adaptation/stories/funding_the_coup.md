@@ -1,9 +1,11 @@
 ---
 identifier: 91919c5a
 title: Funding the Coup
-date:  
-location: 
+date: December 1988
+location: Karangendah
 ---
 
-19. Agus reveals that gold was used to purchase guns smuggled from
-    Malaya, which then taken overland to Lampung by Sumatra preman.
+```synopsis
+Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, which then taken overland to Lampung by Sumatra preman.
+```
+

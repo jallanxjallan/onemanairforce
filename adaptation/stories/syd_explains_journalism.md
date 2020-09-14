@@ -1,9 +1,11 @@
 ---
 identifier: ab1b7d1e
-title: Syd Explains Journalism
+title: Syd Explains Corruption
 date: September 1988 
 location: Jakarta Post
 ---
 
-5.  Syd explains journalism in Indonesia like walking a tightrope,\" Syd
-    says, "and I'm the safety net."
+```synopsis
+Syd explains the history of corruption and how it is the enemy of idealism. 
+```
+

@@ -1,10 +1,13 @@
 ---
 identifier: 0c33d523
 title: Appeal to Foote
-date:  
-location: 
+date: April 1948
+location: KNIL
 ---
 
-6.  Appeals to American consul Walter Foote to do something about
-    Freeberg. Though Foote also disagrees with Freeberg's actions, he
-    can do nothing.
+```synopsis
+Spoor Appeals to American consul Walter Foote to do something about
+Freeberg. Though Foote also disagrees with Freeberg's actions, he
+can do nothing.
+```
+

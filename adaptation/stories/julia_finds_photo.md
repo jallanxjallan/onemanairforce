@@ -1,8 +1,11 @@
 ---
 identifier: d563e07f
 title: Julia Finds Photo
-date:  
-location: 
+date: December 1988 
+location: Library
 ---
 
-14. Julia finds photo of RI-002 at Karangendah.
+```synopsis
+Julia finds photo of RI-002 at Karangendah.
+```
+

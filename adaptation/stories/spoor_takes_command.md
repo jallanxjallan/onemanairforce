@@ -1,9 +1,12 @@
 ---
 identifier: f040b2de
 title: Spoor takes command
-date:  
-location: 
+date: January 1946 
+location: KNIL
 ---
 
-1.  Spoor relocates from Australia to Batavia and takes command of KNIL.
-    He hires Julius Tahija as his adjutant.
+```synopsis
+Spoor relocates from Australia to Batavia and takes command of KNIL.
+He hires Julius Tahija as his adjutant.
+```
+

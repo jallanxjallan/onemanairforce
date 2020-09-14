@@ -2,10 +2,14 @@
 identifier: 167cb310
 title: Surprise Call
 date: 7 June 1947 
-location: Nishikoren
+location: Maguwo
 ---
 
 ``` synopsis
+Muharto receives a telephone call from an army base in Tasikmalaya, reporting that a foreign pilot has landed on a remote beach nearby and asked for Muharto by name.  
+
+Muharto reports the surprising call to Suryadarma, the commander of the Air Force. Suryadarma grins, saying: “Must be one of your foreign flyboy friends”, and sends Muharto to Tasik to investigate.
+
 Flying to Tasik in a refurbished Japanese aircraft, whose pilot had only first seen an airplane a few months previously, Muharto takes his mind from possible catastrophe by recollecting his experiences during his blockade runs three months previously, wondering which pilot it might be.
 ```
 

@@ -1,9 +1,12 @@
 ---
 identifier: e16618e1
 title: Spoor poisoned
-date:  
-location: 
+date: May 1949
+location: KNIL
 ---
 
-12. Spoor dies after a seafood lunch in which his dining companies also
-    suffered food poisoning.
+```synopsis
+Spoor dies after a seafood lunch in which his dining companies also
+suffered food poisoning.
+```
+
