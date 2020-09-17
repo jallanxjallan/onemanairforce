@@ -6,7 +6,10 @@ location: Jakarta Post
 ---
 
 ``` synopsis
-Sabam berates Syd for sneaking an amusing tone-perfect translation of a lurid sex-crime story from a local paper into the Post.  
+Sabam strides into the newsroom, brandishing a copy of the paper, and
+approaches a disheveled, chain-smoking older American sitting at the
+desk adjacent to Cameron. Sabam points to an article headlined "Ladyboy
+Molested By Sex-Crazed Gang", with the byline: "Our Reporter" and says: "This is a family newspaper!".	
 ```
 
 Sabam strides into the newsroom, brandishing a copy of the paper, and

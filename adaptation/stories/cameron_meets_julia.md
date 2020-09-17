@@ -1,17 +1,17 @@
 ---
 identifier: 4d19b850
 title: Cameron Meets Julia
-date: 29 September 1988 
+date: October 1988 
 location: Library
 ---
 
 ``` synopsis
-Victor introduces Cameron to Julia, an attractive, bookish Indonesian woman in her early twenties. She demonstrates an impressive competence when Victor makes a request for documents. Julia disappears into the stacks and reappears almost immediately with an armload of binders and books, which she dumps on the reading table. Victor looks at the material, nods in approval, and hands them to Cameron to read. 
-```
-
 Cameron visits the National Library. Using his Jakarta Post credentials,
 he is admitted to the limited-access reference section, an archive of
-publications and books dating back to colonial times. He is greeted, in
+publications and books dating back to colonial times. The attendant on duty is Julia, an attractive, bookish Indonesian woman in her early twenties. She demonstrates an impressive competence when he gives her the list of documents from Sabam. Julia disappears into the stacks and reappears almost immediately with an armload of binders and books, which she dumps on the reading table. As Cameron starts to read, Julia offers to translate any Dutch language clippings. 
+```
+
+He is greeted, in
 fluent English, by Julia, an attractive, bookish Indonesian woman in her
 early twenties. Julia finds the sole copy of *Recruit to Revolution*,
 which, like all items in the collection, cannot be taken from the

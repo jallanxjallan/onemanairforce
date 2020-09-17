@@ -2,12 +2,12 @@
 identifier: e6f52dcc
 title: Syd Edits Cameron
 date: 29 September 1988 
-location: JakPost
+location: Jakarta Post
 ---
 
 ``` synopsis
-Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his way to a diplomatic dinner, and simply hands the pages to Syd Jardine, a disheveled,
-chain-smoking, older American sitting at the adjacent desk. Syd reads the piece, finds it interesting, and suggests that Cameron verify Muharto's recollections with contemporaneous newspaper accounts available in the newly opened national library. Syd tells Cameron that a friend of his, Victor, a Dutch national turned Indonesian, is in the library in the most mornings, and will be happy to translate the Dutch text.
+Cameron gives a draft of the Muharto interview to Sabam. He glances at it, then hands it to Syd, then heads out the door to a dinner party. Syd reads the piece, and says it needs a photo of Freeberg himself, not just the generic photos that Muharto gave him. Syd suggests that Cameron try the Indonesian Photo Agency, IPPHOS, who have an extensive collection of images from the period. An old Dutch-born photojournalist, Victor, looks after the place. "He will know", Syd says. "He has, literally, a 'photographic memory'".
+
 ```
 
 Cameron writes up the interview, and gives it to Sabam. However, Sabam is on his way to a diplomatic dinner, and simply hands the pages to Syd, an American  retired foreign correspondent who works as senior copy editor, and rushes out the door. Syd reads the piece, and suggests that Cameron corroborate 
@@ -21,3 +21,8 @@ and needs more context to be understandable to the Post's foreign
 readership. Syd suggests Cameron go to the national library and read the
 book *Recruit to Revolution*, which has a chapter on Freeberg, and all
 the historical background Cameron needs.
+
+
+
+says it is an "important piece of Indonesian history." However, he noticed that, bases on his own extensive readings of the period, Muharto has misremembered some historical events. Syd  
+suggests that Cameron fact-check the piece by reading contemporaneous newspaper accounts available in the newly opened national library. Syd tells Cameron that a friend of his, Victor, a Dutch national turned Indonesian who was noted journalist in the Soekarno era, is in the archives section most most mornings. He would be happy to give Cameron a hand. 

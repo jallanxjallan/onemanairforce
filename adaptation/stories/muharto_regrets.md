@@ -2,7 +2,7 @@
 identifier: 93d0539c
 title: Muharto Regrets
 date: 28 September 1988 
-location: Muharto
+location: Muharto Residence
 ---
 
 ``` synopsis}

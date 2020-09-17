@@ -1,12 +1,22 @@
 ---
 identifier: 70db8d8f
-title: Julia Meets Cameron
-date: 5 October 1988 
-location: library
+title: Lunch with Julia
+date: October 1988 
+location: library canteen
 ---
 
 ``` synopsis
-Cameron asks Julia for coffee, but no food or beverages are allowed in the reading room. However, she is about to take her break, so invites him to accompany her to the library canteen. Over coffee and snacks, Julia tells Cameron about her desire to take her post graduate degree in Europe or American. In return, Cameron attempts to tell Julia about his background, but Julia cuts him off, telling him, with a mischievous grin, to not wasted his breath. She can learn anything she wants to know about his life from her father, a general in military intelligence.
+At noon, Cameron is only halfway through the pile of clippings. He asks Julia where he might get some lunch. Julia invites Cameron to join her in the library canteen. Julia asks Cameron about how he likes living in Indonesia. Cameron
+replies that he is adjusting well, except for one annoying habit. Indonesians
+ask how old he is, where he is from, and whether he is married.
+Cameron says that this is too personal to discuss with some random
+stranger. Julia replies that Indonesians consider such inquiries to be
+meaningless pleasantries, like "How are you", or "What's new". She then
+assures Cameron: Don't worry, I won't bother you. If I want to know
+anything I'll just ask my dad". At Cameron's quizzical look, Julia smiles and explains that her father
+is a general with the the Army's Intel section. Though Julia is plainly
+teasing him, Cameron nonetheless gulps down coffee and says he
+should get back to work.
 ```
 
 He asks Julia where he can get some coffee. No liquids are allowed the

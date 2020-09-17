@@ -1,6 +1,6 @@
 ---
 identifier: 3cbe11a1
-title: Visiting Affandi
+title: Affandi Gift
 date: 16 October 1988 
 location: Affandi Museum Jogjakarta
 ---
