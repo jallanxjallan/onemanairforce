@@ -2,14 +2,11 @@
 identifier: 3ca7a34a
 title: Victor Arrives
 date: April 1947 
-location: Batavia
+location: Tanjung Priok
 ---
 
 ```synopsis
-Victor marches off troop ship with other recruits. Made a point of
-learning Indonesian and teaching other recruits during voyage. Picks
-up Indonesian language newspaper in Medan and manages to read it.
-Commandant noted this. Brought his own camera with him. Assigned to
-Mapping department as has good visual eye and can draw.
+Victor marches off a troop ship with other conscripts. While waiting for transport to the barracks, Victor photographs a paper boy, and then buys a newspaper from him seconds before the police chase him away. The other soldiers gather around Victor as he reads aloud in Dutch what is obviously Indonesian-language text, occasionally pausing to look up a word in a Dutch-Malay pocket dictionary. 
+
 ```
 

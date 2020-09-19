@@ -1,7 +1,7 @@
 ---
 identifier: 59061c8d
 title: SE Airlines
-date: January 1947 
+date: March 1947 
 location: Singapore
 ---
 

@@ -1,7 +1,7 @@
 ---
 identifier: ccf1b51c
 title: Ordering Suits
-date: January 1947 
+date: August 1947 
 location: Manila
 ---
 

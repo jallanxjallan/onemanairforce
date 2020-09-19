@@ -1,8 +1,8 @@
 ---
-template: story.tpl
+template: synopsis.tpl
 writer: markdown
 standalone: True
 filters:
-  - make_identifier.lua
+  - synopsis_only.py
   
 

@@ -10,9 +10,7 @@ Cameron walks into IPPHOS office, a ramshackle collection of photgraphs and fili
 
 Cameron asks the fee for using the photograpy. Victor replies "two coffees" and points to a warung on the sidewalk. Cameron shrugs, buys the coffees, returns, and sits a table with Victor.  
 
-
 He tells Cameron to give his regards to Syd, and then asks for more details about the Muharto interview. Cameron recaps, and ends by repeating Muharto's suspicion that much remains to be discovered. Victor says: "Of course. Spoor was behind it all. He hated Freeberg with an all-consuming passion."
-
 
 ```
 

@@ -1,12 +1,12 @@
 ---
 identifier: b2aec34e
-title: Birth of RI-002
+title: First Mission
 date: 9 June 1947 
 location: Maguwo
 ---
 
 ``` synopsis
-In Jogja, Suradarma commissions Bob to fly a cargo valuable quinine to Manila and return with medicine and other goods. To forestall possible problems with authorities in Manila Muharto suggests that they paint a registration number, RI-002, on the unregistered war-surplus Dakota. 
+Suryadarma commissions Bob to fly a cargo valuable quinine to Manila and return with medicine and other goods. To forestall possible problems with authorities in Manila Muharto suggests that they paint a registration number, RI-002, on the unregistered war-surplus Dakota. 
 ```
 
 The Dakota lands in Jogjakarta, where Suryadarma commissions Bob to fly
