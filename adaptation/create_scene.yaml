@@ -1,6 +1,0 @@
-writer: markdown+smart
-filters:
-  - make_identifier.lua
-standalone: True
-template: scene.tpl
-

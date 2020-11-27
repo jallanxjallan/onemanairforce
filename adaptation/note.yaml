@@ -1,6 +1,0 @@
----
-reader: markdown
-writer: markdown+smart
-standalone: True
-template: note.tpl
-

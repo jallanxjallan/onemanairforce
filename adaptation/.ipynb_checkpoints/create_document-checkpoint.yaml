@@ -1,0 +1,12 @@
+---
+template: synopsis.tpl
+reader: markdown
+writer: markdown
+standalone: True
+metadata:
+  project: omaf
+filters:
+  - make_identifier.lua
+
+  
+

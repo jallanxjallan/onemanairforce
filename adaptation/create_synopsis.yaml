@@ -1,8 +1,0 @@
----
-template: synopsis.tpl
-writer: markdown
-standalone: True
-filters:
-  - synopsis_only.py
-  
-

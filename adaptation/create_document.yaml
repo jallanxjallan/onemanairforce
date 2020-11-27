@@ -1,8 +1,8 @@
 ---
-template: story.tpl
+reader: markdown
 writer: markdown
 standalone: True
+template: scene
 filters:
   - make_identifier.lua
-  
-
+  - print_output_file.lua
