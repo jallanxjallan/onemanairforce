@@ -1,10 +1,6 @@
 ---
-content_base_name: Screenplay
-content_file_dir: scenes
-input_defaults:
-    filters: 
-      - code_blocks_only.py
-output_defaults:
-  output-file: treatment.html
+filters: 
+  - strip_codeblocks.lua
+
 
 

@@ -1,14 +1,9 @@
 ---
-project: omaf
-identifier: c525a485
-title: Victor Defects
-date:  December 1948
-location: Jogja
-status: Expand
+identifier: b2adcc62
+title: Victor Defects.
+source: synopsis.ctd 
+date: 27 December 1948
+location: Jogjakarta Market 
 ---
-
-```synopsis
-Victor is with Westerling when Ani berates him. 
-Victor defects into hills with friend of Emeria.
-```
-
+Victor is with Westerling when Ani berates him. Victor defects into
+hills with friend of Emeria.

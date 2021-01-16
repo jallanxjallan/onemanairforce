@@ -2,7 +2,7 @@
 project: omaf
 identifier: fb81ff32
 title: Setting The Flaps
-date: 10 July 1947 
+date: 10 June 1947 
 location: RI002
 status: Synopsis
 ---

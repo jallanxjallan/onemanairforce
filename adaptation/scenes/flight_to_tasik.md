@@ -3,6 +3,7 @@ identifier: b308a25a
 project: omaf
 title: Flight to Tasik
 location: Muharto Residence
+component: interview
 date: 28 September 1988
 status: Synopsis
 ---

@@ -4,7 +4,7 @@ project: omaf
 title: Dear Boy
 component: synopsis
 location: 
-date: 
+date: December 1960
 status: New
 ---
 

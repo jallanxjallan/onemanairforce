@@ -7,9 +7,7 @@ location: Maguwo
 status: Synopsis
 ---
 
-Muharto receives a telephone call from Pang Suparto, an army officer serving at a base in Tasikmalaya. about 300 km to the west of Jogjakarta. Pang tells Muharto that a foreign pilot has landed a C-47 military cargo aircraft on a nearby beach.  When Pang, who speaks little English, questioned the pilot, he asked for Muharto by name.
-
-Muharto reports the surprising call to Suryadarma, the commander of the Air Force. Suryadarma grins, saying: “Must be one of your foreign flyboys”, and sends Muharto to Tasik to investigate.
+Muharto receives a telephone call from Pang Suparto, an army officer serving at a base in Tasikmalaya. about 300 km to the west of Jogjakarta. Pang tells Muharto that a foreign pilot has landed a C-47 military cargo aircraft on a nearby beach.  When Pang, who speaks little English, questioned the pilot, he asked for Muharto by name. Muharto reports the surprising call to Suryadarma, the commander of the Air Force. Suryadarma grins, saying: “Must be one of your foreign flyboys”, and sends Muharto to Tasik to investigate.
 
 ```draft
 Flying to Tasik in a refurbished Japanese aircraft, whose pilot had only first seen an airplane a few months previously, Muharto takes his mind from possible catastrophe by recollecting his experiences during his blockade runs three months previously. He decides that only one pilot of his acquaintance has the skills and nerve to land a Dakota on an unknown beach: Bob Freeberg. 

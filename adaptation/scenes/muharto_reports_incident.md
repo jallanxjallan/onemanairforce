@@ -7,6 +7,5 @@ location: Intel
 status: Final
 ---
 
-Muharto reports the incident to Primitivo. To Muharto's consternation, the major  accuses Mas Ded and Muharto of being communists, and so complicit in Ining's
-death.
+Muharto reports the incident to Primitivo. To Muharto's consternation, the major accuses Mas Ded and Muharto of being communists, and so complicit in Ining's death.
 

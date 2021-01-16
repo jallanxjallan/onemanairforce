@@ -7,9 +7,7 @@ location: Manila
 status: Expand
 ---
 
-```synopsis
 Bob finally bought new suits, . After
 purchasing the supplies ordered by Suryadarma, Muharto and Boedi shopped
 for clothes for their fellow officers.
-```
 

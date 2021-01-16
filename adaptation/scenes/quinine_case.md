@@ -18,5 +18,6 @@ produced in a Dutch-owed factory before the war. Muharto jumps to his
 feet, ready to protest this insult to his people's technological skill,
 but Penatun motions for him to sit down, then calmly tells the judge: "A
 foreigner is not qualified to discuss the internal matters of the
-sovereign Republic of Indonesia." The judge considers this, obviously
-with some sympathy, and adjourns the session.
+sovereign Republic of Indonesia." 
+
+The judge considers this argument with some sympathy and adjourns the session, promising a decision in a short time.

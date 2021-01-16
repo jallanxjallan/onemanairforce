@@ -8,8 +8,4 @@ date: December 1947
 status: Expand
 ---
 
-```synopsis
-RI-003 crashes in Malaysia. Investigators find it was carrying household
-goods.
-
-```
+During a routine radio contact, Boedi learns that RI-003 has crashed in Malaysia. 

@@ -7,7 +7,6 @@ location: Jakarta Post
 status: Expand and place
 ---
 
-```synopsis
+
 Camerons tells Syd of his discovery. Syd warns Cameron to not jump to conclusions as the CIA is given far more credit than what they have actually done. 
-```
 

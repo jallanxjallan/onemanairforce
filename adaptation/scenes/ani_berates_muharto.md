@@ -4,11 +4,8 @@ identifier: 7855337a
 title: Ani Berates Muharto
 date: May 1947 
 location: Ani Residence
-status: Expand
+status: Synopsis
 ---
 
-```synopsis
-Ani berates Muharto for trying to learn to fly. Better to stick to a
-safe job as a bureaucrat, like his father.
-```
+Ani berates Muharto for trying to learn to fly. If you want to marry me, better learn to fly a desk and come home every night. 
 

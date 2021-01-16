@@ -2,7 +2,7 @@
 project: omaf
 identifier: c9c3f25b
 title: Madras Curry
-date: August 1947 
+date: July 1947 
 location: Madras Curry
 status: Synopsis
 ---

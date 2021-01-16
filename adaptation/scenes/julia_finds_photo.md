@@ -4,10 +4,8 @@ identifier: d563e07f
 title: Julia Finds Photo
 date: December 1988 
 location: Library
-status: Final
+status: Synopsis
 ---
 
-```synopsis
-Julia finds a photo of RI-002 seemingly guarded by Dutch soldier. She shows it to Cameron and Victor, who recognizes the airfield from the survey processed 40 years before. Victor suspects it might be Karangendah, though he is certain the runway, meant for fighters, is too short for a Dakota. But Cameron remembers from the first Muharto interview that Bob had landed successfully on the CALI blockade run. 
-```
+While correctly placing a misfiled folder of a Batavia newspaper, Julia finds an article about the disappearance of RI-002 illustrated by a photo of RI-002 seemingly guarded by Dutch soldier. At IPPHOS, Victor searches through the files and finds a shot of a runway with similar hills in the background, labelled: Karangendah, Palembang. 
 

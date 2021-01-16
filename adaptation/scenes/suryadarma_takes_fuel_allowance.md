@@ -7,7 +7,6 @@ location: Maguwo
 status: Expand
 ---
 
-```synopsis
 Suryadarma  takes away Bob's fuel allowance. 
-```
+
 

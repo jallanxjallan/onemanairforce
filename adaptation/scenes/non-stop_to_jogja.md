@@ -3,7 +3,7 @@ project: omaf
 identifier: f4f51d90
 title: Non Stop to Jogja
 date: 21 September 1947 
-location: RI-002
+location: RI-002 Cockpit
 status: Synopsis
 ---
 

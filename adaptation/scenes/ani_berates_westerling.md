@@ -7,6 +7,8 @@ location: Jogja Market
 status: Rewrite
 ---
 
+Content to Come
+
 ```synopsis
 Like these officers, I elected to stay in Jogjakarta, though
 I had no intention of surrendering. I had a new bride to pro-

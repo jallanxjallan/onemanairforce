@@ -5,7 +5,7 @@ project: omaf
 title: Julia Finds Emeria
 location: Jogjakarta
 date: December 1988
-status: New
+status: Synopsis
 
 ---
 

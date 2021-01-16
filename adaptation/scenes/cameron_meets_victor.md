@@ -6,7 +6,7 @@ location: IPPHOS
 status: Synopsis
 ---
 
-Cameron enters the IPPHOS office, a ramshackle collection of tables and filing cabinets housed in a colonial-era building one government inspection away from condemnation. The sole occupant is an elderly white person who, indeed, is Victor. Syd had been correct in his assessment. When Cameron makes his request, Victor goes straight to a filing cabinet, pulls out a drawer, and retrieves a photograph of Freeberg, dressed in greasy mechanic's overalls, speaking with Suryadarma on the Maguwo tarmac. 
+Cameron enters the IPPHOS office, a ramshackle collection of tables and filing cabinets housed in a colonial-era building one government inspection away from condemnation. The sole occupant is an elderly white person who, indeed, is Victor. When Cameron makes his request, Victor goes straight to a filing cabinet, pulls out a drawer, and retrieves a photograph of Freeberg, dressed in greasy mechanic's overalls, speaking with Suryadarma on the Maguwo tarmac. 
 
 Cameron asks the fee for using the photograph. Victor replies "two coffees" and points to a warung on the sidewalk. Cameron shrugs, buys the coffees, returns, and sits a table.  Victor asks Cameron to give his regards to Syd, and then asks for more details about the Muharto interview. Cameron recaps, and ends by repeating Muharto's suspicion that much remains to be discovered. Victor says: "Of course. Spoor was behind it all. He hated Freeberg with an all-consuming passion."
 

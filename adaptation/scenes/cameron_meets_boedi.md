@@ -1,11 +1,17 @@
 ---
+project: omaf
+identifier: d9253526
+title: Cameron Meets Boedi
 date: October 1988
 location: Boedi
 ---
 
+Sabam passes along an invitation to Cameron to attend a reception for some Harvard alumni visiting Jakarta on study tour. The reception is at the home of Boediardjo, a former information minister and senior Air Force officer. Cameron discovers that he is the Boediardjo mentioned by Muharto as the radio officer of RI-002. At Cameron's urging, he tells amusing anecdotes of his days with RI-002 to his guests. 
+
+
 ``` {.synopsis}
 Cameron attends a lecture on cultural tourism to visiting American academics. He is invited to the sponsor's reception, where he meets Boedi and discovers that he had been radio operator of RI-002. At Cameron's urging, he tells amusing anecodes of his days with RI-002 to his guests. 
-```
+
 
 Syd introduces Cameron to Boedi, Affandi and stereo. Suggests Cameron
 visit Affandi Museum if he ever goes to Jogja. Boedi tells of stranded
@@ -57,7 +63,7 @@ Sabam gives Cameron his invite to a Harvard-alumni gathering at Boedi's house. C
 
 
 
-```
+
 Syd introduces Cameron to Boedi, Affandi and stereo.
 Suggests Cameron visit Affandi Museum if he ever goes to Jogja. 
 Boedi tells of stranded in Manila, Paradrop and Soekarno Tour

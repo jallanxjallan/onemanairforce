@@ -7,8 +7,7 @@ location: Ani Residence
 status: Expand
 ---
 
-```synopsis
 Ani and Muharto marry on a day marked by equal amounts and joy and
 sadness.
-```
+
 
