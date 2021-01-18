@@ -5,7 +5,7 @@ source: synopsis.ctd
 ---
 Cameron and Julia are hunched over a reading table, Julia translating
 Dutch-language headlines. Julia tells Cameron they she must leave, as
-she is meeting friends at the Hotel Borobudur. Cameron says the he also
+she is meeting friends at the Hotel Borobudur. Cameron says that he also
 has a date for drinks with a buddy at that hotel, and offers her a ride.
 She accepts, and is nonplussed when he takes her to an army surplus
 Harley Davidson motorcycle in the parking lot. During the thrilling

@@ -1,4 +1,5 @@
 ---
+identifier: ab4aba6b
 project: omaf
 title: Company Man
 date: August 1947
