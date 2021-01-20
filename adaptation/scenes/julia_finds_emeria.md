@@ -1,13 +1,9 @@
----
-
 identifier: b583d678
 project: omaf
 title: Julia Finds Emeria
 location: Jogjakarta
 date: December 1988
 status: Synopsis
-
----
 
 Julia and Cameron go to Jogja with Muharto and Ani to visit parents
 graves in honor of 40th anniversary and have a small party with

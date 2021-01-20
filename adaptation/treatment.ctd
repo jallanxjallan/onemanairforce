@@ -1453,8 +1453,8 @@ The IPPHOS office is in a building one inspection away from being condemned. Cam
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1610965565.03" unique_id="605">
-			<rich_text>The day after publication, Muharto visits the Post to thank Sabam and Cameron personally and pick up extra copies to give to friends. Muharto tells Sabam and Cameron that he was appa
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1611130170.56" unique_id="605">
+			<rich_text>The day after publication of the Freeberg story, Muharto visits the Post to thank Sabam and Cameron personally and pick up extra copies to give to friends. Muharto tells them ...
 
 
  </rich_text>
@@ -1490,10 +1490,9 @@ The IPPHOS office is in a building one inspection away from being condemned. Cam
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701780.27" ts_lastsave="1607592306.46" unique_id="477">
-			<rich_text>who goes  </rich_text>
-			<rich_text link="node 123">Into The Stacks</rich_text>
-			<rich_text> to get the book he needs</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701780.27" ts_lastsave="1611129512.01" unique_id="477">
+			<rich_text>At the National Library reference archives, Cameron meets the attendant, Julia, an attractive, bookish Indonesian woman in her early twenties. She demonstrates an impressive competence finding the books he requests in short order, along with related material she thinks might be useful. Cameron reads about the political situation in post-war Indonesia, and the high regard the various foreign diplomats, journalists, and academics felt held for Freeberg. After a couple of hours, Cameron wants to break for coffee. As no beverages are allowed in the reference section, Julia escorts him to the staff canteen. Julia tells Cameron about her desire to take her master's degree in an American university, and reveals that her father is an army colonel in the intelligence section.  
+</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Into the Stacks" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607592252.88" ts_lastsave="1608082817.1" unique_id="757">
 				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfanVsaWEubWQ=">Cameron meets Julia</rich_text>
 				<rich_text>, 
@@ -1516,25 +1515,29 @@ The IPPHOS office is in a building one inspection away from being condemned. Cam
 				<rich_text> </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Artsy Circle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600246757.35" ts_lastsave="1610875638.21" unique_id="430">
-			<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		<node custom_icon_id="0" foreground="" is_bold="False" name="At the Kuntzkring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1611046472.66" ts_lastsave="1611132206.28" unique_id="810">
+			<rich_text>Cameron visits Victor to learn more about Spoor's efforts to stop the blockade runs. Instead, Victor tells Cameron of Emiria Soenassa, a beautiful charismatic painter who fell in love with him after he had praised her art in a newspaper article. 
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Artsy Circle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600246757.35" ts_lastsave="1611046478.29" unique_id="430">
+				<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cameron visits IPPHOS . Victor tells Cameron about his </rich_text>
-			<rich_text link="node 88">Victor Arrives</rich_text>
-			<rich_text> and his life in post-war Batavia </rich_text>
-			<rich_text link="node 84">Arts Circle</rich_text>
-			<rich_text> , starting when </rich_text>
-			<rich_text link="node 89">Victor Meets Emeria</rich_text>
-			<rich_text>  .</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Circle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1605777961.1" unique_id="597">
-				<rich_text link="file c2NlbmVzL2FydHNfY2lyY2xlLm1k">Scene</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Meets Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.8" ts_lastsave="1605778044.62" unique_id="515">
-				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19lbWVyaWEubWQ=">Scene</rich_text>
+				<rich_text link="node 88">Victor Arrives</rich_text>
+				<rich_text> and his life in post-war Batavia </rich_text>
+				<rich_text link="node 84">Arts Circle</rich_text>
+				<rich_text> , starting when </rich_text>
+				<rich_text link="node 89">Victor Meets Emeria</rich_text>
+				<rich_text>  .</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Circle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1605777961.1" unique_id="597">
+					<rich_text link="file c2NlbmVzL2FydHNfY2lyY2xlLm1k">Scene</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Meets Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.8" ts_lastsave="1605778044.62" unique_id="515">
+					<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19lbWVyaWEubWQ=">Scene</rich_text>
+				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Harvard Party" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595827727.75" ts_lastsave="1610978542.07" unique_id="328">
-			<rich_text>Boedi tells Cameron of the humorous incidents in Manila.
-He ends with Muharto believing that Tom Lee was being generous, when it was obvious that he was using them as assets. </rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Harvard Party" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595827727.75" ts_lastsave="1611032275.5" unique_id="328">
+			<rich_text>Sabam gives Cameron his invitation to a reception for visiting Harvard alumni at the house of Boediardjo, a former Air Force senior officer and government minister. Cameron learns that this was the same Boediardjo who served as RI-002 radio operator. At Cameron's urging Boedi regales his guest with tales of adventure. The guests depart soon after dinner to catch an early flight, and Boedi invites Cameron to stay so he can ask him about Muharto's investigations. Boedi also tells Cameron of the humorous incidents when they were stranded penniless in Manila waiting to sell the quinine. Boedi pokes affection fun at his former comrade for his belief that Freeberg's friend Tom Lee would treat them to drinks and dinner out of kindness for their predicament. However, to Boedi, it had been obvious that Lee had been an intelligence operative pumping them for information about the Republic. 
+</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron meets Boedi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1608083603.78" unique_id="546">
 				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfYm9lZGkubWQ=">Scene</rich_text>
 				<rich_text> 
@@ -1582,6 +1585,14 @@ Establish that Halim and Iswandi are going marry their fiances on their return w
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.74" ts_lastsave="1607682493.09" unique_id="496">
 					<rich_text link="file c2NlbmVzL2NvbXBhbnlfbWFuLm1k">Scene</rich_text>
 				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Company Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605342280.14" ts_lastsave="1611133339.33" unique_id="459">
+					<rich_text link="file c2NlbmVzL2NvbXBhbnlfbWFuLm1k">Scene</rich_text>
+					<rich_text>
+ </rich_text>
+					<rich_text link="node 429">Company Man</rich_text>
+					<rich_text> 
+</rich_text>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="To Be Continued" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607679100.29" ts_lastsave="1607680960.77" unique_id="760">
 				<rich_text link="file c2NlbmVzL3RvX2JlX2NvbnRpbnVlZC5tZA==">Scene</rich_text>
@@ -1589,8 +1600,8 @@ Establish that Halim and Iswandi are going marry their fiances on their return w
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Dates Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605781578.61" ts_lastsave="1607608258.31" unique_id="652">
-			<rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Dates Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605781578.61" ts_lastsave="1611032876.28" unique_id="652">
+			<rich_text>Cameron returns to the library for more research. Julia helps by translating headlines in Dutch newspapers. They discover that they had both arranged to meet friends at the Hotel Hilton. Cameron offers to take her there on his Harley Davidson. At the hotel, Julia's friends tell her to go after Cameron. If he rides a Harley he must be rich. They tease her by saying thatas the daughter of &quot;Honest Eddy&quot;, one of the few senior army officers who is not corrupt, this would be the only way she could afford to pay her own bill at this luxury hotel.  
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Rides a Harley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.86" ts_lastsave="1606552211.77" unique_id="627">
 				<rich_text link="file c2NlbmVzL25haWtfaGFybGV5Lm1k">Scene</rich_text>
@@ -1603,11 +1614,46 @@ Establish that Halim and Iswandi are going marry their fiances on their return w
 				<rich_text link="file c2NlbmVzL2J1bGVfa2F5YS5tZA==">Scene</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="George Reuneker Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600404003.5" ts_lastsave="1610875668.88" unique_id="443">
-			<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Syd introduces Cameron to George Rueneker, who had facilitated his journalistic trips into remote areas in the 70s. George tells Cameron about early AURI, the </rich_text>
-			<rich_text link="node 437">Home Industry</rich_text>
-			<rich_text> .  </rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Thugs and Bandits" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605779266.96" ts_lastsave="1611033450.39" unique_id="647">
+			<rich_text>
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Meets Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607937773.71" ts_lastsave="1607937802.71" unique_id="778">
+				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19rb2tlLm1k">Scene</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 82">Victor Meets Koke</rich_text>
+				<rich_text> </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Smuggling Pots and Pans " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607937886.47" ts_lastsave="1607937920.96" unique_id="779">
+				<rich_text link="file c2NlbmVzL3NtdWdnbGluZ19maW5lX2NoaW5hLm1k">Scene</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 734">Smuggling Fine China</rich_text>
+				<rich_text> </rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Portrait of Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1611131633.74" ts_lastsave="1611132235.22" unique_id="811">
+			<rich_text>Intrigued by Victor's stories of Emeria, Julia searches the stacks for articles mentioning her. A portrait emerges of an independent, charismatic young  woman  whose mixed parentage of a Dutch businessman and a Javanese aristocrat and artistic talent grants her entry into all levels of European and Indonesian society.     
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Researches Emiria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607855729.57" ts_lastsave="1611131641.08" unique_id="769">
+				<rich_text link="file c2NlbmVzL2p1bGlhX3Jlc2VhcmNoZXNfZW1pcmlhXy5tZA==">Scene</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 720">Julia Researches Emeria</rich_text>
+				<rich_text>  </rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="American Surfer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607688332.54" ts_lastsave="1611131816.34" unique_id="763">
+			<rich_text>Victor shows Cameron the photo of Robert Koke, and tells of his suspicion that Koke had been &quot;The Quiet American&quot; in Batavia. Cameron ties this in with Boedi's assessment of Tom Lee, and comes to the conclusion that Spoor had been plotting with the newly formed CIA to overthrow the Republic and take control of the East Indies himself, as had happened in South Africa. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron suspects CIA" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1607688357.97" unique_id="529">
+				<rich_text link="file c2NlbmVzL2NhbWVyb25fc3VzcGVjdHNfY2lhLm1k">Scene</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Reveals History" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1607688362.13" unique_id="607">
+				<rich_text link="file c2NlbmVzL3N5ZF9yZXZlYWxzX2hpc3RvcnkubWQ=">Scene</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="George Reuneker Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600404003.5" ts_lastsave="1611131550.65" unique_id="443">
+			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Ining in Jalan Jetis" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.75" ts_lastsave="1608084895.68" unique_id="500">
 				<rich_text link="file c2NlbmVzL2luaW5nX3dpbGxfdHJhaW5fc3R1ZGVudHMubWQ=">Muharto moves Ining</rich_text>
 				<rich_text> into a house on Jalan Jetis on the slopes of Mount Merapi, adjacent to the forested areas where Ining will train students to become
@@ -1634,8 +1680,8 @@ from Manila.
 				<rich_text> </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia and Ani Bond" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607855136.77" ts_lastsave="1608083117.78" unique_id="766">
-			<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia and Ani Bond" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607855136.77" ts_lastsave="1611143346.88" unique_id="766">
+			<rich_text>Julia listens, in awe, of Ani recounting of life in Jogja during the revolution. Ani tells of her growth from a naive teenager thinking only of making a household to a committed champion of the people, volunteering to teach and to feed the swelling population of refugees.</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Admires Ani" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607855146.7" ts_lastsave="1607855336.52" unique_id="767">
 				<rich_text link="file c2NlbmVzL2p1bGlhX2FkbWlyZXNfYW5pLm1k">Scene</rich_text>
 				<rich_text>
@@ -1648,24 +1694,6 @@ from Manila.
 </rich_text>
 					<rich_text link="file c2NlbmVzL2FuaV9zZXJ2ZXNfcmljZS5tZA==">Scene</rich_text>
 				</node>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Thugs and Bandits" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605779266.96" ts_lastsave="1607937886.46" unique_id="647">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Meets Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607937773.71" ts_lastsave="1607937802.71" unique_id="778">
-				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19rb2tlLm1k">Scene</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 82">Victor Meets Koke</rich_text>
-				<rich_text> </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Smuggling Pots and Pans " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607937886.47" ts_lastsave="1607937920.96" unique_id="779">
-				<rich_text link="file c2NlbmVzL3NtdWdnbGluZ19maW5lX2NoaW5hLm1k">Scene</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 734">Smuggling Fine China</rich_text>
-				<rich_text> </rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Ining is Dood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607677168.93" ts_lastsave="1608039351.26" unique_id="759">
@@ -1731,14 +1759,6 @@ from Manila.
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Bought Suits" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.82" ts_lastsave="1605835112.65" unique_id="561">
 				<rich_text link="file c2NlbmVzL2JvYl9ib3VnaHRfc3VpdHMubWQ=">Scene</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Company Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605342280.14" ts_lastsave="1608039244.01" unique_id="459">
-				<rich_text link="file c2NlbmVzL2NvbXBhbnlfbWFuLm1k">Scene</rich_text>
-				<rich_text>
- </rich_text>
-				<rich_text link="node 429">Company Man</rich_text>
-				<rich_text> 
-</rich_text>
-			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Opium Runner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605342149.67" ts_lastsave="1608101403.6" unique_id="458">
 			<rich_text>
@@ -1750,7 +1770,7 @@ from Manila.
 				<rich_text link="file c2NlbmVzL29yZGVyaW5nX3N1aXRzLm1k">Scene</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Black Flights" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1607688507.25" unique_id="534">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Black Flights" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1611131633.73" unique_id="534">
 			<rich_text link="file c2NlbmVzL2JsYWNrX2ZsaWdodHMubWQ=">Scene</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cobley Accuses" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.86" ts_lastsave="1608101324.22" unique_id="629">
 				<rich_text link="file c2NlbmVzL2NvYmxleV9hY2N1c2VzLm1k">Scene</rich_text>
@@ -1775,24 +1795,9 @@ from Manila.
 				<rich_text link="file c2NlbmVzL2JhbWJhbmdfY2Fubm90X2NvbmNlYWxfZW52eS5tZA==">Scene</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Researches Emiria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607855729.57" ts_lastsave="1607855835.9" unique_id="769">
-			<rich_text link="file c2NlbmVzL2p1bGlhX3Jlc2VhcmNoZXNfZW1pcmlhXy5tZA==">Scene</rich_text>
-			<rich_text>
-</rich_text>
-			<rich_text link="node 720">Julia Researches Emeria</rich_text>
-			<rich_text>  </rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="American Surfer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607688332.54" ts_lastsave="1607688332.54" unique_id="763">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron suspects CIA" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1607688357.97" unique_id="529">
-				<rich_text link="file c2NlbmVzL2NhbWVyb25fc3VzcGVjdHNfY2lhLm1k">Scene</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Reveals History" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1607688362.13" unique_id="607">
-				<rich_text link="file c2NlbmVzL3N5ZF9yZXZlYWxzX2hpc3RvcnkubWQ=">Scene</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Goes Ballistic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605789012.19" ts_lastsave="1606650983.49" unique_id="653">
-			<rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Goes Ballistic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605789012.19" ts_lastsave="1611134006.2" unique_id="653">
+			<rich_text>Colonel Eddy tells Julia of his guilt in not being able to fulfill the dreams of his only child. He tells Julia to start applying to universities in Europe and America. When Julia asks where the tuition money is coming from, Eddy holds up his hand and says: &quot; Beres Sayang &quot;, meaning she should not worry.
+Later that evening, Cameron takes Julia to an expat party in Kemang, and she is mistaken for a bar girl. Julia takes Cameron to a far corner of the garden and screams at him in fury and humiliation, saying that all foreigners think Indonesian women who hang around foreigners are either household servants or hookers.  
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Beres Sayang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607856077.03" ts_lastsave="1607856184.66" unique_id="770">
 				<rich_text link="node 735">Beres Sayang</rich_text>
@@ -1915,29 +1920,33 @@ from Manila.
 				<rich_text>   </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Juilius Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605835220.0" ts_lastsave="1606650991.35" unique_id="657">
-			<rich_text link="file c2NlbmVzL3VzZWZ1bF9pZGlvdC5tZA==">Scene</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Suggests Julius" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.83" ts_lastsave="1607936295.28" unique_id="577">
-				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9zdWdnZXN0c19qdWxpdXMubWQ=">Scene</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Useful idiot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607936295.28" ts_lastsave="1609045331.15" unique_id="776">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Useful Idiot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1611136093.61" ts_lastsave="1611136305.78" unique_id="812">
+			<rich_text>Cameron uses his Jakarta Post credentials to gain access to Julius Tahija. He asks some perfunctory questions about foreign investment, then changes the subject to the revolution, and the time Tahija worked for Spoor. Tahija is surprised at the question, but revels in the opportunity to relive those exciting times. Cameron mentions Victor. Tahija grins, and tells Cameron that Victor had been a &quot;Useful Idiot&quot;, an intelligence asset Spoor used to keep tabs on the Republican intellectuals in Batavian through is supposed clandestine relationship with Emeria.  </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Juilius Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605835220.0" ts_lastsave="1611136099.55" unique_id="657">
 				<rich_text link="file c2NlbmVzL3VzZWZ1bF9pZGlvdC5tZA==">Scene</rich_text>
-				<rich_text> 
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Suggests Julius" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.83" ts_lastsave="1607936295.28" unique_id="577">
+					<rich_text link="file c2NlbmVzL3ZpY3Rvcl9zdWdnZXN0c19qdWxpdXMubWQ=">Scene</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Useful idiot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607936295.28" ts_lastsave="1609045331.15" unique_id="776">
+					<rich_text link="file c2NlbmVzL3VzZWZ1bF9pZGlvdC5tZA==">Scene</rich_text>
+					<rich_text> 
 </rich_text>
-				<rich_text link="node 514">Useful Idiot</rich_text>
-				<rich_text> 
+					<rich_text link="node 514">Useful Idiot</rich_text>
+					<rich_text> 
 </rich_text>
-				<rich_text weight="heavy">Spoor assigns victor to westerling hoping he will, in fact defect, bringing false information to the republican s
+					<rich_text weight="heavy">Spoor assigns victor to westerling hoping he will, in fact defect, bringing false information to the republican s
 </rich_text>
-				<rich_text>
+					<rich_text>
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Sabam Furious" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.82" ts_lastsave="1607935166.95" unique_id="550">
-				<rich_text link="file c2NlbmVzL3NhYmFtX2Z1cmlvdXMubWQ=">Scene</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Sabam Furious" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.82" ts_lastsave="1607935166.95" unique_id="550">
+					<rich_text link="file c2NlbmVzL3NhYmFtX2Z1cmlvdXMubWQ=">Scene</rich_text>
+				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Ragu" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607856756.65" ts_lastsave="1607856770.17" unique_id="771">
-			<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Ragu" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607856756.65" ts_lastsave="1611133431.07" unique_id="771">
+			<rich_text>In an unguarded (and unclothed) moment, Cameron tells Julia about the Jakarta Post investigations into Army officers seeking to influence the emerging capital market through leaking false information to pump up stock values. Julia realizes that this must be the deal her father is involved in.
+Julia begs her father not to sully his reputation as &quot;Honest Eddy&quot; by participating in capital market manipulation, even though it means she will not be able to study overseas. Eddy replies: &quot;It's all right. It's not corruption when you take money from foreigners.&quot;</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Spills the Beans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1607856770.17" ts_lastsave="1607857075.9" unique_id="772">
 				<rich_text link="file c2NlbmVzL2NhbWVyb25fc3BpbGxzX3RoZV9iZWFucy5tZA==">Scene</rich_text>
 				<rich_text>
@@ -1952,10 +1961,13 @@ from Manila.
 				<rich_text link="file c2NlbmVzL2p1bGlhX2NvbmZyb250c19lZGR5Lm1k">Scene</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Second Jogja Trip" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605834258.51" ts_lastsave="1607938456.39" unique_id="655">
-			<rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="At The Lapo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1611142452.29" ts_lastsave="1611142817.22" unique_id="813">
+			<rich_text>Sabam invites Cameron for a late meal of pork and beer after a hard night. Sabam tells Cameron the things Syd keeps to himself. He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Visits Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605834258.51" ts_lastsave="1611142899.35" unique_id="655">
+			<rich_text>During a trip to Jogja with Cameron, Julia slips away and follows a lead she encountered during her research. As she hoped, she finds Emiria Soenassa, who has now returned to Indonesia after living in the Netherlands, married to a Dutch academic. Asked why she abandoned Victor; Emiria replied that you always have to choose sides. 
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Finds Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.8" ts_lastsave="1607856681.45" unique_id="524">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Finds Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.8" ts_lastsave="1611133522.95" unique_id="524">
 				<rich_text link="file c2NlbmVzL2p1bGlhX2ZpbmRzX2VtZXJpYS5tZA==">Scene</rich_text>
 				<rich_text>
 </rich_text>
@@ -1963,8 +1975,8 @@ from Manila.
 				<rich_text> </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah Raid" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605779455.87" ts_lastsave="1607935128.89" unique_id="648">
-			<rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah Raid" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605779455.87" ts_lastsave="1611134596.77" unique_id="648">
+			<rich_text>Following Sanyoto's instructions and carrying a letter and a bottle of whiskey, Cameron and Julia find Anwar Congo. The gangster is pleased with the message and gift from his old friend, and arranges for his two visitors to be smuggled onto the base at Karangendah, where they confirm that this wss the location of the photo of RI-002. When they return, Anwar introduces them to several men who had been employed at Karangendah in menial civilian jobs. They attest that they had seen the crew in captivity. However, no one remembers seeing Freeberg. 
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Finds Photo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.83" ts_lastsave="1607936418.01" unique_id="571">
 				<rich_text link="file c2NlbmVzL2p1bGlhX2ZpbmRzX3Bob3RvLm1k">Scene</rich_text>
@@ -1988,8 +2000,8 @@ Sanyoto tells Cameron that if he wants to solve the mystery, go to Palembang, ch
 				<rich_text link="file c2NlbmVzL2thcmFuZ2VuZGFoX3JhaWQubWQ=">Scene</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Last Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605764196.82" ts_lastsave="1610956958.13" unique_id="640">
-			<rich_text>From Fowler Letter</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Last Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605764196.82" ts_lastsave="1611131572.99" unique_id="640">
+			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="SE Air Bankrupt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.74" ts_lastsave="1605764218.54" unique_id="486">
 				<rich_text link="file c2NlbmVzL3NlX2Fpcl9iYW5rcnVwdC5tZA==">Scene</rich_text>
 			</node>
