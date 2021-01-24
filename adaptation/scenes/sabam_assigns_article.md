@@ -8,7 +8,7 @@ component: narrative
 status: Synopsis
 ---
 
-Cameron Bishop, an well-groomed American in his mid-twenties who displays the intellectual arrogance of an Ivy-league post-grad student, stands at the desk of a middle-aged
+Cameron Bishop, a well-groomed American in his mid-twenties who displays the intellectual arrogance of an Ivy-league post-grad student, stands at the desk of a middle-aged
 Indonesian reporter, his shirt wrinkled and sweaty from a long day on his beat. Cameron points to a sheet
 of paper on the desk and lectures the older man in a condescending
 manner about his minor mistakes in English grammar. 

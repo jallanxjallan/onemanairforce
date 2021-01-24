@@ -22,7 +22,7 @@ def action(elem, doc):
     if isinstance(elem, pf.Header) and elem.level == 9:
         key = pf.stringify(elem)
         date = doc.r.hget(key, 'date')
-        title = doc.r.hget(key, 'title')
+        location = doc.r.hget(key, 'location')
         if not date:
             pf.debug('no date found for ', title)
             return elem
