@@ -15,11 +15,25 @@ from storage.cherrytree import CherryTree
 from document.pandoc import PandocArgs, dump_pandoc, interfile
 
 def export_synopsis(doc_index='treatment.ctd', base_node='Scenes'):
+    current_level = 3
+    def mtext(node):
+        nonlocal current_level
+        if node.level == current_level:
+            prefix = ''
+        elif node.level == 3:
+            prefix = '**In 1988**'
+        elif node.level == 4:
+            prefix = '**In a flashback**'
+        current_level = node.level
+        return f'{prefix} {node.content}'
+
     ct = CherryTree(doc_index)
+
+    content = [f'**{n.name}**: {n.content}' for n in ct.nodes(base_node) if n.content]
+
     print(PandocArgs(
-        inputs=[interfile(f'**{n.name}**: {n.content}')
-                for n in ct.nodes(base_node) if n.content],
-        output='output/synopsis.docx',
+        input=interfile('\n\n'.join(content)),
+        output='output/synopsis.md',
         fr='markdown')
     )
 
