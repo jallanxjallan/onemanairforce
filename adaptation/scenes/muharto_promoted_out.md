@@ -1,1 +1,0 @@
-Muharto tells Cameron that he was soon after promoted to a desk job at base. He had little contact with Bob after that. The final time was as Bob was loading RI-002 for a flight to transfer Republican gold from a base near Batavia to safety in Bukittinggi. 

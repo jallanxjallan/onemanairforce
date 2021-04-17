@@ -1,7 +1,0 @@
----
-reader: markdown
-writer: markdown
-standalone: True
-template: scene
-filters:
-  - make_document_identifier.lua

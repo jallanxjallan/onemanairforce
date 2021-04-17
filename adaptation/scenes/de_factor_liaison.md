@@ -1,1 +1,0 @@
-Salipada Penatun arranges for Muharto to meet Major Primitivo of Philippine Army intel. At one meeting, Primitivo introduces Muharto to Captain Ignatius Espina. a guerrilla fighter during the Japanese occupation. Primitivo offers to second Espina to the Republic as a clandestine military advisor to train youth militias. 

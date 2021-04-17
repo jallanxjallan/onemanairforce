@@ -1,8 +1,5 @@
 ---
-identifier: b7ab0a50
 title: Cameron Meets Muharto
-source: synopsis.ctd 
 ---
-Muharto relates how he met Freeberg, and the adventures they had running
-the blockade, always emphasizing Freeberg's extraordinary piloting
-skills and his humility. Muharto ends his recollection
+
+American freelance journalist Cameron Bishop calls on Petit Muharto in his Jakarta home to interview him about his experiences running the Dutch blockade with Bob Freeberg. Muharto begins with a surprise telephone message he received from Pang Suparto, an army officer, telling that a foreign pilot had made an emergency landing on a remote beach and was asking for Muharto by name.  

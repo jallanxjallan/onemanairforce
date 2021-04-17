@@ -1,7 +1,0 @@
----
-filters: 
-  - strip_codeblocks.lua
-  - insert_metadata_ref.lua
-
-
-

@@ -19,14 +19,15 @@ def prepare(doc):
     doc.r = redis.Redis(decode_responses=True)
 
 def action(elem, doc):
-    if isinstance(elem, pf.CodeBlock):
-        key = elem.text
+    if isinstance(elem, pf.Header) and elem.level == 9:
+        key = pf.stringify(elem)
         date = doc.r.hget(key, 'date')
+        location = doc.r.hget(key, 'location')
         if not date:
-            print('no date found')
+            pf.debug('no date found for ', title)
             return elem
-        timestamp = dateparser.parse(date)
-        return pf.Block(pf.Strong(timestamp.strftime((%B %Y))))
+        header = pf.Str(f'{dateparser.parse(date).strftime("%B %Y")} : {title}')
+        return pf.Header(header, level=1)
     return elem
 
 def main(doc=None):
