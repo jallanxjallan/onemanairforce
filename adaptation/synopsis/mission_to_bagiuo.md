@@ -1,0 +1,6 @@
+---
+title: Mission To Baguio
+date: 30 November 1947 
+status: expand
+---
+ Bob, Muharto and Boedi fly Republican economists and other experts to Manila to meet with United Nations representatives in the hill town of Baguio.
