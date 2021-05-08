@@ -576,16 +576,23 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 				<rich_text>
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1620128260.37" unique_id="1001">
-				<rich_text>• Stuck in Manila for three months
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1620463366.78" unique_id="1001">
+				<rich_text>
+• Stuck in Manila for three months
 • VT-CLA shot down
 • Finally sells quinine and RI-002 returns
-• The day after arrival Bob Meets Soekarno</rich_text>
+• The day after arrival Bob Meets Soekarno
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that Bob and the crew were stuck in Manila for three months, fighting with the Dutch for ownership of the quinine. </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128449.81" ts_lastsave="1620128674.07" unique_id="1002">
-				<rich_text>• Bob flies numerous missions 
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128449.81" ts_lastsave="1620462705.84" unique_id="1002">
+				<rich_text link="file c3lub3BzaXMvcmVwdWJsaWNhbl9saWZlbGluZS5tZA==">Document</rich_text>
+				<rich_text>
+• Bob flies numerous missions 
 • Cargoes only mundane stuff 
-• Lead into Last Corned Beef</rich_text>
+• Lead into Last Corned Beef
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto explains the mundane but essential mission, and the dangers of evading Dutch patrols.   </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Takes Offense" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619845852.38" ts_lastsave="1620128810.36" unique_id="993">
 				<rich_text link="file c3lub3BzaXMvc3Bvb3JfdGFrZXNfb2ZmZW5zZS5tZA==">Document</rich_text>
@@ -597,13 +604,14 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 				<codebox char_offset="10" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">title: Spoor takes offence
 status: needs work</codebox>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Initial Searches" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619411010.89" ts_lastsave="1620199967.56" unique_id="969">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Initial Searches" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619411010.89" ts_lastsave="1620462696.07" unique_id="969">
 				<rich_text link="file c3lub3BzaXMvaW5pdGlhbF9zZWFyY2hlcy5tZA==">document</rich_text>
 				<rich_text> 
 • Muharto tells Cameron of the frustrations he encountered in his search for the truth of what happened to his friend. 
 • Tells of frustration doing initial research in early 1980s. 
 • Military feigns ignorance. 
 • Libraries unorganized or zealously guarded.  
+• 
 
 </rich_text>
 			</node>

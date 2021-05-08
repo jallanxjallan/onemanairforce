@@ -1,159 +1,162 @@
 # Episode 1
 
-Intro of Bob landing at Cilotok 
+[Bob Lands On Beach](synopsis/bob_lands_on_beach.md)
 
-[Bob Lands On Beach](synopsis/bob_lands_on_beach.md) 
+[Cameron Meets Muharto](synopsis/cameron_meets_muharto.md)
 
-Camerons first meeting with Muharto
-
-[Julia Signs On](synopsis/julia_signs_on.md)
-[Julia Learns of Emeria](synopsis/julia_learns_of_emeria.md)
-[Julia Researches Emeria](synopsis/julia_researches_emeria.md)
-[Julia Admires Emeria](synopsis/julia_admires_emeria.md)
-[Julia Disagrees About Koke](synopsis/julia_disagrees_about_koke.md)
-[Cameron Confused By Map](synopsis/cameron_confused_by_map.md)
-[Julia Admires Ani](synopsis/julia_admires_ani.md)
-[Julia Finds Emeria](synopsis/julia_finds_emeria.md)
-[Victor Arrives](synopsis/victor_arrives.md)
-[Victor Writes About Art](synopsis/victor_writes_about_art.md)
-[Victor Assigned To Spoor](synopsis/victor_assigned_to_spoor.md)
-[Victor Meets Emeria](synopsis/victor_meets_emeria.md)
-[Victor Meets Robert Koke](synopsis/victor_meets_robert_koke.md)
-[Victor Defects](synopsis/victor_defects.md)
-[Victor Learns Truth](synopsis/victor_learns_truth.md)
-[Eddy Lectures Julia](synopsis/eddy_lectures_julia.md)
-[Eddy Promises Julia](synopsis/eddy_promises_julia.md)
-[Julia Dates Eric](synopsis/julia_dates_eric.md)
-[Cameron Complains](synopsis/cameron_complains.md)
-[Julia Confronts Eddy](synopsis/julia_confronts_eddy.md)
 [Surprise Call](synopsis/surprise_call.md)
-[Muharto Meets Pang](synopsis/muharto_meets_pang.md)
+
+[Railway Guide](No%20Data) 
+
+Muharto tells Cameron that this aircraft, a Nikosoren, was one of a score of aircraft the Japanese left behind as not-airworthy. The air force mechanics kept the aircraft flying through skill and guesswork, but Muharto was aware that any flight could end in disaster. 
+
+
+
 [Third Cali Run](synopsis/third_cali_run.md)
+
 [Bob Meets Suryadarma](synopsis/bob_meets_suryadarma.md)
+
+[Unorthodox Request](No%20Data)
+
 [Landing At Karangendah](synopsis/landing_at_karangendah.md)
+
 [Drop Over Bukittinggi](synopsis/drop_over_bukittinggi.md)
 
+[Off The Beach](No%20Data)
+
 [Bamboo Runway](synopsis/bamboo_runway.md)
+
 [Fictitious Registration](synopsis/fictitious_registration.md)
-[Risky Missions](synopsis/risky_missions.md)
-[Cobley Accuses](synopsis/cobley_accuses.md)
-[Not Ready For Airplanes](synopsis/not_ready_for_airplanes.md)
-[Landing Gear Collapse](synopsis/landing_gear_collapse.md)
-[Cobley Makes Deal](synopsis/cobley_makes_deal.md)
-[POAS Flights](synopsis/poas_flights.md)
-[Cobley Crashes](synopsis/cobley_crashes.md)
-[Bob Arrives](synopsis/bob_arrives.md)
-[Southeastern Airlines](synopsis/southeastern_airlines.md)
-[Bob Orders Suits](synopsis/bob_orders_suits.md)
-[Buying The Dakota](synopsis/buying_the_dakota.md)
-[Missing Dakota](synopsis/missing_dakota.md)
-[Missing Suits](synopsis/missing_suits.md)
-[Bob Walters Bitches](synopsis/bob_walters_bitches.md)
-[Deportation Offer](synopsis/deportation_offer.md)
-[Bob Bought Suits](synopsis/bob_bought_suits.md)
-[Partner Has Done Nothing](synopsis/partner_has_done_nothing.md)
-[Se Air Bankrupt](synopsis/se_air_bankrupt.md)
+
+[No Data](No%20Data)
+
 [Bob Meets Soekarno](synopsis/bob_meets_soekarno.md)
-[Kalimantan Paratroopers](synopsis/kalimantan_paratroopers.md)
-[Thai Massage](synopsis/thai_massage.md)
-[Flying The GOC](synopsis/flying_the_goc.md)
+
+[Republican Lifeline](No%20Data)
+
 [Last Corned Beef](synopsis/last_corned_beef.md)
-[Mission To Bagiuo](synopsis/mission_to_bagiuo.md)
-[Grounded In Changi](synopsis/grounded_in_changi.md)
-[Onward To Manila](synopsis/onward_to_manila.md)
-[Bob Buys An Olds](synopsis/bob_buys_an_olds.md)
-[Bob Defies Suryadarma](synopsis/bob_defies_suryadarma.md)
-[Bob Returns](synopsis/bob_returns.md)
-[Cameron Meets Julia](synopsis/cameron_meets_julia.md)
-[Coffee With Julia](synopsis/coffee_with_julia.md)
-[Cameron Offers A Lift](synopsis/cameron_offers_a_lift.md)
-[Julia And Cameron Fight](synopsis/julia_and_cameron_fight.md)
-[Julia Goes Ballistic](synopsis/julia_goes_ballistic.md)
-[Julia Decides To Stay](synopsis/julia_decides_to_stay.md)
-[Tom Lee Treats](synopsis/tom_lee_treats.md)
-[Victor Meets Koke](synopsis/victor_meets_koke.md)
-[Koke Unmasked](synopsis/koke_unmasked.md)
-[Cameron Suspects Tom Lee](synopsis/cameron_suspects_tom_lee.md)
-[Cameron Suspects Robert Koke](synopsis/cameron_suspects_robert_koke.md)
-[Tom Lee In Jogja](synopsis/tom_lee_in_jogja.md)
-[Crash Site Discovery](synopsis/crash_site_discovery.md)
-[Sixth Coffin](synopsis/sixth_coffin.md)
-[Subjects Of The Queen](synopsis/subjects_of_the_queen.md)
-[Quinine Case](synopsis/quinine_case.md)
-[VT-CLA Crashes](synopsis/vt-cla_crashes.md)
-[Wins Quinine Case](synopsis/wins_quinine_case.md)
-[Setting The Flaps](synopsis/setting_the_flaps.md)
-[Pilot Officer](synopsis/pilot_officer.md)
-[Money For Nothing](synopsis/money_for_nothing.md)
-[Non Stop To Jogja](synopsis/non_stop_to_jogja.md)
-[Muharto Lands Ri-002](synopsis/muharto_lands_ri-002.md)
-[Reconciling With Muharto.](synopsis/reconciling_with_muharto..md)
-[De Facto Liaison](synopsis/de_facto_liaison.md)
-[Muharto Engaged](synopsis/muharto_engaged.md)
-[Muharto Wants To Decline](synopsis/muharto_wants_to_decline.md)
-[Smuggled Gems](synopsis/smuggled_gems.md)
-[Madras Curry](synopsis/madras_curry.md)
+
+[Mission To Baguio](synopsis/mission_to_bagiuo.md)
+
+[Spoor Takes Offense](No%20Data)
+
+[No Data](No%20Data)
+
 [Muharto Promoted](synopsis/muharto_promoted.md)
-[Cameron Offers To Help](synopsis/cameron_offers_to_help.md)
-[Muharto On Merapi](synopsis/muharto_on_merapi.md)
-[Museum Trance](synopsis/museum_trance.md)
-[Santoso Necklace](synopsis/santoso_necklace.md)
-[Julia Finds Photo](synopsis/julia_finds_photo.md)
-[Raid on Karangendah](synopsis/raid_on_karangendah.md)
-[Banteng Merah](synopsis/banteng_merah.md)
-[Bambang Saptoadji Messes Landing](synopsis/bambang_saptoadji_messes_landing.md)
-[Crushing Disappointment](synopsis/crushing_disappointment.md)
-[Bob Trains Bambang](synopsis/bob_trains_bambang.md)
-[Musical Chairs](synopsis/musical_chairs.md)
-[Bambang Cannot Conceal Envy](synopsis/bambang_cannot_conceal_envy.md)
-[Bambang Gets Place](synopsis/bambang_gets_place.md)
-[Bob Puts Ri-002](synopsis/bob_puts_ri-002.md)
-[Bambang Decides To Fly](synopsis/bambang_decides_to_fly.md)
-[Spoor Takes Command](synopsis/spoor_takes_command.md)
-[Spoor Hears Reports](synopsis/spoor_hears_reports.md)
-[Feeding The Troops](synopsis/feeding_the_troops.md)
-[Ining Is Training Guerrillas](synopsis/ining_is_training_guerrillas.md)
-[Thai Authorities Released Freeberg](synopsis/thai_authorities_released_freeberg.md)
-[Spoor Pissed At Bob](synopsis/spoor_pissed_at_bob.md)
-[Running Pots And Pans](synopsis/running_pots_and_pans.md)
-[Newspaper Calls Ining](synopsis/newspaper_calls_ining.md)
-[Major Criminal](synopsis/major_criminal.md)
-[Spoor Orders Night Patrol](synopsis/spoor_orders_night_patrol.md)
-[Spoor Poisoned](synopsis/spoor_poisoned.md)
-[Buying RI-003](synopsis/buying_ri-003.md)
-[Ri-003 Crashes](synopsis/ri-003_crashes.md)
-[Shopping Trip](synopsis/shopping_trip.md)
-[Cobley Flies Cadres](synopsis/cobley_flies_cadres.md)
-[Ri-002 Drops Leaflets](synopsis/ri-002_drops_leaflets.md)
-[Father Interrogates](synopsis/father_interrogates.md)
-[Shopping List](synopsis/shopping_list.md)
-[Ani Serves Rice](synopsis/ani_serves_rice.md)
-[Ani Berates Muharto](synopsis/ani_berates_muharto.md)
-[Muharto Marries](synopsis/muharto_marries.md)
-[Ani Berates Westerling](synopsis/ani_berates_westerling.md)
-[Im The Captain](synopsis/im_the_captain.md)
-[Bambang Ingratiates Himself](synopsis/bambang_ingratiates_himself.md)
-[Our American Friend](synopsis/our_american_friend.md)
-[Fowler Refuses Request](synopsis/fowler_refuses_request.md)
-[Suryadarma Takes Fowlers Fuel Allowance](synopsis/suryadarma_takes_fowlers_fuel_allowance.md)
-[Fighter Planes Tailing Him](synopsis/fighter_planes_tailing_him.md)
-[Suryadarma Takes Fuel Allowance](synopsis/suryadarma_takes_fuel_allowance.md)
-[Last Flight](synopsis/last_flight.md)
-[Richard Wants Research](synopsis/backgrounder.md)
+
+[No Data](No%20Data)
+
+[Initial Searches](No%20Data)
+
+[Crash Site Discovery](synopsis/crash_site_discovery.md)
+
+[Sixth Coffin](synopsis/sixth_coffin.md)
+
+[Muharto Regrets](No%20Data)
+
+[Backgrounder](synopsis/backgrounder.md)
+
+[Cameron Meets Julia](synopsis/cameron_meets_julia.md)
+
+[No Data](No%20Data)
+
+[No Data](No%20Data)
+
+[Coffee With Julia](synopsis/coffee_with_julia.md)
+
 [Richard Accepts Story](synopsis/richard_accepts_story.md)
+
+[Cameron Offers To Help](synopsis/cameron_offers_to_help.md)
+
+# Episode 2
+
+[Cameron Meets Boediardjo](No%20Data)
+
+[Kalimantan Paratroopers](synopsis/kalimantan_paratroopers.md)
+
+[Thai Massage](synopsis/thai_massage.md)
+
+[Im The Captain](synopsis/im_the_captain.md)
+
+[Cameron Meets Boediardjo](No%20Data)
+
+[Cameron Meets Victor](No%20Data)
+
+[Spoor Pissed At Bob](synopsis/spoor_pissed_at_bob.md)
+
+[Cameron Offers A Lift](synopsis/cameron_offers_a_lift.md)
+
+# Episode 3
+
+[Last Corned Beef](synopsis/last_corned_beef.md)
+
+[Muharto On Merapi](synopsis/muharto_on_merapi.md)
+
+[Museum Trance](synopsis/museum_trance.md)
+
+[Julia Learns of Emeria](synopsis/julia_learns_of_emeria.md)
+
+[Victor Meets Emeria](synopsis/victor_meets_emeria.md)
+
+[Julia Researches Emeria](synopsis/julia_researches_emeria.md)
+
+# Episode 4
+
 [Richard Annoyed](synopsis/richard_annoyed.md)
+
+[Called on the Carpet](synopsis/warning_letter.md)
+
+[Cameron Suspects Robert Koke](synopsis/cameron_suspects_robert_koke.md)
+
+[Cameron Suspects Tom Lee](synopsis/cameron_suspects_tom_lee.md)
+
+# Episode 5
+
+[Eddy Promises Julia](synopsis/eddy_promises_julia.md)
+
+[Julia Dates Eric](synopsis/julia_dates_eric.md)
+
+[Santoso Necklace](synopsis/santoso_necklace.md)
+
+# Episode 6
+
+[Julia Goes Ballistic](synopsis/julia_goes_ballistic.md)
+
 [Cameron Kept Waiting](synopsis/cameron_kept_waiting.md)
-[Warning Letter](synopsis/warning_letter.md)
-[Cameron Assigned Syd Interview](synopsis/cameron_assigned_syd_interview.md)
-[Drinks With Our Reporter](synopsis/drinks_with_our_reporter.md)
+
+[Cameron Assigned Syd
+Interview](synopsis/cameron_assigned_syd_interview.md)
+
 [Cameron Put On Notice](synopsis/cameron_put_on_notice.md)
+
+[Julia And Cameron Fight](synopsis/julia_and_cameron_fight.md)
+
+[Cameron Complains](synopsis/cameron_complains.md)
+
+[Julia Confronts Eddy](synopsis/julia_confronts_eddy.md)
+
+# Episode 7
+
+[No Data](No%20Data)
+
+[Julia Finds Emeria](synopsis/julia_finds_emeria.md)
+
+[Ani Berates Westerling](synopsis/ani_berates_westerling.md)
+
+# Episode 8
+
+[Julia Finds Photo](synopsis/julia_finds_photo.md)
+
 [Menacing Encounter](synopsis/menacing_encounter.md)
+
 [Pasta With Yapto](synopsis/pasta_with_yapto.md)
+
+[Cameron Meets Anwar](No%20Data)
+
+[No Data](No%20Data)
+
+[Cameron Meets Anwar](No%20Data)
+
 [Cameron Loses Visa](synopsis/cameron_loses_visa.md)
-[Primitivo Introduces Muharto](synopsis/primitivo_introduces_muharto.md)
-[Party Animal](synopsis/party_animal.md)
-[Ining Will Train Students](synopsis/ining_will_train_students.md)
-[Muharto Asks George](synopsis/muharto_asks_george.md)
-[Ining Asks To Return](synopsis/ining_asks_to_return.md)
-[Ining Is Dood](synopsis/ining_is_dood.md)
-[Muharto Accused](synopsis/muharto_accused.md)
+
+[Julia Decides To Stay](synopsis/julia_decides_to_stay.md)
