@@ -2,6 +2,7 @@
 title: Crash Site Discovery
 date: 17 April 1977 
 status: ok
+synopsis: Two farmers stumble across the crash site, and an Air Force team investigates but fails to find any gold.
 ---
 Two wiry men dressed in shabby clothes lead a squad of airmen
 and their officer, Lt. Sulaiman, through a forested hillside to the

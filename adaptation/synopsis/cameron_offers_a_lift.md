@@ -2,6 +2,7 @@
 title: Cameron Offers A Lift
 date: October 1988 
 status: fix up
+synopsis: Cameron gives Julia a lift to a hotel where she will have coffee with her friends, who encourage her to start a relationship with Cameron as a means to study in America.
 ---
 Cameron and Julia are hunched over a reading table, Julia translating
 Dutch-language headlines. Julia tells Cameron they she must leave, as

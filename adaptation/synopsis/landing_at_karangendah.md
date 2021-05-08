@@ -3,6 +3,7 @@ title: Landing At Karangendah
 date: 31 March 1947 
 location: Karangendah 
 status: OK
+synopsis: At thre request of Suryadarma, Bob test lands on a disused wartime airstrip in southern Sumatra.
 ---
 Muharto asks Bob if he can attempt a landing on a refurbished Japanese airstrip at Karangendah on the grasslands of south Sumatra. They circle the strip and Bob ponders the attempt. Muharto asks if he can land a plane this size. Bob replies that he did
 this all the time in the war: I can "land on a dime and give you a

@@ -2,6 +2,7 @@
 title: Muharto On Merapi
 date: 15 October 1988
 status: ok
+synopsis: Cameron accompanies Muharto to a village on the upper slopes of the Merapi volcano to meet Muhartos spiritual advisor. 
 ---
 Cameron accompanies Muharto to a village on the upper slopes of the
 Merapi volcano to meet Muhartos spiritual advisor, Mbah Maridjan. The

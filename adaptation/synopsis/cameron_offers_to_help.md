@@ -2,6 +2,7 @@
 title: Cameron Offers To Help
 date: 2 October 1988 
 status: rewrite
+synopsis: Muharto tells Cameron of his frustration in his previous investagation of the mystery, and Cameron offers to help him.
 ---
 Cameron visits to deliver extra copies of the magazine requested by Muharto. Muharto is beaming, friends have been phoning all morning from Manila and Bangkok. 
 

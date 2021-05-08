@@ -2,6 +2,7 @@
 title: Sixth Coffin
 date: 29 July 1977 
 status: ok
+synopsis: The unidentifable remains from the crash site are buried with military honors.
 ---
 In an otherwise empty hanger, five coffins draped in Indonesian flags
 lay on a platform. A sixth coffin, larger than the rest and without a

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <cherrytree>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1620098846.72" unique_id="7">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1620286393.21" unique_id="7">
 		<rich_text>
-</rich_text>
+ </rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1618366354.44" unique_id="8">
 			<rich_text>• Indonesia's leading modern artist in the 80s
 • Famously apolitical, but friends with communists
@@ -350,7 +350,8 @@ He had been a brilliant foreign correspondent, too busy to settle down, until he
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Drama" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620098846.72" ts_lastsave="1620098881.16" unique_id="996">
-		<rich_text></rich_text>
+		<rich_text>
+</rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Suryadarmas Freebooters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620098881.16" ts_lastsave="1620099027.19" unique_id="997">
 			<rich_text>Suryadarma chafes at refusal of Bob and others to adhere to military protocol</rich_text>
 		</node>
@@ -804,18 +805,18 @@ status: needs work</codebox>
 • 31 March 1947
 </rich_text>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Landing At Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1620291307.75" unique_id="139">
+				<rich_text link="file c3lub3BzaXMvbGFuZGluZ19hdF9rYXJhbmdlbmRhaC5tZA==">Document</rich_text>
+				<rich_text>
+• 31 March 1947
+• Bob makes a spectacular landing, engines roaring with reverse thrust. Santoso, the base commander climbs aboard to meet them.
+</rich_text>
+			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Drop Over Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012632.97" ts_lastsave="1619942898.37" unique_id="377">
 				<rich_text link="file c3lub3BzaXMvZHJvcF9vdmVyX2J1a2l0dGluZ2dpLm1k">Document</rich_text>
 				<rich_text>
 • 31 March 1947
 • Bob expertly drops paratroopers over Bukittingggi. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Landing At Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1619857449.91" unique_id="139">
-				<rich_text link="file c3lub3BzaXMvbGFuZGluZ19hdF9rYXJhbmdlbmRhaC5tZA==">Document</rich_text>
-				<rich_text>
-• 31 March 1947
-• Bob makes a spectacular landing, engines roaring with reverse thrust. Santoso, the base commander climbs aboard to meet them.
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Lands On Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1619855254.62" unique_id="102">
@@ -1187,12 +1188,6 @@ February 1948
 • 29 July 1947
 • Muharto wins quinine case. Dutch are pissed. </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Promoted" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1618719511.33" unique_id="147">
-				<rich_text link="file c3lub3BzaXMvbXVoYXJ0b19wcm9tb3RlZC5tZA==">Document</rich_text>
-				<rich_text>
-• May 1948
-• Muharto is reluctantly promoted to Major and assigned a desk job. </rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Setting The Flaps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848253.97" ts_lastsave="1619862660.01" unique_id="338">
 				<rich_text link="file c3lub3BzaXMvc2V0dGluZ190aGVfZmxhcHMubWQ=">Document</rich_text>
 				<rich_text>
@@ -1249,16 +1244,17 @@ February 1948
 				<rich_text>
 • Muharto smuggles gems without Bob knowing.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Furious" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.83" ts_lastsave="1619948419.52" unique_id="580">
-				<rich_text link="file c3lub3BzaXMvYm9iX2Z1cmlvdXMubWQ=">Document</rich_text>
-				<rich_text>
-• Bob yells at Muharto over smuggled gems</rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012705.55" ts_lastsave="1619948470.91" unique_id="379">
 				<rich_text link="file c3lub3BzaXMvbWFkcmFzX2N1cnJ5Lm1k">Document</rich_text>
 				<rich_text>
 • Muharto, Boedi and Pang eat a Madras Curry 
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Promoted" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1620355001.67" unique_id="147">
+				<rich_text link="file c3lub3BzaXMvbXVoYXJ0b19wcm9tb3RlZC5tZA==">Document</rich_text>
+				<rich_text>
+• May 1948
+• Muharto is reluctantly promoted to Major and assigned a desk job. </rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Follow The Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729317.15" ts_lastsave="1619926622.5" unique_id="880">
@@ -1289,13 +1285,6 @@ February 1948
 				<rich_text>
 • October 1988
 • Ibu Santoso faints and has visions Tanjung Karang ceremony.
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg Pen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619077253.19" ts_lastsave="1619584821.17" unique_id="945">
-				<rich_text link="file c3lub3BzaXMvZnJlZWJlcmdfcGVuLm1k">Document</rich_text>
-				<rich_text>
-• December 1988 
-• Cameron has mystic experience when grasping pen found in museum.
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Finds Photo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1599991289.14" ts_lastsave="1619926510.66" unique_id="411">
@@ -1407,12 +1396,12 @@ February 1948
 • Spoor learns that Espina is training guerrillas in Jogja.
 
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Thai Authorities Released Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1618396101.09" unique_id="193">
-				<rich_text link="file c3lub3BzaXMvdGhhaV9hdXRob3JpdGllc19yZWxlYXNlZF9mcmVlYmVyZy5tZA==">Document</rich_text>
-				<rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Thai Authorities Released Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1620376341.25" unique_id="193">
+					<rich_text link="file c3lub3BzaXMvdGhhaV9hdXRob3JpdGllc19yZWxlYXNlZF9mcmVlYmVyZy5tZA==">Document</rich_text>
+					<rich_text>
 • 18 October 1947
 • Spoor is furious when he learns that Thai authorities released Freeberg.</rich_text>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Pissed At Bob" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.85" ts_lastsave="1620200984.37" unique_id="925">
 				<rich_text link="file c3lub3BzaXMvc3Bvb3JfcGlzc2VkX2F0X2JvYi5tZA==">Document</rich_text>
@@ -1649,8 +1638,8 @@ December 1988
 				<rich_text>
 • Cameron is waylaid by Pemuda Pancasila thugs on the way to Tanumur.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Pasta With Yapto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729402.27" ts_lastsave="1619941601.75" unique_id="881">
-				<rich_text link="file c3lub3BzaXMvcGFzdGFfd2l0aF95YXB0by5tZA==">Docum.ent</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Pasta With Yapto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729402.27" ts_lastsave="1620383314.14" unique_id="881">
+				<rich_text link="file c3lub3BzaXMvcGFzdGFfd2l0aF95YXB0by5tZA==">Document</rich_text>
 				<rich_text>
 • Cameron spends the weekend at Simbolon. 
 
@@ -1707,8 +1696,8 @@ December 1988
 • During a routine radio contact with Jogja, Boedi is told that Ining and Mas Ded were found dead of gunshot wounds at Ining's house. 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Accused" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619925613.57" ts_lastsave="1619925655.62" unique_id="995">
-				<rich_text link="file c3lub3BzaXMvbXVoYXJ0b19hY2N1c2VkLm1k">Document</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Accused" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619925613.57" ts_lastsave="1620384375.31" unique_id="995">
+				<rich_text link="file c3lub3BzaXMvbXVoYXJ0b19hY2N1c2VkLm1k">document</rich_text>
 				<rich_text> 
 • Primitivo accuses Muharto of being a Communist</rich_text>
 			</node>

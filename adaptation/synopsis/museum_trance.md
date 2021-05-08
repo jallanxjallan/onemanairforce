@@ -2,6 +2,7 @@
 title: Museum Trance
 date: 15 October 1988 
 status: ok
+synopsis: Muharto falls into trance while holding a part of the RI-002 wreckage, and has a vision of the final moments before the crash. 
 ---
 Muharto takes Cameron to the Air Force museum in Jogja, a re-purposed
 hanger filled with decommissioned aircraft and other exhibits. Muharto

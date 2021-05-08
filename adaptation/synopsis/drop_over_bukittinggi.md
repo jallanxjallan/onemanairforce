@@ -3,6 +3,7 @@ title: Drop Over Bukittinggi
 date: 31 March 1947
 location: CALI Dakota  
 status: OK
+synopsis: Freeberg expertly drops Air Force engineers onto a damaged airstrip in Bukittinggi to affect repairs.  
 ---
 The CALI Dakota flies over the Bukit Barisan mountaintops, and drops
 into a valley toward the town of Bukittinggi. At Muharto's direction,
