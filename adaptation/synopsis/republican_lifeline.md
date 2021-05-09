@@ -1,6 +1,6 @@
 ---
-date: No Date
-status: check
+date: October 1947
+status: write
 title: Republican Lifeline
 ---
 

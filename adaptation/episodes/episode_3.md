@@ -2,7 +2,7 @@
 title: Episode 3
 ---
 
-[Last Corned Beef](../synopsis/last_corned_beef.md)
+
 
 [Muharto On Merapi](../synopsis/muharto_on_merapi.md)
 
