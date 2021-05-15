@@ -1,7 +1,14 @@
 ---
 title: Cameron Meets Julia 
-date: 28 September 1988 
-status: ok
-synopsis: At the National Library, Julia assists Cameron in finding relevant material, impressing him with her competence and knowledge.
+date: 28 September 1988
 ---
-Cameron enters the National Library reference section, and the desk attendant summons Julia, an attractive, bookish Indonesian woman in her early twenties who usually assists foreign researchers because of her fluency in English and Dutch. Cameron explains his mission. Julia suggests that Cameron start with accounts written in English who had been present in Jogjakarta during the period. Julia disappears into the stacks, soon emerging with an armful of books and magazine articles. 
+
+Cameron does his research at the newly opened National Library, which maintains an archive of
+newspapers dating back more than a century. Julia Suryakusuma, a bookish, attractive intern is assigned to assist Cameron because of her fluency in English and Dutch.
+Cameron explains his mission, and Julia disappears into the stacks,
+emerging a few minutes later with both bound newspaper collections and a
+few English-language books from the adjacent reference section that she
+thinks might be helpful. The newspaper articles corraborate most of the
+events Muharto described. Skimming through the supplementary background material Julia selected, Cameron's attention is drawn to a passage in a
+book by British diplomat John Coast about having a few drinks with
+Freeberg in Bangkok.

@@ -1,7 +1,9 @@
 ---
 title: Richard Accepts Story
-date: September 1988 
-status: rethink
-synopsis: Richard grudgingly accepts Freeberg story for publication, but tells Cameron to stick to financial reporting from now on. 
+date: 30 September 1988
 ---
-Richard grudgingly accepts the story for publication, but warns Cameron to stick to his beat of financial reporting. The deregulation of the Indonesian stock market is coming up -- thats the real story. 
+
+Richard telephones Cameron to say that he accepts the fleshed-out draft for publication, but admonishes
+Cameron to now concentrate on his real work: financial reporting in the
+run-up to the deregulation of the Indonesian capital market at the end
+of the year.
