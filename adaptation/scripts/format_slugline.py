@@ -12,22 +12,19 @@ Pandoc filter using panflute
 import panflute as pf
 import dateparser
 import datetime
-import redis
+
 
 def prepare(doc):
-    doc.current_timestamp = datetime.datetime.now()
-    doc.r = redis.Redis(decode_responses=True)
+    doc.current_timestamp = datetime.datetime(year=1900)
 
 def action(elem, doc):
-    if isinstance(elem, pf.Header) and elem.level == 9:
-        key = pf.stringify(elem)
-        date = doc.r.hget(key, 'date')
-        location = doc.r.hget(key, 'location')
-        if not date:
-            pf.debug('no date found for ', title)
-            return elem
-        header = pf.Str(f'{dateparser.parse(date).strftime("%B %Y")} : {title}')
-        return pf.Header(header, level=1)
+    if isinstance(elem, pf.Span) and 'slugline' in elem.attributes:
+        date = dateparser.parse(pf.stringify(elem))
+        if date is different:
+            elem = pf.Para(elem)
+            doc.current_timestamp = date 
+        else:
+            elem = {}
     return elem
 
 def main(doc=None):

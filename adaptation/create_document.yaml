@@ -1,0 +1,5 @@
+---
+input-file: /home/jeremy/pandoc/templates/blank.md
+template: scene
+writer: markdown 
+
