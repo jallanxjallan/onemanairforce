@@ -87,7 +87,7 @@ Kansas-born Navy veteran Bob Freeberg does not let his reputation of the best av
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1629792943.81" unique_id="16">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630726183.33" unique_id="16">
 			<rich_text>
 </rich_text>
 			<rich_text link="webs https://en.wikipedia.org/wiki/Boediardjo">Wiki bio</rich_text>
@@ -100,15 +100,16 @@ Kansas-born Navy veteran Bob Freeberg does not let his reputation of the best av
 • Boedi mentions that when not resting or working on his plane, Freeberg would be writing letters home.
 • Boedi strives to improve his (already adequate) English by hanging out with members of the Aviation Brotherhood, who enjoy his company. The pilots of the Aviation Brotherhood are reluctant to accept the stiff and reserved Muharto, but the charismatic Boedi is welcomed into the fold. 
 • Tells Cameron that, even when telephones are available, anyone can drop in at the 4 pm visiting hour and he will receive them. Old Javanese custom. This will be important later, and also give Cameron a chance to meet other visitors. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The skilled, engaging radio operator on RI-002 equally at home in the company of Asians and Westerners, and who went on to an illustrious career as an Air Force commander, government minister, and ambassador, Boediardjo now displays the Javanese
-statesman's ideal of blending commanding authority with refined manners
-and easy grace. 
-In his spacious salon, walls lined with an
+• In his spacious salon, walls lined with an
 extensive collection of European art and Indonesian masters, Boediardjo,
 a short, heavy-set man in his early sixties, displays the Javanese
 statesmans ideal of blending commanding authority with refined manners
 and easy grace. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The skilled, engaging radio operator on RI-002 equally at home in the company of Asians and Westerners, and who went on to an illustrious career as an Air Force commander, government minister, and ambassador, Boediardjo now displays the Javanese
+statesman's ideal of blending commanding authority with refined manners
+and easy grace. 
+
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Bishop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1629603713.17" unique_id="17">
@@ -154,7 +155,7 @@ A colonel in the Army intelligence section, Eddy Suryakusuma is, famously, not c
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Emiria Soenassa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595990870.22" ts_lastsave="1630574388.98" unique_id="359">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Emiria Soenassa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595990870.22" ts_lastsave="1630725806.31" unique_id="359">
 			<rich_text>• Painter, socialite, and friend of Soekarno, Sjahrir etc
 • In her mid 30s
 • attractive, elegant and classy
@@ -166,13 +167,14 @@ A colonel in the Army intelligence section, Eddy Suryakusuma is, famously, not c
 			<rich_text scale="h1">Relationship with Victor</rich_text>
 			<rich_text>
 • She was fond of him, but her nation was at war, and needed guns. It was a clear choice. 
-• ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A talented painter and socialite with contacts at the highest levels in both Dutch and Indonesian society, Emiria Soenassa, a thirtish Eurasian beauty, is a spy operating in plain sight, gleaning pieces of information from senior officials on the Batavia arts circuit and passing them along to the Republicans through her friendship with Republican senior leaders. 
-</rich_text>
-			<rich_text scale="h1">• </rich_text>
-			<rich_text scale="h1" weight="heavy">Emeria salon</rich_text>
+• </rich_text>
+			<rich_text scale="h1">Emeria salon</rich_text>
 			<rich_text>
 She would invite different people to her studio to see her paintings. They would hold their clandestine meetings.
+• No one at KNIL paid attention. Republicans were a bunch of thugs. Why would they be interested in art. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A talented painter and socialite with contacts at the highest levels in both Dutch and Indonesian society, Emiria Soenassa, a thirtish Eurasian beauty, is a spy operating in plain sight, gleaning pieces of information from senior officials on the Batavia arts circuit and passing them along to the Republicans through her friendship with Republican senior leaders. 
+
 
 </rich_text>
 		</node>
@@ -182,12 +184,13 @@ She would invite different people to her studio to see her paintings. They would
 • Shows Cameron photos of his &quot;Godchildren&quot;. Mixed heritage whose parents met in the Tanamur 
 • Invites Cameron to Simbolon to meet Yapto. </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1595990821.2" unique_id="20">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630725839.2" unique_id="20">
 			<rich_text>
 • Change name and other details to deal with fact that George died ten years before. 
 • George writes to Dave Fowler, who was in the indonesian aviation industry until 1956, and during the New Order until 1980. 
 • George introduces story of Ining, which much surprises Cameron.
-• George is an indo who sided with the Republic. He and his son founded Aviation George went on to found an aviation company, which flourished servicing the foreign oil companies in remote regions.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+George is an indo who sided with the Republic. He and his son founded Aviation George went on to found an aviation company, which flourished servicing the foreign oil companies in remote regions.
 
 </rich_text>
 		</node>
@@ -333,7 +336,7 @@ Talks about corruption as the grease of a chaotic system inherited from the Dutc
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1618735902.3" unique_id="34">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630725693.27" unique_id="34">
 			<rich_text>
 </rich_text>
 			<rich_text scale="h1">Model</rich_text>
@@ -363,7 +366,7 @@ Behavior
 </rich_text>
 			<rich_text scale="h1">Marriage</rich_text>
 			<rich_text>
-He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. 
+• He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. 
  
 </rich_text>
 		</node>
@@ -676,7 +679,8 @@ they encounter RI-002.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Story of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630117024.38" ts_lastsave="1630117024.38" unique_id="1076">
-			<rich_text></rich_text>
+			<rich_text>
+</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Third Cali Run" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630378838.45" unique_id="107">
 				<rich_text>• March 1947
 
@@ -730,7 +734,7 @@ they encounter RI-002.</rich_text>
 				<rich_text>• In March 1948, Bob begins opium runs 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Mission To Bagiuo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853744.35" ts_lastsave="1630655556.41" unique_id="343">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Mission To Bagiuo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853744.35" ts_lastsave="1630746170.04" unique_id="343">
 				<rich_text>•  Bob, Muharto and Boedi fly Republican economists and other experts to Manila to meet with United Nations representatives in the hill town of Baguio.
 • These powerful educated men treat Bob with the same respect as do the common people of Jogja.</rich_text>
 			</node>
@@ -772,13 +776,6 @@ they encounter RI-002.</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Captured Spy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618206693.24" ts_lastsave="1618206694.5" unique_id="867">
 			<rich_text>Affandi tells Cameron the story of the captured teenager accused of spy for the Dutch and summarily executed. </rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Into The Typhoon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618816990.45" ts_lastsave="1630670898.4" unique_id="889">
-			<rich_text>• December 1947 
-
-• To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropical storm. Muharto is terrified, but Bob tells him that when a Navy test pilot he would fly through typhoons.  
-• Boedi</rich_text>
-			<rich_text background="#363b40" foreground="#b8bfc6"> also recounts events that Muharto did not mention, recalling Muharto's terror-stricken look during the November 1947 incident when Freeberg, who had flown through typhoons, dove into the heart of a violent storm to evade a Dutch patrol.</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Eric explains corruption" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630472127.73" ts_lastsave="1630472129.0" unique_id="1096">
 			<rich_text>Information is the new gold
@@ -835,7 +832,7 @@ Julia researches Emeria, and discovers she had been a talented painter and socia
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Follow the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729317.15" ts_lastsave="1630026430.93" unique_id="880">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Follow the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729317.15" ts_lastsave="1630745573.69" unique_id="880">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681513.61" ts_lastsave="1630139388.05" unique_id="983">
@@ -935,6 +932,23 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 • Suspicious that crash site in precisely line from Brantas to Bengkulu. 
 • Wonders if Muharto is trying to exonerate himself because of history with CIA.
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto initial research" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630745573.69" ts_lastsave="1630745819.46" unique_id="1104">
+				<rich_text>2. Muharto researches in AURI archive and other collections. Finds only disorder and obstruction as librarians make life difficult. He finds the investigation report, which asks more questions than it answers. Photo of dynamo with bullet in windings. Sulaiman  and team investigate wreckage. Find empty crates of gold 
+
+Muharto tells Cameron that the sixth coffin, presumably containing Bobs
+remains, could not be buried with the others because he was a foreigner.
+Muhartos expression as he finishes his reminiscences convinces
+Cameron that he regarded Freeberg as a close friend, and is seeking
+closure about his mysterious disappearance. As Cameron rises to leave, Muharto wonders that if he had turned down promotion and had been with Bob on the final flight, maybe it would not have ended in tragedy. 
+
+
+In an otherwise empty hanger, five coffins draped in Indonesian flags
+lay on a platform. A sixth coffin, larger than the rest and without a
+flag, rests on a separate platform. A flatbed truck pulls into the
+hanger and a squad of airmen, in silence, pick up each
+of the coffins and place them on the truck. But they leave the sixth
+coffin where it lies as the truck pulls away. </rich_text>
 			</node>
 		</node>
 	</node>
@@ -1117,6 +1131,12 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 • Southeast Airlines bankrupt
 </rich_text>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Unorthodox Request" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410963.57" ts_lastsave="1630727225.34" unique_id="968">
+				<rich_text>• September 1988
+• Muharto tells Cameron that he was pleased at this display of crucial international support, but dismayed that once again he will be desk-bound. However, this last fight would prove to be memorable. Suryadarma had asked Bob to make a couple of detours on the way back to Singapore, risky activities more suited to a military mission that a civilian charter flight. Nonetheless, Bob had cheerfully agreed.   
+
+</rich_text>
+			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Bule Hunter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1598778231.99" ts_lastsave="1629880030.08" unique_id="395">
 			<rich_text>
@@ -1165,34 +1185,39 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Expecting To Fly" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1622376552.57" unique_id="134">
 			<rich_text>
 </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Banteng Merah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1630726302.24" unique_id="598">
+				<rich_text>• March 1946
+• One afternoon in Jogja, Muharto sees  Augustinus
+• Adisucipto flying a reconditioned biplane left behind by the
+• Japanese.</rich_text>
+			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Flying the Zogling" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143369.26" ts_lastsave="1630143372.42" unique_id="1086">
 				<rich_text>Maharto flies the Zogling and Suryadarma slaps his down. </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Flight to Cikalong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410925.08" ts_lastsave="1630671044.64" unique_id="967">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Flight to Cikalong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410925.08" ts_lastsave="1630742703.93" unique_id="967">
 				<rich_text>
 • September 1988
 
-• Muharto tells Cameron that this aircraft, a Nikosoren, was one of a score barely servicable planes the Japanese had left behind. The air force mechanics kept these aircraft flying through skill and guesswork, but Muharto was aware that any flight could end in disaster. To keep his mind from this eventuality, Muharto  thought about the American pilots he had met during the blockade runs he had organized from Singapore to Jogjakarta. He  decided that only Bob Freeberg possessed the skill and nerve to land at night on a remote beach. Bob had been the pilot of the third blockade run. Though these had been standard charter flights -- they even had a flight attendant, a lovely Filipina named Miss Brown -- the third flight would test the skills of any aviator.  
-</rich_text>
-				<rich_text background="#363b40" foreground="#b8bfc6">Muharto tells Cameron that he spent the next minutes desperately trying to remember if the tracks tunnel through any mountains along the route. In fact, the mountain ridges were behind them, and they landed in Jogjakarta without incident.</rich_text>
-				<rich_text>
-
 • Flying to tasik in the Nishikoren, Muharto wonders who the pilot is. Thinks back over the three blockade runs he organized. 
 • The first two had been routine commercial runs, with even a flight attendent. 
-• But the third was memorable. </rich_text>
+• But the third was memorable. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that this aircraft, a Nikosoren, was one of a score barely servicable planes the Japanese had left behind. The air force mechanics kept these aircraft flying through skill and guesswork, but Muharto was aware that any flight could end in disaster. To keep his mind from this eventuality, Muharto  thought about the American pilots he had met during the blockade runs he had organized from Singapore to Jogjakarta. He  decided that only Bob Freeberg possessed the skill and nerve to land at night on a remote beach. Bob had been the pilot of the third blockade run. Though these had been standard charter flights -- they even had a flight attendant, a lovely Filipina named Miss Brown -- the third flight would test the skills of any aviator.  </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Pilot Officer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605257208.94" ts_lastsave="1630064423.87" unique_id="457">
 				<rich_text>
 • At the airport, Muharto falsely identifies himself as co-pilot.
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Subjects Of The Queen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012684.44" ts_lastsave="1630064426.49" unique_id="378">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Subjects Of The Queen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012684.44" ts_lastsave="1630742802.17" unique_id="378">
 				<rich_text>
 • 12 June 1947
 • Muharto stays with Bob's friend Tom Lee, a government lawyer. 
 • Over breakfast, Tom reads the newspaper headlines
 • about &quot;Fearless Bob Freeberg&quot; and his &quot;Javanese Crew&quot;. 
-• One article reports that the Dutch are laying claim to the valuable quinine cargo as the &quot;Javanese Crew&quot; are &quot;subjects of the Dutch Queen&quot;. </rich_text>
+• One article reports that the Dutch are laying claim to the valuable quinine cargo as the &quot;Javanese Crew&quot; are &quot;subjects of the Dutch Queen&quot;. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Dutch sued in civil court for possession of the quinine. Fortunately, Muharto's celebrity status also attracted the attention of Salipada Penatun, a sitting Senator as well as a practising lawyer, whose family had close cultural ties to Indonesia, and so offered his services pro bono. </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848143.85" ts_lastsave="1630064428.88" unique_id="336">
 				<rich_text>
@@ -1204,10 +1229,14 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 • 29 July 1947
 • Bob Muharto and Boedi listen in horror  to reports that VT-CLA, an Indian-registered Dakota that had made many blockade runs, had been shot down on approach to Maguwo. </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Wins Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605512874.42" ts_lastsave="1630064434.1" unique_id="464">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Wins Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605512874.42" ts_lastsave="1630727948.39" unique_id="464">
 				<rich_text>
 • 29 July 1947
-• Muharto wins quinine case. Dutch are pissed. </rich_text>
+• Muharto wins quinine case. 
+• Dutch are pissed. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that Bob and the crew were stuck in Manila for three months, fighting with the Dutch for ownership of the quinine. 
+Muharto tells Cameron that the verdict took six weeks to deliver. But finally, on the morning of 29 July, the judge ruled in favor of the Republicans. Bob invited his crew to his apartment that evening to celebrate their victory, but a radio news bulletin cast  a pall on the evening.</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Setting The Flaps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848253.97" ts_lastsave="1630064436.81" unique_id="338">
 				<rich_text>
@@ -1258,7 +1287,7 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 				<rich_text>• May 1948
 • Muharto is reluctantly promoted to Major and assigned a desk job. </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1630671069.41" unique_id="1001">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1630727977.85" unique_id="1001">
 				<rich_text link="node 1001">Penniless in Manila</rich_text>
 				<rich_text>  
 
@@ -1266,27 +1295,18 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 • VT-CLA shot down
 • Finally sells quinine and RI-002 returns
 • The day after arrival Bob Meets Soekarno
-
-• </rich_text>
-				<rich_text background="#363b40" foreground="#b8bfc6">Muharto tells Cameron that they awoke the next morning to find they were celebrities, with several newspapers giving front-page treatment to RI-002 and the &quot;Javanese Crew&quot;. This also, of course attracted the attention of Dutch diplomats, who not only laid claim to the cargo of quinine, but to Muharto and his comrades who were, they claimed &quot;Subjects of the Queen&quot;. The Dutch sued in civil court for possession of the quinine. Fortunately, Muharto's celebrity status also attracted the attention of Salipada Penatun, a sitting Senator as well as a practising lawyer, whose family had close cultural ties to Indonesia, and so offered his services pro bono.Muharto</rich_text>
-				<rich_text> tells Cameron that Bob and the crew were stuck in Manila for three months, fighting with the Dutch for ownership of the quinine. 
-Muharto tells Cameron that the verdict took six weeks to deliver. But finally, on the morning of 29 July, the judge ruled in favor of the Republicans. Bob invited his crew to his apartment that evening to celebrate their victory, but a radio news bulletin cast  a pall on the evening. 
-</rich_text>
-				<rich_text background="#363b40" foreground="#b8bfc6">Muharto tells Cameron that they finally sold the quinine and returned to Jogja in late September. For the rest of the year, he flew with Bob on RI-002 almost every day, connecting far-flung Republican bases with Jogja, and with Singapore, Bangkok, and Manila. </rich_text>
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Unorthodox Request" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410963.57" ts_lastsave="1630671107.81" unique_id="968">
-				<rich_text>• September 1988
-• Muharto tells Cameron that he was pleased at this display of crucial international support, but dismayed that once again he will be desk-bound. However, this last fight would prove to be memorable. Suryadarma had asked Bob to make a couple of detours on the way back to Singapore, risky activities more suited to a military mission that a civilian charter flight. Nonetheless, Bob had cheerfully agreed.   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that they awoke the next morning to find they were celebrities, with several newspapers giving front-page treatment to RI-002 and the &quot;Javanese Crew&quot;. This also, of course attracted the attention of Dutch diplomats, who not only laid claim to the cargo of quinine, but to Muharto and his comrades who were, they claimed &quot;Subjects of the Queen&quot;. 
+ 
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Banteng Merah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1630656472.55" unique_id="598">
-				<rich_text>• March 1946
-• One afternoon in Jogja, Muharto sees  Augustinus
-• Adisucipto flying a reconditioned biplane left behind by the
-• Japanese.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Into The Typhoon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618816990.45" ts_lastsave="1630727760.12" unique_id="889">
+				<rich_text>• December 1947 
+• • Boedi also recounts events that Muharto did not mention, recalling Muharto's terror-stricken look during the November 1947 incident when Freeberg, who had flown through typhoons, dove into the heart of a violent storm to evade a Dutch patrol.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropical storm. Muharto is terrified, but Bob tells him that when a Navy test pilot he would fly through typhoons.  
+</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Kampung Flyboy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1619755678.02" unique_id="153">
@@ -1382,12 +1402,11 @@ Manila.</rich_text>
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Deported" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595924521.17" ts_lastsave="1630654119.62" unique_id="354">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Deported" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595924521.17" ts_lastsave="1630742955.81" unique_id="354">
 				<rich_text>
 • Cameron is met by Immigration officers at Jakarta airport, who inform him that his visa has been cancelled, effective immediately. He is assigned a young, affable officer to accompany him back to his kos to pick up his belongings. Cameron convinces the officer to let him say goodbye to Muharto and Julia. The officer affably obliges.  
 • Col Eddy is with Julia, and so reveals himself as her father. He says he has been identified, and Bais soldiers are coming to arrest him. He must leave now. Here is your car to your room, and then to the airport. Julia will accompany you to make sure you go. 
-
-Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron is amazed at the generous amount of money. 
+• Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron is amazed at the generous amount of money. 
 
 </rich_text>
 			</node>
@@ -1436,7 +1455,8 @@ Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron 
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Teaser" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630136001.91" ts_lastsave="1630136027.34" unique_id="1079">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="On The Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615451483.27" ts_lastsave="1630378602.88" unique_id="838">
 					<rich_text> </rich_text>
 					<rich_text link="file c2NlbmVzL2JvYl9sYW5kc19vbl9iZWFjaC5tZA==">Document</rich_text>
@@ -1448,7 +1468,8 @@ Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron 
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Learns Story" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630136027.34" ts_lastsave="1630136027.34" unique_id="1080">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618817887.68" ts_lastsave="1630670643.09" unique_id="890">
 					<rich_text link="node 983">Cameron Meets Muharto</rich_text>
 					<rich_text> 
@@ -1546,14 +1567,24 @@ location: Maguwo</codebox>
 
 </rich_text>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Airborne Truck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670743.5" ts_lastsave="1630670745.03" unique_id="1102">
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Airborne Truck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670743.5" ts_lastsave="1630750529.6" unique_id="1102">
 						<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Muharto explains the mundane but essential mission, and the dangers of evading Dutch patrols.  </rich_text>
-						<rich_text background="#363b40" foreground="#b8bfc6">Muharto tells Cameron that the people of Jogja came to regard the modest and unassuming American as some sort of superhero, an incarnation of a mythic figure from the wayang shadow-play theater.  This often led to embarrassing situations, such as when Bob invited Muharto to dine with him at the Hotel Merdeka, where he stayed while in Jogja. </rich_text>
-						<rich_text>Muharto tells Cameron that Bob's createst service to the Republic was flying top officials and techocrats to a United Nation's conference in the Philippines, where they successfully made the case for Indonesian independence. </rich_text>
+Muharto explains the mundane but essential mission, and the dangers of evading Dutch patrols.  Muharto tells Cameron that the people of Jogja came to regard the modest and unassuming American as some sort of superhero, an incarnation of a mythic figure from the wayang shadow-play theater.  This often led to embarrassing situations, such as when Bob invited Muharto to dine with him at the Hotel Merdeka, where he stayed while in Jogja. </rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bule Palawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630750529.6" ts_lastsave="1630750666.16" unique_id="1108">
+						<rich_text link="node 376">Last Corned Beef</rich_text>
+						<rich_text> 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bob and Muharto have dinner. Muharto is served rice and tempe. Bob, to his great embarrassment, is given slices of freshly friend corned beef. </rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="ECAFE Conference" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630746119.89" ts_lastsave="1630750688.94" unique_id="1105">
+						<rich_text link="node 343">Mission To Bagiuo</rich_text>
+						<rich_text>    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that Bob's createst service to the Republic was flying top officials and techocrats to a United Nation's conference in the Philippines, where they successfully made the case for Indonesian independence. These educated men treat Bob with the same great respect as do the common people of Jogja.</rich_text>
 					</node>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Vanishes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670643.09" ts_lastsave="1630670683.07" unique_id="1101">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Vanishes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670643.09" ts_lastsave="1630750974.27" unique_id="1101">
 					<rich_text link="node 983">Cameron Meets Muharto</rich_text>
 					<rich_text> 
 </rich_text>
@@ -1561,8 +1592,53 @@ Muharto explains the mundane but essential mission, and the dangers of evading D
 					<rich_text>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that he flew with RI-002 until May 1948, when he was promoted to major and posted to headquarters. Muharto saw little of Bob after that, but was looking for forward to having Bob as guest of honor at this wedding in October. 
+</rich_text>
+					<codebox char_offset="23" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">title: Cameron Meets Muharto
+date: 25 September 1988
+location: Muharto Residence
+status: new</codebox>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Farewell at Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748313.48" ts_lastsave="1630750889.64" unique_id="1106">
+						<rich_text link="file c2NlbmVzL2ZhcmV3ZWxsX2F0X21hZ3V3by5tZA==">Document</rich_text>
+						<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Muharto tells Cameron that he flew with RI-002 until May 1948, when he was promoted to major and posted to headquarters. Muharto saw little of Bob after that, but was looking for forward to having Bob as guest of honor at this wedding in October. But on 1 October, Muharto heard reports that RI-002 had been lost while transporting a large cargo of gold to Bukittinggi. The Dutch denied any knowledge of the disappearance, and the Republic was unable to mount more than a cursory search. Two farmers stumbled upon wreckage on a remote mountaintop in 1977, and the Air Force investigated the site. Muharto, long retired, only heard of this some years later. But as a former officer, he as permitted to access Air Force archives, where he found the investigation report. 
+</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Frustrating Research" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748519.13" ts_lastsave="1630751457.33" unique_id="1107">
+					<rich_text link="node 983">Cameron Meets Muharto</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text justification="left"></rich_text>
+					<rich_text>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+But on 1 October, Muharto heard reports that RI-002 had been lost while transporting a large cargo of gold to Bukittinggi. The Dutch denied any knowledge of the disappearance, and the Republic was unable to mount more than a cursory search. Two farmers stumbled upon wreckage on a remote mountaintop in 1977, and the Air Force investigated the site. Muharto, long retired, only heard of this some years later. But as a former officer, he as permitted to access Air Force archives, where he found the investigation report and .  Muharto shows Cameron a clipping dated 1983 about ratten gatherers finding wreckage on a remote mountain in South Sumatra. Muharto uses his AURI credentials to research the archives</rich_text>
+					<codebox char_offset="23" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">title: Cameron Meets Muharto
+date: 25 September 1988
+location: Muharto Residence
+status: new</codebox>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Crash Site Investigation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751457.33" ts_lastsave="1630751608.61" unique_id="1111">
+						<rich_text link="file c2NlbmVzL2NyYXNoX3NpdGVfaW52ZXN0aWdhdGlvbi5tZA==">Document</rich_text>
+						<rich_text>
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Sixth Coffin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751139.71" ts_lastsave="1630751148.98" unique_id="1109">
+						<rich_text link="file c2NlbmVzL3RoZV9zaXh0aF9jb2ZmaW4ubWQ=">Document</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Regrets" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751241.22" ts_lastsave="1630751340.8" unique_id="1110">
+					<rich_text link="node 983">Cameron Meets Muharto</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text justification="left"></rich_text>
+					<rich_text>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto tells Cameron that the sixth coffin, presumably containing Bobs
+remains, could not be buried with the others because he was a foreigner.
+Muhartos expression as he finishes his reminiscences convinces
+Cameron that he regarded Freeberg as a close friend, and is seeking
+closure about his mysterious disappearance. As Cameron rises to leave, Muharto wonders that if he had turned down promotion and had been with Bob on the final flight, maybe it would not have ended in tragedy. 
 </rich_text>
 					<codebox char_offset="23" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">title: Cameron Meets Muharto
 date: 25 September 1988
@@ -1570,7 +1646,7 @@ location: Muharto Residence
 status: new</codebox>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Initial Research" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630049326.03" ts_lastsave="1630049326.03" unique_id="1069">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Initial Research" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630049326.03" ts_lastsave="1630745158.02" unique_id="1069">
 				<rich_text>
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron sent to library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629600371.61" ts_lastsave="1630380908.33" unique_id="1040">
@@ -1606,7 +1682,10 @@ status: new</codebox>
 					<rich_text> 
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Follow the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629601100.11" ts_lastsave="1630381801.34" unique_id="1043">
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Building a Mystery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630745158.03" ts_lastsave="1630745178.58" unique_id="1103">
+				<rich_text> </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629601100.11" ts_lastsave="1630745267.06" unique_id="1043">
 					<rich_text justification="left"></rich_text>
 					<rich_text> 
 </rich_text>
@@ -1624,7 +1703,8 @@ location: Jakarta Post</codebox>
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630140093.1" ts_lastsave="1630638088.18" unique_id="1083">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Reunion With Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615456589.99" ts_lastsave="1630405700.32" unique_id="847">
 					<rich_text> </rich_text>
 					<rich_text link="node 982">Cameron Meets Boediardjo</rich_text>
@@ -1669,7 +1749,8 @@ status: new</codebox>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Intrigued" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630638088.18" ts_lastsave="1630638095.25" unique_id="1098">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Offers Assistance " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618979920.85" ts_lastsave="1630638106.74" unique_id="899">
 					<rich_text link="file c2NlbmVzL2p1bGlhX29mZmVyc19hc3Npc3RhbmNlLm1k">Document</rich_text>
 					<rich_text>
@@ -1697,7 +1778,8 @@ status: new</codebox>
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630638141.87" ts_lastsave="1630638141.87" unique_id="1099">
-				<rich_text></rich_text>
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="First Victor Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629783199.1" ts_lastsave="1630638153.29" unique_id="1058">
 					<rich_text link="node 981">Cameron Meets Victor</rich_text>
 					<rich_text> 
@@ -1858,10 +1940,12 @@ Julia is infuriated to be mistaken for a bar girl at a Kemang party.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 5" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135964.26" ts_lastsave="1630135969.33" unique_id="1077">
-			<rich_text></rich_text>
+			<rich_text>
+</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 6" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135969.33" ts_lastsave="1630207760.37" unique_id="1078">
-			<rich_text></rich_text>
+			<rich_text>
+</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Soekarno Tour" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630207760.38" ts_lastsave="1630211212.98" unique_id="1091">
 				<rich_text link="node 346">Im The Captain</rich_text>
 				<rich_text> </rich_text>

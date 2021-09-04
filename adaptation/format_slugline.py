@@ -10,75 +10,49 @@ Pandoc filter using panflute
 """
 
 import panflute as pf
-import redis
 from dateutil.relativedelta import relativedelta
 from dateutil.parser import parse
-from utility.helpers import make_identifier
 import attr
 
 @attr.s
 class Slugline():
-    prefix = attr.ib(default='')
-    date =  attr.ib(default='')
-    location = attr.ib(default='')
+    date =  attr.ib()
+    location = attr.ib()
+    prev_date =  attr.ib(default=None)
+    prev_location = attr.ib(default=None)
+    sequence_start = attr.ib(default=False, converter=lambda x: True if x == 'true' else False)
+
+    def __attr_post_init__(self):
+        if prev_date:
+            self.dd = relativedelta(parse(self.date), parse(self.prev_date))
+            self.dl = self.location == self.prev_location
+
 
     def __str__(self):
-        return f'{self.prefix} {self.date} {self.location}'
+        return self._format_slugline()
 
-rds = redis.Redis(decode_responses=True)
-
-def set_previous_metadata(metadata):
-    metadata_index_key = metadate['metadata_index_key']
-    metadata_key = make_identifier()
-    for k, v in metadata.items():
-        rds.hset(metadata_key, k, v)
-    rds.rpush(metadata_index_key, metadata_key)
-    rds.expire(metadata_index_key, 60)
-    rds.expire(metadata_key, 60)
-
-def diff_date(date):
-    try:
-        prev_date = rds.hget(rds.lindex(metadata_index_key, -1), 'date')
-    except:
-        return None
-    if prev_date:
-        return relativedelta(parse(date), parse(prev_date))
-    return None
+    def _format_slugline(self):
+        if self.sequence_start:
+            return f'{self.date} {self.location}'
+        else:
+            return 'continuing sequence'
 
 
-def diff_loc(loc):
-    try:
-        return loc == rds.hget(rds.lindex(metadata_index_key, -1), 'location')
-    except Exception as e:
-        print(e)
-        return None
 
+        if dd.years > 30:
+            slugline = Slugline(prefix ='Returning to modern-day interview')
 
-def format_slugline(meta):
-    date = meta['date']
-    loc = meta['location']
+        elif dd.years < -30:
+            slugline = Slugline(prefix='In a flashback to', date=date)
 
-    if meta['sequence_start']:
-        slugline = Slugline(date=date, location=loc)
-    else:
+        elif dd.days == 1:
+            slugline = Slugline(prefix='The following day')
 
-    dd = diff_date(date)
-    dl = diff_loc(loc)
+        elif 1 < dd.days < 5:
+            slugline = Slugline(prefix='A few days later')
 
-    if dd.years > 30:
-        slugline = Slugline(prefix ='Returning to modern-day interview')
-
-    elif dd.years < -30:
-        slugline = Slugline(prefix='In a flashback to', date=date)
-
-    elif dd.days == 1:
-        slugline = Slugline(prefix='The following day')
-
-    elif 1 < dd.days < 5:
-        slugline = Slugline(prefix='A few days later')
-
-    else:
-        slugline = Slugline()
+        else:
+            slugline = Slugline()
 
     if dl:
         slugline.location = loc
@@ -86,24 +60,24 @@ def format_slugline(meta):
     return str(slugline)
 
 def prepare(doc):
-    pass
+    doc.sluglines = []
 
 def action(elem, doc):
-    pass
+    if isinstance(elem, pf.Span) and 'date' in elem.attributes:
+        args=elem.attributes
+        doc.sluglines.append(args)
+        slugline = Slugline(**args)
+        if args['sequence_start'] == 'false':
+            prev_meta = doc.sluglines[-2]
+            slugline.prev_date = prev_meta['date']
+            slugline.prev_location = prev_meta['location']
+        pf.debug(slugline)
 
 
-def finalize(doc):
-    metadata = doc.get_metadata()
-    slugline = format_slugline(metadata)
-    if slugline:
-        doc.metadata["slugline"] = pf.MetaString(str(slugline))
-        set_previous_metadata(metadata)
-    return doc
 
 def main(doc=None):
     return pf.run_filter(action,
                          prepare=prepare,
-                         finalize=finalize,
                          doc=doc)
 
 if __name__ == '__main__':
