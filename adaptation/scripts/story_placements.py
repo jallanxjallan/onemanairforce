@@ -1,19 +1,33 @@
-#!/usr/bin/env python
+    #%%writefile scripts/story_placements.py
+    #!/usr/bin/env python
 
 import pandas as pd
 from pathlib import Path
 from storage.cherrytree import CherryTree
-import sys
+import dateparser
+import fire
 
-def story_placements(story_node, scenes_node, index_file):
-    ct = CherryTree(index_file)
-    story_node = ct.find_node_by_name(story_node)
-    scene_node = ct.find_node_by_name(scenes_node)
-    story_links = pd.DataFrame([dict(Scene=n.name, href=l.href, sc_no=no)
-                                for no, n in enumerate(scene_node.descendants)
-                                for l in n.links if l.type == 'node'])
-    story_nodes = pd.DataFrame([dict(Story=n.name, href=n.id, st_no=no)
-                                for no, n in enumerate(story_node.descendants)])
+# def get_timestamp(node):
+#     return next(filter(None, (dateparser.parse(b) for b in node.bullets)), None )
 
-    df = story_nodes.merge(story_links, how='left', on='href')
-    return df.fillna('Unplaced')[['Story', 'Scene']]
+def story_placements(content_index, story_node):
+    ct = CherryTree(content_index)
+    data = []
+
+    for seq, story_node in enumerate([n for n in ct.nodes(story_node) if n.level == 3]):
+        # timestamp = get_timestamp(node) or dateparser.parse('1 January 2020')
+        item = dict(incident=story_node.name, seq = seq)
+
+        episode_node = ct.find_elem_by_attribute('link', f'node {story_node.id}')
+        if episode_node:
+            item['episode'] = episode_node.ancestors[1].name
+            item['scene']   = episode_node.name
+
+        data.append(item)
+
+    df = pd.DataFrame(data).fillna('Unplaced')
+
+    print(df[['incident', 'seq', 'episode', 'scene']].sort_values('episode'))
+
+if __name__ == '__main__':
+    fire.Fire(story_placements)

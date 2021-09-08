@@ -1,5 +1,0 @@
----
-input-file: synopsis.md 
-output-file: output/test_synopsis.docx
-filters: 
-  - format_synopsis.py

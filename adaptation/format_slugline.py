@@ -13,66 +13,82 @@ import panflute as pf
 from dateutil.relativedelta import relativedelta
 from dateutil.parser import parse
 import attr
+import json
+from pathlib import Path
+
+with open('locations.json') as infile:
+    location_map = {i['location']:i['display'] for i in json.load(infile)}
 
 @attr.s
-class Slugline():
-    date =  attr.ib()
-    location = attr.ib()
-    prev_date =  attr.ib(default=None)
-    prev_location = attr.ib(default=None)
-    sequence_start = attr.ib(default=False, converter=lambda x: True if x == 'true' else False)
-
-    def __attr_post_init__(self):
-        if prev_date:
-            self.dd = relativedelta(parse(self.date), parse(self.prev_date))
-            self.dl = self.location == self.prev_location
-
-
-    def __str__(self):
-        return self._format_slugline()
-
-    def _format_slugline(self):
-        if self.sequence_start:
-            return f'{self.date} {self.location}'
-        else:
-            return 'continuing sequence'
+class SluglineData():
+    date =  attr.ib(converter=lambda x: parse(x))    
+    location = attr.ib(converter=lambda x: location_map.get(x, x))
+    wrap_scene = attr.ib(default=False) 
 
 
 
-        if dd.years > 30:
-            slugline = Slugline(prefix ='Returning to modern-day interview')
+def format_slugline(sl, psl):
 
-        elif dd.years < -30:
-            slugline = Slugline(prefix='In a flashback to', date=date)
+    dsp_date = sl.date.strftime('%d %B %Y')
+
+    
+    if not psl: 
+        date = dsp_date
+        location = sl.location 
+    
+    else:
+    
+        location = sl.location if sl.location != psl.location else '' 
+        dd = relativedelta(sl.date, psl.date)
+        
+        if sl.date == psl.date:
+            date='Later that day'
+            
+        elif dd.years < -2:
+             date = f'Flashing back to {dsp_date}' 
 
         elif dd.days == 1:
-            slugline = Slugline(prefix='The following day')
+             date = 'The following day'
 
         elif 1 < dd.days < 5:
-            slugline = Slugline(prefix='A few days later')
-
+             date ='A few days later'
+            
+        elif dd.years > 2:
+            
+            if sl.wrap_scene == 'Interviews':
+                date = 'Returning to the interview on {dsp_date}' 
+            elif sl.wrap_scene == 'Writings':
+                date = 'Returning to {dsp_date}' 
+            else:
+                date = dsp_date
         else:
-            slugline = Slugline()
-
-    if dl:
-        slugline.location = loc
-
-    return str(slugline)
+            date = dsp_date
+        
+    
+    return f'{date} at {location}'
 
 def prepare(doc):
     doc.sluglines = []
 
 def action(elem, doc):
     if isinstance(elem, pf.Span) and 'date' in elem.attributes:
-        args=elem.attributes
-        doc.sluglines.append(args)
-        slugline = Slugline(**args)
-        if args['sequence_start'] == 'false':
-            prev_meta = doc.sluglines[-2]
-            slugline.prev_date = prev_meta['date']
-            slugline.prev_location = prev_meta['location']
-        pf.debug(slugline)
-
+        try:
+            sluglinedata = SluglineData(**elem.attributes)
+        except Exception as e:
+            pf.debug(e)
+            return elem 
+        try:
+            prev_sluglinedata = doc.sluglines[-1] 
+        except IndexError:
+            prev_sluglinedata = None
+             
+        slugline = format_slugline(sluglinedata, prev_sluglinedata)
+        if slugline:
+            elem = pf.Span(pf.Strong(pf.Str(slugline), pf.Space))
+        else:
+            elem = []
+        doc.sluglines.append(sluglinedata)
+    return elem
 
 
 def main(doc=None):

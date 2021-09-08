@@ -1,0 +1,87 @@
+[
+    {
+        "display": "at the Boediardjo residence",
+        "field1": 3,
+        "location": "Boediardjo Residence"
+    },
+    {
+        "display": "in Bukittinggi",
+        "field1": 23,
+        "location": "Bukittinggi"
+    },
+    {
+        "display": "aboard the CALI Dakota",
+        "field1": 4,
+        "location": "CALI Dakota"
+    },
+    {
+        "display": "on Cilotok Beach",
+        "field1": 1,
+        "location": "Cilotok"
+    },
+    {
+        "display": "in Emeria's Studio",
+        "field1": 20,
+        "location": "Emeria Salon"
+    },
+    {
+        "display": "in the IPPHOS office",
+        "field1": 10,
+        "location": "IPPHOS"
+    },
+    {
+        "display": "in the Jakarta Post newsroom",
+        "field1": 8,
+        "location": "Jakarta Post"
+    },
+    {
+        "display": "in Julia's Residence",
+        "field1": 22,
+        "location": "Julia Residence"
+    },
+    {
+        "display": "in KNIL headquarters",
+        "field1": 18,
+        "location": "KNIL"
+    },
+    {
+        "display": "at Karangendah airfield",
+        "field1": 17,
+        "location": "Karangendah"
+    },
+    {
+        "display": "at Maguwo airfield",
+        "field1": 0,
+        "location": "Maguwo"
+    },
+    {
+        "display": "on Mount Punggur",
+        "field1": 7,
+        "location": "Mount Punggur"
+    },
+    {
+        "display": "in the Muharto residence",
+        "field1": 14,
+        "location": "Muharto Residence"
+    },
+    {
+        "display": "in the National Library",
+        "field1": 6,
+        "location": "National Library"
+    },
+    {
+        "display": "aboard RI-002",
+        "field1": 24,
+        "location": "RI-002"
+    },
+    {
+        "display": "Taman Sari Restaurant",
+        "field1": 5,
+        "location": "Taman Sari Restaurant"
+    },
+    {
+        "display": "at Tanjung Karang air base",
+        "field1": 26,
+        "location": "Tanjung Karang"
+    }
+]
