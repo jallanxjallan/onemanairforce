@@ -276,8 +276,9 @@ Bio
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1630559241.73" unique_id="898">
-			<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. 
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1631180261.96" unique_id="898">
+			<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. First job would be to intercept gold shipment to finance it.
+• Verspoor lied and said he was not sure of the loyalty of some of his pilots as they were Indos. Better select a squadron that is all native Dutch. Westerling agreed, and both decided to never mention this phone call again. 
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Petit Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="29">
@@ -488,11 +489,11 @@ Behavior
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004139.84" ts_lastsave="1631004337.21" unique_id="1142">
-		<rich_text></rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004218.93" ts_lastsave="1631004241.56" unique_id="1143">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681513.61" ts_lastsave="1631078313.2" unique_id="983">
-				<rich_text>• September 1988
+		<rich_text>
+</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004218.93" ts_lastsave="1631253778.75" unique_id="1143">
+			<rich_text>
+• September 1988
 • Muharto relates how he met Freeberg, 
 • Adventures they had running the blockade, always 
 • Emphasizing Freeberg's extraordinary piloting skills and his humility.
@@ -505,75 +506,58 @@ Behavior
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto tells Cameron that this aircraft, a Nikosoren, was one of a score barely servicable planes the Japanese had left behind. The air force mechanics kept these aircraft flying through skill and guesswork, but Muharto was aware that any flight could end in disaster. To keep his mind from this eventuality, Muharto  thought about the American pilots he had met during the blockade runs he had organized from Singapore to Jogjakarta. He  decided that only Bob Freeberg possessed the skill and nerve to land at night on a remote beach. Bob had been the pilot of the third blockade run. Though these had been standard charter flights -- they even had a flight attendant, a lovely Filipina named Miss Brown -- the third flight would test the skills of any aviator.  
 </rich_text>
-			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004241.56" ts_lastsave="1631004249.08" unique_id="1144">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681484.18" ts_lastsave="1631004560.26" unique_id="982">
-				<rich_text>
- October 1988
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004241.56" ts_lastsave="1631253984.65" unique_id="1144">
+			<rich_text> October 1988
 • First boedi meeting only about high times with aviation brother s and hint that Bob not a saint. 
-• Brief mention of tom lee making life endurable through shouting meals and drinks.  
+• Brief mention of tom lee making life endurable through shouting meals and drinks.  Suggests that he was a Company Man. 
 • Pokes gentle fun at Muharto. Setting the flaps and Money for Nothing. 
-• First Mention of Tom Lee. Joking that he was a spy for buying meals.
+
 • Tells story of Non-stop to Jogja. This leads into Boodi building up Muharto by noting he was de facto defence attache. Introduce Primitivo, and Ining. 
 • • October 1988
 • Boedi opens up about Aviation Brotherhood and Bob's conflict with Walters. 
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Sanyoto Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004249.08" ts_lastsave="1631004278.49" unique_id="1145">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004278.49" ts_lastsave="1631004296.37" unique_id="1146">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julius Tahija Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004296.37" ts_lastsave="1631004585.56" unique_id="1147">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Useful Idiot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681350.8" ts_lastsave="1631004700.05" unique_id="980">
-				<rich_text>
-• December 1988
-• Victor and Cameron are certain that Spoor was planning a coup with the
-• help of the CIA. 
-• Victor suggests the next step should be to talk to
-• Julius Tahija. 
-• Victor remembers Julius as being honest and
-• straightforward. 
-• There is a good chance he will tell the true story. 
-• Julius Tahija reveals that Spoor had assigned Victor to his office to supply misinformation to Republicans through his relationship with Emeria. 
-• Asks he Victor is doing. Heard he had defected. Was a good guy, and used by too many people
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004585.56" ts_lastsave="1631004640.3" unique_id="1148">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681389.3" ts_lastsave="1631004609.87" unique_id="981">
-				<rich_text>• Cameron meets Victor at IPPHOS
-• Cameron tells Victor that Spoor denied knowledge of fate of RI-002. Victor repliest that of course he would say that. Spoor was an intelligence operative, and a master of disinformation 
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Anwar Congo Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004640.3" ts_lastsave="1631004640.3" unique_id="1149">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Anwar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619754189.46" ts_lastsave="1631004657.46" unique_id="988">
-				<rich_text>
 
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Anwar Explains All" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619754200.98" ts_lastsave="1631004677.51" unique_id="989">
-				<rich_text>
-• December 1988
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Sanyoto Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004249.08" ts_lastsave="1631260854.23" unique_id="1145">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Pang Suparto Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631253845.58" ts_lastsave="1631253869.67" unique_id="1188">
+			<rich_text>Pang relates stories of hard times in Manila. 
+Proud that Muharto became defacto laision and arranged for Ining to be brought back to train student army. 
+Reveals that Boedi got along well with the Aviation Brotherhood, while
+Muharto and him were shy
+Mentions Tom Lee treating</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004278.49" ts_lastsave="1631004296.37" unique_id="1146">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julius Tahija Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004296.37" ts_lastsave="1631004585.56" unique_id="1147">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Interviews" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004585.56" ts_lastsave="1631253829.55" unique_id="1148">
+			<rich_text>• Cameron meets Victor at IPPHOS
+• Cameron tells Victor that Spoor denied knowledge of fate of RI-002. Victor repliest that of course he would say that. Spoor was an intelligence operative, and a master of disinformation 
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Anwar Congo Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631004640.3" ts_lastsave="1631260862.24" unique_id="1149">
+			<rich_text>• December 1988
 • When they return, Anwar reveals that KNIL officers had paid him to smuggle a  substantial quantity of gold to Singapore. Anwar also
 introduces Cameron to several men who had been employed at Karangendah in menial civilian jobs. They attest that they had seen the crew in captivity. However, no one remembers seeing Freeberg. 
 Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, which then taken overland to Lampung by Sumatra preman.
 17. Anwar Congo tells of seeing Santoso with the others in detention. 
 18. Anwar saw Bob being taken away at a distance. Looked like he was walking voluntarily. 
-18. Reveals that KNIL officers traded gold for guns which were then sold to guerillas.  </rich_text>
-			</node>
+18. Reveals that KNIL officers traded gold for guns which were then sold to guerillas.  
+</rich_text>
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Investigation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630980695.96" ts_lastsave="1631077704.26" unique_id="1134">
-		<rich_text></rich_text>
+		<rich_text>
+</rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Air Force Wing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631077704.27" ts_lastsave="1631077754.39" unique_id="1151">
 			<rich_text>• Cameron notices photo of soldiers holding wing fragment with US Air Force logo</rich_text>
 		</node>
@@ -627,7 +611,7 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 			<rich_text>Affandi tells Cameron the story of the captured teenager accused of spy for the Dutch and summarily executed. </rich_text>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Writings" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618990991.99" ts_lastsave="1631016296.68" unique_id="900">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Writings" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618990991.99" ts_lastsave="1631357755.86" unique_id="900">
 		<rich_text>
 </rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="John Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630671023.42" unique_id="127">
@@ -652,6 +636,9 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 • Spooked by Night interception
 • Refusing to fly gold.
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bataviaasch Nieuwsblad" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631357755.86" ts_lastsave="1631357760.0" unique_id="1190">
+			<rich_text>• Spoor denies knowledge of RI-002 fate</rich_text>
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Stories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618822840.0" ts_lastsave="1631079833.96" unique_id="894">
@@ -732,7 +719,7 @@ Anwar Congo reveals that gold was used to purchase guns smuggled from Malaya, wh
 				<rich_text>1. Emeria takes Victor along (out of uniform) as she paints portraits of people dislocated by Dutch. 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Defects" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1629718659.72" unique_id="933">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Joins Republicans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631175001.54" unique_id="933">
 				<rich_text>
 • 27 December 1948
 • Victor is with Westerling when Ani berates him. 
@@ -974,6 +961,26 @@ gold to Bukittinggi. Fowler refuses as too risky</rich_text>
 </rich_text>
 			</node>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Copy Boy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619160478.32" ts_lastsave="1631001444.96" unique_id="958">
+			<rich_text>
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Sanyoto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001444.96" ts_lastsave="1631001783.95" unique_id="1136">
+				<rich_text>• Syd takes Cameron to the Earthquake Bar for a drink He introduces Cameron to the owner, Sanyoto, an Air Force drill sergeant during the revolution and fixer for a large foreign company. Sanyoto maintains wide contacts in the highest levels of government and the military, so the Earthquake is popular with generals and cabinet ministers. Sanyoto tells Cameron he is always welcome here, as long as he minds his manners and doesn't &quot;needle&quot; any of his regular guests. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Interrogates Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001458.88" ts_lastsave="1631001761.93" unique_id="1137">
+				<rich_text>• Puts eddy onto cam. After cam says: if I didn't know better I would swaer I was just interrogate d.Sanyoto describes Cameron as his anak angkat</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="PP Threaten Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001500.65" ts_lastsave="1631002375.76" unique_id="1138">
+				<rich_text>• Cameron is waylaid by Pemuda Pancasila thugs outside of the Earthquake. Sanyoto appears, and whacks the leader on the nose with his cane.  
+• on the way to Tanumur and threatened. He reports the incident to Fahmi, who invites him to Simbolon that weekend where, he can meet Yapto, the commander of the PP, and sort the matter out.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Deported" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595924521.17" ts_lastsave="1631002585.62" unique_id="354">
+				<rich_text>• Col Eddy is with Julia, and so reveals himself as her father. He says he has been identified, and Bais soldiers are coming to arrest him. He must leave now. Here is your car to your room, and then to the airport. Julia will accompany you to make sure you go. 
+• Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron is amazed at the generous amount of money. 
+
+</rich_text>
+			</node>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Expecting To Fly" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1622376552.57" unique_id="134">
 			<rich_text>
 </rich_text>
@@ -1024,50 +1031,13 @@ The Dutch sued in civil court for possession of the quinine. Fortunately, Muhart
 Muharto tells Cameron that Bob and the crew were stuck in Manila for three months, fighting with the Dutch for ownership of the quinine. 
 Muharto tells Cameron that the verdict took six weeks to deliver. But finally, on the morning of 29 July, the judge ruled in favor of the Republicans. Bob invited his crew to his apartment that evening to celebrate their victory, but a radio news bulletin cast  a pall on the evening.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Money For Nothing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853678.35" ts_lastsave="1630033092.45" unique_id="342">
-				<rich_text>
-• Bob chastises Muharto  for &quot;taking money for nothing&quot;.</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Non Stop To Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853354.81" ts_lastsave="1630064441.62" unique_id="340">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Reconciling With Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630064617.54" unique_id="145">
-				<rich_text>
-• Boedi brings Freeberg and Muharto together over whiskey to reconcile differences. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="De Facto Liaison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1610700156.98" ts_lastsave="1630064652.25" unique_id="806">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="De Facto Liaison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1610700156.98" ts_lastsave="1631157273.69" unique_id="806">
 				<rich_text>
 • Salipada Penatun arranges for Muharto to meet Major Primitivo of Philippine Army intel. 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Engaged" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.74" ts_lastsave="1630064657.03" unique_id="497">
-				<rich_text>
-• May 1947 
-• Muharto and Ani are engaged</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Wants To Decline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1630656100.46" unique_id="535">
-				<rich_text>• May 1948
-• Muharto wants to decline promotion, but Ani talks him out of it. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Smuggled Gems" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1629871323.01" unique_id="596">
-				<rich_text>
-• Muharto smuggles gems without Bob knowing.</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012705.55" ts_lastsave="1629871353.5" unique_id="379">
-				<rich_text>
-• Muharto, Boedi and Pang eat a Madras Curry 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Promoted" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630656077.11" unique_id="147">
-				<rich_text>• May 1948
-• Muharto is reluctantly promoted to Major and assigned a desk job. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1630727977.85" unique_id="1001">
-				<rich_text link="node 1001">Penniless in Manila</rich_text>
-				<rich_text>  
-
-• Stuck in Manila for three months
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Penniless in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128243.24" ts_lastsave="1631173810.9" unique_id="1001">
+				<rich_text>• Stuck in Manila for three months
 • VT-CLA shot down
 • Finally sells quinine and RI-002 returns
 • The day after arrival Bob Meets Soekarno
@@ -1077,29 +1047,52 @@ Muharto tells Cameron that they awoke the next morning to find they were celebri
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Into The Typhoon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618816990.45" ts_lastsave="1630727760.12" unique_id="889">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1596012705.55" ts_lastsave="1631157283.1" unique_id="379">
+				<rich_text>
+• Muharto, Boedi and Pang eat a Madras Curry 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Money For Nothing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853678.35" ts_lastsave="1630033092.45" unique_id="342">
+				<rich_text>
+• Bob chastises Muharto  for &quot;taking money for nothing&quot;.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Non Stop To Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595853354.81" ts_lastsave="1630064441.62" unique_id="340">
+				<rich_text>
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Into The Typhoon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618816990.45" ts_lastsave="1631157261.88" unique_id="889">
 				<rich_text>• December 1947 
 • • Boedi also recounts events that Muharto did not mention, recalling Muharto's terror-stricken look during the November 1947 incident when Freeberg, who had flown through typhoons, dove into the heart of a violent storm to evade a Dutch patrol.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropical storm. Muharto is terrified, but Bob tells him that when a Navy test pilot he would fly through typhoons.  
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600066441.38" ts_lastsave="1630984595.09" unique_id="419">
-				<rich_text>• August 1947
-• Boedi and Muharto enjoy a brief respite from their meager diet when Tom Lee invites them for drinks and dinner. 
-☐ Split into interview and flashback scenes</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee In Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1608020193.54" ts_lastsave="1630984614.43" unique_id="789">
-				<rich_text>• September 1948
-• Tom Lee accompanies the last RI-002 flight to Jogja to &quot;study veterans claims&quot;. 
-• Tom and Bob apply for a license to shoot a documentary film. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Lands Ri-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618476070.86" ts_lastsave="1631002698.57" unique_id="871">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Lands Ri-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618476070.86" ts_lastsave="1631157320.27" unique_id="871">
 				<rich_text>
 • March 1948
 • Muharto successfully lands RI-002 at Maguwo 
 • Freeberg congratulates him</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Smuggled Gems" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.84" ts_lastsave="1631157301.66" unique_id="596">
+				<rich_text>
+• Muharto smuggles gems without Bob knowing.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Promoted" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631157306.91" unique_id="147">
+				<rich_text>• May 1948
+• Muharto is reluctantly promoted to Major and assigned a desk job. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Wants To Decline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.81" ts_lastsave="1631157304.18" unique_id="535">
+				<rich_text>• May 1948
+• Muharto wants to decline promotion, but Ani talks him out of it. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Engaged" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.74" ts_lastsave="1630064657.03" unique_id="497">
+				<rich_text>
+• May 1947 
+• Muharto and Ani are engaged</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Reconciling With Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631157254.25" unique_id="145">
+				<rich_text>
+• Boedi brings Freeberg and Muharto together over whiskey to reconcile differences. </rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Follow the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618729317.15" ts_lastsave="1630891230.21" unique_id="880">
@@ -1136,6 +1129,20 @@ To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropic
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Major Desk Jockey" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605779038.48" ts_lastsave="1630655652.95" unique_id="646">
 				<rich_text>• Boedi reveals that Muharto had not been &quot;promoted&quot; out of RI-002. 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Useful Idiot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619681350.8" ts_lastsave="1631174802.87" unique_id="980">
+				<rich_text>
+• December 1988
+• Victor and Cameron are certain that Spoor was planning a coup with the
+• help of the CIA. 
+• Victor suggests the next step should be to talk to
+• Julius Tahija. 
+• Victor remembers Julius as being honest and
+• straightforward. 
+• There is a good chance he will tell the true story. 
+• Julius Tahija reveals that Spoor had assigned Victor to his office to supply misinformation to Republicans through his relationship with Emeria. 
+• Asks he Victor is doing. Heard he had defected. Was a good guy, and used by too many people
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Raid on Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619614464.77" ts_lastsave="1630142155.82" unique_id="976">
@@ -1218,9 +1225,11 @@ To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropic
 				<rich_text>• July 1947
 • Spoor mobilizes the military in a lightning strike, seizing agricultural land, ports, and oil fields.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Is Training Guerrillas" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630655315.24" unique_id="189">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ining Is Training Guerrillas" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631238051.28" unique_id="189">
 				<rich_text>• October 1947
 • Spoor learns that Espina is training guerrillas in Jogja.
+• Concerned that foreigners are training local fighters. 
+• This is a communist maneuver
 
 </rich_text>
 			</node>
@@ -1228,9 +1237,9 @@ To avoid a Dutch patrol in the vicinity, Bob steers RI-002 into a violent tropic
 				<rich_text>• 18 October 1947
 • Spoor is furious when he learns that Thai authorities released Freeberg.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Pissed At Bob" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.85" ts_lastsave="1630655335.98" unique_id="925">
-				<rich_text>• October 1947
-• Spoor vents his fury at Bob running blockade with impunity
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Pissed At Bob" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.85" ts_lastsave="1631181006.3" unique_id="925">
+				<rich_text>• January 1947
+• Spoor vents his fury at Bob for Ining debacle. 
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Newspaper Calls Ining" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630655382.94" unique_id="208">
@@ -1256,7 +1265,8 @@ they encounter RI-002.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Red Scare" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631089265.97" ts_lastsave="1631089265.97" unique_id="1158">
-			<rich_text></rich_text>
+			<rich_text>
+</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Meets Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631089369.79" unique_id="82">
 				<rich_text>• October 1947
 • Victor Meets Robert Koke at Spoors office
@@ -1279,6 +1289,17 @@ they encounter RI-002.</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cobley Flies Cadres" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1631089377.82" unique_id="93">
 				<rich_text>• In June 1948, Cobley flies communists to Madiun
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1600066441.38" ts_lastsave="1631153302.99" unique_id="419">
+				<rich_text>• August 1947
+• Boedi and Muharto enjoy a brief respite from their meager diet when Tom Lee invites them for drinks and dinner. 
+☐ Split into interview and flashback scenes</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee In Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1608020193.54" ts_lastsave="1631153334.6" unique_id="789">
+				<rich_text>• September 1948
+• Tom Lee accompanies the last RI-002 flight to Jogja to &quot;study veterans claims&quot;. 
+• Tom and Bob apply for a license to shoot a documentary film. 
 </rich_text>
 			</node>
 		</node>
@@ -1311,7 +1332,7 @@ Manila.</rich_text>
 • Ani gives Westerling a tongue lashing to divert attention while Muharto swallows his air force identification. </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Story of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630117024.38" ts_lastsave="1630891312.78" unique_id="1076">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Story of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630117024.38" ts_lastsave="1631179416.91" unique_id="1076">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Lands On Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630899554.37" unique_id="102">
@@ -1344,6 +1365,9 @@ Manila.</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595925946.95" ts_lastsave="1630117572.6" unique_id="356">
 				<rich_text>• Dropping paratroopers over Borneo
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded in Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631158913.1" ts_lastsave="1631159213.74" unique_id="1170">
+				<rich_text>• RI-002 is detained by the request of Dutch officials in Bangkok.</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620128449.81" ts_lastsave="1630891716.77" unique_id="1002">
 				<rich_text>• Bob flies numerous missions 
@@ -1386,26 +1410,6 @@ Manila.</rich_text>
 				<rich_text>• Bambang takes control and flies back to Branti. Over mountains the escorting fighters attack. Bambang dives into valleys, recreating what Bob did the previous week. </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Copy Boy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619160478.32" ts_lastsave="1631001444.96" unique_id="958">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Meets Sanyoto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001444.96" ts_lastsave="1631001783.95" unique_id="1136">
-				<rich_text>• Syd takes Cameron to the Earthquake Bar for a drink He introduces Cameron to the owner, Sanyoto, an Air Force drill sergeant during the revolution and fixer for a large foreign company. Sanyoto maintains wide contacts in the highest levels of government and the military, so the Earthquake is popular with generals and cabinet ministers. Sanyoto tells Cameron he is always welcome here, as long as he minds his manners and doesn't &quot;needle&quot; any of his regular guests. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Interrogates Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001458.88" ts_lastsave="1631001761.93" unique_id="1137">
-				<rich_text>• Puts eddy onto cam. After cam says: if I didn't know better I would swaer I was just interrogate d.Sanyoto describes Cameron as his anak angkat</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="PP Threaten Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001500.65" ts_lastsave="1631002375.76" unique_id="1138">
-				<rich_text>• Cameron is waylaid by Pemuda Pancasila thugs outside of the Earthquake. Sanyoto appears, and whacks the leader on the nose with his cane.  
-• on the way to Tanumur and threatened. He reports the incident to Fahmi, who invites him to Simbolon that weekend where, he can meet Yapto, the commander of the PP, and sort the matter out.</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Deported" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595924521.17" ts_lastsave="1631002585.62" unique_id="354">
-				<rich_text>• Col Eddy is with Julia, and so reveals himself as her father. He says he has been identified, and Bais soldiers are coming to arrest him. He must leave now. Here is your car to your room, and then to the airport. Julia will accompany you to make sure you go. 
-• Gives him an envelop of cash. I'll take your Harley. Always wanted one. Cameron is amazed at the generous amount of money. 
-
-</rich_text>
-			</node>
-		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Tentara Pelajar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1630118649.23" unique_id="200">
 			<rich_text>
 </rich_text>
@@ -1446,7 +1450,7 @@ Manila.</rich_text>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Episodes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615279198.83" ts_lastsave="1630144174.17" unique_id="836">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 1" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630049164.58" ts_lastsave="1630136001.91" unique_id="1068">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 01" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630049164.58" ts_lastsave="1631159882.07" unique_id="1068">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob lands on beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615451483.27" ts_lastsave="1631063959.41" unique_id="838">
@@ -1458,10 +1462,8 @@ Manila.</rich_text>
 				<rich_text>
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618817887.68" ts_lastsave="1631006517.17" unique_id="890">
-				<rich_text>
-</rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618817887.68" ts_lastsave="1631254601.85" unique_id="890">
+				<rich_text link="node 1143">Muharto Interview</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfbXVoYXJ0by5tZA==">Document</rich_text>
@@ -1474,149 +1476,149 @@ Manila.</rich_text>
 					<rich_text> 
 </rich_text>
 				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Wondering aloft" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629605454.54" ts_lastsave="1631078398.27" unique_id="1046">
-				<rich_text link="file c2NlbmVzL3dvbmRlcmluZ19hbG9mdC5tZA==">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 967">Railway Guide</rich_text>
-				<rich_text>  
-</rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> 
-
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Third CALI Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616205.57" ts_lastsave="1631064992.03" unique_id="1047">
-					<rich_text link="file c2NlbmVzL3RoaXJkX2NhbGlfcnVuLm1k">Document</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wondering aloft" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629605454.54" ts_lastsave="1631357094.4" unique_id="1046">
+					<rich_text link="file c2NlbmVzL3dvbmRlcmluZ19hbG9mdC5tZA==">Document</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="node 107">Third CALI Run</rich_text>
-					<rich_text> 
-</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting at Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616641.02" ts_lastsave="1631065166.48" unique_id="1048">
-					<rich_text link="file c2NlbmVzL21lZXRpbmdfYXRfbWFndXdvLm1k">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 725">Bob Meets Suryadarma</rich_text>
-					<rich_text>  
-
-</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Unorthodox Request" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410963.57" ts_lastsave="1631078404.94" unique_id="968">
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="file c2NlbmVzL3Vub3J0aG9kb3hfcmVxdWVzdC5tZA==">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Test Landing at Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616745.97" ts_lastsave="1630830678.9" unique_id="1049">
-					<rich_text link="file c2NlbmVzL3Rlc3RfbGFuZGluZ19hdF9rYXJhbmdlbmRhaC5tZA==">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 139">Landing at Karangendah</rich_text>
-					<rich_text> 
-
-</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Bamboo Runway" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629617246.84" ts_lastsave="1630830679.92" unique_id="1051">
-					<rich_text link="file c2NlbmVzL2JhbWJvb19ydW53YXkubWQ=">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 863">Bamboo Runway</rich_text>
-					<rich_text> 
-
-</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Birth Of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629617323.63" ts_lastsave="1630830680.72" unique_id="1052">
-					<rich_text link="file c2NlbmVzL2JpcnRoX29mX3JpLTAwMi5tZA==">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 367">Fictitious Registration</rich_text>
-					<rich_text> 
-
-</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Airborne Truck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630832206.31" ts_lastsave="1631078415.19" unique_id="1123">
-				<rich_text link="file c2NlbmVzL2FpcmJvcm5lX3RydWNrLm1k">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 1002">Republican Lifeline</rich_text>
-				<rich_text> 
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Soekarno" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630899231.24" ts_lastsave="1631065229.83" unique_id="1125">
-					<rich_text link="node 344">Bob Meets Soekarno</rich_text>
+					<rich_text link="node 967">Railway Guide</rich_text>
 					<rich_text>  
 </rich_text>
-					<rich_text link="file c2NlbmVzL21lZXRpbmdfc29la2Fybm8ubWQ=">Document</rich_text>
+					<rich_text link="node 1143">Muharto Interview</rich_text>
+					<rich_text> 
+
+</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Third CALI Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616205.57" ts_lastsave="1631064992.03" unique_id="1047">
+						<rich_text link="file c2NlbmVzL3RoaXJkX2NhbGlfcnVuLm1k">Document</rich_text>
+						<rich_text>
+</rich_text>
+						<rich_text link="node 107">Third CALI Run</rich_text>
+						<rich_text> 
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting at Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616641.02" ts_lastsave="1631065166.48" unique_id="1048">
+						<rich_text link="file c2NlbmVzL21lZXRpbmdfYXRfbWFndXdvLm1k">Document</rich_text>
+						<rich_text>
+</rich_text>
+						<rich_text link="node 725">Bob Meets Suryadarma</rich_text>
+						<rich_text>  
+
+</rich_text>
+					</node>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Bule Palawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630750529.6" ts_lastsave="1630832480.97" unique_id="1108">
-					<rich_text link="node 376">Last Corned Beef</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Unorthodox Request" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619410963.57" ts_lastsave="1631357099.42" unique_id="968">
+					<rich_text link="node 1143">Muharto Interview</rich_text>
 					<rich_text> 
 </rich_text>
-					<rich_text link="file c2NlbmVzL2J1bGVfcGFsYXdhbi5tZA==">Document</rich_text>
+					<rich_text link="file c2NlbmVzL3Vub3J0aG9kb3hfcmVxdWVzdC5tZA==">Document</rich_text>
 					<rich_text>
 </rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="ECAFE Conference" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630746119.89" ts_lastsave="1630832736.19" unique_id="1105">
-					<rich_text link="node 343">Mission To Bagiuo</rich_text>
-					<rich_text>    
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Test Landing at Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629616745.97" ts_lastsave="1630830678.9" unique_id="1049">
+						<rich_text link="file c2NlbmVzL3Rlc3RfbGFuZGluZ19hdF9rYXJhbmdlbmRhaC5tZA==">Document</rich_text>
+						<rich_text>
 </rich_text>
-					<rich_text link="file c2NlbmVzL2VjYWZlX2NvbmZlcmVuY2UubWQ=">Document</rich_text>
+						<rich_text link="node 139">Landing at Karangendah</rich_text>
+						<rich_text> 
+
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bamboo Runway" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629617246.84" ts_lastsave="1630830679.92" unique_id="1051">
+						<rich_text link="file c2NlbmVzL2JhbWJvb19ydW53YXkubWQ=">Document</rich_text>
+						<rich_text>
+</rich_text>
+						<rich_text link="node 863">Bamboo Runway</rich_text>
+						<rich_text> 
+
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Birth Of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629617323.63" ts_lastsave="1630830680.72" unique_id="1052">
+						<rich_text link="file c2NlbmVzL2JpcnRoX29mX3JpLTAwMi5tZA==">Document</rich_text>
+						<rich_text>
+</rich_text>
+						<rich_text link="node 367">Fictitious Registration</rich_text>
+						<rich_text> 
+
+</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Airborne Truck" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630832206.31" ts_lastsave="1631357103.34" unique_id="1123">
+					<rich_text link="file c2NlbmVzL2FpcmJvcm5lX3RydWNrLm1k">Document</rich_text>
 					<rich_text>
 </rich_text>
+					<rich_text link="node 1143">Muharto Interview</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="node 1002">Republican Lifeline</rich_text>
+					<rich_text> 
+</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Soekarno" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630899231.24" ts_lastsave="1631065229.83" unique_id="1125">
+						<rich_text link="node 344">Bob Meets Soekarno</rich_text>
+						<rich_text>  
+</rich_text>
+						<rich_text link="file c2NlbmVzL21lZXRpbmdfc29la2Fybm8ubWQ=">Document</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bule Palawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630750529.6" ts_lastsave="1630832480.97" unique_id="1108">
+						<rich_text link="node 376">Last Corned Beef</rich_text>
+						<rich_text> 
+</rich_text>
+						<rich_text link="file c2NlbmVzL2J1bGVfcGFsYXdhbi5tZA==">Document</rich_text>
+						<rich_text>
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="ECAFE Conference" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630746119.89" ts_lastsave="1630832736.19" unique_id="1105">
+						<rich_text link="node 343">Mission To Bagiuo</rich_text>
+						<rich_text>    
+</rich_text>
+						<rich_text link="file c2NlbmVzL2VjYWZlX2NvbmZlcmVuY2UubWQ=">Document</rich_text>
+						<rich_text>
+</rich_text>
+					</node>
 				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Vanishes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670643.09" ts_lastsave="1631078419.44" unique_id="1101">
-				<rich_text link="file c2NlbmVzL2JvYl92YW5pc2hlcy5tZA==">Document</rich_text>
-				<rich_text> 
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Vanishes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630670643.09" ts_lastsave="1631357108.43" unique_id="1101">
+					<rich_text link="file c2NlbmVzL2JvYl92YW5pc2hlcy5tZA==">Document</rich_text>
+					<rich_text> 
 </rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> 
+					<rich_text link="node 1143">Muharto Interview</rich_text>
+					<rich_text> 
 </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Farewell at Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748313.48" ts_lastsave="1631079130.73" unique_id="1106">
-					<rich_text link="file c2NlbmVzL2ZhcmV3ZWxsX2F0X21hZ3V3by5tZA==">Document</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Farewell at Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748313.48" ts_lastsave="1631079130.73" unique_id="1106">
+						<rich_text link="file c2NlbmVzL2ZhcmV3ZWxsX2F0X21hZ3V3by5tZA==">Document</rich_text>
+						<rich_text>
+</rich_text>
+						<rich_text link="node 983">Cameron Meets Muharto</rich_text>
+						<rich_text> 
+</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Discovery on Mount Punggur" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748519.13" ts_lastsave="1631357112.39" unique_id="1107">
+					<rich_text link="file c2NlbmVzL2Rpc2NvdmVyeV9vbl9tb3VudF9wdW5nZ3VyLm1k">Document</rich_text>
 					<rich_text>
 </rich_text>
-					<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-					<rich_text> 
-</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Discovery on Mount Punggur" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630748519.13" ts_lastsave="1631079138.69" unique_id="1107">
-				<rich_text link="file c2NlbmVzL2Rpc2NvdmVyeV9vbl9tb3VudF9wdW5nZ3VyLm1k">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Crash Site Investigation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751457.33" ts_lastsave="1631079187.9" unique_id="1111">
-					<rich_text link="file c2NlbmVzL2NyYXNoX3NpdGVfaW52ZXN0aWdhdGlvbi5tZA==">Document</rich_text>
-					<rich_text> 
-</rich_text>
-					<rich_text link="node 57">Crash Site Discovery</rich_text>
-					<rich_text> 
-</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Sixth Coffin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751139.71" ts_lastsave="1631079233.85" unique_id="1109">
-					<rich_text link="file c2NlbmVzL3RoZV9zaXh0aF9jb2ZmaW4ubWQ=">Document</rich_text>
-					<rich_text> 
-</rich_text>
-					<rich_text link="node 415">Sixth Coffin</rich_text>
+					<rich_text link="node 1143">Muharto Interview</rich_text>
 					<rich_text> </rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Crash Site Investigation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751457.33" ts_lastsave="1631079187.9" unique_id="1111">
+						<rich_text link="file c2NlbmVzL2NyYXNoX3NpdGVfaW52ZXN0aWdhdGlvbi5tZA==">Document</rich_text>
+						<rich_text> 
+</rich_text>
+						<rich_text link="node 57">Crash Site Discovery</rich_text>
+						<rich_text> 
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="The Sixth Coffin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751139.71" ts_lastsave="1631079233.85" unique_id="1109">
+						<rich_text link="file c2NlbmVzL3RoZV9zaXh0aF9jb2ZmaW4ubWQ=">Document</rich_text>
+						<rich_text> 
+</rich_text>
+						<rich_text link="node 415">Sixth Coffin</rich_text>
+						<rich_text> </rich_text>
+					</node>
 				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Regrets" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751241.22" ts_lastsave="1631078426.2" unique_id="1110">
-				<rich_text link="file c2NlbmVzL211aGFydG9fcmVncmV0cy5tZA==">Document</rich_text>
-				<rich_text> 
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Regrets" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630751241.22" ts_lastsave="1631357116.14" unique_id="1110">
+					<rich_text link="file c2NlbmVzL211aGFydG9fcmVncmV0cy5tZA==">Document</rich_text>
+					<rich_text> 
 </rich_text>
-				<rich_text link="node 983">Cameron Meets Muharto</rich_text>
-				<rich_text> 
+					<rich_text link="node 1143">Muharto Interview</rich_text>
+					<rich_text> 
 </rich_text>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd edits Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629600371.61" ts_lastsave="1631064049.59" unique_id="1040">
 				<rich_text link="file c2NlbmVzL3N5ZF9lZGl0c19jYW1lcm9uLm1k">Document</rich_text>
@@ -1645,14 +1647,14 @@ Manila.</rich_text>
 					<rich_text> 
 </rich_text>
 				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Coffee with Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629600725.73" ts_lastsave="1630844934.72" unique_id="1042">
-				<rich_text link="file c2NlbmVzL2NvZmZlZV93aXRoX2p1bGlhLm1k">Document</rich_text>
-				<rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Coffee with Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629600725.73" ts_lastsave="1631252723.07" unique_id="1042">
+					<rich_text link="file c2NlbmVzL2NvZmZlZV93aXRoX2p1bGlhLm1k">Document</rich_text>
+					<rich_text>
 </rich_text>
-				<rich_text link="node 532">Coffee Break</rich_text>
-				<rich_text> 
+					<rich_text link="node 532">Coffee Break</rich_text>
+					<rich_text> 
 </rich_text>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Visits Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629601100.11" ts_lastsave="1631065370.2" unique_id="1043">
 				<rich_text link="node 918">Cameron Offers To Help</rich_text>
@@ -1663,77 +1665,11 @@ Manila.</rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 2" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630059056.86" ts_lastsave="1630140093.1" unique_id="1070">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 02" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630059056.86" ts_lastsave="1631159896.85" unique_id="1070">
 			<rich_text>
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Offers Assistance " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618979920.85" ts_lastsave="1630845019.99" unique_id="899">
-				<rich_text link="file c2NlbmVzL2p1bGlhX29mZmVyc19hc3Npc3RhbmNlLm1k">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 895">Julia Signs On</rich_text>
-				<rich_text> 
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor claims ignorance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629782432.14" ts_lastsave="1630383720.88" unique_id="1056">
-					<rich_text link="file c2NlbmVzL3Nwb29yX2NsYWltc19pZ25vcmFuY2UubWQ=">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 1084">Spoor has no clue</rich_text>
-					<rich_text> 
-
-</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Suggests Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629782737.69" ts_lastsave="1630383914.81" unique_id="1057">
-				<rich_text link="file c2NlbmVzL2p1bGlhX3N1Z2dlc3RzX3ZpY3Rvci5tZA==">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 1085">Julia suggests to meet Victor</rich_text>
-				<rich_text> 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="First Victor Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629783199.1" ts_lastsave="1631007671.17" unique_id="1058">
-				<rich_text>
-</rich_text>
-				<rich_text link="node 981">Cameron Meets Victor</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfdmljdG9yLm1k">Document</rich_text>
-				<rich_text> 
-
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Rages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629792711.12" ts_lastsave="1631079286.86" unique_id="1062">
-					<rich_text link="file c2NlbmVzL3Nwb29yX3JhZ2VzLm1k">Document</rich_text>
-					<rich_text> 
-</rich_text>
-					<rich_text link="node 925">Spoor Pissed At Bob</rich_text>
-					<rich_text> </rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Photo of Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630405816.23" ts_lastsave="1631080586.41" unique_id="1095">
-				<rich_text link="node 971">Julia Learns of Emeria</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfdmljdG9yLm1k">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 981">Cameron Meets Victor</rich_text>
-				<rich_text> 
- 
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Rides a Harley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630485812.43" ts_lastsave="1630485921.06" unique_id="1097">
-				<rich_text link="node 887">Julia and her friends</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="file c2NlbmVzL2p1bGlhX2FuZF9oZXJfZnJpZW5kcy5tZA==">Document</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 3" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062534.35" ts_lastsave="1631096372.49" unique_id="1072">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Reunion With Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615456589.99" ts_lastsave="1631081186.78" unique_id="847">
-				<rich_text link="node 982">Cameron Meets Boediardjo</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Reunion With Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1615456589.99" ts_lastsave="1631254674.2" unique_id="847">
+				<rich_text link="node 1144">Boediardjo Interview</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL3JldW5pb25fd2l0aF9ib2VkaWFyZGpvLm1k">Document</rich_text>
@@ -1747,14 +1683,94 @@ Manila.</rich_text>
 					<rich_text>
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Drop over  Pangkalan Bun" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630059261.69" ts_lastsave="1631003329.83" unique_id="1071">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Drop over  Pangkalan Bun" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630059261.69" ts_lastsave="1631158949.57" unique_id="1071">
 					<rich_text link="node 356">Kalimantan Paratroopers</rich_text>
 					<rich_text>
 </rich_text>
 					<rich_text link="file c2NlbmVzL2Ryb3Bfb3Zlcl9wYW5na2FsYW5fYnVuLm1k">Document</rich_text>
 				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bangkok Layover" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631158949.57" ts_lastsave="1631159092.53" unique_id="1171">
+					<rich_text link="node 1170">Grounded in Bangkok</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="node 438">Buying RI-003</rich_text>
+					<rich_text> 
+
+</rich_text>
+					<rich_text link="file c2NlbmVzL2Jhbmdrb2tfbGF5b3Zlci5tZA==">Document</rich_text>
+				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="With Mbah Marijan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143587.8" ts_lastsave="1630920519.59" unique_id="1088">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Offers Assistance " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618979920.85" ts_lastsave="1631357840.83" unique_id="899">
+				<rich_text link="file c2NlbmVzL2p1bGlhX29mZmVyc19hc3Npc3RhbmNlLm1k">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 895">Julia Signs On</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 1190">Bataviaasch Nieuwsblad</rich_text>
+				<rich_text> 
+</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor claims ignorance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629782432.14" ts_lastsave="1630383720.88" unique_id="1056">
+					<rich_text link="file c2NlbmVzL3Nwb29yX2NsYWltc19pZ25vcmFuY2UubWQ=">Document</rich_text>
+					<rich_text>
+</rich_text>
+					<rich_text link="node 1084">Spoor has no clue</rich_text>
+					<rich_text> 
+
+</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Suggests Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629782737.69" ts_lastsave="1631252739.27" unique_id="1057">
+					<rich_text link="file c2NlbmVzL2p1bGlhX3N1Z2dlc3RzX3ZpY3Rvci5tZA==">Document</rich_text>
+					<rich_text>
+</rich_text>
+					<rich_text link="node 1085">Julia suggests to meet Victor</rich_text>
+					<rich_text> 
+</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="First Victor Interview" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629783199.1" ts_lastsave="1631254688.87" unique_id="1058">
+				<rich_text link="node 1148">Victor Interviews</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfdmljdG9yLm1k">Document</rich_text>
+				<rich_text> 
+
+</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Rages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629792711.12" ts_lastsave="1631238612.57" unique_id="1062">
+					<rich_text link="file c2NlbmVzL3Nwb29yX3JhZ2VzLm1k">Document</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="node 193">Thai Authorities Released Freeberg</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="node 438">Buying RI-003</rich_text>
+					<rich_text> </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Photo of Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630405816.23" ts_lastsave="1631359536.95" unique_id="1095">
+					<rich_text link="node 971">Julia Learns of Emeria</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="file c2NlbmVzL3Bob3RvX29mX2VtZXJpYS5tZA==">Document</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="node 981">Cameron Meets Victor</rich_text>
+					<rich_text> 
+ 
+
+</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Rides a Harley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630485812.43" ts_lastsave="1630485921.06" unique_id="1097">
+				<rich_text link="node 887">Julia and her friends</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2p1bGlhX2FuZF9oZXJfZnJpZW5kcy5tZA==">Document</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 03" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062534.35" ts_lastsave="1631159905.8" unique_id="1072">
+			<rich_text>
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron and Muharto in Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143587.8" ts_lastsave="1631252842.32" unique_id="1088">
 				<rich_text link="node 935">Muharto On Merapi</rich_text>
 				<rich_text> 
 </rich_text>
@@ -1762,94 +1778,129 @@ Manila.</rich_text>
 				<rich_text>
 
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron visits Aviation Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143697.34" ts_lastsave="1631065717.7" unique_id="1089">
-				<rich_text link="file c2NlbmVzL2F2aWF0aW9uX211c2V1bV92aXNpdC5tZA==">Document</rich_text>
-				<rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron visits Aviation Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143697.34" ts_lastsave="1631252771.79" unique_id="1089">
+					<rich_text link="file c2NlbmVzL2F2aWF0aW9uX211c2V1bV92aXNpdC5tZA==">Document</rich_text>
+					<rich_text>
 </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Fledgling Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143423.27" ts_lastsave="1630917243.83" unique_id="1087">
-					<rich_text link="node 1086">Flying the Zogling</rich_text>
-					<rich_text> 
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Fledgling Flight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630143423.27" ts_lastsave="1630917243.83" unique_id="1087">
+						<rich_text link="node 1086">Flying the Zogling</rich_text>
+						<rich_text> 
 </rich_text>
-					<rich_text link="file c2NlbmVzL2ZsZWRnbGluZ19mbGlnaHQubWQ=">Document</rich_text>
-					<rich_text> 
+						<rich_text link="file c2NlbmVzL2ZsZWRnbGluZ19mbGlnaHQubWQ=">Document</rich_text>
+						<rich_text> 
 </rich_text>
+					</node>
 				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Examines Dynamo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630917182.65" ts_lastsave="1631065820.17" unique_id="1131">
-				<rich_text link="file c2NlbmVzL2R5bmFtb190cmFuY2UubWQ=">Document</rich_text>
-				<rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Examines Dynamo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630917182.65" ts_lastsave="1631252773.46" unique_id="1131">
+					<rich_text link="file c2NlbmVzL2R5bmFtb190cmFuY2UubWQ=">Document</rich_text>
+					<rich_text>
 </rich_text>
-				<rich_text link="node 373">Museum Trance</rich_text>
-				<rich_text> 
+					<rich_text link="node 373">Museum Trance</rich_text>
+					<rich_text> 
 </rich_text>
-				<rich_text justification="left"></rich_text>
-				<rich_text>
+					<rich_text justification="left"></rich_text>
+					<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Muharto seeks out the curator, who invites them into his office. Muharto asks the curator to retrieve scraps from the RI-002 wreckage stored at the museum. One of the items is the dynamo with the bullet inexplicably lodged in the windings. Muharto picks it up, and from his point of view, the room around him fades into mist. 
 
 </rich_text>
-				<codebox char_offset="24" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">date: 15 October 1988
+					<codebox char_offset="24" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">date: 15 October 1988
 location: Maguwo</codebox>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Curator Office Trance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630918756.89" ts_lastsave="1630921027.69" unique_id="1132">
-					<rich_text link="file c2NlbmVzL2N1cmF0b3Jfb2ZmaWNlX3RyYW5jZS5tZA==">Document</rich_text>
-					<rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Curator Office Trance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630918756.89" ts_lastsave="1630921027.69" unique_id="1132">
+						<rich_text link="file c2NlbmVzL2N1cmF0b3Jfb2ZmaWNlX3RyYW5jZS5tZA==">Document</rich_text>
+						<rich_text>
+</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Concerned Faces" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630920961.88" ts_lastsave="1631252774.53" unique_id="1133">
+					<rich_text link="file c2NlbmVzL2NvbmNlcm5lZF9mYWNlcy5tZA==">Document</rich_text>
+					<rich_text> 
 </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Concerned Faces" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630920961.88" ts_lastsave="1631065891.79" unique_id="1133">
-				<rich_text link="file c2NlbmVzL2NvbmNlcm5lZF9mYWNlcy5tZA==">Document</rich_text>
-				<rich_text> 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia finds Emeria Bio" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630809337.5" ts_lastsave="1630845167.07" unique_id="1113">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia finds Emeria Bio" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630809337.5" ts_lastsave="1631252846.33" unique_id="1113">
 				<rich_text link="node 720">Julia Researches Emeria</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL2p1bGlhX2ZpbmRzX2VtZXJpYV9iaW8ubWQ=">Document</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Accosts Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630809650.25" ts_lastsave="1630913945.78" unique_id="1114">
-				<rich_text link="node 972">Julia Pressures Victor</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="file c2NlbmVzL2p1bGlhX2FjY29zdHNfdmljdG9yLm1k">Document</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="New Recruit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630913945.78" ts_lastsave="1631072243.97" unique_id="1126">
-					<rich_text link="node 922">Victor Arrives</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Accosts Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630809650.25" ts_lastsave="1631252824.99" unique_id="1114">
+					<rich_text link="node 972">Julia Pressures Victor</rich_text>
 					<rich_text> 
 </rich_text>
-					<rich_text link="file c2NlbmVzL25ld19yZWNydWl0Lm1k">Document</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Official Photographer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630913985.49" ts_lastsave="1631072287.09" unique_id="1127">
-					<rich_text link="node 924">Victor Assigned To Spoor</rich_text>
-					<rich_text>  
+					<rich_text link="file c2NlbmVzL2p1bGlhX2FjY29zdHNfdmljdG9yLm1k">Document</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="New Recruit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630913945.78" ts_lastsave="1631072243.97" unique_id="1126">
+						<rich_text link="node 922">Victor Arrives</rich_text>
+						<rich_text> 
 </rich_text>
-					<rich_text link="file c2NlbmVzL29mZmljaWFsX3Bob3RvZ3JhcGhlci5tZA==">Document</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Critic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630914027.47" ts_lastsave="1631072473.12" unique_id="1128">
-					<rich_text link="node 923">Victor Writes About Art</rich_text>
-					<rich_text> 
+						<rich_text link="file c2NlbmVzL25ld19yZWNydWl0Lm1k">Document</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Official Photographer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630913985.49" ts_lastsave="1631072287.09" unique_id="1127">
+						<rich_text link="node 924">Victor Assigned To Spoor</rich_text>
+						<rich_text>  
 </rich_text>
-					<rich_text link="file c2NlbmVzL2FydHNfY3JpdGljLm1k">Document</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Studio Seduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630914090.67" ts_lastsave="1631072580.63" unique_id="1129">
-					<rich_text link="node 927">Victor Meets Emeria</rich_text>
-					<rich_text> 
+						<rich_text link="file c2NlbmVzL29mZmljaWFsX3Bob3RvZ3JhcGhlci5tZA==">Document</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Critic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630914027.47" ts_lastsave="1631072473.12" unique_id="1128">
+						<rich_text link="node 923">Victor Writes About Art</rich_text>
+						<rich_text> 
 </rich_text>
-					<rich_text link="file c2NlbmVzL2VtZXJpYV9zdHVkaW9fc2VkdWN0aW9uLm1k">Document</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Setting Up Southeastern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631096372.49" ts_lastsave="1631096491.59" unique_id="1165">
-				<rich_text link="node 116">Southeastern Airlines</rich_text>
-				<rich_text> 
+						<rich_text link="file c2NlbmVzL2FydHNfY3JpdGljLm1k">Document</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Studio Seduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630914090.67" ts_lastsave="1631152743.45" unique_id="1129">
+						<rich_text link="node 927">Victor Meets Emeria</rich_text>
+						<rich_text> 
 </rich_text>
-				<rich_text link="file c2NlbmVzL3NldHRpbmdfdXBfc291dGhlYXN0ZXJuLm1k">Document</rich_text>
+						<rich_text link="file c2NlbmVzL2VtZXJpYV9zdHVkaW9fc2VkdWN0aW9uLm1k">Document</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Political Painters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631152743.45" ts_lastsave="1631152848.46" unique_id="1166">
+						<rich_text link="node 1005">Victor Meets Republicans</rich_text>
+						<rich_text> 
+</rich_text>
+						<rich_text link="file c2NlbmVzL3BvbGl0aWNhbF9wYWludGVycy5tZA==">Document</rich_text>
+					</node>
+				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 4" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062585.58" ts_lastsave="1631087205.38" unique_id="1073">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 04" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062585.58" ts_lastsave="1631252986.74" unique_id="1073">
 			<rich_text>
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Emeria Assistant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630810731.8" ts_lastsave="1630810762.22" unique_id="1115">
-				<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Pang in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631252986.75" ts_lastsave="1631262299.29" unique_id="1186">
+				<rich_text link="node 1188">Pang Suparto Interview</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 378">Subjects Of The Queen</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 336">Quinine Case</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 806">De Facto Liaison</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 1001">Penniless in Manila</rich_text>
+				<rich_text>  
+</rich_text>
+				<rich_text link="node 379">Madras Curry</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 342">Money For Nothing</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 209">Primitivo Introduces Muharto</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 340">Non Stop To Jogja</rich_text>
+				<rich_text> </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Party Time" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631179504.31" ts_lastsave="1631263644.92" unique_id="1178">
+					<rich_text link="node 202">Party Animal</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="file c2NlbmVzL3BhcnR5X3RpbWUubWQ=">Document</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Emeria Assistant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630810731.8" ts_lastsave="1631253207.46" unique_id="1115">
+				<rich_text>
+</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Gunrunning Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630810762.22" ts_lastsave="1630811030.28" unique_id="1116">
 					<rich_text link="file c2NlbmVzL2d1bnJ1bm5pbmdfc2Fsb24ubWQ=">Document</rich_text>
 					<rich_text> 
@@ -1858,7 +1909,42 @@ location: Maguwo</codebox>
 					<rich_text> </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Repatriating Ining" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631087205.38" ts_lastsave="1631087347.91" unique_id="1154">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Boedi on Aviation Brotherhood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631253207.47" ts_lastsave="1631254724.13" unique_id="1187">
+				<rich_text link="node 1144">Boediardjo Interview</rich_text>
+				<rich_text> </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Setting Up Southeastern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631096372.49" ts_lastsave="1631253227.45" unique_id="1165">
+					<rich_text link="node 116">Southeastern Airlines</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="file c2NlbmVzL3NldHRpbmdfdXBfc291dGhlYXN0ZXJuLm1k">Document</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Two Bobs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631176763.93" ts_lastsave="1631253235.6" unique_id="1176">
+					<rich_text link="node 110">Buying The Dakota</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="file c2NlbmVzL3RoZV90d29fYm9icy5tZA==">Document</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Dakota AWOL" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631176979.42" ts_lastsave="1631253244.5" unique_id="1177">
+					<rich_text link="node 111">Missing Dakota</rich_text>
+					<rich_text> 
+</rich_text>
+					<rich_text link="file c2NlbmVzL2Rha290YV9hd29sLm1k">Document</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Meets Foote and Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631238176.15" ts_lastsave="1631238332.54" unique_id="1185">
+				<rich_text link="node 82">Victor Meets Koke</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3Nwb29yX21lZXRzX2tva2UubWQ=">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ining is Dead" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631156214.01" ts_lastsave="1631156349.36" unique_id="1168">
+				<rich_text link="node 339">Ining Is Dood</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2luaW5nX2lzX2RlYWQubWQ=">Document</rich_text>
+				<rich_text> </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Repatriating Ining" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631087205.38" ts_lastsave="1631156214.01" unique_id="1154">
 				<rich_text link="node 357">Grounded In Changi</rich_text>
 				<rich_text> 
 </rich_text>
@@ -1873,8 +1959,38 @@ location: Maguwo</codebox>
 				<rich_text link="file c2NlbmVzL29ud2FyZF90b19tYW5pbGEubWQ=">Document</rich_text>
 				<rich_text> </rich_text>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Learns of Ining" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631237521.01" ts_lastsave="1631260921.92" unique_id="1184">
+				<rich_text link="file c2NlbmVzL2d1ZXJyaWxsYV90cmFpbmluZy5tZA==">Document</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 189">Ining Is Training Guerrillas</rich_text>
+				<rich_text> </rich_text>
+			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 5" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135964.26" ts_lastsave="1630811955.55" unique_id="1077">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 05" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631159849.58" ts_lastsave="1631261751.74" unique_id="1172">
+			<rich_text>
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Gunrunner Gone" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631179856.74" ts_lastsave="1631181047.89" unique_id="1179">
+				<rich_text link="node 208">Newspaper Calls Ining</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2d1bnJ1bm5lcl9nb25lLm1k">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spoor Furious" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631181047.89" ts_lastsave="1631181077.94" unique_id="1183">
+				<rich_text link="node 925">Spoor Pissed At Bob</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3Nwb29yX2Z1cmlvdXMubWQ=">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="George Babysits Ining" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631261751.74" ts_lastsave="1631261751.74" unique_id="1189">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 06" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631159864.77" ts_lastsave="1631179798.47" unique_id="1173">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 07" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135964.26" ts_lastsave="1631179780.24" unique_id="1077">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Opium Runs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631087747.43" ts_lastsave="1631090034.36" unique_id="1156">
@@ -1884,11 +2000,17 @@ location: Maguwo</codebox>
 				<rich_text link="file c2NlbmVzL29waXVtX3J1bnMubWQ=">Document</rich_text>
 				<rich_text>   </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bambang is Late" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631090060.29" ts_lastsave="1631090110.58" unique_id="1160">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bambang is Late" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631090060.29" ts_lastsave="1631180068.55" unique_id="1160">
 				<rich_text link="node 162">Not Ready For Airplanes</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL2JhbWJhbmdfaXNfbGF0ZS5tZA==">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Drug Runner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631180068.55" ts_lastsave="1631180144.3" unique_id="1180">
+				<rich_text link="node 414">Major Criminal</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2RydWdfcnVubmVyLm1k">Document</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Lectures Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630207084.93" ts_lastsave="1630845219.46" unique_id="1090">
 				<rich_text link="node 998">Bibit Bebet Bobot</rich_text>
@@ -1903,14 +2025,20 @@ location: Maguwo</codebox>
 				<rich_text link="file c2NlbmVzL2Rpbm5lcl93aXRoX2VyaWMubWQ=">Document</rich_text>
 				<rich_text>  </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Savage Report" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631096122.16" ts_lastsave="1631096251.71" unique_id="1164">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Savage Report" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631096122.16" ts_lastsave="1631157682.87" unique_id="1164">
 				<rich_text link="node 113">Partner Has Done Nothing</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL3NhdmFnZV9yZXBvcnQubWQ=">Document</rich_text>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Runs Guns" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631157682.88" ts_lastsave="1631157761.49" unique_id="1169">
+				<rich_text link="node 596">Smuggled Gems</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL211aGFydG9fcnVuc19ndW5zLm1k">Document</rich_text>
+			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 6" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135969.33" ts_lastsave="1631087747.43" unique_id="1078">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 08" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630135969.33" ts_lastsave="1631179760.83" unique_id="1078">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Captain Up Here" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630207760.38" ts_lastsave="1631092620.32" unique_id="1091">
@@ -1947,36 +2075,64 @@ location: Maguwo</codebox>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 7" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062594.2" ts_lastsave="1631092326.95" unique_id="1074">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 09" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062594.2" ts_lastsave="1631159961.17" unique_id="1074">
 			<rich_text>
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Back to Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631092326.95" ts_lastsave="1631092784.38" unique_id="1161">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Back to Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631092326.95" ts_lastsave="1631175849.59" unique_id="1161">
 				<rich_text link="node 108">Bob Returns</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="file c2NlbmVzL2JhY2tfdG9fam9namEubWQ=">Document</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Second Jogja Trip" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619077940.16" ts_lastsave="1630826674.38" unique_id="946">
-				<rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Westerling Sweep" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631152979.64" ts_lastsave="1631175835.62" unique_id="1167">
+				<rich_text link="node 168">Ani Berates Westerling</rich_text>
+				<rich_text>  
 </rich_text>
+				<rich_text link="file c2NlbmVzL3dlc3Rlcmxpbmdfc3dlZXAubWQ=">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Meets Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619077940.16" ts_lastsave="1631180564.09" unique_id="946">
 				<rich_text link="node 524">Julia Finds Emeria</rich_text>
 				<rich_text> 
 </rich_text>
-				<rich_text link="node 168">Ani Berates Westerling</rich_text>
-				<rich_text>  
-• Having a whiskey at the Hotel Garuda reminds Muharto of his reconciliation with Bob. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Ani gives Westerling a tongue lashing to divert attention while Muharto swallows his air force identification. </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Spite Their Face" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1621156644.73" ts_lastsave="1630064605.97" unique_id="1003">
-					<rich_text link="node 119">Suryadarma Takes Fuel Allowance</rich_text>
-					<rich_text> 
+				<rich_text link="file c2NlbmVzL2p1bGlhX2luX2pvZ2phLm1k">Document</rich_text>
+				<rich_text>
 </rich_text>
-					<rich_text link="node 145">Reconciliation</rich_text>
-					<rich_text>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-In September 1948, Freeberg and Fowler complain about Suryadarma withholding fuel allowances. 
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Night Patrols" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631180564.09" ts_lastsave="1631180721.79" unique_id="1181">
+				<rich_text link="node 192">Spoor Orders Night Patrol</rich_text>
+				<rich_text> 
 </rich_text>
-				</node>
+				<rich_text link="file c2NlbmVzL25pZ2h0X3BhdHJvbC5tZA==">Document</rich_text>
+				<rich_text> </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Fighters on Tail" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631180721.79" ts_lastsave="1631180759.91" unique_id="1182">
+				<rich_text link="node 96">Fighter Planes Tailing Him</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2ZpZ2h0ZXJzX29uX3RhaWwubWQ=">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spite Their Face" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1621156644.73" ts_lastsave="1631175798.21" unique_id="1003">
+				<rich_text link="node 119">Suryadarma Takes Fuel Allowance</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 145">Reconciliation</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3NwaXRlX3RoZWlyX2ZhY2UubWQ=">Document</rich_text>
+				<rich_text>
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor Defects" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631175030.21" ts_lastsave="1631175313.55" unique_id="1174">
+				<rich_text link="node 933">Victor Joins Republicans</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9kZWZlY3RzLm1k">Document</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor learns truth" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631175313.55" ts_lastsave="1631175354.37" unique_id="1175">
+				<rich_text link="node 934">Victor Learns Truth</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9sZWFybnNfdHJ1dGgubWQ=">Document</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Clarifies" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630826674.38" ts_lastsave="1630826732.97" unique_id="1120">
 				<rich_text link="node 1119">Eddy Offer Tuition</rich_text>
@@ -1995,7 +2151,7 @@ In September 1948, Freeberg and Fowler complain about Suryadarma withholding fue
 In December 1988, </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 8" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062601.42" ts_lastsave="1631088842.92" unique_id="1075">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Episode 10" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630062601.42" ts_lastsave="1631159818.52" unique_id="1075">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Leaflets Over Madiun" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631088842.93" ts_lastsave="1631092825.99" unique_id="1157">
@@ -2011,7 +2167,7 @@ In December 1988, </rich_text>
 				<rich_text link="file c2NlbmVzL3NvdXRoZWFzdGVybl9haXJfYmFua3J1cHQubWQ=">Document</rich_text>
 				<rich_text> </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Palembang II" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619075967.58" ts_lastsave="1631086108.31" unique_id="938">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Palembang II" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619075967.58" ts_lastsave="1631173650.2" unique_id="938">
 				<rich_text link="node 988">Cameron Meets Anwar</rich_text>
 				<rich_text> 
 </rich_text>
@@ -2019,14 +2175,19 @@ In December 1988, </rich_text>
 				<rich_text>  
 </rich_text>
 				<rich_text link="node 118">Last Flight</rich_text>
-				<rich_text> </rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL3BhbGVtYmFuZ19paS5tZA==">Document</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Sent Packing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619076151.73" ts_lastsave="1630817099.59" unique_id="940">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Sent Packing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619076151.73" ts_lastsave="1631173411.78" unique_id="940">
 				<rich_text link="node 354">Cameron Pamit</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="node 716">Julia Decides to Stay</rich_text>
 				<rich_text> 
+</rich_text>
+				<rich_text link="file c2NlbmVzL2NhbWVyb25fc2VudF9wYWNraW5nLm1k">Document</rich_text>
+				<rich_text>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Cameron is deported. He says goodbye to Muharto, and offers to arrange for Julia to join him in the US. But Julia declines, saying she would rather continue her studies at UI.
 

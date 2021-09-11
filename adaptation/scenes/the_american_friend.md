@@ -1,6 +1,6 @@
 ---
 title: The American Friend
-date: 28 June 
+date: 28 June 1948
 location: Sumatra Airfield
 status: new
 ---

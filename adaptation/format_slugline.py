@@ -17,55 +17,57 @@ import json
 from pathlib import Path
 
 with open('locations.json') as infile:
-    location_map = {i['location']:i['display'] for i in json.load(infile)}
+    location_map = {}# {i['location']:i['display'] for i in json.load(infile)}
 
 @attr.s
-class SluglineData():
+class Slugline():
     date =  attr.ib(converter=lambda x: parse(x))    
-    location = attr.ib(converter=lambda x: location_map.get(x, x))
+    location = attr.ib() # converter=lambda x: location_map.get(x, x))
     wrap_scene = attr.ib(default=False) 
+    
+    def disp_date(self):
+        return self.date.strftime('%d %B %Y')
+        
+    def disp_loc(self):
+        return location_map.get(self.location, self.location)  
 
 
 
 def format_slugline(sl, psl):
-
-    dsp_date = sl.date.strftime('%d %B %Y')
-
+    date = None 
+    location = None
     
+
     if not psl: 
-        date = dsp_date
-        location = sl.location 
+        date = f'On {sl.disp_date()}'
+        location = sl.disp_loc()
     
     else:
-    
-        location = sl.location if sl.location != psl.location else '' 
-        dd = relativedelta(sl.date, psl.date)
+        location = f' at {sl.disp_loc()}' if sl.location != psl.location else None
+       
+        dd = relativedelta(sl.date, psl.date) 
         
-        if sl.date == psl.date:
-            date='Later that day'
+        if dd.years > 2:
+            date = f'Returning to {sl.disp_date()}' 
+        
+        elif sl.date == psl.date:
+            date = 'Later that day'
             
         elif dd.years < -2:
-             date = f'Flashing back to {dsp_date}' 
+             date = f'Flashing back to {sl.disp_date()}' 
 
         elif dd.days == 1:
-             date = 'The following day'
+             date = 'The following day '
 
         elif 1 < dd.days < 5:
-             date ='A few days later'
-            
-        elif dd.years > 2:
-            
-            if sl.wrap_scene == 'Interviews':
-                date = 'Returning to the interview on {dsp_date}' 
-            elif sl.wrap_scene == 'Writings':
-                date = 'Returning to {dsp_date}' 
-            else:
-                date = dsp_date
+             date ='A few days later' 
+             
         else:
-            date = dsp_date
-        
+            date = f'On {sl.disp_date()}'
+            
+            
     
-    return f'{date} at {location}'
+    return f'{date} {location or ""}'
 
 def prepare(doc):
     doc.sluglines = []
@@ -73,21 +75,21 @@ def prepare(doc):
 def action(elem, doc):
     if isinstance(elem, pf.Span) and 'date' in elem.attributes:
         try:
-            sluglinedata = SluglineData(**elem.attributes)
+            slugline = Slugline(**elem.attributes)
         except Exception as e:
             pf.debug(e)
             return elem 
         try:
-            prev_sluglinedata = doc.sluglines[-1] 
+            prev_slugline = doc.sluglines[-1] 
         except IndexError:
-            prev_sluglinedata = None
+            prev_slugline = None
              
-        slugline = format_slugline(sluglinedata, prev_sluglinedata)
-        if slugline:
-            elem = pf.Span(pf.Strong(pf.Str(slugline), pf.Space))
+        output = format_slugline(slugline, prev_slugline)
+        if output:
+            elem = pf.Span(pf.Strong(pf.Str(output), pf.Space))
         else:
             elem = []
-        doc.sluglines.append(sluglinedata)
+        doc.sluglines.append(slugline)
     return elem
 
 
