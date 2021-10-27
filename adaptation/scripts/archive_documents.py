@@ -19,8 +19,7 @@ db = pw.SqliteDatabase('document_archive.db')
 class DocumentArc(pw.Model):
     section = pw.CharField(null=True)
     name = pw.CharField()
-    notes = pw.CharField(null=True)
-    content = pw.CharField(null=True)
+    content = pw.CharField(null=True, unique=True)
     meta = JSONField(null=True)
 
     class Meta:
@@ -36,8 +35,8 @@ def archive_index(index_file):
             continue
         index_data.append(dict(section=section,
                          name=node.name,
-                         notes=node.notes,
-                         content=node.content))
+                         notes=node.notes + node.content))
+                         
     return index_data
 
 

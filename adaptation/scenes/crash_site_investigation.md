@@ -2,7 +2,7 @@
 title: Crash Site Investigation
 date: 25 April 1977
 location: Mount Punggur
-status: new
+status: synopsis
 ---
 
 Two wiry men dressed in shabby clothes lead a squad of airmen

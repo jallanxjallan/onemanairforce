@@ -1,8 +1,10 @@
 ---
-title: Unorthodox Request
+title: On the Beach
 date: 25 September 1988
 location: Muharto Residence
-status: new
+status: synopsis
+wrap_scene: interview
 ---
 
-Muharto tells Cameron that he was pleased at this display of crucial international support, but dismayed that once again he will be desk-bound. However, this last fight would prove to be memorable. Suryadarma had asked Bob to make a couple of detours on the way back to Singapore, risky activities more suited to a military mission that a civilian charter flight. Nonetheless, Bob had cheerfully agreed.   
+Muharto tells Cameron that at Tasikmalaya, Pang Suparto confirmed that it was indeed Bob Freeberg stuck on the beach. They loaded two barrels of aviation fuel into a jeep and drove to the coast. 
+

@@ -6,3 +6,7 @@ status: new
 ---
 
 Victor overhears Spoor raging that the Thai authorities had released Freeberg. 
+
+           \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+On 20 October 1947 at his desk outside Spoor's office at KNIL headquarters, Victor 
+raging that the Thai authorities had released Freeberg.

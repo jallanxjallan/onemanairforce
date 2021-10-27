@@ -2,7 +2,7 @@
 title: The Sixth Coffin
 date: 20 July 1977
 location: Tanjung Karang
-status: new
+status: synopsis
 ---
 
 Five coffins draped in Indonesian flags

@@ -8,8 +8,8 @@ registration on the Dakotas tail and shouts "*Mata-Mata*!", "Spy!" They
 point their rifles directly at Bob. He replies with the only words they
 might understand, a name: "Captain Petit Muharto"
 
-**Returning to 25 September 1988  at Muharto Residence **Cameron Bishop,
-an American journalism student interning at the Jakarta Post, calls on
+**On 25 September 1988  at Muharto Residence **Cameron Bishop, an
+American journalism student interning at the Jakarta Post, calls on
 retired Air Force Major Petit Muharto to interview him about his
 experiences flying blockade runs with Bob Freeberg in his war-surplus
 Dakota registered to the new Republic of Indonesia as RI-002. Muharto
@@ -24,14 +24,8 @@ and, astoundingly, had asked for Muharto by name. Muharto takes this
 information to his commander, Suryadarma, who agrees that the matter is
 worth investigation.
 
-**Returning to 25 September 1988  at Muharto Residence **Muharto flies
-to Tasikmalaya in an open-cockpit Japanese monoplane. During the flight,
-he wonders which of the blockade-running pilots he might be, The first
-two had been routine commercial runs, with even a flight attendent. His
-thoughts drift to the last, and most eventful blockade run two months
-before.
-
-**Later that day  **This aircraft, a Nikosoren, was one of a score
+**Returning to 25 September 1988  at Muharto Residence **Muharto tells
+Cameron that he flew to Tasikmalaya on a Nikosoren, was one of a score
 barely servicable planes the Japanese had left behind. The air force
 mechanics kept these aircraft flying through skill and guesswork, but
 Muharto was aware that any flight could end in disaster. To keep his
@@ -50,40 +44,23 @@ demonstrates his piloting skill by diving through a break in the clouds,
 leveling off under the cloud cover a few hundred meters above the
 ground. Muharto spots a railway line, and tells Bob that it leads along
 the valley to terminate in Jogja. Bob follows the line, barely visible
-through the rain, while Muharto desperately tries to remember if there
-is a tunnel between their current location and Jogjakarta.
-
-**Later that day  at Maguwo **Suryadarma tells Muharto that this will be
-his last blockade run. An Indian businessman has offered to link India
-with the Republic with his own Dakota, registered as VT-CLA. He has the
-full support of the Indian government, so further chartered runs will
-not be necessary. Muharto is disappointed, but this will be memorable,
-as Suryadarma asks Bob to make a couple of detours on the way back to
-Singapore. Bob cheerfully agrees.
+through the rain, and jokingly asks Muharto if there are any tunnels
+between here the Jogja. The look on Muharto's face suggests that he is
+not entirely sure.
 
 **Returning to 25 September 1988  at Muharto Residence **Muharto tells
-Cameron that he was pleased at this display of crucial international
-support, but dismayed that once again he will be desk-bound. However,
-this last fight would prove to be memorable. Suryadarma had asked Bob to
-make a couple of detours on the way back to Singapore, risky activities
-more suited to a military mission that a civilian charter flight.
-Nonetheless, Bob had cheerfully agreed.
+Cameron that at Tasikmalaya, Pang Suparto confirmed that it was indeed
+Bob Freeberg stuck on the beach. They loaded two barrels of aviation
+fuel into a jeep and drove to the coast.
 
-**Flashing back to 31 March 1947  at Karangendah **Engines roaring with
-reversed props, Bob makes a spectacular landing on a refurbished
-Japanese airstrip at Karangendah on the grasslands of south Sumatra.
-Santoso, the base commander climbs aboard to meet them. After a short
-conversation, Santoso exits, and Bob takes off, the wheels finally
-lifting off the runway a few meters before the end.
-
-**On 08 June 1947  at Cilotok **Muharto and Pang marvel that the pilot
-had been able to land on this short stretch of beach, bookended by high
-bluffs. Muharto recognizes Freeberg and they greet as friends. Fearing
-that a patrolling Dutch fighter could appear at any time, Muharto, in a
-stirring speech, implores the assembled villagers to tear apart their
-houses to fashion an improvised runway from the bamboo mats used as
-walls. They do so, and with Muharto and Pang on board, the Dakota takes
-off and flies to Maguwo.
+**Flashing back to 08 June 1947  at Cilotok **Muharto and Pang marvel
+that Freeberg had been able to land on this short stretch of beach,
+bookended by high bluffs. Muharto recognizes Freeberg and they greet as
+friends. Fearing that a patrolling Dutch fighter could appear at any
+time, Muharto, in a stirring speech, implores the assembled villagers to
+tear apart their houses to fashion an improvised runway from the bamboo
+mats used as walls. They do so, and with Muharto and Pang on board, the
+Dakota takes off and flies to Maguwo.
 
 **Later that day  at Maguwo **Suryadarma commissions Bob to fly a cargo
 of high-value quinine to Manila and return with essential medicines and
@@ -94,18 +71,31 @@ After some debate, Muharto, Bob, and Suryadarma agree on "RI-002",
 reserving "RI-001" for a future presidential aircraft.
 
 **Returning to 25 September 1988  at Muharto Residence **Muharto
-explains the mundane but essential mission, and the dangers of evading
-Dutch patrols. Muharto tells Cameron that the people of Jogja came to
-regard the modest and unassuming American as some sort of superhero, an
-incarnation of a mythic figure from the wayang shadow-play theater. This
-often led to embarrassing situations, such as when Bob invited Muharto
-to dine with him at the Hotel Merdeka, where he stayed while in Jogja.
+explains that they landed in Manila without incident. However, the Dutch
+diplomats there claimed the quinine cargo as Dutch property, and took
+them to court.
 
-**Flashing back to 01 October 1947  at Presidential Palace **During a
-tour of the palace with Muharto Bob is astounded to be ushered into the
-office of President Soekarno. As was his custom in private conversation,
-Soekarno treats Bob as an equal and puts him at ease, imploring the
-American to do what he can to help the Indonesian struggle for freedom.
+**Flashing back to 20 June 1947  at Manila courtroom **Bob and Muharto
+are challenging the Dutch claim over the quinine cargo. Their lawyer,
+Salipada Penatun, who is also a sitting senator with extensive
+high-level contacts, lays out the legal justification for ownership of
+the quinine, then lets Muharto give an impassioned plea, claiming that
+the money from selling the quinine will buy medicines and other
+essentials unavailable in the besieged capital. The Dutch counter by
+calling a plantation expert to testify that the Republic does not have
+the capability to process quinine, so the drug must have been produced
+in a Dutch-owed factory before the war. Muharto jumps to his feet, ready
+to protest this insult to his people's technological skill, but Penatun
+motions for him to sit down, then calmly tells the judge: "A foreigner
+is not qualified to discuss the internal matters of the sovereign
+Republic of Indonesia." The judge considers this with some sympathy,
+declines to allow the expert witness, and adjourns the session.
+
+**On 01 October 1947  at Presidential Palace **During a tour of the
+palace with Muharto Bob is astounded to be ushered into the office of
+President Soekarno. As was his custom in private conversation, Soekarno
+treats Bob as an equal and puts him at ease, imploring the American to
+do what he can to help the Indonesian struggle for freedom.
 
 **On 15 November 1947  at Hotel Merdeka **Bob and Muharto have dinner.
 Muharto is served rice and tempe. Bob, to his great embarrassment, is
@@ -117,21 +107,26 @@ conference in the Philippines, where they successfully made the case for
 Indonesian independence. These educated men treat Bob with the same
 great respect as do the common people of Jogja.
 
-**Returning to 25 September 1988  at Muharto Residence **Muharto tells
-Cameron that he flew with RI-002 until May 1948, when he was promoted to
-major and posted to headquarters. Muharto saw little of Bob after that,
-but was looking for forward to having Bob as guest of honor at this
-wedding in October.
+**On 25 September 1988  at Muharto Residence **Muharto tells Cameron
+that he, Boedi and Pang were penniless as they waited for the verdict to
+be handed down. He found them simple accommodation in a boarding house,
+and bought them a single meal each day at the cheapest eatery in Manila:
+The Madras Curry Restaurant.
+
+**Later that day  **Muharto tells Cameron that he flew with RI-002 until
+May 1948, when he was promoted to major and posted to headquarters.
+Muharto saw little of Bob after that, but was looking for forward to
+having Bob as guest of honor at this wedding in October.
 
 **Flashing back to 30 September 1948  at Maguwo **Muharto sees Bob off
 on the runway. Bob tells Muharto that he will be in Singapore and Manila
 for a couple of weeks, but promises to return to Jogja with his own
 fiancee in time to attend Muharto's wedding.
 
-**Returning to 25 September 1988  at Muharto Residence **Muharto tells
-Cameron that on the afternoon of 1 October he heard reports that RI-002
-had not arrived at Bukittinggi. In the following days, the Dutch denied
-any knowledge of the disappearance, and the Republic was unable to mount
+**On 25 September 1988  at Muharto Residence **Muharto tells Cameron
+that on the afternoon of 1 October he heard reports that RI-002 had not
+arrived at Bukittinggi. In the following days, the Dutch denied any
+knowledge of the disappearance, and the Republic was unable to mount
 more than a cursory search. Muharto shows Cameron a clipping dated 1983
 about ratten gatherers finding wreckage on a remote mountain in South
 Sumatra. Muharto said that he used his AURI credentials to research the
@@ -156,14 +151,14 @@ flatbed truck pulls into the hanger and a squad of airmen, in silence,
 pick up each of the flag-draped coffins and place them on the truck. But
 they leave the sixth coffin where it lies as the truck pulls away.
 
-**Returning to 25 September 1988  at Muharto Residence **Muharto tells
-Cameron that the sixth coffin, presumably containing Bobs remains, could
-not be buried with the others because he was a foreigner. Muharto's
-expression as he finishes his reminiscences convinces Cameron that he
-regarded Freeberg as a close friend, and is seeking closure about his
-mysterious disappearance. As Cameron rises to leave, Muharto wonders
-that if he had turned down promotion and had been with Bob on the final
-flight, maybe it would not have ended in tragedy.
+**On 25 September 1988  at Muharto Residence **Muharto tells Cameron
+that the sixth coffin, presumably containing Bobs remains, could not be
+buried with the others because he was a foreigner. Muharto's expression
+as he finishes his reminiscences convinces Cameron that he regarded
+Freeberg as a close friend, and is seeking closure about his mysterious
+disappearance. As Cameron rises to leave, Muharto wonders that if he had
+turned down promotion and had been with Bob on the final flight, maybe
+it would not have ended in tragedy.
 
 **The following day   at Jakarta Post **Cameron writes up the interview,
 and gives it to managing editor Sabam Siagian, who had given him the
@@ -181,7 +176,7 @@ Cameron begins reading. Skimming through the supplementary background
 material Julia selected, Cameron's attention is drawn to a passage in a
 book by British diplomat John Coast about meeting Bob in Bukittinggi.
 
-**Flashing back to 11 May 1948  at Bukittinggi **John Coast and Dave
+**Flashing back to 12 May 1948  at Bukittinggi **John Coast and Dave
 Fowler watch as the starboard landing gear on RI-002 slowly collapses
 from hydraulic system failure. Bob emerges from the cockpit and admits
 that the craft is suffering from the wear-and-tear of past months,
@@ -191,11 +186,11 @@ do the much-needed repairs. Coast tells Bob that he is welcome to fly
 for his company, POAS, if RI-002 becomes too dangerous. Bob thanks him,
 but insists that he will find a way to fix his beloved Dakota.
 
-**Returning to 28 September 1988  at National Library **After hours of
-research, Cameron asks Julia where he can get a cup of coffee. Julia
-invites him to join her at the library canteen. Julia tells Cameron of
-her dream of securing a scholarship to pursue post-graduate studies in
-America. Cameron attempts, in turn, to tell of his dreams of becoming an
+**On 28 September 1988  at National Library **After hours of research,
+Cameron asks Julia where he can get a cup of coffee. Julia invites him
+to join her at the library canteen. Julia tells Cameron of her dream of
+securing a scholarship to pursue post-graduate studies in America.
+Cameron attempts, in turn, to tell of his dreams of becoming an
 international investigative journalist. But Julia stops him, saying,
 with a mischievious smile, that if she wants to know anything about him
 she will simply ask her father, who is a senior officer in military
@@ -230,8 +225,8 @@ inspiring pep talk to the terrified troopers, translated by Boedi.
 **A few days later  at Bangkok **RI-002 is detained by the request of
 Dutch officials in Bangkok
 
-**Returning to 02 October 1988  at National Library **Cameron returns to
-the library to enlist Julia's assistance in investigating the mystery by
+**On 02 October 1988  at National Library **Cameron returns to the
+library to enlist Julia's assistance in investigating the mystery by
 researching library archives. Julia is eager to help, and disappears
 into the stacks, emerging with bound volumes of Dutch-language
 newspapers. She reads aloud, in English, news articles printed in the
@@ -243,13 +238,12 @@ and badgers him for information of the fate of RI-002. Spoor claims
 ignorance, and grows visibly annoyed when the reporter press him,
 breaking off the interview and slamming the door to his office.
 
-**Returning to 03 October 1988  at National Library **Julia tells
-Cameron that, by the tone of the language, the reporter was convinced
-that Spoor was hiding something. She says they might get more
-information from Victor de Jong, a Dutch-born, naturalized Indonesian
-photographer who consults for the museum. Victor had been a Dutch
-conscript assigned to KNIL headquarters as a photographic assistant
-analyst.
+**On 03 October 1988  at National Library **Julia tells Cameron that, by
+the tone of the language, the reporter was convinced that Spoor was
+hiding something. She says they might get more information from Victor
+de Jong, a Dutch-born, naturalized Indonesian photographer who consults
+for the museum. Victor had been a Dutch conscript assigned to KNIL
+headquarters as a photographic assistant analyst.
 
 **On 11 October 1988  at IPPHOS **Julia and Cameron enter the IPPHOS
 office, located on the ground floor of a building in the old sectin of
@@ -269,20 +263,11 @@ his office.
 **Flashing back to 20 October 1947  at KNIL **Victor overhears Spoor
 raging that the Thai authorities had released Freeberg.
 
-**Returning to 11 October 1988  at IPPHOS **Julia and Cameron enter the
-IPPHOS office, located on the ground floor of a building in the old
-sectin of Jakarta and one inspection away from being condemned. An
-ancient air conditioner wheezes over a window, barely reducing the heat
-and humidity. Victor, a slight, elderly man of sallow complexion, is the
-only person in the office and openly delighted at receiving company.
-Julia introduces Cameron and explains the purpose of their visit. The
-negatives and prints are held in tattered folders placed on shelves
-seemingly at random, but Victor strides confidently to a shelf, pulls
-out a folder from the middle of a pile, and brings it back to the desk.
-He leafs through the folder and pulls out a strip of negatives showing a
-large American standing in front of an airplane. It is Bob Freeberg and
-RI-002. Victor repeats the process and shows Cameron images of Spoor in
-his office.
+**On 11 October 1988  at IPPHOS **Julia notices a photograph of a
+striking young woman standing in front of a painting. The caption reads
+"Emeria Soenassa in her studio 1948". Julia asks Victor who she is.
+Victor replies "No one important", snatches the photo from the table and
+files it away.
 
 **On 06 October 1988  **Cameron and Julia realize that they are both
 headed to the Hotel Hilton -- he to the bar, her to the coffee shop --
@@ -315,23 +300,22 @@ the time he fly one himself.
 the Zogling training glider pulled by a Harley Davidson engine. When he
 lands, Suryadarma is waiting, and angrily orders him back to his desk.
 
-**Returning to 15 October 1988  **Muharto seeks out the curator, who
-invites them into his office. Muharto asks the curator to retrieve
-scraps from the RI-002 wreckage stored at the museum. One of the items
-is the dynamo with the bullet inexplicably lodged in the windings.
-Muharto picks it up, and from his point of view, the room around him
-fades into mist.
+**On 15 October 1988  **Muharto seeks out the curator, who invites them
+into his office. Muharto asks the curator to retrieve scraps from the
+RI-002 wreckage stored at the museum. One of the items is the dynamo
+with the bullet inexplicably lodged in the windings. Muharto picks it
+up, and from his point of view, the room around him fades into mist.
 
 **Flashing back to 01 October 1948  at RI-002 **Muharto is astounded to
 realize he is somehow in the radio nook of RI-002. The airplane shutters
 as the engines scream in protest. Muharto sees two shadowy figures in
 the pilot seats, and a forested mountainside fills the window.
 
-**Returning to 15 October 1988  at Maguwo **The museum office comes back
-into focus, and Muharto sees the concerned faces of Cameron and the
-curator. Muharto places the dynamo back into the storage box and says,
-in a wavering voice, that they will miss their train back to Jakarta if
-they don't hurry.
+**On 15 October 1988  at Maguwo **The museum office comes back into
+focus, and Muharto sees the concerned faces of Cameron and the curator.
+Muharto places the dynamo back into the storage box and says, in a
+wavering voice, that they will miss their train back to Jakarta if they
+don't hurry.
 
 **Later that day  at National Library **Julia is intrigued about Emeria,
 so she does some research in Dutch-language art publications. Learns she
@@ -367,7 +351,7 @@ daughter.
 Dutch military and Republican artists would meet in the back room of the
 salon.
 
-**On 11 March 1947  at Raffles Hotel **Bob partners with Hugh Savage, a
+**On 12 March 1947  at Raffles Hotel **Bob partners with Hugh Savage, a
 Singapore-based expat to start Southeastern Airlines.
 
 **On 01 March 1947  at AB Bar **Bobs Freeberg and Walters agree to joint
@@ -408,13 +392,13 @@ opium run, forcing him to cancel the mission.
 drug smuggler, and orders his fighters to use deadly force if they
 encounter RI-002.
 
-**Returning to 18 November 1988  at Julia Residence **Eddy opposes Julia
-marrying a foreigner. Eddy has checked into Cameron's background, and
-found he is penniless and with a spotty academic record, though he
-excelled in journalism and seems to be a good writer. Eddy promises to
-fulfill her dream of studying overseas. Julia says you don't have the
-money. Eddy replies that he is making arrangements. Julia says ok, as
-long as one of the arrangements is not marriage.
+**A few days later  at Julia Residence **Eddy opposes Julia marrying a
+foreigner. Eddy has checked into Cameron's background, and found he is
+penniless and with a spotty academic record, though he excelled in
+journalism and seems to be a good writer. Eddy promises to fulfill her
+dream of studying overseas. Julia says you don't have the money. Eddy
+replies that he is making arrangements. Julia says ok, as long as one of
+the arrangements is not marriage.
 
 **The following day   at Taman Sari Restaurant **Julia is sitting in a
 restaurant with Eric, a well-groomed, obviously affluent young man. Eric
@@ -442,9 +426,8 @@ proclaiming: "This is Bob Freeberg, a friend of all Indonesians"
 another mission. Bob refuses, and infuriates Suryadarma by returning to
 Manila that day.
 
-**Returning to 16 December 1988  at Jalan Jaksa **Julia tries to
-convince Cameron that Spoor was fighting corruption, not planning a
-coup.
+**On 16 December 1988  at Jalan Jaksa **Julia tries to convince Cameron
+that Spoor was fighting corruption, not planning a coup.
 
 **Later that day  at Kemang Mansion **Julia is infuriated to be mistaken
 for a bar girl at a Kemang party.
@@ -456,9 +439,8 @@ both pilot and aircraft in good shape.
 tongue lashing to divert attention while Muharto swallows his air force
 identification.
 
-**Returning to 01 December 1988  at Pasar Beringharjo **Julia tracks
-down Emiria, who now teaches art to children in a village on the
-outskirts of Jogja.
+**A few days later  at Pasar Beringharjo **Julia tracks down Emiria, who
+now teaches art to children in a village on the outskirts of Jogja.
 
 **Flashing back to 01 September 1948  at KNIL **Spoor orders a night
 patrol not to engage a blockade running POAS flight because he is
@@ -474,8 +456,8 @@ withholding fuel allowances.
 **On 27 December 1948  at Jogjakarta **Victor defects into hills with
 friend of Emeria
 
-**Returning to 10 December 1988  at IPPHOS **Julia tells Victor that
-Emeria was just using him to get information about Spoor.
+**On 10 December 1988  at IPPHOS **Julia tells Victor that Emeria was
+just using him to get information about Spoor.
 
 **On 01 December 1988  at Julia Residence **Eddy explains he is
 retiring, but has arranged to keep his security clearance. He is doing
@@ -493,8 +475,8 @@ over Madiun.
 **Later that day  at Raffles Hotel **Hugh Savage admits that
 Southeastern Air is bankrupt, and Bob has lost his investment.
 
-**Returning to 16 December 1988  at Cameron Residence **Col Eddy is with
-Julia, and so reveals himself as her father. He says he has been
-identified, and Bais soldiers are coming to arrest him. He must leave
-now. Here is your car to your room, and then to the airport. Julia will
-accompany you to make sure you go.
+**On 16 December 1988  at Cameron Residence **Col Eddy is with Julia,
+and so reveals himself as her father. He says he has been identified,
+and Bais soldiers are coming to arrest him. He must leave now. Here is
+your car to your room, and then to the airport. Julia will accompany you
+to make sure you go.

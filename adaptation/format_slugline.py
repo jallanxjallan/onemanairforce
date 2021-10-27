@@ -47,7 +47,7 @@ def format_slugline(sl, psl):
        
         dd = relativedelta(sl.date, psl.date) 
         
-        if dd.years > 2:
+        if sl.wrap_scene and sl.wrap_scene == 'interview':
             date = f'Returning to {sl.disp_date()}' 
         
         elif sl.date == psl.date:
