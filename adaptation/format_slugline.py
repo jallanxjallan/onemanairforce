@@ -30,10 +30,17 @@ class Slugline():
         
     def disp_loc(self):
         return location_map.get(self.location, self.location)  
+        
+        
+def format_content(i, df): 
+    if i == 0 or df.iloc[i].sequence != df.iloc[i-1].sequence:
+        return format_date
+    else:
+        return relative_date(df.iloc[i])')
 
 
 
-def format_slugline(sl, psl):
+def format_date(sl, psl):
     date = None 
     location = None
     

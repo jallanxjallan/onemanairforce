@@ -6,20 +6,39 @@
 #  Copyright 2019 Jeremy Allan <jeremy@jeremyallan.com>
 
 
-from collections import defaultdict
+
 from document.document import Document
-from document.pandoc import PandocArgs, run_pandoc
+from document.pandoc import PandocArgs
 from pathlib import Path
 from storage.cherrytree import CherryTree
 from utility.strings import snake_case
+from collections import defaultdict
 import fire
 
 
 
 
-def output_synopsis(episode):
-    outputfile = Path('output').joinpath(snake_case(episode)).with_suffix('.md')
-    ct = CherryTree('synopsis.ctd')
+def create_sequences(index_file, base_node='Synopsis'):
+    ct = CherryTree(index_file) 
+    sequences = defaultdict(list)
+    for node, link in [(n, l) for n in ct.nodes(base_node) 
+        for l in n.links if l.type == 'node'
+        if not any(l for l in n.links if l.text == 'Sequence')]:
+        try:
+            sequences[node.name].append(ct.find_node_by_id(link.href).content) 
+        except Exception as e:
+            print(e)
+    for name, contents in sequences.items():
+        print(PandocArgs(input=contents, output=snake_case(name)))
+
+
+if __name__ == '__main__':
+    fire.Fire(create_sequences)
+
+
+'''
+outputfile = Path('output').joinpath(snake_case(episode)).with_suffix('.md')
+    
     nodes = [n for n in ct.nodes(episode) if n.content]
     scene_meta = make_scene_meta(nodes, ct)
     content = []
@@ -41,11 +60,5 @@ def output_synopsis(episode):
              content.append(node.content)
     rs = run_pandoc(PandocArgs(text=content, output=outputfile))
     print(rs.errors)
-
-
-
-if __name__ == '__main__':
-    fire.Fire(output_synopsis)
-
-
-
+    
+'''
