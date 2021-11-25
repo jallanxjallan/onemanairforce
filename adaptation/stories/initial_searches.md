@@ -1,8 +1,11 @@
 ---
+category: past
+date: 25 September 1988
+status: draft
 title: Initial Searches
-date: 01 October 1948 
-status: new
+
 ---
+
 
 Muharto tells Cameron that on the afternoon of 1 October 1948 he heard
 reports that RI-002 had not arrived at Bukittinggi. In the following

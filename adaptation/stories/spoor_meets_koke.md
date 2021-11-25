@@ -1,8 +1,11 @@
 ---
+category: past
+date: 15 October 1947
+status: rough
 title: Spoor Meets Koke
-date: No Date 
-status: new
+
 ---
+
 
 Walter Foote arrives at Spoor's office with a guest, Robert Koke. Julius
 Tahija apologizes that Spoor will be busy for a few more minutes and

@@ -1,10 +1,13 @@
 ---
+category: present
+date: 15 October 1947
+status: rough
 title: Weekend in Jogja
-date: 15 October 1947 
-status: new
+
 ---
 
-In mid October 1947 Cameron accompanies Muharto to a village on the
+
+Cameron accompanies Muharto to visit the aviation museum, where relics from the RI-002 wreckage are kept. There first stop, however, is to a village on the
 upper slopes of the Merapi volcano to meet Muharto's spiritual advisor,
 Mbah Maridjan. The three hike the steep incline to a shrine;
 effortlessly in the case of the sexagenarian duo of Muharto and
@@ -17,7 +20,7 @@ Afterward, Muharto takes Cameron to the Air Force museum, a re-purposed
 hanger filled with decommissioned aircraft and other exhibits. Muharto
 points to a model of the Zogling training glider, and tells Cameron of
 training village boys who had never seen an airplane to become skilled
-pilots in mere weeks. Grinning, he tells of the time he fly one himself.
+pilots in mere weeks. Grinning, he tells of the time he flew one himself.
 
 In the museum, Muharto seeks out the curator, who invites them into his
 office. Muharto asks the curator to retrieve scraps from the RI-002

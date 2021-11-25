@@ -1,10 +1,13 @@
 ---
+category: past
+date: 13 June 1947
+status: draft
 title: Quinine Case
-date: 13 June 1947 
-status: new
+
 ---
 
-On 13 June 1947 Bob and Muharto are challenging the Dutch claim over the
+
+Bob and Muharto are challenging the Dutch claim over the
 quinine cargo. Their lawyer, Salipada Penatun lays out the legal
 justification for ownership of the quinine, then lets Muharto give an
 impassioned plea, claiming that the money from selling the quinine will

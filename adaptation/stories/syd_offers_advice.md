@@ -1,8 +1,11 @@
 ---
+category: interview
+date: 02 October 1988
+status: rough
 title: Syd Offers Advice
-date: No Date 
-status: new
+
 ---
+
 
 Syd Jardine says that since unloading a quarter ton of gold would
 require considerable resources, discovering who might have had the

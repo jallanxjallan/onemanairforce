@@ -1,11 +1,12 @@
 ---
+category: interview
+date: 04 November 1988
+status: draft
 title: Cameron Interviews Paul Verspoor
-date: 04 November 1988 
-status: new
 ---
 
-In early November 1988 Muharto takes Cameron to meet his friend Alex
-Kawilarang, Also present is a Paul Verspoor, who is a retired Dutch
+Muharto takes Cameron to meet his friend Alex
+Kawilarang, Also present is a Paul Verspoor, a retired Dutch
 airforce officer vacationing in Indonesia. Verspoor, who had been a KNIL
 squadron leader, tells Cameron about his "very boring mission" waiting
 to intercept RI-002 near Bukittinggi on 1 October 1948. Afterward, as he

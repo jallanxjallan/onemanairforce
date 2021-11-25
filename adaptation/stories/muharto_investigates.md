@@ -1,10 +1,12 @@
 ---
+category: past
+date: 04 January 1980
+status: draft
 title: Muharto Investigates
-date: 04 January 1980 
-status: new
 ---
 
-In 1980 Muharto writes to his contacts in the Air Force and to the
+
+Muharto writes to his contacts in the Air Force and to the
 officers who participated in the crash-site investigation, but receives
 vague, non-committal replies --- or only silence. He then tries his luck
 in Air Force archives and government libraries, but finds only disorder

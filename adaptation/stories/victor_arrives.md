@@ -1,10 +1,13 @@
 ---
+category: past
+date: 10 November 1946
+status: draft
 title: Victor Arrives
-date: 10 November 1946 
-status: new
+
 ---
 
-On 10 November 1946, Victor marches off troop ship with other recruits.
+
+Victor marches off troop ship with other recruits.
 Among his possessions is a Malay-Dutch phrasebook and a sketchpad.
 Victor had been told that he and his fellow recruits were being sent to
 protect the Javanese subjects of the Dutch queen from a gang of

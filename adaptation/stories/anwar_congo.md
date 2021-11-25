@@ -1,10 +1,11 @@
 ---
+category: interview
+date: 04 December 1988
 title: Anwar Congo
-date: 04 December 1988 
-status: new
+status: rework
 ---
 
-In December 1988 Anwar reveals that KNIL officers had paid him to
+Anwar reveals that KNIL officers had paid him to
 smuggle a substantial quantity of gold to Singapore. Anwar also
 introduces Cameron to several men who had been employed at Karangendah
 in menial civilian jobs. They attest that they had seen the crew in

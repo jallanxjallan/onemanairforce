@@ -1,8 +1,11 @@
 ---
+category: past
+date: 04 August 1947
+status: draft
 title: Bob Walters Bitches
-date: 04 August 1947 
-status: new
+
 ---
+
 
 In August 1947 the gregarious and charismatic Boedi had been wholly
 accepted by the Aviation Brotherhood, the freewheeling foreign pilots

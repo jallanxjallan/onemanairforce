@@ -1,10 +1,13 @@
 ---
+category: past
+date: 17 October 1947
+status: draft
 title: Kalimantan Paratroopers
-date: 17 October 1947 
-status: new
+
 ---
 
-On 17 October 1947, Bob and Boedi fly ten paratroopers to be dropped
+
+Bob and Boedi fly ten paratroopers to be dropped
 near an insurgent stronghold in the forests of Kalimantan. None have
 jumped before, or even been in a aircraft, so tension is high. There is
 an uproar as the parachute of one trooper opens and dumps onto the cabin

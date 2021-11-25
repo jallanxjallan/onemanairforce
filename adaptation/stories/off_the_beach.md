@@ -1,10 +1,13 @@
 ---
+category: past
+date: 09 June 1947
+status: draft
 title: Off the Beach
-date: 09 June 1947 
-status: new
+
 ---
 
-Arriving at Cilotok on the afternoon of 9 June 1947, Muharto and Pang
+
+Arriving at Cilotok, Muharto and Pang
 marvel that Freeberg had been able to land on this short stretch of
 beach, bookended by high bluffs. Muharto recognizes Freeberg and they
 greet as friends. Fearing that a patrolling Dutch fighter could appear

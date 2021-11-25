@@ -1,10 +1,13 @@
 ---
+category: present
+date: 15 November 1988
+status: draft
 title: Santoso Necklace
-date: 15 November 1988 
-status: new
+
 ---
 
-In mid November 1988, Muharto and Cameron visit the widow and son of
+
+Muharto and Cameron visit the widow and son of
 Santoso. The son, Hadi, admits that the night before the ceremony he
 talked a guard into letting him view his father's remains, and took a
 necklace belonging to his father when the guard's back with turned. He

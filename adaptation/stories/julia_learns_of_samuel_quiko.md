@@ -1,11 +1,14 @@
 ---
+category: present
+date: 21 October 1988
+status: rough
 title: Julia Learns of Samuel Quiko
-date: 21 October 1988 
-status: new
+
 ---
 
-When researching with Julia at the library in late October 1988, Cameron
-mentions his meeting with Samuel Quiko. Julia remarks on distinctive
+
+Cameron
+mentions his meeting with Samuel Quiko when with Julia at the library. Julia remarks on distinctive
 name, indicating a Portuguese heritage, and remembers seeing it in a
 review of a musical performance in 1947. She disappears into the stacks,
 reappearing with an armful of magazines containing articles about

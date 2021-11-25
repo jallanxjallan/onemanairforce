@@ -1,16 +1,19 @@
 ---
+category: interview
+date: 15 October 1988
+status: draft
 title: Cameron Meets Victor
-date: 15 October 1988 
-status: new
+
 ---
 
-In mid October 1988 Julia and Cameron enter the IPPHOS office, located
+Julia and Cameron enter the IPPHOS office, located
 on the ground floor of a building in the colonial-era section of
 Jakarta. The building is one municipal inspection away from being
 condemned. An ancient air conditioner wheezes over a window, having no
 discernible effect on the heat and humidity. The office has a single
-occupant: Victor, a slight, elderly man of sallow complexion, is the
-only person in the office who is openly delighted at receiving company.
+occupant: Victor, a slight, elderly man of sallow complexion, who is the
+only person in the office and openly delighted at receiving company.
+
 Julia introduces Cameron and explains the purpose of their visit. The
 negatives and prints of the collection are stored in tattered folders
 placed seemingly at random, but Victor strides confidently to a shelf,

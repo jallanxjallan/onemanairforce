@@ -1,10 +1,13 @@
 ---
+category: past
+date: 20 October 1947
+status: draft
 title: Grounded in Bangkok
-date: 20 October 1947 
-status: new
+
 ---
 
-On 20 October 1947 Bob flies two Indonesian aviators, Halim and Iswandi,
+
+Bob flies two Indonesian aviators, Halim and Iswandi,
 to Bangkok where they will purchase a twin-prop airplane that will
 become RI-003. Dutch authorities pressure the Thai government to detain
 Freeberg as a blockade runner. The Thais briefly detain Freeberg in a

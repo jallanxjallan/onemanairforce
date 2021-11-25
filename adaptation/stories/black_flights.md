@@ -1,10 +1,13 @@
 ---
+category: past
+date: 04 March 1948
+status: draft
 title: Black Flights
-date: 04 March 1948 
-status: new
+
 ---
 
-In March 1948, Suryadarma orders Bob to transport Republican opium to
+
+Suryadarma orders Bob to transport Republican opium to
 Bukittinggi. Bob knows that if he is intercepted, the Dutch could jail
 him for decades as a drug smuggler. Nevertheless, he accepts the
 commission without complaint.

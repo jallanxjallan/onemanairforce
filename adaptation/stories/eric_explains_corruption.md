@@ -1,10 +1,13 @@
 ---
+category: present
+date: 11 November 1988
+status: draft
 title: Eric explains corruption
-date: 11 November 1988 
-status: new
+
 ---
 
-On the evening of 11 November 1988, Julia is sitting in a restaurant
+
+Julia is sitting in a restaurant
 with Eric, a young Indonesian man of good family. Eric mentions his
 surprise Julia's mother phoned his mother to suggest he take her to
 dinner. Eric dominates the conversation, insisting, with the

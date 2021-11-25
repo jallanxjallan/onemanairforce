@@ -1,10 +1,13 @@
 ---
+category: past
+date: 04 September 1947
+status: draft
 title: Krokodil Kourier
-date: 04 September 1947 
-status: new
+
 ---
 
-In September 1947, Samuel and his band play at an art exhibition at the
+
+Samuel and his band play at an art exhibition at the
 Kuntskring. In between sets, Samuel chats with a Dutch attendee, who
 surreptitiously hands him a small package.
 

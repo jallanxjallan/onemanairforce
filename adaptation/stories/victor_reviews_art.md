@@ -1,10 +1,13 @@
 ---
+category: past
+date: 04 August 1947
+status: draft
 title: Victor Reviews Art
-date: 04 August 1947 
-status: new
+
 ---
 
-In August 1947, several of the Indonesian draftsman in the mapping
+
+Several of the Indonesian draftsman in the mapping
 office, who are are amateur artists themselves, invite Victor to
 accompany them to the exhibitions of Batavia's arts scene, now regaining
 vibrancy after years of privation. At an event featuring the flamboyant

@@ -1,8 +1,10 @@
 ---
+category: interview
+date: 15 October 1988
 title: Samuel Proves Patriotism
-date: No Date 
-status: new
+status: expand
 ---
+
 
 Samuel tells Julia that during the Bersiap period he sought the
 protection of the local preman. To prove his loyalty to the Republic, he

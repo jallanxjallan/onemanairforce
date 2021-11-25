@@ -1,10 +1,13 @@
 ---
+category: past
+date: 15 August 1947
+status: rough
 title: De Facto Liaison
-date: 15 August 1947 
-status: new
+
 ---
 
-In mid August 1947, Salipada arranges for Muharto and Pang to meet Major
+
+Salipada Penatun arranges for Muharto and Pang to meet Major
 Primitivo of the intelligence service. In the meeting, Primitivo says
 that his government, to show solidarity with the embattled Republic,
 wants to send a seasoned guerrilla fighter to train the youth militias,

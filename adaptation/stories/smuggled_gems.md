@@ -1,10 +1,13 @@
 ---
+category: past
+date: 15 April 1948
+status: expand
 title: Smuggled Gems
-date: 15 April 1948 
-status: new
+
 ---
 
-At a party in Manila in mid April 1948, Muharto is appalled when one of
+
+At a party in Manila, Muharto is appalled when one of
 Bob's housemates boasts of shooting down own squad leader. He decides to
 not tell Bob of his plan to smuggle gems into Manila to be traded for
 sidearms. He arranges for Filipino commandos to enter RI-002 and

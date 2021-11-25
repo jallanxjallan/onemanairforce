@@ -1,9 +1,12 @@
 ---
+category: present
+date: 07 November 1988
+status: rough
 title: Cameron Terrorized
-date: 07 November 1988 
-status: new
+
 ---
 
-One afternoon in early November 1988 at The Jakarta Post, Cameron
-receives a telephone call. The gruff voice on the other end suggests
+
+Cameron
+receives a telephone call at the Jakarta Post. The gruff voice on the other end suggests
 that Cameron stop poking into matters that are not his own business.

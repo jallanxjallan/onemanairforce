@@ -1,10 +1,13 @@
 ---
-title: Victor In Jogja
-date: 27 December 1948 
+category: past
+date: 27 December 1948
 status: new
+title: Victor In Jogja
+
 ---
 
-On 27 December 1948, Spoor sends Victor to Jogja with the invading
+
+Spoor sends Victor to Jogja with the invading
 troops to prove photograph what he expects to be a warm welcome as
 liberators. The reception is anything but that. Victor is part of the
 squadron that accosts Muharto and Ani in the market, and witnesses Ani

@@ -1,10 +1,13 @@
 ---
+category: past
+date: 08 March 1948
+status: rough
 title: Cobley Threatens Freeberg
-date: 08 March 1948 
-status: new
+
 ---
 
-On the evening of 8 March 1948 in the ballroom of the former Dutch
+
+In the ballroom of the former Dutch
 governor's palace in Bukittinggi, Richard Cobley drunkenly accuses Bob
 of taking the best blockade-running contracts through his close
 relationship with the Indonesian government. Later, while Bob stumbles

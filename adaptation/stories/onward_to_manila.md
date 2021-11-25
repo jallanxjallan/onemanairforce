@@ -1,10 +1,13 @@
 ---
+category: past
+date: 15 January 1948
+status: draft
 title: Onward To Manila
-date: No Date 
-status: new
+
 ---
 
-On 15 January 1948, British officials open Ining's coffin, searching for
+
+British officials open Ining's coffin, searching for
 contraband. Finding none, and with RI-002 brought up to minimal
-airworthiness standards, they granted Bob permission to depart, to the
+airworthiness standards, they grant Bob permission to depart, to the
 great annoyance of the Dutch.

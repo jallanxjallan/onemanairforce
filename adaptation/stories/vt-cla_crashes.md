@@ -1,10 +1,13 @@
 ---
+category: past
+date: 29 July 1947
+status: draft
 title: VT-CLA Crashes
-date: 29 July 1947 
-status: new
+
 ---
 
-On 29 July 1947, Bob invites Muharto, Pang, and Boedi to his apartment
+
+Bob invites Muharto, Pang, and Boedi to his apartment
 to celebrate that morning's verdict awarding the quinine to them. Bob's
 housemate has a military-grade short-wave radio, which Boedi immediately
 switches on and scans the military and civilian frequencies. The party

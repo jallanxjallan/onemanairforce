@@ -16,8 +16,46 @@ import attr
 import json
 from pathlib import Path
 
-with open('locations.json') as infile:
-    location_map = {}# {i['location']:i['display'] for i in json.load(infile)}
+
+
+def prepare(doc):
+    doc.sluglines = [dict(date=parse('17 August 1945'), category='past')]
+
+def action(elem, doc):
+    if isinstance(elem, pf.Span) and elem.content[0].text == 'SLUGLINE': 
+        prefix = 'In' 
+        date = parse(elem.attributes['date']) 
+        category = elem.attributes['category']
+        # sequence_start = True if elem.attributes['sequence_start'] == 'true' else False
+        prev_slugline = doc.sluglines[-1]
+        doc.sluglines.append(dict(date=date, category=category)) 
+        
+        dd = relativedelta(date, prev_slugline['date']) 
+        
+        if dd.months > 1: 
+            if prev_slugline['category'] == 'past' and category == 'interview': 
+                prefix = 'Returning to the interview in' 
+            
+            elif category == 'past' and prev_slugline['category'] in ('interview', 'present') : 
+                prefix = 'In a flashback to'  
+            return pf.Strong(pf.Str(prefix), pf.Space, pf.Str(date.strftime('%B %Y')), pf.Space)
+            
+        else:
+            return []
+
+    return elem
+
+
+def main(doc=None):
+    return pf.run_filter(action,
+                         prepare=prepare,
+                         doc=doc)
+
+if __name__ == '__main__':
+    main() 
+    
+    
+'''
 
 @attr.s
 class Slugline():
@@ -75,13 +113,7 @@ def format_date(sl, psl):
             
     
     return f'{date} {location or ""}'
-
-def prepare(doc):
-    doc.sluglines = []
-
-def action(elem, doc):
-    if isinstance(elem, pf.Span) and 'date' in elem.attributes:
-        try:
+try:
             slugline = Slugline(**elem.attributes)
         except Exception as e:
             pf.debug(e)
@@ -96,14 +128,6 @@ def action(elem, doc):
             elem = pf.Span(pf.Strong(pf.Str(output), pf.Space))
         else:
             elem = []
-        doc.sluglines.append(slugline)
-    return elem
-
-
-def main(doc=None):
-    return pf.run_filter(action,
-                         prepare=prepare,
-                         doc=doc)
-
-if __name__ == '__main__':
-    main()
+        doc.sluglines.append(slugline) 
+        
+'''

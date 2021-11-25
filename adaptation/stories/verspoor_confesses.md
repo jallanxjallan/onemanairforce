@@ -1,10 +1,11 @@
 ---
+category: interview
+date: 15 December 1988
+status: rough
 title: Verspoor Confesses
-date: 15 December 1988 
-status: new
 ---
 
-In mid December 1988, Cameron arranges to meet Alex and Paul at the
+Cameron arranges to meet Alex and Paul at the
 Earthquake the night before Paul will return to the Netherlands. After
 several drinks, and with Alex urging him on, Paul reveals that
 Westerling had contacted him in early 1949 to ask if his squadron would

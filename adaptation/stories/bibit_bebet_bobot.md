@@ -1,10 +1,13 @@
 ---
+category: present
+date: 12 October 1988
+status: rework
 title: Bibit Bebet Bobot
-date: 12 October 1988 
-status: new
+
 ---
 
-On the morning of 12 October 1988, Eddy has a heart-to-heart talk with
+
+Eddy has a heart-to-heart talk with
 Julia, letting her know that he opposes Julia marrying a foreigner. Eddy
 has checked into Cameron's background, and found he is penniless and
 with a spotty academic record, though he excelled in journalism and

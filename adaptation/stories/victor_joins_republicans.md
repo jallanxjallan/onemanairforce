@@ -1,10 +1,13 @@
 ---
+category: past
+date: 28 December 1948
+status: draft
 title: Victor Joins Republicans
-date: 28 December 1948 
-status: new
+
 ---
 
-On 28 December 1948, Jogjakarta is declared declared secure, and Victor
+
+Jogjakarta is declared  secure, and Victor
 can walk around Jogja alone to document the condition of the town. A man
 he recognizes as a friend of Emeria approaches him in a quiet alley to
 say that if he wants to defect, Emeria is with Sudirman's forces in the

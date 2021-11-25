@@ -1,8 +1,10 @@
 ---
+category: present
+date: 15 October 1988
+status: rough
 title: Julia Pressures Victor
-date: 15 October 1988 
-status: new
+
 ---
 
-Julia returns to IPPHOS in mid October 1988 and presses Victor to tell
-her more about Emeria. Victor refuses.
+
+Julia returns to IPPHOS seeking more information about Emeria. Victor is reticent to talk about it, but Julia charms him into revealing a few things. 

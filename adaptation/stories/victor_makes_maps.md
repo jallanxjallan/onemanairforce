@@ -1,10 +1,13 @@
 ---
+category: past
+date: 1 January 1947
+status: draft
 title: Victor Makes Maps
-date: No Date 
-status: new
+
 ---
 
-In January 1947, on completion of basic training, Victor was assigned to
+
+Victor is assigned to
 the mapping department as a junior draftsman upon the recommendation of
 an officer who had seen his sketches. In the mapping department, Victor
 is also trained to develop photographs taken in the field to provide

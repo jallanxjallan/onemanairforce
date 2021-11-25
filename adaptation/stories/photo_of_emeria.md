@@ -1,8 +1,10 @@
 ---
+category: interview
+date: 15 October 1988
+status: draft
 title: Photo of Emeria
-date: No Date 
-status: new
 ---
+
 
 Victor searches for more shots of Batavia to prod his memory about
 Spoor's efforts to stop the blockade runs. He stops when he comes across

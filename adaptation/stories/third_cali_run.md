@@ -1,10 +1,13 @@
 ---
+category: past
+date: 31 March 1947
+status: draft
 title: Third Cali Run
-date: 31 March 1947 
-status: new
+
 ---
 
-On 31 March 1947, Muharto leads a blockade run with Bob Freeberg, then a
+
+Muharto leads a blockade run with Bob Freeberg, then a
 contract pilot for a Manila-based charter airline, as captain. Amid poor
 visibility over Java, Bob demonstrates his piloting skill by diving
 through a break in the clouds, leveling off under the cloud cover a few

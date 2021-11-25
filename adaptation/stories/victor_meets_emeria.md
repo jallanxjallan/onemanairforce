@@ -1,9 +1,13 @@
 ---
+category: past
+date: 04 October 1947
+status: draft
 title: Victor Meets Emeria
-date: 04 October 1947 
-status: new
+
 ---
 
-In October 1947, Victor singles out Emeria as the highlight of the
+
+Victor singles out Emeria as the highlight of the
 exhibition in one of his reviews. A few days later, Emeria contacts
-Victor Jan Boon to invite Victor to her studio.
+Auke Sonnega to invite Victor to her studio. which also serves as an artistic salon, a gathering place for artists. The Indonesian artists initially welcome the two Dutchmen, but emotions rise when Sonnega lets slip that Victor is, in fact, a soldier.  Emeria berates the artists for make her guest uncomforable, dismissing them with an imperious wave of her hand. Sonnega also takes his leave, but Emeria insists that Victor remain for a private chat. 
+

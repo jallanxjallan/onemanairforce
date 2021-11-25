@@ -1,11 +1,14 @@
 ---
+category: past
+date: 21 September 1947
+status: draft
 title: Non Stop To Jogja
-date: 21 September 1947 
-status: new
+
 ---
 
-On 21 September 1947, RI-002 returns to Java. For security reasons
-RI-002 had to fly non-stop, which leaves them dangerously low on fuel as
+
+RI-002 returns to Java. Because the presence of Captain 
+Espina must remain secret, RI-002 cannot refuel in British-controlled Labuan. They are dangerously low on fuel as
 they reach Java. In the gathering darkness, Muharto has difficulty
 identifying landmarks. Tension mounts in the cabin as the fuel gauges
 slide toward empty. Bob admonishes Muharto saying: "This is your

@@ -1,11 +1,12 @@
 ---
+category: interview
+date: 25 September 1988
+status: draft
 title: Muharto Regrets
-date: No Date 
-status: new
 ---
 
 Muharto tells Cameron that the sixth coffin, presumably containing Bob's
-remains, could not be buried with the others because he was a foreigner.
+remains, could not be buried with the others in the National Hero cemetary because he was a foreigner.
 Muharto's expression as he finishes his reminiscences convinces Cameron
 that he had regarded Freeberg as a close friend, and is seeking closure
 about his mysterious disappearance. As Cameron rises to leave, Muharto

@@ -1,10 +1,13 @@
 ---
+category: past
+date: 17 April 1977
+status: draft
 title: Crash Site Discovery
-date: 17 April 1977 
-status: new
+
 ---
 
-On 17 April 1977, two wiry men dressed in shabby clothes lead a squad of
+
+Two wiry men dressed in shabby clothes lead a squad of
 airmen and their officer, Lt. Sulaiman, through a forested hillside to
 the wreckage of RI-002. The airmen set up camp and search the area. They
 find fragments of a wing with the faded letters: RI-00, other airplane
