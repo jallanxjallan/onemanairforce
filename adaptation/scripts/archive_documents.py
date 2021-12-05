@@ -3,64 +3,39 @@
 #
 #  script.py
 #
-#  Copyright 2019 Jeremy Allan <jeremy@jeremyallan.com>
-
+#  Copyright 2019 Jeremy Allan <jeremy@jeremyallan.com> 
 import sys
 from pathlib import Path
-import fire
 from storage.cherrytree import CherryTree
 from document.document import Document
 from utility.strings import snake_case, title_case
-import peewee as pw
-from playhouse.sqlite_ext import *
+import pandas as pd 
+from sqlalchemy import create_engine
+import fire
+ 
 
-db = pw.SqliteDatabase('document_archive.db')
+def archive_document(filepath):
+    fp = Path(filepath) 
+    if not fp.suffix.lower() in ('.md', '.txt'):
+        return None
+    try:
+        content = fp.read_text()
+    except Exception as e:
+        print(e) 
+        return None
+    return dict(source=fp.stem, content=content)
+       
+def archive_documents(outputfile):
 
-class DocumentArc(pw.Model):
-    section = pw.CharField(null=True)
-    name = pw.CharField()
-    content = pw.CharField(null=True, unique=True)
-    meta = JSONField(null=True)
+    engine = create_engine(f'sqlite:///{outputfile}', echo=False) 
+    
+    df = pd.DataFrame(filter(None, [archive_document(f.strip()) for f in sys.stdin.readlines()]))
 
-    class Meta:
-        database = db # This model uses the "people.db" database.
-
-def archive_index(index_file):
-    ct = CherryTree(index_file)
-    index_data = []
-    for node in ct.nodes():
-        try:
-            section = [a.name for a in node.ancestors][0]
-        except IndexError:
-            continue
-        index_data.append(dict(section=section,
-                         name=node.name,
-                         notes=node.notes + node.content))
-                         
-    return index_data
-
-
-def archive_content():
-    archive_folder = Path('archive')
-    folders = ['scenes_archive', 'synopsis_archive']
-    data = []
-    db.create_tables([DocumentArc])
-    for index_file in [f for f in archive_folder.iterdir() if f.suffix == '.ctd']:
-        data.extend(archive_index(index_file))
-    for filepath in [fp for fl in folders for fp in archive_folder.joinpath(fl).iterdir()]:
-        doc = Document.read_file(filepath)
-
-        data.append(dict(
-                     name=title_case(filepath.stem),
-                     content=doc.content,
-                     meta = doc.metadata
-                     ))
-
-    with db.atomic():
-        DocumentArc.insert_many(data).execute()
-
-
-    for record in DocumentArc.select():
-        print(record.name)
+    with engine.begin() as connection:
+        df.to_sql('document', con=connection, if_exists='append') 
+    
+    
 if __name__ == '__main__':
-    fire.Fire(archive_content)
+    fire.Fire(archive_documents)
+    
+    

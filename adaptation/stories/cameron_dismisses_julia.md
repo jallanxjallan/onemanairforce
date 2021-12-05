@@ -3,7 +3,6 @@ category: present
 date: 15 November 1988
 status: draft
 title: Cameron Dismisses Julia
-
 ---
 
 

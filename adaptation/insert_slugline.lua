@@ -1,19 +1,14 @@
 --!/usr/local/bin/lua
 
+local sredis = require 'sredis'
+
 function Pandoc(doc)
-  local date = 'None'
-  local category = 'None'
+  local rkey = doc.meta['slugline_data_key']
+
   for k,v in pairs(doc.meta) do
-    if k == "date" then
-      date =  pandoc.utils.stringify(v)
-    elseif k == 'category' then
-      category = pandoc.utils.stringify(v) 
-    elseif k == 'sequence_start' then 
-      sequence_start = pandoc.utils.stringify(v) 
-    end
+    sredis.query({'hset', rkey, k, pandoc.utils.stringify(v)})
   end
-  local content = pandoc.Str('SLUGLINE')
-  local attrs = pandoc.Attr("", {}, {{"date", date}, {"category", category}, {"sequence_start", sequence_start }})
-  table.insert (doc.blocks[1].content, 1, pandoc.Span(content, attrs))
+  local slugline = pandoc.Span('SLUGLINE', {slugline_data_key=rkey})
+  table.insert (doc.blocks[1].content, 1, slugline)
   return pandoc.Pandoc(doc.blocks)
 end

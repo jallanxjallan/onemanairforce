@@ -11,37 +11,33 @@ Pandoc filter using panflute
 
 import panflute as pf
 from dateutil.relativedelta import relativedelta
-from dateutil.parser import parse
+from dateutil.parser import parse as date_parse
 import attr
 import json
 from pathlib import Path
+from storage.redis import rds
 
 
 
 def prepare(doc):
-    doc.sluglines = [dict(date=parse('17 August 1945'), category='past')]
+    doc.sluglines = {}
 
 def action(elem, doc):
     if isinstance(elem, pf.Span) and elem.content[0].text == 'SLUGLINE': 
+        sd = rds.hgetall(elem.attributes['slugline_data_key']) 
+        ssd = rds.hgetall(sd['previous_sibling_key'])
+        psd = rds.hgetall(sd['parent_key'])
+       
         prefix = 'In' 
-        date = parse(elem.attributes['date']) 
-        category = elem.attributes['category']
-        # sequence_start = True if elem.attributes['sequence_start'] == 'true' else False
-        prev_slugline = doc.sluglines[-1]
-        doc.sluglines.append(dict(date=date, category=category)) 
+        date = date_parse(sd['date']) 
         
-        dd = relativedelta(date, prev_slugline['date']) 
-        
-        if dd.months > 1: 
-            if prev_slugline['category'] == 'past' and category == 'interview': 
-                prefix = 'Returning to the interview in' 
-            
-            elif category == 'past' and prev_slugline['category'] in ('interview', 'present') : 
-                prefix = 'In a flashback to'  
-            return pf.Strong(pf.Str(prefix), pf.Space, pf.Str(date.strftime('%B %Y')), pf.Space)
-            
+        if ssd:
+            dd = relativedelta(date_parse(ssd['date']), date) 
+            deltas = f'days: {dd.days} months {dd.months} years {dd.years}'
+            return pf.Strong(pf.Str(date.strftime('%d %B %Y')), 
+                pf.Space, pf.Str(deltas)) 
         else:
-            return []
+            return pf.Strong(pf.Str(prefix), pf.Space, pf.Str(date.strftime('%B %Y')), pf.Space)
 
     return elem
 

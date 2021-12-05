@@ -3,11 +3,10 @@ category: past
 date: 15 July 1947
 status: draft
 title: Madras Curry
-
 ---
 
 Muharto, Boedi and Pang are penniless as they wait
-for the verdict. Bob buys his "Javanese boys" a single meal
+to sell the quinine. Bob buys his "Javanese boys" a single meal
 each day at the cheapest eatery in Manila: The Madras Curry Restaurant.
 Though Muharto protests whenever Bob picks up the bill for their bowls
 of curry, Bob insists that as captain of RI-002 he is responsible for

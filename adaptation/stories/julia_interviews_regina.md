@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 21 October 1988
+date: 21 November 1988
 title: Julia interviews Regina
 status: expand
 ---

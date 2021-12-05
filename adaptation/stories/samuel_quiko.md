@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 15 October 1988
+date: 21 October 1988
 title: Samuel Quiko
 status: expand
 ---

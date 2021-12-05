@@ -6,70 +6,119 @@
 #  Copyright 2019 Jeremy Allan <jeremy@jeremyallan.com> 
 
 
-from collections import defaultdict
-from document.document import Document
-from document.pandoc import PandocArgs
 from pathlib import Path
+from document.document import Document
 from storage.cherrytree import CherryTree
-from storage.redis import rds, RedisKey
-from utility.strings import snake_case, title_case
-import dateutil
-import datetime
-import spacy
+from IPython.display import Markdown as md
+from dateutil.parser import parse as date_parse
 import pandas as pd
 import fire 
 import re 
 
-
-CATEGORIES = ('Present', 'Past', 'Interviews', 'Writings') 
-
-def get_document_link(node):
-    document_link = next((Path(l.href) for l in node.links if l.type == 'file' and l.label == 'Story'), None) 
+def node_data(node):
+    return dict( 
+        identifier=node.id, 
+        story = node.ancestors[1].name, 
+        scene=node.name,
+        notes = node.texts if len(node.texts) > 10 else None,
+        content = node.content)
+    
+def doc_data(node):
+    document_link = next(node.links(label='Story|Document'), None) 
     if not document_link:
-        return None 
-    if not document_link.exists():
-        raise FileNotFoundError
-    return str(document_link)
-
-def build_story_df(ct):
-    story_data = [] 
-    for story_node in [n for n in ct.nodes() 
-                       if not n.name.startswith("~") 
-                       if get_document_link(n)]:
-        story_doc = Document.read_file(get_document_link(story_node))
+        return False
         
-        try:
-            datestamp = dateutil.parser.parse(story_doc.date)
-        except:
-            datestamp = None
-            
-        story_data.append(dict(
-            identifier= story_node.id, 
-            category=story_doc.category,
-            story=story_node.parent.name,
-            scene=story_node.name,
-            status=story_doc.status,
-            level=story_node.level,
-            datestamp = datestamp,
-            content=story_doc.content
-        ))
+    if not Path(str(document_link)).exists():
+        print(f'document_link for {node.name} not valid') 
+        return False
+    document = Document.read_file(str(document_link))
+    data = dict(
+        identifier=node.id,
+        document_link = str(document_link),
+        text= document.content.lstrip('\n')
+    )
+    for key in ('title', 'category', 'status'):
+        data[key] = document.metadata.get(key, None)
+        
+    try:
+        date = date_parse(document.date) 
+    except:
+        date = None
+    finally:
+        data['date'] = date
+    return data 
     
+def build_df(ct):
+    nodes =  [n for c in CATEGORIES for n in ct.nodes(c) 
+              if n.level > 2 
+              if not n.name.startswith("~")]
     
-    dfn = pd.DataFrame(story_data)
+    dfn = pd.DataFrame([node_data(n) for n in nodes])
+
+    dfd = pd.DataFrame(filter(None, [doc_data(n) for n in nodes]))
                               
     dfl = pd.DataFrame([dict(sequence=s.name, sequence_no=sno, identifier=l.href, story_no=lno) 
             for sno, s in enumerate(ct.nodes('Synopsis')) 
-            for lno, l in enumerate(s.links) if l.type == 'node'])
+            for lno, l in enumerate(s.links(type='node'))])
     
-    df = dfn.merge(dfl, how='left', on='identifier')
-    df.sequence.fillna('Unplaced', inplace=True)
-    df.sequence_no.fillna(0, inplace=True)
-    df.story_no.fillna(0, inplace=True) 
-    
-    
-    return df.sort_values(['sequence_no', 'story_no'])
+    return dfn.merge(dfd, how='left', on='identifier').merge(dfl, how='left', on='identifier')
 
 
+CATEGORIES = ('Present', 'Past') 
+
+class Synopsis():
+    def __init__(self, input_arg):
+        if isinstance(input_arg, pd.DataFrame):
+            self.df = input_arg 
+        elif isinstance(input_arg, CherryTree):
+            self.df = build_df(input_arg)
+        elif isinstance(input_arg, str):
+            self.df = build_df(CherryTree(input_arg)) 
+        else:
+            raise TypeError(input_arg, 'unknown')
+        
+
+    def filter_stories(self, **kwargs):
+        """returns subset filtered by sequence, level, category, story, scene regex patterns"""
+        clauses = dict(
+            sequence='(sequence.notnull()) & (sequence.str.contains("{}"))',
+            level='level == {}',
+            category='(category.notnull()) & (category.str.contains("{}"))',
+            story='story.str.contains("{}")',
+            scene='scene.str.contains("{}")',
+            text='(text.notnull()) & (text.str.contains("{}"))'
+        )
+        query = ' & '.join([f'({clauses[k].format(v)})' for k,v in kwargs.items() ])
+        return Synopsis(self.df.dropna(subset=kwargs).query(query))
+
+    def unmade_stories(self):
+        return Synopsis(self.df[self.df.document_link.isna()])
+
+    def unplaced_stories(self):
+        return Synopsis(self.df[self.df.sequence.isna()])
+
+    def date_range(self, *bounds):
+        min_date = date_parse(bounds.pop[0]) 
+        max_date = date_parse(bounds[0]) if len(bounds) > 0 else date_parser('1 January 1990') 
+        query = 'min_date <= date <= max_date'
+        return Synopsis(self.df.dropna(subset=['date']).query(query).groupby('sequence', sort=False).agg({'date':[min, max]}))
+
+    
+    @property
+    def display_scenes(self):
+        return self.df.sort_values(['sequence_no', 'story_no'])[['story', 'scene', 'date', 'sequence']]
+    
+    @property
+    def display_text(self):
+        for r in self.df.dropna(subset=['text']).sort_values(['sequence_no', 'story_no']).itertuples():
+            try:
+                display(md(f'**{r.scene} - {r.date.strftime("%B %Y")}** :  {r.text.lstrip()}')) 
+            except Exception as e:
+                print(f'Cannot display {r.scene} because {e}')
+
+
+    
+'''
 def output_synopsis_with_pandas():
     ct = CherryTree('screenplay.ctd') 
     df = build_story_df(ct) 
@@ -83,26 +132,8 @@ def output_synopsis_with_pandas():
             sequence_start = False 
         if sequence == 'Cameron Does His Research':
             break
-        
-def output_synopsis():
-    ct = CherryTree('screenplay.ctd') 
-    for story_node in [ct.find_node_by_id(l.href) 
-        for n in ct.nodes('Synopsis') 
-        for l in n.links if l.type == 'node']: 
-        story_link = next((l.href for l in story_node.links if l.type == 'file' and l.label == 'Story'), None) 
-        if not story_link:
-            continue 
-        context = story_node.parent.name
-        print(PandocArgs(input=link, 
-            filters=['insert_slugline.lua', 'print_output_file.lua'],
-            metadata=dict(context=context)))
-        
-    
-    
-def story_placements(): 
-    ct = CherryTree('screenplay.ctd')
-    return build_story_df(ct) 
-    
+            
+            
 def output_stories():
     ct = CherryTree('screenplay.ctd')
     df = build_story_df(ct)
@@ -121,14 +152,6 @@ def output_stories():
         doc = Document(content=story.content, metadata=metadata, filepath=outputfile)
         # doc.write_file() 
         new_story = True
-       
-if __name__ == '__main__':
-    fire.Fire({'place': story_placements, 
-                'output': output_synopsis,
-                'story':output_stories}) 
-    
-'''
-
 def format_date(sl, psl):
     date = None 
     location = None
@@ -238,7 +261,33 @@ def story_row(node):
     except:
         datestamp = None 
         
-    context = list(node.ancestors) 
+    context = list(node.ancestors)  
+    
+    
+def output_synopsis(index_file):
+    ct = CherryTree(index_file) 
+    for story_node in [ct.find_node_by_id(l.href) 
+        for n in ct.nodes('Synopsis') 
+        for l in n.links if l.type == 'node']: 
+        story_link = next((l.href for l in story_node.links if l.type == 'file' and l.label == 'Story'), None) 
+        if not story_link:
+            continue 
+        context = story_node.parent.name
+        print(PandocArgs(input=link, 
+            filters=['insert_slugline.lua', 'print_output_file.lua'],
+            metadata=dict(context=context)))
+        
+    
+    
+def story_placements(index_file): 
+    ct = CherryTree(index_file)
+    return build_story_df(ct) 
+    
+
+       
+if __name__ == '__main__':
+    fire.Fire({'place': story_placements, 
+               'output': output_synopsis}) 
 
     
-   '''
+'''

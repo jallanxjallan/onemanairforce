@@ -6,6 +6,6 @@ title: Painful Memories
 ---
 
 
-In late October 1988, Cameron tells Muharto of his interview with George
+Cameron tells Muharto of his interview with George
 Rueneker. He cajoles Muharto into telling of the events following the
 tragedy.

@@ -3,7 +3,6 @@ category: interview
 date: 15 October 1988
 status: draft
 title: Cameron Meets Victor
-
 ---
 
 Julia and Cameron enter the IPPHOS office, located

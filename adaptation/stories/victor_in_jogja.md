@@ -3,7 +3,6 @@ category: past
 date: 27 December 1948
 status: new
 title: Victor In Jogja
-
 ---
 
 

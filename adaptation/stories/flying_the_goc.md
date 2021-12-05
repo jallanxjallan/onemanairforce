@@ -1,6 +1,6 @@
 ---
 category: past
-date: 10 October 1947
+date: 30 October 1947
 status: expand
 title: Flying The GOC
 

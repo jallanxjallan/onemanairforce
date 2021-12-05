@@ -3,11 +3,7 @@ category: present
 date: 15 November 1988
 status: draft
 title: Julia Meets Regina
-
 ---
 
-
-Julia reads a notice about an upcoming exhibition
-by an amateur watercolorist named Regina. Her bio mentions Emeria as one
-of her influences. At the exhibition, Julia learns that Regina had been
-Emeria's pembantu, and so arranges an interview.
+Julia reads a review of an exhibition conducted in Jakarta some years before
+by an amateur watercolorist named Regina Artista Maya. The review notes that Emeria had been a major influence. Julia contacts the exhibition venue, acquires Regina's contact information, and arranges a meeting. 

@@ -3,7 +3,6 @@ category: present
 date: 21 October 1988
 status: rough
 title: Cameron Suspects Robert Koke
-
 ---
 
 

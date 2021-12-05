@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 15 October 1988
+date: 05 October 1988
 status: draft
 title: Photo of Emeria
 ---

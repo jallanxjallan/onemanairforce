@@ -7,7 +7,7 @@ title: Off the Beach
 ---
 
 
-Arriving at Cilotok, Muharto and Pang
+Muharto arrives at Tasik, where Pang Soeparto confirms that the pilot is Freeberg. They load two barrels of aviation fuel onto a jeep and drive to Cilotok. There, Muharto and Pang
 marvel that Freeberg had been able to land on this short stretch of
 beach, bookended by high bluffs. Muharto recognizes Freeberg and they
 greet as friends. Fearing that a patrolling Dutch fighter could appear
