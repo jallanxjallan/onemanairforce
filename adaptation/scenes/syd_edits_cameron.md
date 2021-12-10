@@ -1,8 +1,10 @@
 ---
-title: Syd Edits Cameron
-date: 26 September 1988 
-location: Jakarta Post
+category: present
+date: 26 September 1988
 status: synopsis
+title: Syd Edits Cameron
 ---
-Cameron writes up the interview, and gives it to managing editor Sabam Siagian, who had given him the assignment. Sabam glances at the copy, grunts, then passes the pages to Syd Jardine, the senior copy editor. Syd reads it carefully, then remarks that Freeberg comes off as a "super-pilot" and not believable. He  suggests Cameron find other accounts of Bob by researching in the reference section of the newly opened National Library. 
 
+Cameron writes up the interview at the Jakarta Times, an English-language daily newspaper run as a hobby by a business mogul who wants to promote foreign investment in Indonesia. The owner lets Cameron use a desk, telephone, and fax in exchange for favors like this article. Cameron gives the draft to Syd Jardine, an Old Asia Hand who is the offical language consultant, but unoffical managing editor. Syd remarks that Freeberg comes off
+as some sort of "foreign savior" who alone was responsible for saving the Republic. He suggests Cameron flesh out the story with accounts of Bob in the reference section of the newly
+opened National Library.

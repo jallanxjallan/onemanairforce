@@ -1,9 +1,12 @@
 ---
-title: Landing Gear Collapse
-date: May 1948
-location: Bukittinggi
+category: past
+date: 04 May 1948
 status: synopsis
+title: Landing Gear Collapse
 ---
 
-John Coast and Dave Fowler watch as the starboard landing gear on RI-002 slowly collapses from hydraulic system failure. Bob emerges from the cockpit and admits that the craft is suffering from the wear-and-tear of past months, especially repeated landings on rough jungle airstrips. But he is waiting for the Indonesians to pay him the huge debt they owe so he can do the much-needed repairs. Coast tells Bob that he is welcome to fly for his company, POAS, if RI-002 becomes too dangerous. Bob thanks him, but insists that he will find a way to fix his beloved Dakota. 
 
+The landing gear collapses just as RI-002 is
+preparing to take off from the strip at Bukittinggi. Bob checks the wing
+for damage, and decides that the new crack in not serious. Later that
+morning he takes off. Dave Fowler looks on, shaking his head.

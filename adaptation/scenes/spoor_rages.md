@@ -1,12 +1,11 @@
 ---
+category: past
+date: 18 October 1947
+status: synopsis
 title: Spoor Rages
-date: 20 October 1947
-location: KNIL
-status: new
 ---
 
-Victor overhears Spoor raging that the Thai authorities had released Freeberg. 
 
-           \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-On 20 October 1947 at his desk outside Spoor's office at KNIL headquarters, Victor 
-raging that the Thai authorities had released Freeberg.
+Victor overhears Spoor raging at reports of RI-002
+dropping paratroopers over Kalimantan. He directs his staff to pressure
+regional aviation authorities to ground RI-002.

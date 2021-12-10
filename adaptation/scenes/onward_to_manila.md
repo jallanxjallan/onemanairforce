@@ -1,8 +1,12 @@
 ---
-title: Onward to Manila
+category: past
 date: 15 January 1948
-location: Changi
-status: new
+status: synopsis
+title: Onward To Manila
 ---
 
-British officials open Ining's coffin. They do not find guns,  and allow RI-002 to depart, obstensibly for Pekanbaru. 
+
+British officials open Ining's coffin, searching for
+contraband. Finding none, and with RI-002 brought up to minimal
+airworthiness standards, they grant Bob permission to depart, to the
+great annoyance of the Dutch.

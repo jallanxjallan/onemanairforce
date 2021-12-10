@@ -1,8 +1,17 @@
 ---
-title: Cameron Meets Julia
-date: 27 September 1988 
-location: National Library
+category: writing
+date: 27 September 1988
 status: synopsis
+title: Cameron Meets Julia
 ---
 
-Cameron uses his Jakarta Post credentials to enter the reference section. Julia Suryakusuma, the only staffer speaking fluent English, is assigned to fetch the material he needs from the stacks. Camerorn Julia returns with an armload of books, and Cameron begins reading. Skimming through the supplementary background material Julia selected, Cameron's attention is drawn to a passage in a book by British diplomat John Coast about meeting Bob in Bukittinggi.
+
+Cameron uses his "foreign correspondent" credentials to gain
+access to the reference section of the National Library. Julia
+Suryakusuma, an attractive, bookish woman in her early 20s, the only
+staffer speaking fluent English, is assigned to assist him. Cameron explains his mission,
+and Julia disappears into the stacks, returning shortly with some books
+written by foreigners about the period. Skimming through the material,
+Cameron's attention is drawn to a passage in a book by British diplomat
+John Coast relating events at a gathering of foreign aviators in the
+mountain town of Bukittinggi, a Republican base of operations.

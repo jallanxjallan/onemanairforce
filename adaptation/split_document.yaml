@@ -1,0 +1,8 @@
+---
+input-file: scenes/third_cali_run.md
+writer: markdown 
+filters: 
+  - split_on_rule.lua
+metadata: 
+  text_to_include: upper
+

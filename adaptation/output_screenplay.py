@@ -11,13 +11,23 @@ from storage.cherrytree import CherryTree
 from storage.redis import rds, RedisKey
 from document.pandoc import PandocArgs
 from dateutil.parser import parse as date_parse
+from scripts.proofreader import Proofer
 import fire 
 import re 
-import uuid
+import uuid 
 
 
 
-def output_synopsis(index_file, output_file):
+
+
+def proof_content(index_file, output_file);
+    ct = CherryTree(index_file) 
+    pf = Proofer(outpput_file)
+    
+
+
+
+def output_treatment(index_file, output_file):
     ct = CherryTree(index_file) 
     rkey = RedisKey(namespace='omaf', component='slugline.data')
     for i, story_node in enumerate([ct.find_node_by_id(l.href) 

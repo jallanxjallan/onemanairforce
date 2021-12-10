@@ -1,8 +1,11 @@
 ---
+category: past
+date: 24 December 1947
+status: synopsis
 title: Back to Jogja
-date: 15 August 1948
-location: Maguwo
-status: new
 ---
 
-Bob returns to Jogja  with both pilot and aircraft in good shape.
+
+RI-002 returns to Jogja. Suryadarma tells Bob to lay
+low while they deal with the fallout from Ining's death. Bob spends an
+idyllic few days in Kaliurang, a resort on the slopes of Mount Merapi.

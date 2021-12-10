@@ -1,12 +1,12 @@
 ---
-title: Muharto Promoted
-date: 25 December 1988
-location: Muharto Residence
+category: past
+date: 15 May 1948
 status: synopsis
+title: Muharto Promoted
 ---
 
-Muharto
-tells Cameron that he flew with RI-002 until May 1948, when he was
-promoted to major and posted to headquarters. Muharto saw little of Bob
-after that, but was looking for forward to having Bob as guest of honor
-at this wedding in October.
+
+Suryadarma gives Muharto the good news that he is being
+promoted to major and reassigned. The bad news, at least according to
+Muharto, is that his new position is administrative and he will be
+piloting a desk.

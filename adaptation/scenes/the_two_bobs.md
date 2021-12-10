@@ -1,8 +1,6 @@
 ---
+status: synopsis
 title: The Two Bobs
-date: 1 March 1947
-location: AB Bar
-status: new
+date: 15 March 1947 
 ---
-
- Bobs Freeberg and Walters agree to joint ownership of a war-surplus Dakota. 
+Bob Freeberg joins with another Bob, American pilot Bob Walters, to purchase a war-surplus Dakota. 
