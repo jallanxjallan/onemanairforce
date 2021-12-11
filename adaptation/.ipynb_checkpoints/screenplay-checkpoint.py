@@ -47,46 +47,54 @@ CATEGORIES = ('Present', 'Past')
 INDEX_FILE = 'screenplay.ctd'
 
 class ScreenplayData():
-    
+
     def __init__(self):
         ct=CherryTree(INDEX_FILE)
         stories = [n
-                       for c in CATEGORIES
-                       for n in ct.nodes(c)
-                       if n.level > 2
-                       if not n.name.startswith("~")] 
-        for story in stories: print(story.name)
-                           
-        scenes = [l.asdict() for n in ct.nodes('Scenes') for l in n.links(type='file')]
-        
-        self.df = pd.DataFrame(stories).merge(pd.DataFrame(scenes), left_on='id', right_on='href')
+                   for c in CATEGORIES
+                   for n in ct.nodes(c)
+                   if n.level > 2
+                   if not n.name.startswith("~")]
 
-    
+        scenes = [n for n in ct.nodes('Scenes') if n.document_link]
+        story_links = [l for s in scenes for l in s.links(type='node')]
+        documents = [Document.read_file(s.document_link).asdict() for s in scenes]
+
+        df_st = pd.DataFrame([s.asdict() for s in stories])
+        df_st['story_sequence'] = df_st.index
+        df_sc = pd.DataFrame([s.asdict() for s in scenes])
+        df_sc['scene_sequence'] = df_sc.index
+        df_sl = pd.DataFrame([l.asdict() for l in story_links])
+        df_do = pd.DataFrame([Document.read_file(s.document_link).asdict() for s in scenes])
+        self.df = df_st.merge(df_sc, left_on='id', right_on='href')\
+                        .merge(df_do, left_on='document_link', right_on='filepath')\
+                        .merge(df_sl, left_on='id_x', right_on='href_y')
+
     def filter_stories(self, **kwargs):
         """returns subset filtered by sequence, level, category, story, scene regex patterns"""
-        clauses = [getattr(ScreenplayData, f) for f,a in kwargs.items()] 
+        clauses = [getattr(ScreenplayData, f) for f,a in kwargs.items()]
         query = ' & '.join([f'({c})' for c in clauses])
         self.df = (self.df.dropna(subset=kwargs).query(query))
-        
-    def text(self, arg): 
-        return f'text.str.contains("{arg}")' 
-        
+
+    def text(self, arg):
+        return f'text.str.contains("{arg}")'
+
     def category(self, arg):
-        return f'category.str.contains("{arg}")'   
+        return f'category.str.contains("{arg}")'
 
     def level(self, arg):
-        return f'level == {arg}' 
-        
+        return f'level == {arg}'
+
     def story(self, arg):
         return f'story.str.contains("{arg}")'
-        
+
     def scene(self, arg):
         return f'scene.str.contains("{arg}")'
 
     def unplaced_(self, arg):
         self.df = self.df.query('scene.isna()')
 
-    def date_range(self, *bounds): 
+    def date_range(self, *bounds):
         min_date = date_parse(bounds.pop[0])
         max_date = date_parse(bounds[0]) if len(
             bounds) > 0 else date_parser('1 January 1990')
@@ -107,9 +115,9 @@ class ScreenplayData():
                 print(f'Cannot display {r.scene} because {e}')
 
 def output_screenplay(outputfile, synopsis=True):
-    ct = CherryTree(INDEX_FILE) 
+    ct = CherryTree(INDEX_FILE)
     rkey = RedisKey(namespace='omaf', component='slugline.data')
-    
+
     for node in [n for n in ct.nodes('Scenes') if any(n.links(type='file'))]:
         try:
             previous_sibling_key = str(
@@ -129,9 +137,9 @@ def output_screenplay(outputfile, synopsis=True):
         rds.expire(scene_key, 120)
         print(PandocArgs(input=next(node.links(type='file')).href,
                          metadata=dict(slugline_data_key=scene_key,
-                         
-                         filters=['split_on_rule.lua', 
-                         'insert_slugline.lua', 
+
+                         filters=['split_on_rule.lua',
+                         'insert_slugline.lua',
                          'print_output_file.lua'])))
         if i > 2:
             pass
@@ -141,5 +149,5 @@ if __name__ == '__main__':
 
 '''
 def output_treatment(self, output_file):
-    
+
 '''
