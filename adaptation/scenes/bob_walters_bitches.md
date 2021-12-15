@@ -3,10 +3,9 @@ category: past
 date: 04 August 1947
 status: draft
 title: Bob Walters Bitches
-
 ---
 
-In August 1947 the gregarious and charismatic Boedi had been wholly
+The gregarious and charismatic Boedi has been wholly
 accepted by the Aviation Brotherhood, the freewheeling foreign pilots
 seeking their fortunes or reliving wartime adventures in often-dangerous
 charter flights into remote areas of the region. At the AB bar, Boedi

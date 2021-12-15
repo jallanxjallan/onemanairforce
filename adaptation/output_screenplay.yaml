@@ -1,0 +1,4 @@
+---
+filters: 
+  - format_slugline.py
+output-file: output/test_output.docx
