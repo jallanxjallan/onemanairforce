@@ -1,8 +1,9 @@
 ---
 category: present
 date: 11 November 1988
-status: synopsis
+status: draft
 title: Eric explains corruption
+synopsis: Julia has an arranged dinner with Eric, son of a family friend, who reveals that their respective parents are cooking up a business deal involving insider information to foreign investors. 
 ---
 
 

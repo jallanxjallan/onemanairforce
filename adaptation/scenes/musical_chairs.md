@@ -3,6 +3,7 @@ category: past
 date: 15 March 1948
 status: draft
 title: Musical Chairs
+synopsis: Muharto and Bambang argue over who gets to sit the the copilot seat.
 ---
 
 

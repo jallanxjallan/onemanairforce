@@ -1,5 +1,5 @@
 ---
-status: new
+status: synopsis
 title: Muharto Flies to Tasik
 date: 7 June 1947
 category: past

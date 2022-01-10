@@ -3,6 +3,7 @@ category: past
 date: 10 June 1947
 status: draft
 title: Setting The Flaps
+synopsis: Freeberg asks Muharto to control the flaps for the landing in Manila. Muharto nervously sets the flaps to full, causing RI-002 to make a sickining drop.
 ---
 
 

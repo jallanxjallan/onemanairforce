@@ -1,8 +1,9 @@
 ---
 category: past
 date: 30 November 1947
-status: synopsis
+status: draft
 title: Ining Asks To Return
+synopsis: Ining writes a letter to Major Primitivo begging to be recalled, but arrives at Maguwo seconds too late to give to Muharto. George Rueneker sees he is distraught, as askes Mas Ded to escort him back to Jalan Jetis. 
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 category: present
 date: 10 November 1988
-status: synopsis
-title: Eddy Promises Funding
+status: draft
+title: Eddy Promises Funding 
+synopsis: Colonel Eddy promises to make arrangdments to fund Julia's post-grad. Julia hopes that the arrangements to not include an arranged marriage to another anak jendral.  
 ---
 
 

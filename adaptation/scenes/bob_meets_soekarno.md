@@ -1,10 +1,10 @@
 ---
 category: past
 date: 07 October 1947
-status: synopsis
+status: draft
 title: Bob Meets Soekarno
+synopsis: Muharto takes Freeberg on a late-afternoon walk around Jakarta. While admiring the architecture of the Presidential Palace, Freeberg is astounded to meet President Soekarno himself, who thanks him for his service to the Republic. 
 ---
-
 
 Muharto takes Bob for an afternoon walk to show
 him the town. Bob is impressed at the resilience of the people as they

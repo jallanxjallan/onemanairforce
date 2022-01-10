@@ -1,8 +1,9 @@
 ---
 category: past
 date: 10 September 1948
-status: synopsis
+status: draft
 title: Fighter Planes Tail Fowler
+synopsis: During a night flight, Fowler believes he spots Dutch fighters flanking him. 
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 category: past
 date: 08 June 1947
-status: synopsis
+status: draft
 title: Surprise Message
+synopsis: Muharto is astounded to receive a message that a foreign pilot has landed on a remote beach and asked for him by name. 
 ---
 
 

@@ -2,6 +2,7 @@
 status: synopsis
 title: Drop Over Bukittinggi
 date: 31 March 1947
+category: past
 synopsis: Freeberg expertly flies through highland valleys to drop two air force engineers directly onto a damaged runway near Bukittinggi.  
 ---
 The CALI Dakota flies over the Bukit Barisan mountaintops, and drops

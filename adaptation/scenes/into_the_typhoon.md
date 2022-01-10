@@ -3,6 +3,7 @@ category: past
 date: 15 November 1947
 status: draft
 title: Into The Typhoon
+synopsis: Freeberg flies into a severe storm to evade detection by a Dutch fighter. He reassures a terrified Muharto by saying when a Navy test pilot he would fly into typhoons.  
 ---
 
 

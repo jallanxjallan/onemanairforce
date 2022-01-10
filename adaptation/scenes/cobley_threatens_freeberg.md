@@ -1,10 +1,10 @@
 ---
 category: past
 date: 08 March 1948
-status: rework
-title: Cobley Threatens Freeberg
+status: draft
+title: Cobley Threatens Freeberg 
+synopsis: British aviator Richard Cobley threatens to damage RI-002 if Freeberg does not share his aviation contracts with the Republic.
 ---
-
 
 In the ballroom of the former Dutch
 governor's palace in Bukittinggi, Richard Cobley drunkenly accuses Bob

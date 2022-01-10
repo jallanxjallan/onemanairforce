@@ -1,8 +1,9 @@
 ---
 category: present
 date: 12 October 1988
-status: rework
+status: synopsis
 title: Bibit Bebet Bobot
+synopsis: Eddy tells Julia that she must be careful in her choice of a future husband. 
 ---
 
 

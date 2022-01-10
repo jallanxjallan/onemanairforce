@@ -1,8 +1,9 @@
 ---
 category: past
 date: 07 May 1948
-status: synopsis
+status: draft
 title: Not Ready For Airplanes
+synopsis: Freeberg is furious when Bambang shows up too late for an opium run, forcing him to cancel the mission, saying that Indonesian are not ready for airplanes. 
 ---
 
 

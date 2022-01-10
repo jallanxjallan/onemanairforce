@@ -1,8 +1,9 @@
 ---
 category: past
 date: 28 September 1948
-status: synopsis
+status: draft
 title: RI-002 Drops Leaflets
+synopsis: RI-002 drops propaganda leaflets over communist-held Madiun. 
 ---
 
 RI-002 drops leaflets over Madiun. Santoso is

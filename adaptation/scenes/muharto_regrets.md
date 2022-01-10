@@ -1,8 +1,9 @@
 ---
 category: interview
 date: 25 September 1988
-status: synopsis
+status: draft
 title: Muharto Regrets
+synopsis: Muharto tells Cameron that if he had flown with Freeberg on that last flight it might not have ended in tragedy. 
 ---
 
 Muharto tells Cameron that the sixth coffin, presumably containing Bob's

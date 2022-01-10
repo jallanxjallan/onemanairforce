@@ -3,8 +3,8 @@ category: past
 date: 21 September 1947
 status: draft
 title: Non Stop To Jogja
+synopsis: RI-002 secretly flies to Jogja without stopping for refueling. Flying over Java at night and minutes from running out of fuel, Muharto navigates by remembering a schooldays geography lesson. 
 ---
-
 
 RI-002 returns to Java. Because the presence of Captain 
 Espina must remain secret, RI-002 cannot refuel in British-controlled Labuan. They are dangerously low on fuel as

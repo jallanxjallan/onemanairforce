@@ -48,13 +48,14 @@ def load_scene(node):
         scene=node.name)
     try:
         data['sequence'] = CT.parent(node).name
-    except:
-        pass
+    except Exception as e:
+        print(e) 
     if node.document_link:
         try:
             doc = Document.read_file(node.document_link)
         except:
-            print('Cannot load', node.document_link)
+            print('Cannot load', node.document_link) 
+            return None
         else:
             data['content'] = doc.content
             for k, v in doc.metadata.items():

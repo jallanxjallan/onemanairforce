@@ -1,8 +1,9 @@
 ---
 category: present
 date: 21 October 1988
-status: synopsis
+status: draft
 title: Julia Learns of Samuel Quiko
+synopsis: Cameron tells Julia of meeting Samuel Quiko. Julia wants to interview him, but Cameron dismisses the suggestion as a waste of time. 
 ---
 
 Cameron

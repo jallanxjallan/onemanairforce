@@ -1,8 +1,9 @@
 ---
 category: past
 date: 15 July 1947
-status: synopsis
+status: draft
 title: Madras Curry
+synopsis: The boys are penniless as they wait to sell the quinine, so Freeberg buys them a bowl of curry each day, insisting that they are his responsibility until he can return them to Java.  
 ---
 
 Muharto, Boedi and Pang are penniless as they wait

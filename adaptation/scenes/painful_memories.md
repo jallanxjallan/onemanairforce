@@ -1,11 +1,11 @@
 ---
 category: interview
 date: 21 October 1988
-status: expand
+status: synopsis
 title: Painful Memories
 ---
 
 
 Cameron tells Muharto of his interview with George
-Rueneker. He cajoles Muharto into telling of the events following the
-tragedy.
+Rueneker, and cajoles him into telling of the events following the
+death of Ining. 

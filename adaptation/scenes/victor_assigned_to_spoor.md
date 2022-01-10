@@ -1,8 +1,9 @@
 ---
 category: past
 date: 04 September 1947
-status: synopsis
+status: draft
 title: Victor Assigned To Spoor
+synopsis: Victor is surprised with he receives orders to work at headquarters directly under General Spoor.
 ---
 
 

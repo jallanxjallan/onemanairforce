@@ -1,8 +1,9 @@
 ---
 category: past
 date: 09 June 1947
-status: synopsis
+status: draft
 title: Off the Beach
+synopsis: Muharto and Pang inspire villages to build a bamboo runway so RI-002 can take off before spotted by a Dutch patrol.
 ---
 
 

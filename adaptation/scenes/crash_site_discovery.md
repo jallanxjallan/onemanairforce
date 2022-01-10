@@ -3,6 +3,7 @@ category: past
 date: 17 April 1977
 status: synopsis
 title: Crash Site Discovery
+synopsis: Two farmers lead Air Force investigators to the RI-002 crash site, where they find human remains, but no gold. 
 ---
 
 

@@ -1,8 +1,9 @@
 ---
-status: new
+status: synopsis
+category: past
 title: Landing At Karangendah
 date: 31 March 1947
-synopsis: Freeberg tests the usability of a Japanese airstrip by simply land on it. 
+synopsis: Freeberg tests the usability of a Japanese airstrip by simply landing on it. 
 ---
 On the return leg to Singapore, Muharto asks Bob if he
 can attempt a landing on a refurbished Japanese airstrip at Karangendah.
