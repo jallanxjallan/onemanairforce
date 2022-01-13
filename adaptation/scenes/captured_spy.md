@@ -1,5 +1,6 @@
 ---
 status: synopsis
+include: false
 title: Captured Spy
 date: 15 October 1988 
 category: interview

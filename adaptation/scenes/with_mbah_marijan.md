@@ -1,5 +1,6 @@
 ---
-status: new
+status: draft
+include: false
 title: With Mbah Marijan
 date: 15 October 1988 
 category: present

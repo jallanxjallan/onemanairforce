@@ -1,5 +1,6 @@
 ---
 status: synopsis
+include: false
 title: Bob Orders Suits
 date: 1 February 1947
 category: past 

@@ -1,5 +1,6 @@
 ---
 status: synopsis
+include: false
 title: Affandi's Gift
 date: 14 October 1988 
 category: interview

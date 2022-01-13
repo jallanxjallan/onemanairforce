@@ -5,4 +5,4 @@ status: synopsis
 title: Spite Their Face
 ---
 
-Over whiskey with Fowler, Muharto, and Boedi at Hotel Merdeka Freeberg complains about Suryadarma cutting off his fuel allowance because he acted like an aviation contractor, not a serving Air Force pilot. 
+Over whiskey with Muhartoat Hotel Merdeka Freeberg and Fowler complain about Suryadarma cutting off his fuel allowance because they act like commercial aviation pilots, not serving Air Force officers. 

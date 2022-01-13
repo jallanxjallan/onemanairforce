@@ -64,7 +64,75 @@ def load_scene(node):
 
 
 def load_links(link, scene):
-    return dict(incident_ref=link.href, scene_ref=scene.id)
+    return dict(incident_ref=link.href, scene_ref=scene.id) 
+    
+
+def load_data():
+    ct = CherryTree('screenplay.ctd')
+    scene_nodes = [n for n in ct.nodes('Scenes') if n.document_link]
+    mfields = ('status', 'date', 'category', 'synopsis' )
+    incidents = pd.DataFrame([dict(
+            incident_ref=n.id,
+            incident=n.name,
+            story=ct.ancestors(n)[1].name
+        )
+            for c in ('Present', 'Past')
+            for n in ct.nodes(c)
+            if n.level > 2
+            if not n.name.startswith("~")])
+    incidents['incident_no'] = incidents.index
+    scenes = pd.DataFrame([dict(scene_ref=n.id, 
+                                scene=n.name, 
+                                filepath=n.document_link) 
+                                for n in scene_nodes])
+    scenes['scene_no'] = scenes.index
+    docs = pd.DataFrame([dict(doc=Document.read_file(s.document_link)) for s in scene_nodes])
+    docs['filepath'] = docs.doc.apply(lambda x: x.filepath)
+    docs['content'] = docs.doc.apply(lambda x: x.content)
+    for mfield in mfields:
+        docs[mfield] = docs.doc.apply(lambda x: x.metadata.get(mfield, None))
+    docs['date'] = docs.date.apply(lambda x: date_parse(x))
+    
+    docs.drop('doc', axis=1, inplace=True)
+    links = pd.DataFrame([dict(incident_ref=l.href, scene_ref=s.id) for s in scene_nodes for l in s.links if l.type == 'node'])
+    return incidents.merge(links, how='left', on='incident_ref')\
+                        .merge(scenes, how='left', on='scene_ref')\
+                        .merge(docs, how='left', on='filepath').fillna('No Data').drop_duplicates()     
+                        
+                        
+def node_data(node):
+        doc =  Document.read_file(node.document_link) 
+        return dict(scene=node.name, date=date_parse(doc.metadata['date']))
+    
+def unlinked_scenes():
+    ct = CherryTree('screenplay.ctd')
+    return pd.DataFrame([node_data(n) 
+                        for n in ct.nodes('Scenes') \
+                        if n.document_link \
+                        if not any(l for l in n.links if l.type == 'node')])
+
+def broken_links():
+    ct = CherryTree('screenplay.ctd')
+    for node in [n for n in ct.nodes('Scenes') if n.document_link]: 
+        for link in [l for l in node.links if l.type == 'node']:
+            try:
+                ct.find_node_by_id(link.href).name 
+            except AttributeError:
+                print('broken link at', node.name)
+                     
+
+
+def character_list():
+# nlp = spacy.load('en_core_web_md')
+# ruler = nlp.add_pipe("entity_ruler") 
+# ct = CherryTree('screenplay.ctd') 
+# patterns = [{'id':snake_case(n.name), 
+#              'label':'CHARACTER', 
+#              'pattern': [{'LOWER': {'REGEX': '|'.join([i.lower() for i in n.name.split()])}}]} 
+#             for n in ct.nodes('Characters')] 
+
+# ruler.add_patterns(patterns) 
+# ruler.to_disk('characters.jsonl')
 
 
 class ScreenplayData():
@@ -163,7 +231,9 @@ def output_screenplay():
 
 
 if __name__ == '__main__':
-    fire.Fire(output_screenplay)
+    fire.Fire(output_screenplay) 
+    
+[['story', 'incident', 'scene']]
 
 '''
 def output_treatment(self, output_file):

@@ -1,5 +1,6 @@
 ---
 status: synopsis
+include: false
 title: Cameron Meets Affandi
 date: 14 October 1988 
 category: interview
