@@ -5,8 +5,5 @@ status: synopsis
 title: Father Gives Ultimatum
 ---
 
+Muharto visits the father of Ani to ask for her hand. The father says he will give his blessing only if he accepts the promotion and takes a desk assignment. 
 
-Muharto tells Ani that he has been offered a promotion,
-but wishes to decline so he can continue flying with Freeberg. Hearing
-this, Ani's father says that he can only marry his daughter if he stops
-flying around and takes a proper a desk job.

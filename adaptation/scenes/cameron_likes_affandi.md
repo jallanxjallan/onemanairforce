@@ -1,6 +1,7 @@
 ---
 status: draft
-title: Cameron LIkes Affandi
+include: false
+title: Cameron Likes Affandi
 date: 15 October 1988
 category: interview
 synopsis: Cameron admires the Affandi paintings Boediardjo owns. Boediardjo is pleased, and suggests Cameron visit the artist whenever he travels to Jogja.
