@@ -1,6 +1,6 @@
 ---
 category: present
-date: 02 October 1988
+date: 5 July 1988
 status: draft
 title: Muharto Thanks Cameron
 synopsis: Muharto visits Cameron at the Jakarta Times to thank him for the article.

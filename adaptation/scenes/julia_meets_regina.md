@@ -1,7 +1,7 @@
 ---
 category: present
 date: 15 November 1988
-status: rework
+status: synopsis
 title: Julia Meets Regina
 ---
 

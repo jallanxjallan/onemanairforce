@@ -1,6 +1,6 @@
 ---
 category: wrapper
-date: 5 October 1988
+date: 6 July 1988
 title: Julia Suggests Victor
 status: draft
 synopsis: Julia suggests they speak to Victor de Jong, a Dutch conscript who was posted in Spoor's office and stayed on to become an Indonesian after independence. 

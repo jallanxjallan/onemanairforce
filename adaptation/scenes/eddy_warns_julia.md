@@ -1,7 +1,7 @@
 ---
 status: draft
 title: Eddy Warns Julia
-date: 6 October 1988
+date: 9 July 1988
 category: present
 synopsis: In oblique Javanese fashion, Colonel Eddy cautions Julia about rushing into a relationship with Cameron, and promises to raise the funds to send Julia, his only child, to graduate school abroad.  
 ---

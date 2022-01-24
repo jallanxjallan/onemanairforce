@@ -1,6 +1,6 @@
 ---
 category: present
-date: 10 October 1988
+date: 20 July 1988
 status: draft
 title: Eddy Interrogates Cameron
 synopsis: Sanyoto introduces Cameron to Colonel Eddy without disclosing his relationship to Julia. After a few minutes of conversation, Cameron begins to feel he is being skillfully interrogated.  

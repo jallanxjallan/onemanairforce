@@ -1,6 +1,6 @@
 ---
 category: writing
-date: 05 October 1988
+date: 6 July 1988
 status: draft
 title: Julia Translates Newspapers
 synopsis: Julia assists Cameron by translating articles in Dutch newspaper archives. 

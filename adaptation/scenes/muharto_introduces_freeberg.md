@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 25 September 1988
+date: 28 June 1988
 status: draft
 title: Muharto Introduces Freeberg
 synopsis: American freelance journalist Cameron Bishop interviews retired Air Force Major Petit Muharto about his experiences with Bob Freeberg as co-pilot of RI-002.

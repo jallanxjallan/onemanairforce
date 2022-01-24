@@ -1,6 +1,6 @@
 ---
 category: present
-date: 26 September 1988
+date: 29 June 1988
 status: synopsis
 title: Syd Edits Cameron
 synopsis: Syd Jardine, a retired foreign correpondent living in Jakarta, edits Cameron's interview. He remarks that Freeberg comes across as a "white savior", and suggests Cameron do his own research to flesh out his character and motives. 

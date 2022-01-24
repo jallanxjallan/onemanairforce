@@ -1,8 +1,8 @@
 ---
 category: interview
 date: 04 December 1988
-title: Anwar Congo
 status: synopsis
+title: Anwar Congo
 ---
 
 Anwar reveals that KNIL officers had paid him to

@@ -1,8 +1,9 @@
 ---
-category: present
+category: research
 date: 07 December 1988
-status: synopsis
+status: draft
 title: Robert Koke Replies
+synopsis: Robert Koke replies with accounts of his adventures as a CIA officer in Batavia.
 ---
 
 Julia receives a letter from Florida. It is not

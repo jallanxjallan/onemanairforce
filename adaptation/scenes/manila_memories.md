@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 07 October 1988
+date: 15 July 1988
 status: synopsis
 title: Manila Memories
 ---

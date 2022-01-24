@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 15 October 1988
+date: 7 July 1988
 status: draft
 title: Cameron Meets Victor
 synopsis: Cameron interviews Victor, who often heard Spoor raging about the foreign pilots invading Dutch East Indies airspace. 

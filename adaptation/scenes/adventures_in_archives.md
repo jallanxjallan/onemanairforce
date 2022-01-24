@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 2 October 1988
+date: 5 July 1988
 status: synopsis
 title: Adventures in Archives
 ---

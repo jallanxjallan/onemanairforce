@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 02 October 1988
+date: 5 July 1988
 status: synopsis
 title: Syd Offers Advice
 ---

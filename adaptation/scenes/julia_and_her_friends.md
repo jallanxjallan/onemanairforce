@@ -1,7 +1,7 @@
 ---
 status: draft
 title: Julia and her friends
-date: 5 October 1988
+date: 7 July 1988
 category: present
 synopsis: Cameron gives Julia lift to the Hotel Mandarin to meet friends, who note that since Julia's father, Colonel Eddy, is not corrupt, marrying Cameron would be her best bet to live in the US and continue her studies.    
 ---

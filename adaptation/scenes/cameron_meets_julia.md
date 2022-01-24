@@ -1,6 +1,6 @@
 ---
 category: writing
-date: 27 September 1988
+date: 30 June 1988
 status: draft
 title: Cameron Meets Julia
 synopsis: Cameron begins his research as the National Library, where he is assisted by Julia Suryakusuma, a recent graduate fluent in English and

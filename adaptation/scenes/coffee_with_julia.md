@@ -1,6 +1,6 @@
 ---
 category: present
-date: 07 October 1988
+date: 30 June 1988
 status: draft
 title: Coffee With Julia
 synopsis: Cameron has coffee with Julia, who casually informs him that her father is a military intelligence officer.
