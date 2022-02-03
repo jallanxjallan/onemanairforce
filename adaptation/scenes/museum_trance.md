@@ -1,7 +1,7 @@
 ---
-status: draft
+status: omit
 title: Museum Trance
-date: 15 October 1988 
+date: 2 August 1988 
 category: present
 synopsis: Muharto goes into trance when he handles a piece of RI-002 wreckage in the Aviation Museum. 
 ---

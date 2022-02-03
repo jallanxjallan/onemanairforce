@@ -1,7 +1,7 @@
 ---
 category: past
 date: 29 September 1948
-status: draft
+status: synopsis
 title: SE Air Bankrupt
 ---
 

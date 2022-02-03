@@ -1,7 +1,7 @@
 ---
 status: draft
 title: Cameron Meets Samuel
-date: 04 October 1988 
+date: 15 August 1988 
 category: present
 synopsis: Syd takes Cameron to the Earthquake to hear a keroncong band beloved by the older clientele. Sanyoto introduces Cameron to Samuel Quiko, the band leader.
 ---

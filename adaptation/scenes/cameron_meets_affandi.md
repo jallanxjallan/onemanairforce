@@ -1,8 +1,7 @@
 ---
-status: synopsis
-include: false
+status: omit
 title: Cameron Meets Affandi
-date: 14 October 1988 
+date: 1 August 1988 
 category: interview
 synopsis: Cameron meets Affandi, who tells him of his activities as a painter during the struggle for independence. 
 ---

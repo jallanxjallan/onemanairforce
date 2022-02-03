@@ -1,8 +1,7 @@
 ---
-status: draft
-include: false
+status: omit
 title: With Mbah Marijan
-date: 15 October 1988 
+date: 2 August 1988 
 category: present
 synopsis: Cameron and Muharto visit a guru on Mount Merapi to seek spiritual support for the success of their investigation. 
 ---

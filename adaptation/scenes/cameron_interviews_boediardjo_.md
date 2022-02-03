@@ -1,9 +1,8 @@
 ---
 category: interview
-date: 15 October 1988
-title: Cameron Interviews Boediardjo
+date: 10 July 1988
+title: Cameron Interviews Airmen
 status: synopsis
-include: true
 ---
 
 

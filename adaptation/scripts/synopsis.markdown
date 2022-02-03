@@ -1,4 +1,9 @@
+$if(synopsis)$ 
 
-# $episode$
+$synopsis$ 
+
+$else$ 
 
 $body$
+
+$endif$

@@ -1,8 +1,7 @@
 ---
 category: past
-include: false
 date: 04 September 1946
-status: synopsis
+status: omit
 title: Flying the Zogling
 ---
 

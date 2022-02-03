@@ -1,6 +1,5 @@
 ---
-status: draft
-include: false
+status: omit
 title: Cameron Likes Affandi
 date: 15 October 1988
 category: interview

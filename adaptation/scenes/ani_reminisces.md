@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 07 November 1988
+date: 30 September 1988
 title: Ani Reminisces
 status: draft
 synopsis: As Cameron and Muharto fall deeper into their conspiracy rabbit hole, Ani tells Julia of the hardships of life in besieged Jogja.

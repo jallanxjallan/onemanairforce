@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 21 October 1988
+date: 21 July 1988
 title: Cameron Interviews George Rueneker
 status: synopsis
 ---

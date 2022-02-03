@@ -99,6 +99,17 @@ George is an indo who sided with the Republic. He and his son founded Aviation G
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviator" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000969.94" ts_lastsave="1643000969.94" unique_id="1627">
 			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346405.6" unique_id="14">
+				<rich_text>• Bob is a straight shooter. Others seduced by the easy life in the east. Bob compares Lives of expats in Manila contrasted to deprivation in Jogja
+• Bob is haggard. Grey hairs at 27.
+• Bob is responsible for crew. Insists that as captain of RI-002 he is responsible for them until they return to Java As they wait for the verdict.
+• Bob handles petty annoyances. Handles the little problems with his apartment and room mates, his jeep etc with a sort of gruff good nature.
+• Bob shows his appreciation for local customs when Boedi's mother's buntil becomes his favorite dish. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kansas-born Navy veteran Bob Freeberg does not let his reputation of the best aviator in the region influence his natural modesty and courtesy.  
+
+</rich_text>
+			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Captain Jack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637235559.5" ts_lastsave="1643000988.7" unique_id="1335">
 				<rich_text>Zamrud Air Pilot
 Spent hundreds of hours with Dave Fowler and heard all the stories. </rich_text>
@@ -106,6 +117,11 @@ Spent hundreds of hours with Dave Fowler and heard all the stories. </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Dave Fowler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629597124.42" ts_lastsave="1643001003.9" unique_id="1017">
 				<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Born in Oklahoma, Dave Fowler is a contract pilot for POAS. Highly skilled, he is also a cautious pilot, unwilling to take risk and often refusing to fly missions he considers to be reckless. 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1643001170.97" unique_id="898">
+				<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. First job would be to intercept gold shipment to finance it.
+• Verspoor lied and said he was not sure of the loyalty of some of his pilots as they were Indos. Better select a squadron that is all native Dutch. Westerling agreed, and both decided to never mention this phone call again. 
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Richard Cobley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619338735.53" ts_lastsave="1643001144.23" unique_id="963">
@@ -122,22 +138,24 @@ Born in Oklahoma, Dave Fowler is a contract pilot for POAS. Highly skilled, he i
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1643001170.97" unique_id="898">
-				<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. First job would be to intercept gold shipment to finance it.
-• Verspoor lied and said he was not sure of the loyalty of some of his pilots as they were Indos. Better select a squadron that is all native Dutch. Westerling agreed, and both decided to never mention this phone call again. 
-</rich_text>
-			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Batavia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000585.09" ts_lastsave="1643000585.09" unique_id="1623">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Simon Spoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000596.2" unique_id="31">
-				<rich_text>• Spoor concerned about gun running.
-• Spoors orders operation product
-• Spoor Furious at Bob over Ining incident. Vows to crack down on gun running
-• Spoor has reservations about Westerling
-• Spoor learns about KNIL corruption. The irony that his own officers were the gun runners. 
-• Spoor was a strict, humorless martinet universally hated by his subordinates and convinced that the Republicans were no more than thugs and bandits. Victor had often heard Spoor's voice rise in fury as he is briefed about Freeberg's daily blockade runs, which he seems to take as a personal affront. 
-
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Auke Sonnega" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001062.5" unique_id="12">
+				<rich_text>• Harley riding painter, graphic designer
+• Center of Batavia Kuntskring
+• Crush on Emiria
+• Jealous of Victor
+• A clandestine communist
+• Uses Quiko as unwitting liaison to communist cadres in Jogja. . 
+• Undermines victor be getting word to Spoor that Victor is meeting with Republicans through Emiria.
+• Character based in him is graphic artist
+• Threw in with republican s after bonding with guards in ngawi
+• Took wni in 1951 after realizing he could make a fortune doing Moei indie painting a for repatriated dutch.
+• Lives in villa in puncak. Has not seen victor in 40 years.
+• All victor backstory from him.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Dutch artist and graphic designer, Auke Sonnega is a prominent, if Bohemian figure in Batavia society. Though equally appealing to men and women, Auke reserves his affections for his Harley Davidson motorcycle. 
 
 
 </rich_text>
@@ -166,78 +184,18 @@ A talented painter and socialite with contacts at the highest levels in both Dut
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1643000632.17" unique_id="1261">
-				<rich_text>
-</rich_text>
-				<rich_text link="webs https://noosatoday.com.au/entertainment/22-04-2019/our-hotel-in-bali/">Short Bio</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="webs https://docs.google.com/document/d/1StGPuOawMeFf9MTEB0zJtoXKnHeRsN9WRaf8_IqTUeo/edit?usp=sharing">Our House In Bali</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Walter Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000805.0" unique_id="37">
-				<rich_text>
-• Foote is pro-Dutch American consul in Batavia
-• Shares Spoor's view that Indonesians cannot govern a nation.
-• Worked closely with OSS during Operation Rust with Robert Koke
-• Like to be called Uncle Billy. Treated Indonesians, including Hatta and Sjahrir as errant nephews.
-• Affable but considered a lightweight
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor deJong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000838.45" unique_id="36">
-				<rich_text>
-• Julia introduces Cameron to Victor. Says he is always there.
-• Chronic skin condition from confinement. Like the cold climate of the newspaper archive.
-• Victor helps Julia with obscure Dutch vocabulary in newspapers.
-• On visit to library, Julia points out Victor. Says he is here at least one day a week.
-• Has a &quot;photographic memory&quot; Has difficulty remembering with early-onset dementia, but seeing a photograph that he has taken will trigger a flood of vivid memories about that time and place.  
-
-</rich_text>
-				<rich_text scale="h1"> KNIL conscript</rich_text>
-				<rich_text>
-   • talented artist and photographer
-   • worked for mapping department
-   • attended art exhibits so met progressive Dutch and educated Indonesians
-   • flew to Karangendah to map area
-   • Spoor used him as documentary photographer. Blended into the background, saw encounters like the friendly meetings of Spoor and Walter Foote.
-</rich_text>
-				<rich_text scale="h1">Defection</rich_text>
-				<rich_text>
-•   Deserted in Jogja during Operation Crow. 
-•   Received Indonesian citizenship right after transfer of sovereignty
-•   Mistrusted as a civilian because he deserted. Even arrested and threatened with deportation, although he has no place to go. 
-
-</rich_text>
-				<rich_text scale="h1">Timeline</rich_text>
-				<rich_text> 
-Julia and Cameron visit first time.
-Cameron visit s alone to learn about koke
-Julia visists alone to check if victoe is Regina's friend.
-</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Hermann Bennick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643344725.36" ts_lastsave="1643346231.72" unique_id="1636">
+				<rich_text>• Spoors bodyguard
+• Spoor trusted him more than any other person.
+• Assigned him to investigate corruption
+• Found many minor cases and hints of a big case that maybe involved gunrunning.
+• Regrets that he was not able to protect Spoor from poison.
+• Left KNIL soon after and married local woman and took Indo citizenship. </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629791942.35" ts_lastsave="1643000881.2" unique_id="1060">
 				<rich_text>• Reporter for Bataviaasch Nieuwsblad
 • Indo. Decided to stay after 1951 
 • Julia tracks him down and interviews him </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Auke Sonnega" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001062.5" unique_id="12">
-				<rich_text>• Harley riding painter, graphic designer
-• Center of Batavia Kuntskring
-• Crush on Emiria
-• Jealous of Victor
-• A clandestine communist
-• Uses Quiko as unwitting liaison to communist cadres in Jogja. . 
-• Undermines victor be getting word to Spoor that Victor is meeting with Republicans through Emiria.
-• Character based in him is graphic artist
-• Threw in with republican s after bonding with guards in ngawi
-• Took wni in 1951 after realizing he could make a fortune doing Moei indie painting a for repatriated dutch.
-• Lives in villa in puncak. Has not seen victor in 40 years.
-• All victor backstory from him.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A Dutch artist and graphic designer, Auke Sonnega is a prominent, if Bohemian figure in Batavia society. Though equally appealing to men and women, Auke reserves his affections for his Harley Davidson motorcycle. 
-
-
-</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julius Tahija" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001125.32" unique_id="24">
 				<rich_text>
@@ -253,9 +211,39 @@ Bio
 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530476.81" ts_lastsave="1643001195.83" unique_id="1244">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1643000632.17" unique_id="1261">
+				<rich_text>
+</rich_text>
+				<rich_text link="webs https://noosatoday.com.au/entertainment/22-04-2019/our-hotel-in-bali/">Short Bio</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="webs https://docs.google.com/document/d/1StGPuOawMeFf9MTEB0zJtoXKnHeRsN9WRaf8_IqTUeo/edit?usp=sharing">Our House In Bali</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530476.81" ts_lastsave="1643344725.35" unique_id="1244">
 				<rich_text>• A keroncong crocodile from Kampung Tugu
 • Can travel freely in Dutch-controlled areas after dark, and so is valuable as courier. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Simon Spoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346420.18" unique_id="31">
+				<rich_text>• Spoor concerned about gun running.
+• Spoors orders operation product
+• Spoor Furious at Bob over Ining incident. Vows to crack down on gun running
+• Spoor has reservations about Westerling
+• Spoor learns about KNIL corruption. The irony that his own officers were the gun runners. 
+• Spoor was a strict, humorless martinet universally hated by his subordinates and convinced that the Republicans were no more than thugs and bandits. Victor had often heard Spoor's voice rise in fury as he is briefed about Freeberg's daily blockade runs, which he seems to take as a personal affront. 
+
+
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Walter Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000805.0" unique_id="37">
+				<rich_text>
+• Foote is pro-Dutch American consul in Batavia
+• Shares Spoor's view that Indonesians cannot govern a nation.
+• Worked closely with OSS during Operation Rust with Robert Koke
+• Like to be called Uncle Billy. Treated Indonesians, including Hatta and Sjahrir as errant nephews.
+• Affable but considered a lightweight
+
+</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643001203.18" ts_lastsave="1643001203.18" unique_id="1629">
@@ -327,39 +315,29 @@ Talks about corruption as the grease of a chaotic system inherited from the Dutc
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Main" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000444.07" ts_lastsave="1643002462.4" unique_id="1622">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000507.95" unique_id="34">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000915.41" unique_id="16">
 				<rich_text>
+
 </rich_text>
-				<rich_text scale="h1">Model</rich_text>
+				<rich_text link="webs https://en.wikipedia.org/wiki/Boediardjo">Wiki bio</rich_text>
 				<rich_text>
-• Based on partially on Syd Perret and David Jardine. 
-• Wicked sense of humor. 
-Background
-• Syd  is a washed out old Asia hand, former foreign correspondent
-• Syd  crusading journo, high ideals in his day.
-• Syd  Arrived in HK in the 60s on a boat like John McBeth.
-• Syd  settled in Indonesia after marrying an Indonesian woman he knocked up. 
-• Now divorced and penniless.
-</rich_text>
-				<rich_text scale="h1">Jakarta Post</rich_text>
-				<rich_text>
-• Syd  is a good copy editor, works cheap, always shows up. So Sabam must keep Syd  instincts in check. This is difficult, as he is the last person to see the copy before it goes to the press.  
-• OR speaks fluent Javanese and thoroughly familiar with Jakarta bahasa gaul and allusion
-• Always trying to sneak Pos Kota sex-crime translations into Post when Sabam is preoccupied. Running gag.
-• Sabam cannot fire him because his knowledge of Indonesian culture enables him to pick up potentially damaging references that have escaped the new recruits. Comes out in session with sabam in lapo.
-• Sabam often confers with Syd in office. Syd advises him on reporting government corruption scandal. 
-• Cam always asks how you get away with it. Syd only smiles.
-Behavior
-• Syd  lives in room in Jalan Jaksa like David Jardine. 
-• Syd  encourages Julia to read.
-• Syd  Fluent in both proper indonesian and slang, which he used to use in previous job. 
-• Syd does this every few weeks. His skill in rendering tone-perfect translations of articles taken from sensationalist local newspapers, often writing in regional vernacular, has earned him the sobriquet of &quot;cunning linguist&quot; among expatriate readers.  
-</rich_text>
-				<rich_text scale="h1">Marriage</rich_text>
-				<rich_text>
-• He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. 
- 
-</rich_text>
+
+• Boedi interviewed surrounded by Affandi paintings
+• Boedi serves Cameron buntil, from mother's recipe. 
+• Boedi hangs out with Aviation Brotherhood. 
+• Boedi started on First Flight. On every mission until after Soekarno Tour.
+• Boedi mentions that when not resting or working on his plane, Freeberg would be writing letters home.
+• Boedi strives to improve his (already adequate) English by hanging out with members of the Aviation Brotherhood, who enjoy his company. The pilots of the Aviation Brotherhood are reluctant to accept the stiff and reserved Muharto, but the charismatic Boedi is welcomed into the fold. 
+• Tells Cameron that, even when telephones are available, anyone can drop in at the 4 pm visiting hour and he will receive them. Old Javanese custom. This will be important later, and also give Cameron a chance to meet other visitors. 
+• In his spacious salon, walls lined with an
+extensive collection of European art and Indonesian masters, Boediardjo,
+a short, heavy-set man in his early sixties, displays the Javanese
+statesmans ideal of blending commanding authority with refined manners
+and easy grace. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The skilled, engaging radio operator on RI-002 equally at home in the company of Asians and Westerners, and who went on to an illustrious career as an Air Force commander, government minister, and ambassador, Boediardjo now displays the Javanese
+statesman's ideal of blending commanding authority with refined manners
+and easy grace. </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Bishop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000522.46" unique_id="17">
 				<rich_text>• 30 years old.
@@ -410,55 +388,96 @@ Behavior
 • Knows that father ordered a communist to be released before being shipped off to bogen Duval.
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000899.83" unique_id="14">
-				<rich_text>• Bob is a straight shooter. Others seduced by the easy life in the east. Bob compares Lives of expats in Manila contrasted to deprivation in Jogja
-• Bob is haggard. Grey hairs at 27.
-• Bob is responsible for crew. Insists that as captain of RI-002 he is responsible for them until they return to Java As they wait for the verdict.
-• Bob handles petty annoyances. Handles the little problems with his apartment and room mates, his jeep etc with a sort of gruff good nature.
-• Bob shows his appreciation for local customs when Boedi's mother's buntil becomes his favorite dish. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Kansas-born Navy veteran Bob Freeberg does not let his reputation of the best aviator in the region influence his natural modesty and courtesy.  
-
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346434.07" unique_id="34">
+				<rich_text>
+</rich_text>
+				<rich_text scale="h1">Model</rich_text>
+				<rich_text>
+• Based on partially on Syd Perret and David Jardine. 
+• Wicked sense of humor. 
+Background
+• Syd  is a washed out old Asia hand, former foreign correspondent
+• Syd  crusading journo, high ideals in his day.
+• Syd  Arrived in HK in the 60s on a boat like John McBeth.
+• Syd  settled in Indonesia after marrying an Indonesian woman he knocked up. 
+• Now divorced and penniless.
+</rich_text>
+				<rich_text scale="h1">Jakarta Post</rich_text>
+				<rich_text>
+• Syd  is a good copy editor, works cheap, always shows up. So Sabam must keep Syd  instincts in check. This is difficult, as he is the last person to see the copy before it goes to the press.  
+• OR speaks fluent Javanese and thoroughly familiar with Jakarta bahasa gaul and allusion
+• Always trying to sneak Pos Kota sex-crime translations into Post when Sabam is preoccupied. Running gag.
+• Sabam cannot fire him because his knowledge of Indonesian culture enables him to pick up potentially damaging references that have escaped the new recruits. Comes out in session with sabam in lapo.
+• Sabam often confers with Syd in office. Syd advises him on reporting government corruption scandal. 
+• Cam always asks how you get away with it. Syd only smiles.
+Behavior
+• Syd  lives in room in Jalan Jaksa like David Jardine. 
+• Syd  encourages Julia to read.
+• Syd  Fluent in both proper indonesian and slang, which he used to use in previous job. 
+• Syd does this every few weeks. His skill in rendering tone-perfect translations of articles taken from sensationalist local newspapers, often writing in regional vernacular, has earned him the sobriquet of &quot;cunning linguist&quot; among expatriate readers.  
+</rich_text>
+				<rich_text scale="h1">Marriage</rich_text>
+				<rich_text>
+• He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. 
+ 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000915.41" unique_id="16">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor deJong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346361.24" unique_id="36">
 				<rich_text>
+• Julia introduces Cameron to Victor. Says he is always there.
+• Chronic skin condition from confinement. Like the cold climate of the newspaper archive.
+• Victor helps Julia with obscure Dutch vocabulary in newspapers.
+• On visit to library, Julia points out Victor. Says he is here at least one day a week.
+• Has a &quot;photographic memory&quot; Has difficulty remembering with early-onset dementia, but seeing a photograph that he has taken will trigger a flood of vivid memories about that time and place.  
 
 </rich_text>
-				<rich_text link="webs https://en.wikipedia.org/wiki/Boediardjo">Wiki bio</rich_text>
+				<rich_text scale="h1"> KNIL conscript</rich_text>
 				<rich_text>
+   • talented artist and photographer
+   • worked for mapping department
+   • attended art exhibits so met progressive Dutch and educated Indonesians
+   • flew to Karangendah to map area
+   • Spoor used him as documentary photographer. Blended into the background, saw encounters like the friendly meetings of Spoor and Walter Foote.
+</rich_text>
+				<rich_text scale="h1">Defection</rich_text>
+				<rich_text>
+•   Deserted in Jogja during Operation Crow. 
+•   Received Indonesian citizenship right after transfer of sovereignty
+•   Mistrusted as a civilian because he deserted. Even arrested and threatened with deportation, although he has no place to go. 
 
-• Boedi interviewed surrounded by Affandi paintings
-• Boedi serves Cameron buntil, from mother's recipe. 
-• Boedi hangs out with Aviation Brotherhood. 
-• Boedi started on First Flight. On every mission until after Soekarno Tour.
-• Boedi mentions that when not resting or working on his plane, Freeberg would be writing letters home.
-• Boedi strives to improve his (already adequate) English by hanging out with members of the Aviation Brotherhood, who enjoy his company. The pilots of the Aviation Brotherhood are reluctant to accept the stiff and reserved Muharto, but the charismatic Boedi is welcomed into the fold. 
-• Tells Cameron that, even when telephones are available, anyone can drop in at the 4 pm visiting hour and he will receive them. Old Javanese custom. This will be important later, and also give Cameron a chance to meet other visitors. 
-• In his spacious salon, walls lined with an
-extensive collection of European art and Indonesian masters, Boediardjo,
-a short, heavy-set man in his early sixties, displays the Javanese
-statesmans ideal of blending commanding authority with refined manners
-and easy grace. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The skilled, engaging radio operator on RI-002 equally at home in the company of Asians and Westerners, and who went on to an illustrious career as an Air Force commander, government minister, and ambassador, Boediardjo now displays the Javanese
-statesman's ideal of blending commanding authority with refined manners
-and easy grace. </rich_text>
+</rich_text>
+				<rich_text scale="h1">Timeline</rich_text>
+				<rich_text> 
+Julia and Cameron visit first time.
+Cameron visit s alone to learn about koke
+Julia visists alone to check if victoe is Regina's friend.
+
+
+</rich_text>
+				<rich_text scale="h1">Photographic Memory</rich_text>
+				<rich_text>
+• Can recognize patterns from previous photographs, even glimpsed weeks before.
+• Put in Spoors office to analyse aerial photos. Coordinates taped over so he does not need security clearance.
+• Intel officer with him at all times.
+•
+</rich_text>
+				<rich_text scale="h1">Arts Reporter</rich_text>
+				<rich_text>
+• Gets stolen film from corrupt KNIL quartermaster.
+• Gives him article fees, so gets film for half price (or less) This sets up corruption throughout KNIL
+• Develops film at BN.
+</rich_text>
+				<rich_text scale="h1">Atrocity Photographs</rich_text>
+				<rich_text>
+• Spoor assigns him to photograph Dutch atrocity victims brought in from Bekasi.
+• Emeria takes him to kampung to help out Frans from IPPHOS, who wants complete documentation of Rawagede victims but is how on film.
+• This is how Victor meets Frans
+• Frans is light skinned and well-know, so the residents assume Victor, who is out of uniform, is an Indo sympathizer.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000817.31" ts_lastsave="1643000817.31" unique_id="1626">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000829.38" unique_id="35">
-				<rich_text>
-• Tom Lee is an American government lawyer and suspected intelligence asset. 
-• Tom Lee advises Bob that deporting Walters would be a bad move.
-• Muharto raises suspicion about Lee with Chrysler story.
-• At the end revealed that Lee was only a lawyer.
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ernesto Primitivo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001078.62" unique_id="26">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ernesto Primitivo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346444.52" unique_id="26">
 				<rich_text>
 • Head of Philippine army intel
 • Assigned by Roxas as liaison with RI through Muharto and Pang
@@ -472,6 +491,16 @@ and easy grace. </rich_text>
 • Flight attendant of the three CALI blockade runs
 • Boedi runs into her while having coffee (in a respectable coffee shop) with another pilot.
 • Stories Miss Brown can tell about CALI blockade runs and other pilots.
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000829.38" unique_id="35">
+				<rich_text>
+• Tom Lee is an American government lawyer and suspected intelligence asset. 
+• Tom Lee advises Bob that deporting Walters would be a bad move.
+• Muharto raises suspicion about Lee with Chrysler story.
+• At the end revealed that Lee was only a lawyer.
+
 
 </rich_text>
 			</node>
@@ -812,32 +841,14 @@ and easy grace. </rich_text>
 • Some articles described life in her salon. Julia notes these were written by the BN arts correspondent, Jan Boon.
 • Julia finds a recent profile of Jan Boon, which mentions that he is alive and gives his address. 
 </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643018248.26" ts_lastsave="1643018248.26" unique_id="1633">
-					<rich_text></rich_text>
-				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643003676.43" ts_lastsave="1643019822.32" unique_id="1631">
-				<rich_text>• Describes charged intellectual atmosphere of Emiria Salon
-• Emeria defends work of Hendra Gunawan 
-• Suggests Julia interview Regina</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Hendra Gunawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643019822.32" ts_lastsave="1643019822.32" unique_id="1635">
-					<rich_text></rich_text>
-				</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Hendra Gunawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643019822.32" ts_lastsave="1643680283.98" unique_id="1635">
+				<rich_text></rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="cameron_vs_julia" ts_creation="1634888481.82" ts_lastsave="1643004245.54" unique_id="1249">
-				<rich_text>• Cameron mentions meeting Quiko
-• Julia wants to interview him, but Cameron cannot see the point. 
-</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635754338.48" ts_lastsave="1639382783.89" unique_id="1288">
-					<rich_text>• Julia goes to Kampung Tugu alone to interview Samuel Quiko
-</rich_text>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Proves Patriotism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636944910.2" ts_lastsave="1639382807.52" unique_id="1322">
-						<rich_text>• Samuel offers to be courier between Dutch sympathizers and Republicans
-</rich_text>
-					</node>
-				</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Hendra Gunawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643680351.49" ts_lastsave="1643680351.49" unique_id="1643">
+				<rich_text></rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia learns of Regina" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637053743.49" ts_lastsave="1642838528.15" unique_id="1329">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia learns of Regina" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637053743.49" ts_lastsave="1643444606.88" unique_id="1329">
 				<rich_text>• Julia learns of Regina through interview mentioning Emeria as an influence.
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia interviews Regina" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1630640535.35" ts_lastsave="1642501695.91" unique_id="1100">
@@ -860,13 +871,21 @@ I thought he might be a soldier as they have to be in thale barracks by ten.
 areer.  </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Reminisces" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636019424.4" ts_lastsave="1639382844.03" unique_id="1300">
-				<rich_text>• Ani tells of hardships in Jogja 
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="cameron_vs_julia" ts_creation="1634888481.82" ts_lastsave="1643004245.54" unique_id="1249">
+				<rich_text>• Cameron mentions meeting Quiko
+• Julia wants to interview him, but Cameron cannot see the point. 
 </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635754338.48" ts_lastsave="1639382783.89" unique_id="1288">
+					<rich_text>• Julia goes to Kampung Tugu alone to interview Samuel Quiko
+</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Proves Patriotism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636944910.2" ts_lastsave="1639382807.52" unique_id="1322">
+						<rich_text>• Samuel offers to be courier between Dutch sympathizers and Republicans
+</rich_text>
+					</node>
+				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Robert Koke" prog_lang="custom-colors" readonly="False" tags="cameron_vs_julia east_is_red" ts_creation="1635060183.71" ts_lastsave="1642817191.61" unique_id="1263">
-				<rich_text>• November 1988
-• Finds Our Hotel in Bali in new load of books
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Robert Koke" prog_lang="custom-colors" readonly="False" tags="cameron_vs_julia east_is_red" ts_creation="1635060183.71" ts_lastsave="1643531082.34" unique_id="1263">
+				<rich_text>• Finds Our Hotel in Bali in new load of books
 • Realizes this Robert Koke is the same CIA agent
 • In the interview, Cameron is a dick, accusing Koke of supporting a coup. 
 • Julia steps in, and charms Koke into telling Cameron what was really happening. 
@@ -885,21 +904,28 @@ areer.  </rich_text>
 </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke Replies" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1635648086.55" ts_lastsave="1642817206.66" unique_id="1282">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Hermann" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636800441.39" ts_lastsave="1643524999.03" unique_id="1319">
+				<rich_text>• Spoors bodyguard
+• Reveals that Spoor sent him to investigate corruption
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke Replies" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1635648086.55" ts_lastsave="1643444596.14" unique_id="1282">
 				<rich_text>• Koke tells of being entertained by the street keroncong bands
 • He heard that some were spying for the Republicans, but the CIA office was closed and he was shipped out before he could investigate. 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Quiko Confesses" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1637573120.83" ts_lastsave="1642817216.64" unique_id="1352">
-				<rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Quiko Confesses" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1637573120.83" ts_lastsave="1643526501.04" unique_id="1352">
+				<rich_text>• 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Hermann" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636800441.39" ts_lastsave="1639741507.45" unique_id="1319">
-				<rich_text>• Spoors bodyguard
-• Reveals that Spoor sent him to </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia learns truth about Spoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639741370.28" ts_lastsave="1642838551.79" unique_id="1593">
-					<rich_text>• Julia somehow realizes that Spoor was not planning a coup
-• I guess from Hermann</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Learns of Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643018248.26" ts_lastsave="1643531166.49" unique_id="1633">
+				<rich_text>
+</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Interviews Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643003676.43" ts_lastsave="1643526261.7" unique_id="1631">
+					<rich_text>• Describes charged intellectual atmosphere of Emiria Salon
+• Emeria defends work of Hendra Gunawan 
+• Suggests Julia interview Hermann, who is married to his wife's so they have kept in touch.  </rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Finds Emeria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1605701801.8" ts_lastsave="1639383015.43" unique_id="524">
@@ -1194,11 +1220,14 @@ missions were hardly exciting or glamorous, though there were moments.
 • After cam says: if I didn't know better I would swear I was just interrogated 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Warns Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637745711.78" ts_lastsave="1639819658.41" unique_id="1356">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Warns Julia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637745711.78" ts_lastsave="1643703735.9" unique_id="1356">
 				<rich_text>• Eddy openly states he does not want her to be with Cameron
 • Threatens to deport him
 • Julia counters that he is here legally as a foreign correspondent. If Eddy tries that, she will move out of the house and live in an indekos.
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Reminices" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643703735.9" ts_lastsave="1643703739.09" unique_id="1644">
+				<rich_text>• Ani tells Julia of her experiences in besieged Jogja.  </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy promises Funding" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635840610.65" ts_lastsave="1641550646.7" unique_id="1291">
 				<rich_text>• Eddy knows that relationship with Cameron is getting serious
@@ -1555,7 +1584,7 @@ Japanese.</rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Freedom Rider" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638333749.71" ts_lastsave="1642491967.33" unique_id="1379">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Freedom Writer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638333749.71" ts_lastsave="1643685217.0" unique_id="1379">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Terrorized" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635840321.68" ts_lastsave="1642759774.48" unique_id="1290">
@@ -1926,7 +1955,7 @@ They have difficulty finding a buyer for the quinine, and only return late Septe
 					<rich_text>. </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1642309401.44" unique_id="1422">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1643090987.67" unique_id="1422">
 				<rich_text link="file c2NlbmVzL3JlcHVibGljYW5fbGlmZWxpbmUubWQ=">Document</rich_text>
 				<rich_text>
 For the next year, RI-002 becomes the </rich_text>
@@ -2072,27 +2101,6 @@ Muharto </rich_text>
 				<rich_text> on how to approach investigation.</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Comrade Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1642924239.88" unique_id="1440">
-			<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19ib2VkaWFyZGpvXy5tZA==">Document</rich_text>
-			<rich_text>
-Muharto takes Cameron to </rich_text>
-			<rich_text link="node 1612"> interview</rich_text>
-			<rich_text> several surviving RI-002 crew. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
-				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Document</rich_text>
-				<rich_text>
-Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
-				<rich_text link="node 356"> Paratroopers</rich_text>
-				<rich_text> over Kalimantan in October 1947</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1639470368.24" unique_id="1540">
-				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Document</rich_text>
-				<rich_text>
-and being  g</rich_text>
-				<rich_text link="node 1170">rounded in Bangkok</rich_text>
-				<rich_text>. </rich_text>
-			</node>
-		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Snarky Articles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.37" ts_lastsave="1642833891.53" unique_id="1454">
 			<rich_text link="file c2NlbmVzL2p1bGlhX3RyYW5zbGF0ZXNfbmV3c3BhcGVycy5tZA==">Document</rich_text>
 			<rich_text>
@@ -2132,6 +2140,27 @@ After the interview, Cameron offers Julia a ride to the Hotel Hilton, where he m
 </rich_text>
 			</node>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Comrade Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1643429911.43" unique_id="1440">
+			<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19ib2VkaWFyZGpvXy5tZA==">Document</rich_text>
+			<rich_text>
+Muharto takes Cameron to </rich_text>
+			<rich_text link="node 1612"> interview</rich_text>
+			<rich_text> several surviving RI-002 crew. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
+				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Document</rich_text>
+				<rich_text>
+Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
+				<rich_text link="node 356"> Paratroopers</rich_text>
+				<rich_text> over Kalimantan in October 1947</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1639470368.24" unique_id="1540">
+				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Document</rich_text>
+				<rich_text>
+and being  g</rich_text>
+				<rich_text link="node 1170">rounded in Bangkok</rich_text>
+				<rich_text>. </rich_text>
+			</node>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Photographic Memory" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.49" ts_lastsave="1642308883.14" unique_id="1496">
 			<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfdmljdG9yLm1k">Document</rich_text>
 			<rich_text>
@@ -2145,14 +2174,14 @@ Victor describes how </rich_text>
 				<rich_text link="node 1333">Spoor rages</rich_text>
 				<rich_text> when reading reports of RI-002,</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Comfortable Detention" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.58" ts_lastsave="1642929708.62" unique_id="1531">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Comfortable Detention" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.58" ts_lastsave="1643709365.26" unique_id="1531">
 				<rich_text link="file c2NlbmVzL3RoYWlfYXV0aG9yaXRpZXNfcmVsZWFzZWRfZnJlZWJlcmcubWQ=">Document</rich_text>
 				<rich_text>
 October 1948, </rich_text>
 				<rich_text link="node 193">Thai authorities released Freeberg</rich_text>
 				<rich_text> after detaining him in Bangkok at the request of the Dutch. 
 
-☐ Needs sequence</rich_text>
+</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Just a Photograph" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.44" ts_lastsave="1641970688.23" unique_id="1476">
 				<rich_text link="file c2NlbmVzL3Bob3RvX29mX2VtZXJpYS5tZA==">Document</rich_text>
@@ -2162,36 +2191,7 @@ Julia notices a p</rich_text>
 				<rich_text> named Emeria Soenassa, but Victor snatches it away. </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Military Comfort Zone" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1642924294.4" unique_id="1436">
-			<rich_text link="file c2NlbmVzL2NhbWVyb25fYXRfdGhlX2VhcnRocXVha2UubWQ=">Document</rich_text>
-			<rich_text>
-Syd invites </rich_text>
-			<rich_text link="node 1136">Cameron to the Earthquake</rich_text>
-			<rich_text> Bar to meet Sanyoto, the owner and long-time friend. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Gentleman Pilot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.68" ts_lastsave="1641699983.4" unique_id="1564">
-				<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19zdWRhcnlvbm8ubWQ=">Document</rich_text>
-				<rich_text>
-Sanyoto introduces </rich_text>
-				<rich_text link="node 1363">Cameron to Sudaryono</rich_text>
-				<rich_text>, who tells of the struggles to turn village boys who had barely seen an airplane into qualified pilots. </rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Ground Loop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.4" ts_lastsave="1641966182.6" unique_id="1464">
-					<rich_text link="file c2NlbmVzL2JhbWJhbmdfc2FwdG9hZGppX21lc3Nlc19sYW5kaW5nLm1k">Document</rich_text>
-					<rich_text>
-</rich_text>
-					<rich_text link="node 159">Bambang Saptoadji Messes Landing</rich_text>
-					<rich_text> during air show.</rich_text>
-				</node>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Crushing Disappointment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1639479161.56" unique_id="1537">
-				<rich_text link="file c2NlbmVzL2NydXNoaW5nX2Rpc2FwcG9pbnRtZW50Lm1k">Document</rich_text>
-				<rich_text> 
-Bambang suffers a </rich_text>
-				<rich_text link="node 154">Crushing disappointment</rich_text>
-				<rich_text> with unable to join Ambarrawa raid.
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Javanese Boy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639211458.39" ts_lastsave="1642924282.78" unique_id="1574">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Javanese Crew" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639211458.39" ts_lastsave="1643450312.75" unique_id="1574">
 			<rich_text link="file c2NlbmVzL21hbmlsYV9tZW1vcmllcy5tZA==">Document</rich_text>
 			<rich_text>
 • Muharto and </rich_text>
@@ -2263,7 +2263,7 @@ But when </rich_text>
 				<rich_text>, Muharto stops the interview.  </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Charismatic Artist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1643018329.8" unique_id="1433">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Charismatic Artist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1643181105.35" unique_id="1433">
 			<rich_text link="file c2NlbmVzL2p1bGlhX3Jlc2VhcmNoZXNfZW1lcmlhLm1k">Document</rich_text>
 			<rich_text> 
 </rich_text>
@@ -2271,18 +2271,7 @@ But when </rich_text>
 			<rich_text> in period magazine articles.
 
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Chronicaler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643018347.01" ts_lastsave="1643018349.33" unique_id="1634">
-				<rich_text link="node 1633">Julia Learns of Jan Boon</rich_text>
-				<rich_text> , who wrote extensively about Emeria, and that he still lives in Jakarta.   
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Reporter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643004566.69" ts_lastsave="1643013613.6" unique_id="1632">
-			<rich_text link="node 1631">Julia Interviews Jan Boon</rich_text>
-			<rich_text> about Emeria Salon 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Defending Hendra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642501315.12" ts_lastsave="1643018372.1" unique_id="1608">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Defending Hendra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642501315.12" ts_lastsave="1643536033.56" unique_id="1608">
 				<rich_text link="file c2NlbmVzL2RlZmVuZGluZ19oZW5kcmEubWQ=">Document</rich_text>
 				<rich_text>
 </rich_text>
@@ -2290,6 +2279,60 @@ But when </rich_text>
 				<rich_text> to a group of Dutch art critics.
 
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Finding Hendra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643536033.57" ts_lastsave="1643536233.16" unique_id="1642">
+				<rich_text link="file c2NlbmVzL2ZpbmRpbmdfaGVuZHJhLm1k">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 1635">Julia Learns of Hendra Gunawan</rich_text>
+				<rich_text> and tracks him down. 
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Political Artist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643450613.55" ts_lastsave="1643680404.99" unique_id="1638">
+			<rich_text link="file c2NlbmVzL3BvbGl0aWNhbF9hcnRpc3QubWQ=">Document</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="node 1643">Julia Interviews Hendra Gunawan</rich_text>
+			<rich_text> about his time with Emeria.
+
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Hiding Hendra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642501496.29" ts_lastsave="1643450839.23" unique_id="1609">
+				<rich_text link="file c2NlbmVzL2hpZGluZ19oZW5kcmEubWQ=">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 1606">Emeria Hides Hendra</rich_text>
+				<rich_text> from KNIL officers. 
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Military Comfort Zone" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1643274771.77" unique_id="1436">
+			<rich_text link="file c2NlbmVzL2NhbWVyb25fYXRfdGhlX2VhcnRocXVha2UubWQ=">Document</rich_text>
+			<rich_text>
+Syd invites </rich_text>
+			<rich_text link="node 1136">Cameron to the Earthquake</rich_text>
+			<rich_text> Bar to meet Sanyoto, the owner and long-time friend. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Gentleman Pilot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.68" ts_lastsave="1643274777.11" unique_id="1564">
+				<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19zdWRhcnlvbm8ubWQ=">Document</rich_text>
+				<rich_text>
+Sanyoto introduces </rich_text>
+				<rich_text link="node 1363">Cameron to Sudaryono</rich_text>
+				<rich_text>, who tells of the struggles to turn village boys who had barely seen an airplane into qualified pilots. </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ground Loop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.4" ts_lastsave="1641966182.6" unique_id="1464">
+					<rich_text link="file c2NlbmVzL2JhbWJhbmdfc2FwdG9hZGppX21lc3Nlc19sYW5kaW5nLm1k">Document</rich_text>
+					<rich_text>
+</rich_text>
+					<rich_text link="node 159">Bambang Saptoadji Messes Landing</rich_text>
+					<rich_text> during air show.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Crushing Disappointment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1643103276.33" unique_id="1537">
+					<rich_text link="file c2NlbmVzL2NydXNoaW5nX2Rpc2FwcG9pbnRtZW50Lm1k">Document</rich_text>
+					<rich_text> 
+Bambang suffers a </rich_text>
+					<rich_text link="node 154">Crushing disappointment</rich_text>
+					<rich_text> with unable to join Ambarrawa raid.
+</rich_text>
+				</node>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Young Warriors" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1643004524.63" unique_id="1435">
@@ -2323,36 +2366,6 @@ Muharto asks that </rich_text>
 				<rich_text> in a letter to Primitivo.
 At the end of November,  Ining writes a letter to Primitivo asking to return to the Philippines, but is too late to give it to Muharto for delivery. Ining is clearly distraught, but George must remain at his post. He asks Mas Ded, Muharto's brother, to take Ining home and look after him. The following morning George awakens to the shocking news that both Ining and Mas Ded were found dead in the house on Jalan Jetis. 
 
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Protege" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1642747578.04" unique_id="1542">
-			<rich_text link="file c2NlbmVzL2p1bGlhX21lZXRzX3JlZ2luYS5tZA==">Document</rich_text>
-			<rich_text>
-</rich_text>
-			<rich_text link="node 1329">Julia learns of Regina</rich_text>
-			<rich_text> in a review of her exhibition the previous year. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Life in the Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.57" ts_lastsave="1642501315.12" unique_id="1529">
-				<rich_text link="file c2NlbmVzL2p1bGlhX2ludGVydmlld3NfcmVnaW5hLm1k">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 1100">Julia interviews Regina</rich_text>
-				<rich_text> about life with Emeria.</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Hiding Hendra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642501496.29" ts_lastsave="1642579038.66" unique_id="1609">
-				<rich_text link="file c2NlbmVzL2hpZGluZ19oZW5kcmEubWQ=">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 1606">Emeria Hides Hendra</rich_text>
-				<rich_text> from KNIL officers. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Inspiration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642502163.55" ts_lastsave="1642579553.75" unique_id="1611">
-				<rich_text link="file c2NlbmVzL2FydGlzdGljX2luc3BpcmF0aW9uLm1k">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 1610">Emeria Inspires Regina</rich_text>
-				<rich_text> to pursue a career in art.
 </rich_text>
 			</node>
 		</node>
@@ -2405,15 +2418,14 @@ Colonel </rich_text>
 				<rich_text link="node 1096">surprise arranged date</rich_text>
 				<rich_text> with Eric, the son of a family friend, he explains how their respective parents are cooking up a deal to fleece foreign investors looking for military support.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Dirty Tuition Money" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.31" ts_lastsave="1642306482.18" unique_id="1425">
-				<rich_text link="file c2NlbmVzL2VkZHlfb2ZmZXJzX3R1aXRpb24ubWQ=">Document</rich_text>
-				<rich_text> 
-
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah Photo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.25" ts_lastsave="1643710801.74" unique_id="1395">
+			<rich_text link="file c2NlbmVzL2p1bGlhX2ZpbmRzX3JpLTAwMl9waG90by5tZA==">Document</rich_text>
+			<rich_text> 
 </rich_text>
-				<rich_text link="node 1119">Eddy Offers Tuition</rich_text>
-				<rich_text> to Julia, but she refuses since the money is coming from corruption. 
+			<rich_text link="node 411">Julia Finds RI-002 Photo</rich_text>
+			<rich_text> in a misplaced volume of BN.
 </rich_text>
-			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Weekend In Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275018.85" ts_lastsave="1642308621.44" unique_id="1576">
 			<rich_text link="file c2NlbmVzL3dlZWtlbmRfaW5fam9namEubWQ=">Document</rich_text>
@@ -2526,10 +2538,31 @@ acting as a </rich_text>
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Return to IPPHOS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1642324715.76" unique_id="1442">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Protege" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1643536902.69" unique_id="1542">
+			<rich_text link="file c2NlbmVzL2p1bGlhX21lZXRzX3JlZ2luYS5tZA==">Document</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="node 1329">Julia learns of Regina</rich_text>
+			<rich_text> in a review of her exhibition the previous year. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Life in the Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.57" ts_lastsave="1642501315.12" unique_id="1529">
+				<rich_text link="file c2NlbmVzL2p1bGlhX2ludGVydmlld3NfcmVnaW5hLm1k">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 1100">Julia interviews Regina</rich_text>
+				<rich_text> about life with Emeria.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Inspiration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642502163.55" ts_lastsave="1642579553.75" unique_id="1611">
+				<rich_text link="file c2NlbmVzL2FydGlzdGljX2luc3BpcmF0aW9uLm1k">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 1610">Emeria Inspires Regina</rich_text>
+				<rich_text> to pursue a career in art.
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Confronting Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1643536924.86" unique_id="1442">
 			<rich_text link="file c2NlbmVzL2p1bGlhX3ByZXNzdXJlc192aWN0b3IubWQ=">Document</rich_text>
 			<rich_text> 
-
 </rich_text>
 			<rich_text link="node 1378">Cameron interviews Victor again</rich_text>
 			<rich_text> with Julia, who mentions Emeria. 
@@ -2571,14 +2604,6 @@ acting as a </rich_text>
 </rich_text>
 				<rich_text link="node 1307">Victor reviews art exhibitions</rich_text>
 				<rich_text> though no one knows he is a soldier/</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Into the Kampung" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.32" ts_lastsave="1642578992.87" unique_id="1432">
-				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19yZXB1YmxpY2Fucy5tZA==">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 1005">Victor photographs refugees</rich_text>
-				<rich_text> in Batavia with Emeria and Sonnega 
-</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Achmad the Guerrilla" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639278309.79" ts_lastsave="1642305083.82" unique_id="1583">
@@ -2652,11 +2677,11 @@ British authorities allow RI-002 to go </rich_text>
 				<rich_text> to plan coup</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Life During Wartime" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275729.7" ts_lastsave="1642750437.47" unique_id="1578">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Life During Wartime" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275729.7" ts_lastsave="1643703824.61" unique_id="1578">
 			<rich_text link="file c2NlbmVzL2FuaV9yZW1pbmlzY2VzLm1k">Document</rich_text>
 			<rich_text> 
 </rich_text>
-			<rich_text link="node 1300">Ani Reminisces</rich_text>
+			<rich_text link="node 1644">Ani Reminisces</rich_text>
 			<rich_text> about life in besieged Jogja.
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Rice Kitchen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.28" ts_lastsave="1641634938.27" unique_id="1413">
@@ -2675,7 +2700,7 @@ Eddy reminds Julia of  &quot;</rich_text>
 				<rich_text>&quot;, the Javanese requirements of a suitable husband, which he believes Cameron falls short of.   
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Get a deskjob" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.36" ts_lastsave="1641789825.11" unique_id="1447">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Get a desk job" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.36" ts_lastsave="1643703676.41" unique_id="1447">
 				<rich_text link="file c2NlbmVzL2ZhdGhlcl9pbnRlcnJvZ2F0ZXMubWQ=">Document</rich_text>
 				<rich_text>
 </rich_text>
@@ -2695,12 +2720,20 @@ Ani </rich_text>
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Telephone Terror" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1642932848.47" unique_id="1423">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Telephone Terror" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1643532046.98" unique_id="1423">
 			<rich_text link="file c2NlbmVzL2NhbWVyb25fdGVycm9yaXplZC5tZA==">Document</rich_text>
 			<rich_text>
 </rich_text>
 			<rich_text link="node 1290">Cameron Terrorized</rich_text>
 			<rich_text> by a telephone call to his landlord number, which he does not give to anyone. 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Relationship Crisis" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643532046.98" ts_lastsave="1643532371.56" unique_id="1641">
+			<rich_text link="file c2NlbmVzL3JlbGF0aW9uc2hpcF9jcmlzaXMubWQ=">Document</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="node 1613">Cameron suspects Julia</rich_text>
+			<rich_text> of tipping off unknown terror caller. 
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Necklaces and Dog Tags" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1642324870.78" unique_id="1404">
@@ -2731,6 +2764,23 @@ Muharto asks about </rich_text>
 			<rich_text link="node 208">Newspaper Calls Ining</rich_text>
 			<rich_text> a gun runner.
 ☐ Needs interview wrapper</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Dirty Tuition Money" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.31" ts_lastsave="1643707050.69" unique_id="1425">
+			<rich_text link="file c2NlbmVzL2VkZHlfb2ZmZXJzX3R1aXRpb24ubWQ=">Document</rich_text>
+			<rich_text> 
+
+</rich_text>
+			<rich_text link="node 1119">Eddy Offers Tuition</rich_text>
+			<rich_text> to Julia, but she refuses since the money is coming from corruption. 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Into the Kampung" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.32" ts_lastsave="1643362950.64" unique_id="1432">
+			<rich_text link="file c2NlbmVzL3ZpY3Rvcl9tZWV0c19yZXB1YmxpY2Fucy5tZA==">Document</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="node 1005">Victor photographs refugees</rich_text>
+			<rich_text> in Batavia with Emeria and Sonnega 
+</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Interlude" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1641800792.26" ts_lastsave="1642324701.38" unique_id="1597">
 			<rich_text>☐ Need interview wrapper</rich_text>
@@ -2766,10 +2816,11 @@ Freeberg </rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="The Story Emerges" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.55" ts_lastsave="1642750384.14" unique_id="1522">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="The Story Emerges" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.55" ts_lastsave="1643532603.23" unique_id="1522">
 			<rich_text link="file c2NlbmVzL2JlZXJfd2l0aF9ib2VkaS5tZA==">Document</rich_text>
 			<rich_text>
-Cameron has a Beer with Boedi who tells him the stories Muharto omitted</rich_text>
+</rich_text>
+			<rich_text link="node 1144">Cameron Interviews Boediardjo  who tells him the stories Muharto omitted</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bar Room Bitch" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.23" ts_lastsave="1641700105.96" unique_id="1387">
 				<rich_text link="file c2NlbmVzL2JvYl93YWx0ZXJzX2JpdGNoZXMubWQ=">Document</rich_text>
 				<rich_text>
@@ -2886,22 +2937,6 @@ Julia tells Cameron about Robert Koke, but </rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Revolutionary Air Force" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.63" ts_lastsave="1641888558.93" unique_id="1550">
-			<rich_text link="file c2NlbmVzL2p1bGlhX2xlYXJuc19vZl9jaWFfYWlyZm9yY2UubWQ=">Document</rich_text>
-			<rich_text> 
-</rich_text>
-			<rich_text link="node 1247">Julia Learns of CIA Airforce</rich_text>
-			<rich_text> and Muharto's involvement
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Growing Doubt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.56" ts_lastsave="1642078271.68" unique_id="1525">
-				<rich_text link="file c2NlbmVzL2NhbWVyb25fZ3Jvd3NfZG91YnRmdWwubWQ=">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 1311">Cameron Grows Doubtful</rich_text>
-				<rich_text> about the stories Muharto is telling him. 
-</rich_text>
-			</node>
-		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="A Real Pilot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.39" ts_lastsave="1642306955.73" unique_id="1461">
 			<rich_text link="file c2NlbmVzL2NhcHRhaW5famFjay5tZA==">Document</rich_text>
 			<rich_text> 
@@ -2951,7 +2986,23 @@ RI-002 suffers a </rich_text>
 				<rich_text> when he learns that civilians are on board</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Soekarno Tour" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639276359.45" ts_lastsave="1642324549.63" unique_id="1581">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Revolutionary Air Force" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.63" ts_lastsave="1643275803.48" unique_id="1550">
+			<rich_text link="file c2NlbmVzL2p1bGlhX2xlYXJuc19vZl9jaWFfYWlyZm9yY2UubWQ=">Document</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="node 1247">Julia Learns of CIA Airforce</rich_text>
+			<rich_text> and Muharto's involvement
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Growing Doubt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.56" ts_lastsave="1642078271.68" unique_id="1525">
+				<rich_text link="file c2NlbmVzL2NhbWVyb25fZ3Jvd3NfZG91YnRmdWwubWQ=">Document</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 1311">Cameron Grows Doubtful</rich_text>
+				<rich_text> about the stories Muharto is telling him. 
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Soekarno Tour" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639276359.45" ts_lastsave="1643347278.93" unique_id="1581">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Safety First" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.35" ts_lastsave="1642145200.56" unique_id="1446">
@@ -2985,6 +3036,35 @@ Soekarno</rich_text>
 				<rich_text link="node 106">Bob defies Suryadarma</rich_text>
 				<rich_text> by refusing a mission and returning to Manila</rich_text>
 			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Arts Reporter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643004566.69" ts_lastsave="1643705783.63" unique_id="1632">
+			<rich_text link="file c2NlbmVzL2FydHNfcmVwb3J0ZXIubWQ=">Document</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="node 1631">Julia Interviews Jan Boon</rich_text>
+			<rich_text> about Emeria Salon 
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Chronicler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643018347.01" ts_lastsave="1643537653.07" unique_id="1634">
+				<rich_text link="node 1633">Julia Learns of Jan Boon</rich_text>
+				<rich_text> , who wrote extensively about Emeria, and that he still lives in Jakarta.   
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Trusted Companion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643347278.93" ts_lastsave="1643531205.16" unique_id="1637">
+			<rich_text link="file c2NlbmVzL3RydXN0ZWRfY29tcGFuaW9uLm1k">Document</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="node 1319">Julia Interviews Hermann</rich_text>
+			<rich_text> who reveals details about corruption 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Senior Journalist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643531205.17" ts_lastsave="1643688778.85" unique_id="1639">
+			<rich_text link="file c2NlbmVzL3Nlbmlvcl9qb3VybmFsaXN0Lm1k">Document</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="node 1631">Julia Interviews Jan Boon</rich_text>
+			<rich_text>  about time with Emeria
+</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Red Sky" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642308660.74" ts_lastsave="1642308660.74" unique_id="1602">
 			<rich_text>
@@ -3064,30 +3144,6 @@ Muharto is </rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Documenting Westerling" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.47" ts_lastsave="1642320181.13" unique_id="1492">
-			<rich_text link="file c2NlbmVzL3ZpY3Rvcl9pbl9qb2dqYS5tZA==">Document</rich_text>
-			<rich_text> 
-</rich_text>
-			<rich_text link="node 1286">Victor goes to Jogja</rich_text>
-			<rich_text> 
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Going AWOL" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.63" ts_lastsave="1642045817.92" unique_id="1549">
-				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9qb2luc19yZXB1YmxpY2Fucy5tZA==">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 933">Victor defects</rich_text>
-				<rich_text> to Republicans after being told that Emeria is waiting for him in the hills.  
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Fraternization Warning" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.68" ts_lastsave="1642153566.61" unique_id="1566">
-				<rich_text link="file c2NlbmVzL3Nwb29yX3dhcm5zX3ZpY3Rvci5tZA==">Document</rich_text>
-				<rich_text>
-</rich_text>
-				<rich_text link="node 1323">Spoor warns Victor</rich_text>
-				<rich_text> about getting too close to Emeria and her Republican artist friends. 
-</rich_text>
-			</node>
-		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Madiun Rebellion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639278470.94" ts_lastsave="1642309228.02" unique_id="1584">
 			<rich_text>
 </rich_text>
@@ -3112,6 +3168,30 @@ maneuvers.</rich_text>
 			<rich_text link="node 152">Julia Goes Ballistic</rich_text>
 			<rich_text>  when some bules disparage Indonesians
 ☐ Needs sequence</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Documenting Westerling" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.47" ts_lastsave="1643525131.92" unique_id="1492">
+			<rich_text link="file c2NlbmVzL3ZpY3Rvcl9pbl9qb2dqYS5tZA==">Document</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="node 1286">Victor goes to Jogja</rich_text>
+			<rich_text> 
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Going AWOL" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.63" ts_lastsave="1642045817.92" unique_id="1549">
+				<rich_text link="file c2NlbmVzL3ZpY3Rvcl9qb2luc19yZXB1YmxpY2Fucy5tZA==">Document</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 933">Victor defects</rich_text>
+				<rich_text> to Republicans after being told that Emeria is waiting for him in the hills.  
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Fraternization Warning" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.68" ts_lastsave="1642153566.61" unique_id="1566">
+				<rich_text link="file c2NlbmVzL3Nwb29yX3dhcm5zX3ZpY3Rvci5tZA==">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 1323">Spoor warns Victor</rich_text>
+				<rich_text> about getting too close to Emeria and her Republican artist friends. 
+</rich_text>
+			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Communist Dupe" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1642932769.53" unique_id="1538">
 			<rich_text link="file c2NlbmVzL3F1aWtpb19jb25mZXNzZXMubWQ=">Document</rich_text>
@@ -3163,14 +3243,6 @@ maneuvers.</rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Raid on Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639298414.59" ts_lastsave="1642751757.03" unique_id="1591">
 			<rich_text>
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah Photo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.25" ts_lastsave="1642146385.88" unique_id="1395">
-				<rich_text link="file c2NlbmVzL2p1bGlhX2ZpbmRzX3JpLTAwMl9waG90by5tZA==">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 411">Julia Finds RI-002 Photo</rich_text>
-				<rich_text> in a misplaced volume of BN.
-</rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Triple Shift" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.51" ts_lastsave="1642146441.01" unique_id="1506">
 				<rich_text link="file c2NlbmVzL3N5ZF9maWxsc19pbi5tZA==">Document</rich_text>
 				<rich_text> 
@@ -3190,7 +3262,7 @@ maneuvers.</rich_text>
 				<rich_text> about events in Karangendah
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Death in the Kos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.5" ts_lastsave="1642078686.17" unique_id="1502">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Death in the Kos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.5" ts_lastsave="1643531604.28" unique_id="1502">
 				<rich_text link="file c2NlbmVzL3N5ZF9kaWVzLm1k">Document</rich_text>
 				<rich_text> 
 </rich_text>
@@ -3198,8 +3270,19 @@ maneuvers.</rich_text>
 				<rich_text> in his shabby room with a book on his lap and a whiskey on the side table. 
 </rich_text>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Choice" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643531604.28" ts_lastsave="1643531916.33" unique_id="1640">
+				<rich_text link="file c2NlbmVzL2p1bGlhX2Nob2ljZS5tZA==">Document</rich_text>
+				<rich_text>
+</rich_text>
+				<rich_text link="node 354">Cameron Deported</rich_text>
+				<rich_text> and says good bye at the airport. 
+</rich_text>
+				<rich_text link="node 716">Julia Decides To Stay</rich_text>
+				<rich_text> in Indonesia. 
+</rich_text>
+			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Gold Run" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.23" ts_lastsave="1642930008.95" unique_id="1388">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Gold Run" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.23" ts_lastsave="1643525168.53" unique_id="1388">
 			<rich_text link="file c2NlbmVzL2dvbGRfcnVuLm1k">Document</rich_text>
 			<rich_text> 
 </rich_text>

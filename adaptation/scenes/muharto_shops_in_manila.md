@@ -1,8 +1,7 @@
 ---
 category: past
-include: false
 date: 15 February 1948
-status: synopsis
+status: omit
 title: Muharto Shops in Manila
 ---
 

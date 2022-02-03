@@ -1,6 +1,6 @@
 ---
 category: present
-date: 15 November 1988
+date: 15 August 1988
 status: draft
 title: Santoso Necklace
 synopsis: Muharto falls into trance while holding Santoso's necklace. He sees Bambang in the captain's chair as RI-002 crashes. 

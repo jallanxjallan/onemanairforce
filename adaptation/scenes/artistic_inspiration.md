@@ -1,7 +1,6 @@
 ---
-
 title: Artistic Inspiration
-date: 15 November 1988
+date: 5 September 1988
 status: synopsis
 category: interview
 ---

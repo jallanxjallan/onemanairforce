@@ -1,9 +1,8 @@
 ---
 category: interview
-date: 15 July 1988
+date: 12 July 1988
 title: Pang Mentions Ining
-status: draft
-synopsis: Muharto looks distressed when Pang mentions Ining. He breaks off the interview, telling Cameron they should leave now. 
+status: synopsis
 ---
 
 

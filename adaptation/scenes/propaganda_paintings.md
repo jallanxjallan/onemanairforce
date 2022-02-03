@@ -1,6 +1,5 @@
 ---
-status: synopsis
-include: false
+status: omit
 title: Propaganda Paintings
 date: 4 August 1947 
 category: past

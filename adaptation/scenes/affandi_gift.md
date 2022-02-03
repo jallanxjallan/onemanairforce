@@ -1,8 +1,7 @@
 ---
-status: synopsis
-include: false
+status: omit
 title: Affandi's Gift
-date: 14 October 1988 
+date: 1 August 1988 
 category: interview
 ---
 Affandi grabs

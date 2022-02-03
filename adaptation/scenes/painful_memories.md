@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 21 October 1988
+date: 22 July 1988
 status: synopsis
 title: Painful Memories
 ---

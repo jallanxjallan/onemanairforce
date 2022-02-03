@@ -1,7 +1,7 @@
 ---
 category: past
 date: 28 December 1947
-status: draft
+status: omit
 title: Spoor Dumbfounded
 synopsis: Spoor is dumbfounded when he reads that RI-003 was not running guns, but household items such as dinner plates and cutlery.
 ---

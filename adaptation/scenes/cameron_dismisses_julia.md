@@ -1,6 +1,6 @@
 ---
 category: present
-date: 15 November 1988
+date: 6 October 1988
 status: synopsis
 title: Master of Dissemination
 ---

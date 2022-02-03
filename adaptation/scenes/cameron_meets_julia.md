@@ -1,9 +1,8 @@
 ---
-category: writing
+category: research
 date: 30 June 1988
-status: draft
+status: synopsis
 title: Cameron Meets Julia
-synopsis: Cameron begins his research as the National Library, where he is assisted by Julia Suryakusuma, a recent graduate fluent in English and
 ---
 
 Cameron uses his "foreign correspondent" credentials to gain

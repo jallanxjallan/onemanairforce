@@ -1,7 +1,7 @@
 ---
 status: draft
 title: Republican Lifeline
-date: 25 September 1988
+date: 28       June 1988
 category: interview
 synopsis: Muharto tells Cameron of the critical missions Freeberg undertook in late 1947.
 ---

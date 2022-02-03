@@ -1,6 +1,6 @@
 ---
 category: present
-date: 15 November 1988
+date: 5 October 1988
 status: draft
 title: Julia Reads About Robert Koke
 synopsis: Julia finds a book written by Robert Koke's wife. The depiction of Koke as a supporter of Indonesian independence contradicts the image of a CIA coup-monger.  
