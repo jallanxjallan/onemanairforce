@@ -1,6 +1,6 @@
-**Landing At Cilotok - 08 June 1947**:  Bob Freeberg lands  his unmarked Dakota cargo plane on remote Cilotok beach in southwest  Java. As soldiers approach the airplane, guns ready, he shouts out the  only Indonesian words he knows, "Captain Petit Muharto".
+**On 08 June 1947**:  Bob Freeberg lands his war-surplus Dakota cargo plane on remote Cilotok beach in southwest  Java. As soldiers approach the airplane, guns ready, he shouts  the only Indonesian words he knows, "Captain Petit Muharto".
 
-**Birth of RI-002 - 28 June 1988**:  American freelance journalist Cameron Bishop interviews retired Air Force Major Petit  Muharto at his home in Jakarta about his experiences with Bob Freeberg. Muharto begins with the surprising message he received at Maguwo air base reporting that a foreign pilot was asking for him. Muharto flies to the location, discovering that Freeberg is the pilot of a blockade run he had organzied some weeks before. Muharto draws on the revolutionary furor of the locals to construct a bamboo runway and the Dakota takes off and flies to Jogja. 
+**On 28 June 1988**:  American freelance journalist Cameron Bishop interviews retired Air Force Major Petit Muharto at his home in Jakarta about his as co-pilot on blockade runs with Bob Freeberg. Muharto begins with the surprising message he received at Maguwo air base reporting that a foreign pilot had landed on a beach and was asking for him. Muharto flies to the location, discovering that Freeberg is the pilot of a blockade run he had organzied some weeks previously. Muharto draws on the revolutionary furor of the locals to construct a bamboo runway and the Dakota takes off and flies to Jogja. 
 
 In Jogja, Muharto's commander, Suryadarma, contracts Freeberg to fly a load of high-value quinine and vanilla to Manila, returning with much-needed vehicle parts and medicines. As the war-surplus Dakota has not yet been registered, Muharto suggests they paint the numbers RI-002 on the tail to forestall problems with aviation authorities. 
 
@@ -8,7 +8,7 @@ Freeberg flies RI-002 to Manila with Muharto, Army Lieutenant Pang Soeparto, and
 
 Muharto and Pang finally win their case, sell the quinine, and RI-002 returns to Jogja. For the next six months, Freeberg, often with Muharto in the co-pilot seat, links the besieged Republic of Indonesia with the rest of the world. Freeberg is hailed as a hero, gaining the respect of everyone from common citizens to President Soekarno himself. 
 
-By April 1948, Freeberg's haggard appearance and premature greying reflects the constant strain of being the Republic's "One Man Air Force". In May 1948 offered a promotion to major and reassignment to a desk job. Worried about his friend, Muharto considers declining the promotion. However, he is now engaged to his girlfiend Ani, and must think about their future. 
+By April 1948, Freeberg's haggard appearance and premature greying reflects the constant strain of being the Republic's "One Man Air Force". In May 1948 Muharto is offered a promotion to major and reassignment to a desk job. Worried about his friend, Muharto considers declining the promotion. However, he is now engaged to his girlfiend Ani, and must think about their future. 
 
 Busy with his own duties, Muharto sees little of Freeberg, but is nonetheless dismayed when informed of the disappearance of RI-002 when flying a load of Republican gold to Sumatra in October 1948. 
 
