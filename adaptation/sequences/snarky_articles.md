@@ -15,7 +15,7 @@ the fate of RI-002. Spoor claims ignorance, and grows visibly annoyed
 when the reporter press him, breaking off the interview and slamming the
 door to his office.
 
-[A Possible Source]{cat="scene"}[6 July 1988]{cat="date"}  Julia notes that the snide tone of the language in the article suggests
+[A Possible Source]{cat="scene"}[6 July 1988]{cat="date"}[In the library]{cat="location"} Julia notes that the snide tone of the language in the article suggests
 the reporter was convinced that Spoor was hiding something. She suggests
 they might get more information from Victor de Jong, a Dutch-born,
 naturalized Indonesian photographer who consults for the museum. Victor,
@@ -24,4 +24,4 @@ photographic technician/analyst and reporting directly to Spoor. She telephones 
 
 In the parking lot, Julia is nonplussed to see their transportation: Cameron's 
 Harley Davidson motorcycle. During the thrilling
-ride to IPPHOS, she briefly grabs Camerons waist, to her embarrassment. 
+ride to IPPHOS, she briefly grabs Cameron's waist, to her embarrassment. 

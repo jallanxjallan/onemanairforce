@@ -18,12 +18,12 @@ showing a large American standing in front of an airplane. It is Bob
 Freeberg and RI-002. Victor repeats the process and shows Cameron images
 of Spoor in his office. 
 
-Victor explains that in [1947]{cat="date"} his desk was across the hall from Spoor's office, and would often overhear conversations or Spoor raging about the foreign pilots violating Dutch East Indies airspace with impunity. He was particularly incensed at the report of Freeberg dropping paratroopers over Dutch-held territory in Kalimantan. Spoor instructed Dutch representatives in the region to pressure authorities to impound RI-002. In all cases, they would detain Freeberg briefly, then release him. 
+Victor explains that in [1947]{cat="date"} his desk was across the hall from Spoor's office, and he would often overhear conversations or Spoor raging about the foreign pilots violating Dutch East Indies airspace with impunity. Spoor had been particularly incensed at the report of Freeberg dropping paratroopers over Dutch-held territory in Kalimantan. Spoor instructed Dutch representatives in the region to pressure authorities to impound RI-002. In all cases, they would detain Freeberg briefly, then release him. 
 
 [At IPPHOS]{cat="location"}, Victor searches the hundreds of thousands of images in the archives, looking for more photos that will spark his memory of the time. He stops when he comes across
 a photo of a strikingly beautiful Indonesian woman in her late twenties who, though dressed
 in baggy, paint-splattered overalls, radiates elegance and poise. The
-caption reads "Emeria Soenassa in her studio 1948". Julia asks Victor
+caption reads "*Emeria Soenassa in her studio 1948*". Julia asks Victor
 who she is. Victor replies "No one important", snatches the photo from
 the table and files it away. 
 

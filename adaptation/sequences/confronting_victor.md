@@ -1,7 +1,6 @@
 ---
-status: new
+status: rework
 title: Confronting Victor
-
 ---
 [Confronting Victor]{cat="scene"}[15 July 1988]{cat="date"}  Julia returns to confront Victor with her suspicion that he and Emeria were lovers.  
 

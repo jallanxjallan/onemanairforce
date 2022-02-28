@@ -1,20 +1,14 @@
 ---
-status: new
+status: draft
 title: Achmad the Guerrilla
-
 ---
-[Achmad the Guerrilla]{cat="scene"}[04 December 1947]{cat="date"}  During a routine radio contact with Jogja, Boedi is
-told that Ining and Mas Ded were found dead of gunshot wounds at Ining's
-house.
-
 [Painful Memories]{cat="scene"}[22 July 1988]{cat="date"}  Cameron tells Muharto of his interview with George
 Rueneker, and cajoles him into telling of the events following the
 death of Ining. 
 
-[Bought The Beach]{cat="scene"}[27 December 1947]{cat="date"}  RI-003 crashes on a beach in Malaya. Dutch embassy
-representatives join the British investigation team at the crash site,
-insisting that the aircraft had been attempting to smuggle guns into
-Sumatra.
+[Achmad the Guerrilla]{cat="scene"}[04 December 1947]{cat="date"}  During a routine radio contact with Jogja, Boedi is
+told that Ining and Mas Ded were found dead of gunshot wounds at Ining's
+house.
 
 [Baseless Accusation]{cat="scene"}[18 December 1947]{cat="date"}  Muharto reports Ining's death to Primitivo. Muharto
 is astounded when the major accuses Muharto and his late brother of

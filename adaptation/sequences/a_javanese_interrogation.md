@@ -1,7 +1,6 @@
 ---
-status: new
+status: draft
 title: A Javanese Interrogation
-
 ---
 [A Javanese Interrogation]{cat="scene"}[20 July 1988]{cat="date"}  Cameron is having a drink at the
 Earthquake, chatting with Sanyoto, when a middle-aged Indonesian, clearly a military man though out of uniform, takes the empty seat beside him. Sanyoto introduces him as "Pak Eddy"

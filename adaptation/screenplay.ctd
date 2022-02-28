@@ -2116,6 +2116,30 @@ Muharto </rich_text>
 				<rich_text> on how to approach investigation.</rich_text>
 			</node>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Comrade Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1644322563.81" unique_id="1440">
+			<rich_text link="file c2VxdWVuY2VzL29sZF9jb21yYWRlX3JldW5pb24ubWQ=">Synopsis</rich_text>
+			<rich_text>
+</rich_text>
+			<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19ib2VkaWFyZGpvXy5tZA==">Treatment</rich_text>
+			<rich_text>
+Muharto takes Cameron to </rich_text>
+			<rich_text link="node 1612"> interview</rich_text>
+			<rich_text> several surviving RI-002 crew. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
+				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Treatment</rich_text>
+				<rich_text>
+Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
+				<rich_text link="node 356"> Paratroopers</rich_text>
+				<rich_text> over Kalimantan in October 1947</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1639470368.24" unique_id="1540">
+				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Treatment</rich_text>
+				<rich_text>
+and being  g</rich_text>
+				<rich_text link="node 1170">rounded in Bangkok</rich_text>
+				<rich_text>. </rich_text>
+			</node>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Snarky Articles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.37" ts_lastsave="1644150214.43" unique_id="1454">
 			<rich_text link="file c2VxdWVuY2VzL3NuYXJreV9hcnRpY2xlcy5tZA==">Synopsis</rich_text>
 			<rich_text>
@@ -2185,30 +2209,6 @@ Julia notices a p</rich_text>
 After the interview, Cameron offers Julia a ride to the Hotel Hilton, where he meets </rich_text>
 			<rich_text link="node 887">her friends</rich_text>
 			<rich_text>, who are all daughters of senior military officers or government officials. Julia's friends urge her to get better acquainted with Cameron, whom they assume to be rich because he rides a Harley Davidson, so that she can realize her dream of studying overseas. </rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Comrade Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1644152763.35" unique_id="1440">
-			<rich_text link="file c2VxdWVuY2VzL29sZF9jb21yYWRlX3JldW5pb24ubWQ=">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
-			<rich_text link="file c2NlbmVzL2NhbWVyb25faW50ZXJ2aWV3c19ib2VkaWFyZGpvXy5tZA==">Treatment</rich_text>
-			<rich_text>
-Muharto takes Cameron to </rich_text>
-			<rich_text link="node 1612"> interview</rich_text>
-			<rich_text> several surviving RI-002 crew. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
-				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Treatment</rich_text>
-				<rich_text>
-Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
-				<rich_text link="node 356"> Paratroopers</rich_text>
-				<rich_text> over Kalimantan in October 1947</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1639470368.24" unique_id="1540">
-				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Treatment</rich_text>
-				<rich_text>
-and being  g</rich_text>
-				<rich_text link="node 1170">rounded in Bangkok</rich_text>
-				<rich_text>. </rich_text>
-			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Javanese Crew" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639211458.39" ts_lastsave="1644152828.17" unique_id="1574">
 			<rich_text link="file c2VxdWVuY2VzL2phdmFuZXNlX2NyZXcubWQ=">Synopsis</rich_text>
@@ -2403,10 +2403,64 @@ At the end of November,  Ining writes a letter to Primitivo asking to return to 
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Setting Up Southeastern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639296208.09" ts_lastsave="1642308291.93" unique_id="1590">
-			<rich_text link="file c2VxdWVuY2VzL3NldHRpbmdfdXBfc291dGhlYXN0ZXJuLm1k">Synopsis</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Achmad the Guerrilla" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639278309.79" ts_lastsave="1644321150.57" unique_id="1583">
+			<rich_text link="file c2VxdWVuY2VzL2FjaG1hZF90aGVfZ3VlcnJpbGxhLm1k">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
+			<rich_text link="file c2NlbmVzL2luaW5nX2lzX2Rvb2QubWQ=">Treatment</rich_text>
+			<rich_text> 
+Boedi tells Muharto that  </rich_text>
+			<rich_text link="node 339">Ining Is Dood</rich_text>
+			<rich_text>.  </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Painful Memories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1642321528.98" unique_id="1543">
+				<rich_text link="file c2NlbmVzL3BhaW5mdWxfbWVtb3JpZXMubWQ=">Treatment</rich_text>
+				<rich_text>
+Cameron tells </rich_text>
+				<rich_text link="node 1337">Muharto </rich_text>
+				<rich_text>that he heard about the tragedy of Ining and his brother. Muharto tells Cameron of the radio call informing him of  Ining 's presumed murder-suicide, and subequently of  Primitivo then accusing him of being a communist. Muharto tells Cameron that they when back to Jogja to repatriate Ining's remains, but were grounded in Changi until they could repair RI-002 and continue onward to Manila. 
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bought The Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1642306921.82" unique_id="1405">
+				<rich_text link="file c2NlbmVzL3JpLTAwM19jcmFzaGVzLm1k">Treatment</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 439">RI-003 Crashes</rich_text>
+				<rich_text> on a beach in Malaya en route from Bangkok to Bukittinggi 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Baseless Accusation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.67" ts_lastsave="1642239276.02" unique_id="1562">
+				<rich_text link="file c2NlbmVzL3ByaW1pdGl2b19hY2N1c2VzX211aGFydG9fLm1k">Treatment</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 995">Primitivo accuses Muharto </rich_text>
+				<rich_text>  of being a communist and complicit in the death of Ining. 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Kaliurang Holiday" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.42" ts_lastsave="1641800188.16" unique_id="1471">
+				<rich_text link="file c2NlbmVzL2JhY2tfdG9fam9namEubWQ=">Treatment</rich_text>
+				<rich_text>
+RI-002 returns to Jogja, and Bob </rich_text>
+				<rich_text link="node 1332">spends a few days in Kaliurang</rich_text>
+				<rich_text>. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Airworthiness Issues" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.29" ts_lastsave="1641634811.27" unique_id="1417">
+				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2NoYW5naS5tZA==">Treatment</rich_text>
+				<rich_text> 
+RI-002 is </rich_text>
+				<rich_text link="node 357">Grounded in Changi</rich_text>
+				<rich_text> 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Finally To Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.52" ts_lastsave="1641800172.75" unique_id="1509">
+				<rich_text link="file c2NlbmVzL29ud2FyZF90b19tYW5pbGEubWQ=">Treatment</rich_text>
+				<rich_text>
+British authorities allow RI-002 to go </rich_text>
+				<rich_text link="node 965">Onward To Manila</rich_text>
+				<rich_text> </rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Setting Up Southeastern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639296208.09" ts_lastsave="1644314263.58" unique_id="1590">
 			<rich_text link="file c2VxdWVuY2VzL3NldHRpbmdfdXBfc291dGhlYXN0ZXJuLm1k">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2470,10 +2524,7 @@ Colonel </rich_text>
 				<rich_text> with Eric, the son of a family friend, he explains how their respective parents are cooking up a deal to fleece foreign investors looking for military support.</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Weekend In Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275018.85" ts_lastsave="1642308621.44" unique_id="1576">
-			<rich_text link="file c2VxdWVuY2VzL3dlZWtlbmRfaW5fam9namEubWQ=">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Weekend In Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275018.85" ts_lastsave="1644321931.13" unique_id="1576">
 			<rich_text link="file c2VxdWVuY2VzL3dlZWtlbmRfaW5fam9namEubWQ=">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2590,10 +2641,7 @@ acting as a </rich_text>
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Protege" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1643536902.69" unique_id="1542">
-			<rich_text link="file c2VxdWVuY2VzL2FydGlzdGljX3Byb3RlZ2UubWQ=">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Artistic Protege" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1644320798.95" unique_id="1542">
 			<rich_text link="file c2VxdWVuY2VzL2FydGlzdGljX3Byb3RlZ2UubWQ=">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2618,10 +2666,7 @@ acting as a </rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Confronting Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1643536924.86" unique_id="1442">
-			<rich_text link="file c2VxdWVuY2VzL2NvbmZyb250aW5nX3ZpY3Rvci5tZA==">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Confronting Victor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1644320834.67" unique_id="1442">
 			<rich_text link="file c2VxdWVuY2VzL2NvbmZyb250aW5nX3ZpY3Rvci5tZA==">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2670,70 +2715,7 @@ acting as a </rich_text>
 				<rich_text> though no one knows he is a soldier/</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Achmad the Guerrilla" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639278309.79" ts_lastsave="1642305083.82" unique_id="1583">
-			<rich_text link="file c2VxdWVuY2VzL2FjaG1hZF90aGVfZ3VlcnJpbGxhLm1k">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
-			<rich_text link="file c2VxdWVuY2VzL2FjaG1hZF90aGVfZ3VlcnJpbGxhLm1k">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
-			<rich_text link="file c2NlbmVzL2luaW5nX2lzX2Rvb2QubWQ=">Treatment</rich_text>
-			<rich_text> 
-Boedi tells Muharto that  </rich_text>
-			<rich_text link="node 339">Ining Is Dood</rich_text>
-			<rich_text>.  </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Painful Memories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.61" ts_lastsave="1642321528.98" unique_id="1543">
-				<rich_text link="file c2NlbmVzL3BhaW5mdWxfbWVtb3JpZXMubWQ=">Treatment</rich_text>
-				<rich_text>
-Cameron tells </rich_text>
-				<rich_text link="node 1337">Muharto </rich_text>
-				<rich_text>that he heard about the tragedy of Ining and his brother. Muharto tells Cameron of the radio call informing him of  Ining 's presumed murder-suicide, and subequently of  Primitivo then accusing him of being a communist. Muharto tells Cameron that they when back to Jogja to repatriate Ining's remains, but were grounded in Changi until they could repair RI-002 and continue onward to Manila. 
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bought The Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1642306921.82" unique_id="1405">
-				<rich_text link="file c2NlbmVzL3JpLTAwM19jcmFzaGVzLm1k">Treatment</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 439">RI-003 Crashes</rich_text>
-				<rich_text> on a beach in Malaya en route from Bangkok to Bukittinggi 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Baseless Accusation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.67" ts_lastsave="1642239276.02" unique_id="1562">
-				<rich_text link="file c2NlbmVzL3ByaW1pdGl2b19hY2N1c2VzX211aGFydG9fLm1k">Treatment</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 995">Primitivo accuses Muharto </rich_text>
-				<rich_text>  of being a communist and complicit in the death of Ining. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Kaliurang Holiday" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.42" ts_lastsave="1641800188.16" unique_id="1471">
-				<rich_text link="file c2NlbmVzL2JhY2tfdG9fam9namEubWQ=">Treatment</rich_text>
-				<rich_text>
-RI-002 returns to Jogja, and Bob </rich_text>
-				<rich_text link="node 1332">spends a few days in Kaliurang</rich_text>
-				<rich_text>. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Airworthiness Issues" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.29" ts_lastsave="1641634811.27" unique_id="1417">
-				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2NoYW5naS5tZA==">Treatment</rich_text>
-				<rich_text> 
-RI-002 is </rich_text>
-				<rich_text link="node 357">Grounded in Changi</rich_text>
-				<rich_text> 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Finally To Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.52" ts_lastsave="1641800172.75" unique_id="1509">
-				<rich_text link="file c2NlbmVzL29ud2FyZF90b19tYW5pbGEubWQ=">Treatment</rich_text>
-				<rich_text>
-British authorities allow RI-002 to go </rich_text>
-				<rich_text link="node 965">Onward To Manila</rich_text>
-				<rich_text> </rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Clandestine Operative" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1642924808.59" unique_id="1409">
-			<rich_text link="file c2VxdWVuY2VzL2NsYW5kZXN0aW5lX29wZXJhdGl2ZS5tZA==">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Clandestine Operative" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1644323039.88" unique_id="1409">
 			<rich_text link="file c2VxdWVuY2VzL2NsYW5kZXN0aW5lX29wZXJhdGl2ZS5tZA==">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2753,10 +2735,7 @@ British authorities allow RI-002 to go </rich_text>
 				<rich_text> to plan coup</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Life During Wartime" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275729.7" ts_lastsave="1643703824.61" unique_id="1578">
-			<rich_text link="file c2VxdWVuY2VzL2xpZmVfZHVyaW5nX3dhcnRpbWUubWQ=">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Life During Wartime" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639275729.7" ts_lastsave="1644323196.7" unique_id="1578">
 			<rich_text link="file c2VxdWVuY2VzL2xpZmVfZHVyaW5nX3dhcnRpbWUubWQ=">Synopsis</rich_text>
 			<rich_text>
 </rich_text>
@@ -2912,10 +2891,7 @@ Muharto asks about </rich_text>
 			<rich_text> in Batavia with Emeria and Sonnega 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Interlude" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1641800792.26" ts_lastsave="1642324701.38" unique_id="1597">
-			<rich_text link="file c2VxdWVuY2VzL21hbmlsYV9pbnRlcmx1ZGUubWQ=">Synopsis</rich_text>
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Interlude" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1641800792.26" ts_lastsave="1644323345.42" unique_id="1597">
 			<rich_text link="file c2VxdWVuY2VzL21hbmlsYV9pbnRlcmx1ZGUubWQ=">Synopsis</rich_text>
 			<rich_text>
 ☐ Need interview wrapper</rich_text>

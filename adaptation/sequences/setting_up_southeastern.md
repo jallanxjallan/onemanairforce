@@ -1,7 +1,6 @@
 ---
-status: new
+status: rethink
 title: Setting Up Southeastern
-
 ---
 [Setting Up Southeastern]{cat="scene"}[04 March 1947]{cat="date"}  Bob partners with Singapore-based businessman Hugh Savage to start Southeastern Airlines.
 

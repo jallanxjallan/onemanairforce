@@ -1,7 +1,6 @@
 ---
-status: new
+status: rethink
 title: Weekend In Jogja
-
 ---
 [Weekend In Jogja]{cat="scene"}[1 August 1988]{cat="date"}  Muharto and Cameron travel to Jogjakarta: Muharto on the train and Cameron on his Harley. Cameron arrives first, and visits the Affandi Musuem. 
 [Old Maestro]{cat="scene"}[1 August 1988]{cat="date"}  Cameron roars up the driveway of the Affandi Museum, in the process startling a

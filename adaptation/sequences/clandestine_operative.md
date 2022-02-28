@@ -1,7 +1,6 @@
 ---
-status: new
+status: rework
 title: Clandestine Operative
-
 ---
 [Clandestine Operative]{cat="scene"}[21 October 1988]{cat="date"}  Victor tells Cameron of
 Robert Koke, who his Indonesian friends identified as a CIA operative.

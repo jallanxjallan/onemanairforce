@@ -1,7 +1,7 @@
 ---
 filters:
-  - drop_on_flag.lua
   - synopsis_to_body.lua
   - metadata_to_span.lua
   - print_output_file.lua 
-standalone: True
+metadata: 
+  keep-on-status: synopsis

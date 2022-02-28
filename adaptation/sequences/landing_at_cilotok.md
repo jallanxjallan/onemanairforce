@@ -2,7 +2,7 @@
 status: draft
 title: Landing At Cilotok
 ---
-[Landing At Cilotok]{cat="scene"}[08 June 1947]{cat="date"}  Bob Freeberg lands his unmarked Dakota cargo plane on
+[SLUGLINE]{scene="Landing At Cilotok" date="08 June 1947"}  Bob Freeberg lands his unmarked Dakota cargo plane on
 remote Cilotok beach in southwest Java, the huge aircraft shuddering to
 a stop a few meters from a cliff at one end. Villagers appear, marveling
 at this colossus from the sky. They are friendly and offer Bob and his
