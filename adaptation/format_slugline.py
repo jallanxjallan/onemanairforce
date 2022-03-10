@@ -17,26 +17,27 @@ import attr
 
 @attr.s
 class Slugline():
-    scene = attr.ib(default=None)
+    name = attr.ib(default=None)
     date = attr.ib(default=None, converter=attr.converters.optional(parse_date))
-    location = attr.ib(default=None)
+    location = attr.ib(default=None) 
+    category = sttr.ib(default=None)
+    exact_date=attr.ib(default=False)
 
 
 def format_slugline(prefix, date):
     ss = [pf.Str(prefix)]
     if date:
-       ss.extend([pf.Space, pf.Str(date.strftime('%B %Y'))])
+       ss.extend([pf.Space, pf.Str()])
 
-    return pf.Span(pf.Strong(*ss), pf.Space)
+   
 
 
-def make_slugline(doc):
+def format_date(elem, doc):
     cs = doc.sluglines[-1]
-    pf.debug(cs)
-    try:
-        ps = doc.sluglines[-2]
-    except IndexError:
-        return format_slugline('In', cs.date)
+    ps = doc.sluglines[-2] 
+    if cs.exact_date:
+        return f'On {cs.date.strftime('%d %B %Y')}'
+    
 
 
     dd = relativedelta(cs.date, ps.date)
@@ -48,7 +49,7 @@ def make_slugline(doc):
         return format_slugline('A few days later', None)
 
     elif dd.years < -10:
-        return format_slugline('Flashing back to', cs.date)
+        return format_slugline('Flashing back to', cs.date.strftime('%B %Y'))
 
     elif dd.years > 10:
         return format_slugline('Returning to', cs.date)
@@ -58,13 +59,15 @@ def make_slugline(doc):
 
 
 def prepare(doc):
-    doc.sluglines = []
+    doc.sluglines = Slugline(date="1 June 1947", category="scene")
 
 def action(elem, doc):
 
     if isinstance(elem, pf.Span) and elem.content[0].text == 'SLUGLINE':
-        doc.sluglines.append(Slugline(**elem.attributes))
-        return make_slugline(doc)
+        doc.sluglines.append(Slugline(**elem.attributes)) 
+        date = format_date(elem, doc) 
+        location = format_location(elem, doc) 
+        return pf.Span(pf.Strong(date, location), pf.Space) 
     else:
         return elem
 
