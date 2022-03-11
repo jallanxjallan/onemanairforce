@@ -1,10 +1,16 @@
 ---
 category: past
 date: 04 July 1947
+name: Crushing Disappointment
 status: draft
+synopsis: '''Bambang is crushed when his fighter is grounded minutes before he was
+  to take off for the raid on Ambarrawa.'''
 title: Crushing Disappointment
-synopsis: Bambang is crushed when his fighter is grounded minutes before he was to take off for the raid on Ambarrawa. 
+
 ---
+
+
+
 
 
 Bambang prepares to fly as wing man to the squadron

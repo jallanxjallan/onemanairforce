@@ -1,10 +1,17 @@
 ---
 category: past
 date: 04 January 1980
+name: Muharto Investigates
 status: draft
+synopsis: '''Muharto writes to his contacts in the Air Force and to the officers who
+  participated in the crash-site investigation, but receives vague, non-committal
+  replies -- or only silence.'''
 title: Muharto Investigates
-synopsis: Muharto writes to his contacts in the Air Force and to the officers who participated in the crash-site investigation, but receives vague, non-committal replies -- or only silence. 
+
 ---
+
+
+
 
 Muharto writes to his contacts in the Air Force and to the
 officers who participated in the crash-site investigation, but receives

@@ -1,10 +1,15 @@
 ---
 category: present
 date: 5 July 1988
+name: Muharto Thanks Cameron
 status: draft
+synopsis: '''Muharto visits Cameron at the Jakarta Times to thank him for the article.'''
 title: Muharto Thanks Cameron
-synopsis: Muharto visits Cameron at the Jakarta Times to thank him for the article.
+
 ---
+
+
+
 
 
 Muharto 

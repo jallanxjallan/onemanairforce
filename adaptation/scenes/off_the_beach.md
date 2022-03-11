@@ -1,10 +1,16 @@
 ---
 category: past
 date: 09 June 1947
+name: Off the Beach
 status: draft
+synopsis: '''Muharto and Pang inspire villages to build a bamboo runway so RI-002
+  can take off before spotted by a Dutch patrol.'''
 title: Off the Beach
-synopsis: Muharto and Pang inspire villages to build a bamboo runway so RI-002 can take off before spotted by a Dutch patrol.
+
 ---
+
+
+
 
 Muharto flies to the army base at Tasikmalaya, where he meets Pang Soeparto. They load two barrels of aviation fuel onto a jeep and drive to Cilotok Beach. On arrival, Muharto recognizes Freeberg as the pilot of a previous blockade run that Muharto had organized. Muharto and Pang
 marvel that Freeberg had been able to land on this short stretch of

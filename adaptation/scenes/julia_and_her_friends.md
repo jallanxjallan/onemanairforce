@@ -1,10 +1,17 @@
 ---
-status: draft
-title: Julia and her friends
-date: 7 July 1988
 category: present
-synopsis: "Julia's friends urge her to get closer to Cameron, noting that her father, who unlike theirs only mildly corrupt, cannot afford to send Julia to graduate school in America."     
+date: 7 July 1988
+name: Julia and her friends
+status: draft
+synopsis: '''Julia''s friends urge her to get closer to Cameron, noting that her father,
+  who unlike theirs only mildly corrupt, cannot afford to send Julia to graduate school
+  in America.'''
+title: Julia and her friends
+
 ---
+
+
+
 Julia tells Cameron that she is meeting friends at the Mandarin Hotel. That hotel is also the watering hole for the foreign press, so Cameron offers to give her a lift and meet his colleagues for a beer. Julia ponders a moment, but finally agrees. 
 
 Cameron and Julia roar up tp the front entrance. The doorman is a Harley owner himself, and let's Cameron park near the door. 

@@ -1,10 +1,16 @@
 ---
 category: past
 date: 17 October 1947
+name: Kalimantan Paratroopers
 status: draft
+synopsis: '''Bob and Boedi fly ten paratroopers to be dropped near an insurgent stronghold
+  in the forests of Kalimantan.'''
 title: Kalimantan Paratroopers
-synopsis: Bob and Boedi fly ten paratroopers to be dropped near an insurgent stronghold in the forests of Kalimantan. 
+
 ---
+
+
+
 
 Bob and Boedi fly ten paratroopers to be dropped
 near an insurgent stronghold in the forests of Kalimantan. None have

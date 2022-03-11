@@ -1,2 +1,5 @@
-[SLUGLINE]{name="$name$" date="$date$" category="$category$"} $synopsis$ 
+$--[SLUGLINE]{name="$name$" date="$date$" category="$category$"} $synopsis$
+**$name$**  $synopsis$
+
+ 
 

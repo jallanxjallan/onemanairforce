@@ -1,10 +1,16 @@
 ---
 category: past
 date: 28 December 1947
+name: Spoor Dumbfounded
 status: omit
+synopsis: '''Spoor is dumbfounded when he reads that RI-003 was not running guns,
+  but household items such as dinner plates and cutlery.'''
 title: Spoor Dumbfounded
-synopsis: Spoor is dumbfounded when he reads that RI-003 was not running guns, but household items such as dinner plates and cutlery.
+
 ---
+
+
+
 
 Spoor is dumbfounded when he reads the report on
 the crash of RI-003. Spoor investigators discover that the plane, though

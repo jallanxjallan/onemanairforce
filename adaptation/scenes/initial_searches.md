@@ -1,10 +1,16 @@
 ---
 category: past
 date: 5 July 1988
+name: Initial Searches
 status: draft
+synopsis: '''Muharto tells Cameron of the disappearance of RI-002, and the discovery
+  of the wreckage 30 years later.'''
 title: Initial Searches
-synopsis: Muharto tells Cameron of the disappearance of RI-002, and the discovery of the wreckage 30 years later. 
+
 ---
+
+
+
 
 
 Muharto tells Cameron that on the afternoon of 1 October 1948 he heard

@@ -1,10 +1,16 @@
 ---
 category: past
 date: 29 July 1977
+name: Sixth Coffin
 status: draft
+synopsis: '''Airmen load five flag-draped coffins onto a truck, but leave behind the
+  sixth coffin, larger than the others and with a flag.'''
 title: Sixth Coffin
-synopsis: Airmen load five flag-draped coffins onto a truck, but leave behind the sixth coffin, larger than the others and with a flag. 
+
 ---
+
+
+
 
 
 Five coffins draped in Indonesian flags lie on a

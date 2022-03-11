@@ -1,7 +1,4 @@
 ---
 filters:
-  - synopsis_to_body.lua
-  - metadata_to_span.lua
   - print_output_file.lua 
-metadata: 
-  keep-on-status: synopsis
+template: synopsis

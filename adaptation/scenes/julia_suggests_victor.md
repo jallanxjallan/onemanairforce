@@ -1,10 +1,16 @@
 ---
 category: wrapper
 date: 6 July 1988
-title: Julia Suggests Victor
+name: Julia Suggests Victor
 status: draft
-synopsis: Julia suggests they speak to Victor de Jong, a Dutch conscript who was posted in Spoor's office and stayed on to become an Indonesian after independence. 
+synopsis: '''Julia suggests they speak to Victor de Jong, a Dutch conscript who was
+  posted in Spoor''s office and stayed on to become an Indonesian after independence.'''
+title: Julia Suggests Victor
+
 ---
+
+
+
 
 Julia notes that the snide tone of the language in the article suggests
 the reporter was convinced that Spoor was hiding something. She says

@@ -1,10 +1,16 @@
 ---
 category: past
 date: 10 September 1948
+name: Fighter Planes Tail Fowler
 status: draft
+synopsis: '''During a night flight, Fowler believes he spots Dutch fighters flanking
+  him.'''
 title: Fighter Planes Tail Fowler
-synopsis: During a night flight, Fowler believes he spots Dutch fighters flanking him. 
+
 ---
+
+
+
 
 
 While flying a group of international journalists

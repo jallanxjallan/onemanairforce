@@ -1,10 +1,16 @@
 ---
 category: past
 date: 17 April 1977
+name: Crash Site Discovery
 status: synopsis
+synopsis: '''Two farmers lead Air Force investigators to the RI-002 crash site, where
+  they find human remains, but no gold.'''
 title: Crash Site Discovery
-synopsis: Two farmers lead Air Force investigators to the RI-002 crash site, where they find human remains, but no gold. 
+
 ---
+
+
+
 
 
 Two wiry men dressed in shabby clothes lead a squad of

@@ -1,10 +1,16 @@
 ---
 category: past
 date: 13 June 1947
+name: Quinine Case
 status: draft
+synopsis: '''Bob and Muharto challenge the Dutch claim over the quinine cargo in a
+  Manila court.'''
 title: Quinine Case
-synopsis: Bob and Muharto challenge the Dutch claim over the quinine cargo in a Manila court. 
+
 ---
+
+
+
 
 Dutch representatives in Manila sue Muharto and Pang in
 civil court for possession of the quinine. Fortunately, Muharto's

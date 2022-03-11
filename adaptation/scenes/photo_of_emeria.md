@@ -1,10 +1,16 @@
 ---
 category: interview
 date: 7 July 1988
+name: Photo of Emeria
 status: draft
+synopsis: '''Victor comes across a photo of Emiria Soenassa. Julia asks who she, but
+  Victor says she is not important and files the photo away.'''
 title: Photo of Emeria
-synopsis: Victor comes across a photo of Emiria Soenassa. Julia asks who she, but Victor says she is not important and files the photo away. 
+
 ---
+
+
+
 
 Victor searches for more shots of Batavia to prod his memory about
 Spoor's efforts to stop the blockade runs. He stops when he comes across

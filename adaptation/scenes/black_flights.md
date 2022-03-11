@@ -1,10 +1,16 @@
 ---
 category: past
 date: 04 March 1948
+name: Black Flights
 status: draft
+synopsis: '''Suryadarma orders Bob to transport Republican opium to Bukittinggi. If
+  caught, Freeberg could be jailed for life as a narcotics smuggler.'''
 title: Black Flights
-synopsis: Suryadarma orders Bob to transport Republican opium to Bukittinggi. If caught, Freeberg could be jailed for life as a narcotics smuggler. 
+
 ---
+
+
+
 
 Suryadarma orders Bob to transport Republican opium to
 Bukittinggi. Bob knows that if he is intercepted, the Dutch could jail

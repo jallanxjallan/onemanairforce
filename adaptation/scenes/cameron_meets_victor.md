@@ -1,10 +1,16 @@
 ---
 category: interview
 date: 7 July 1988
+name: Cameron Meets Victor
 status: draft
+synopsis: '''Cameron interviews Victor, who often heard Spoor raging about the foreign
+  pilots invading Dutch East Indies airspace.'''
 title: Cameron Meets Victor
-synopsis: Cameron interviews Victor, who often heard Spoor raging about the foreign pilots invading Dutch East Indies airspace. 
+
 ---
+
+
+
 
 Julia and Cameron enter the IPPHOS office, located
 on the ground floor of a building in the colonial-era section of

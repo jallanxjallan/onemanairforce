@@ -1,10 +1,16 @@
 ---
-status: synopsis
-title: Drop Over Bukittinggi
-date: 31 March 1947
 category: past
-synopsis: Freeberg expertly flies through highland valleys to drop two air force engineers directly onto a damaged runway near Bukittinggi.  
+date: 31 March 1947
+name: Drop Over Bukittinggi
+status: synopsis
+synopsis: '''Freeberg expertly flies through highland valleys to drop two air force
+  engineers directly onto a damaged runway near Bukittinggi.'''
+title: Drop Over Bukittinggi
+
 ---
+
+
+
 The CALI Dakota flies over the Bukit Barisan mountaintops, and drops
 into a valley toward the town of Bukittinggi. At Muharto's direction,
 Bob passes low over an airstrip, which is plainly full of potholes and

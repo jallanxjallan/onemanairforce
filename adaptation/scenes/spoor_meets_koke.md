@@ -1,10 +1,16 @@
 ---
 category: past
 date: 15 October 1947
+name: Spoor Meets Koke
 status: synopsis
+synopsis: '''Victor sees Robert Koke arrive with Walter Foote. He hears Koke speaking
+  fluent Indonesian to a local soldier.'''
 title: Spoor Meets Koke
-synopsis: Victor sees Robert Koke arrive with Walter Foote. He hears Koke speaking fluent Indonesian to a local soldier.
+
 ---
+
+
+
 
 
 Walter Foote arrives at Spoor's office with a guest, Robert Koke. Julius

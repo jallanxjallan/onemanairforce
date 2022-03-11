@@ -1,10 +1,18 @@
 ---
 category: past
 date: 10 June 1947
+name: Fictitious Registration
 status: draft
+synopsis: '''Suryadarma commissions Bob to fly a cargo of high-value quinine to Manila
+  and return with essential medicines and spare parts. To forstall problems with Philippines
+  aviation authorities, Muharto suggests giving the unregistered Dakota a registration
+  number RI-002.'''
 title: Fictitious Registration
-synopsis: "Suryadarma commissions Bob to fly a cargo of high-value quinine to Manila and return with essential medicines and spare parts. To forstall problems with Philippines aviation authorities, Muharto suggests giving the unregistered Dakota a registration number RI-002."
+
 ---
+
+
+
 
 In Maguwo  Suryadarma commissions Bob to
 fly a cargo of high-value quinine to Manila and return with essential

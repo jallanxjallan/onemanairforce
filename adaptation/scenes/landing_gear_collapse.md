@@ -1,10 +1,15 @@
 ---
 category: past
 date: 04 May 1948
+name: Landing Gear Collapse
 status: draft
+synopsis: '''RI-002 cracks a wing when the landing gear collapses prior to takeoff.'''
 title: Landing Gear Collapse
-synopsis: RI-002 cracks a wing when the landing gear collapses prior to takeoff. 
+
 ---
+
+
+
 
 
 The landing gear collapses just as RI-002 is

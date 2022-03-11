@@ -1,10 +1,15 @@
 ---
 category: present
 date: 12 October 1988
+name: Bibit Bebet Bobot
 status: synopsis
+synopsis: '''Eddy tells Julia that she must be careful in her choice of a future husband.'''
 title: Bibit Bebet Bobot
-synopsis: Eddy tells Julia that she must be careful in her choice of a future husband. 
+
 ---
+
+
+
 
 
 Eddy has a heart-to-heart talk with

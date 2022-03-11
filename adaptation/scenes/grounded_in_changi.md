@@ -1,10 +1,17 @@
 ---
 category: past
 date: 29 December 1947
+name: Grounded In Changi
 status: synopsis
+synopsis: '''RI-002 flies Ining to Manila, but is forced by bad weather to land in
+  Singapore. Dutch representatives on the island pressure the British into grounding
+  the Dakota.'''
 title: Grounded In Changi
-synopsis: RI-002 flies Ining to Manila, but is forced by bad weather to land in Singapore. Dutch representatives on the island pressure the British into grounding the Dakota.
+
 ---
+
+
+
 
 RI-002 departs for Pekanbaru carrying 14 Republican
 officials and a coffin containing Ining's remains. Bad weather over

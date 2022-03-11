@@ -1,10 +1,16 @@
 ---
 category: past
 date: 10 November 1946
+name: Victor Arrives
 status: draft
+synopsis: '''Victor arrives in Batavia. He already knows some Indonesia from studying
+  a phrasebook during the voyage.'''
 title: Victor Arrives
-synopsis: Victor arrives in Batavia. He already knows some Indonesia from studying a phrasebook during the voyage.
+
 ---
+
+
+
 
 
 Victor marches off troop ship with other recruits.

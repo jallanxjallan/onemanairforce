@@ -1,10 +1,16 @@
 ---
 category: past
 date: 04 August 1947
+name: Bob Walters Bitches
 status: draft
+synopsis: '''Boedi has a beer with But another American aviator, Bob Walters, Freeberg''s
+  co-owner of RI-002, who calls Bob a thief and a con man.'''
 title: Bob Walters Bitches
-synopsis: Boedi has a beer with But another American aviator, Bob Walters, Freeberg's co-owner of RI-002, who calls Bob a thief and a con man.
+
 ---
+
+
+
 
 The gregarious and charismatic Boedi has been wholly
 accepted by the Aviation Brotherhood, the freewheeling foreign pilots

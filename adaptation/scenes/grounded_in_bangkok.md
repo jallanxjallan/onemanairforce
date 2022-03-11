@@ -1,10 +1,17 @@
 ---
 category: past
 date: 20 October 1947
+name: Grounded in Bangkok
 status: draft
+synopsis: '''Freeberg flies two Indonesian aviators to Bangkok, where they will purchase
+  and fly back an Avro Anson. Under pressure from the Dutch, the Thais detain Freeberg,
+  but soon release him and allow RI-002 to depart.'''
 title: Grounded in Bangkok
-synopsis: Freeberg flies two Indonesian aviators to Bangkok, where they will purchase and fly back an Avro Anson. Under pressure from the Dutch, the Thais detain Freeberg, but soon release him and allow RI-002 to depart. 
+
 ---
+
+
+
 
 Bob flies two Indonesian aviators, Halim and Iswandi,
 to Bangkok where they will purchase a twin-prop airplane that will
