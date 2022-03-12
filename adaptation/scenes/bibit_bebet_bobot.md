@@ -8,10 +8,6 @@ title: Bibit Bebet Bobot
 
 ---
 
-
-
-
-
 Eddy has a heart-to-heart talk with
 Julia, letting her know that he opposes Julia marrying a foreigner. Eddy
 has checked into Cameron's background, and found he is penniless and

@@ -4,7 +4,7 @@ date: 7 July 1988
 name: Julia and her friends
 status: draft
 synopsis: '''Julia''s friends urge her to get closer to Cameron, noting that her father,
-  who unlike theirs only mildly corrupt, cannot afford to send Julia to graduate school
+  who unlike theirs, is only mildly corrupt and cannot afford to send Julia to graduate school
   in America.'''
 title: Julia and her friends
 

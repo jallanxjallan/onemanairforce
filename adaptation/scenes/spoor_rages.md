@@ -10,7 +10,7 @@ title: Spoor Rages
 
 ---
 
-
+​           Victor overhears Spoor raging about the foreign pilots violating Dutch East Indies airspace with impunity. Spoor is particularly incensed at the report of Freeberg dropping paratroopers over Dutch-held territory in Kalimantan.
 
 
 

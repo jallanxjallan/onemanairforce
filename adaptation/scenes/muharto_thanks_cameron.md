@@ -4,13 +4,7 @@ date: 5 July 1988
 name: Muharto Thanks Cameron
 status: draft
 synopsis: '''Muharto visits Cameron at the Jakarta Times to thank him for the article.'''
-title: Muharto Thanks Cameron
-
 ---
-
-
-
-
 
 Muharto 
 visits The Jakarta Times to personally thank Cameron and Syd and pick up any extra copies of the edition. He says
