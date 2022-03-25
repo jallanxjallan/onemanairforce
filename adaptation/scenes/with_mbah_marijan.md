@@ -3,13 +3,12 @@ category: present
 date: 2 August 1988
 name: With Mbah Marijan
 status: omit
-synopsis: '''Cameron and Muharto visit a guru on Mount Merapi to seek spiritual support
-  for the success of their investigation.'''
 title: With Mbah Marijan
 
 ---
+Cameron and Muharto visit a guru on Mount Merapi to seek spiritual support for the success of their investigation.
 
-
+------
 
 Cameron accompanies Muharto to a village on the
 upper slopes of the Merapi volcano to meet Muharto's spiritual advisor,

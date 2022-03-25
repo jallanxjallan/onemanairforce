@@ -3,10 +3,12 @@ category: present
 date: 6 October 1988
 name: Master of Dissemination
 status: synopsis
-synopsis: '''Julia insists that Robert Koke supported independence, but Cameron is equally adamant that this was only CIA dissemination.'''
 
 ---
+Cameron dismisses Julia's contention that Robert Koke supported independence, saying it is only typical CIA dissemination. Annoyed at being brushed off, Julia sends a
+letter to Koke through the book's publisher, expressing her interest about his time in Batavia.
 
+------
 
 Julia tells Cameron about her discovery that Robert Koke had run a hotel in Bali, and that his seeming empathy and respect for Indonesians -- or at least the Balinese. Cameron
 dismisses her, insisting that CIA agents are masters at dissemination.

@@ -3,12 +3,9 @@ category: interview
 date: 04 November 1988
 name: Cameron Interviews Paul Verspoor
 status: rework
-synopsis: '''Cameron meets Paul Verspoor, a retired Dutch airforce officer who seems to know more that he lets on about the fate of RI-002.'''
 title: Cameron Interviews Paul Verspoor
 
 ---
-
-
 Muharto takes Cameron to meet his friend Alex
 Kawilarang, Also present is a Paul Verspoor, a retired Dutch
 airforce officer vacationing in Indonesia. Verspoor, who had been a KNIL

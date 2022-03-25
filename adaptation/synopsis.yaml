@@ -1,4 +1,6 @@
 ---
-filters:
-  - print_output_file.lua 
-template: synopsis
+filters: 
+  - above_the_line.lua
+  - output_to_temp.lua 
+metadata:
+    template: synopsis

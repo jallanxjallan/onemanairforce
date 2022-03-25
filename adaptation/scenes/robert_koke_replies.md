@@ -3,14 +3,12 @@ category: research
 date: 07 December 1988
 name: Robert Koke Replies
 status: draft
-synopsis: '''Robert Koke replies with accounts of his adventures as a CIA officer
-  in Batavia.'''
 title: Robert Koke Replies
 
 ---
+Robert Koke replies with accounts of his adventures as a CIA officer in Batavia.
 
-
-
+------
 
 Julia receives a letter from Florida. It is not
 from Robert Koke, but a nephew, who explains that his uncle is reticent to talk

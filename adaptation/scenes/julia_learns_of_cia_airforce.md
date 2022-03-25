@@ -3,8 +3,11 @@ category: present
 date: 21 November 1988
 name: Julia Learns of CIA Airforce
 status: synopsis
-synopsis: '''Julia discovers that Muharto''s had commanded the CIA Air Force during the Permesta rebellion.'''
+
 ---
+Julia discovers that "Colonel" Muharto had commanded the CIA-sponsored rebel air force in 1958, including piloting a bombing raid. After a bomber was shot down and the American pilot captured, the "Revolutionary Air Force" was disbanded and Muharto and his family had fled to exile in Malaya.
+
+------
 
 Julia finds Muharto's name mentioned in article
 about Permesta, the failed military rebellion against the Soekarno government. "Colonel" Muharto had commanded the Revolutionary Air

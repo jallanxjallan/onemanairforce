@@ -3,13 +3,12 @@ category: interview
 date: 21 July 1988
 name: Cameron Interviews George Rueneker
 status: synopsis
-synopsis: '''George Rueneker tells Cameron the tragic story of Captain Espina.'''
 title: Cameron Interviews George Rueneker
 
 ---
+George Rueneker tells Cameron the tragic story of Captain Espina.
 
-
-
+------
 
 Sanyoto introduces Cameron to George Rueneker, a retired Air Force officer
 who owns an aviation-services company. George is of mixed

@@ -3,8 +3,11 @@ category: past
 date: 1 January 1947
 name: Victor Makes Maps
 status: synopsis
-synopsis: '''Victor is assigned to the mapping department. The head cartographer realizes Victor has a good eye for spotting details, and recommends him as a photo analyst.'''
+
 ---
+Victor is assigned to the mapping department. The head cartographer realizes Victor has a good eye for spotting details, and recommends him as a photo analyst.
+
+------
 
 Victor is assigned to
 the mapping department as a junior draftsman upon the recommendation of

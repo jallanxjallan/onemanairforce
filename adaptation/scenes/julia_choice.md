@@ -4,11 +4,10 @@ date: 16 December 1988
 location: Airport
 name: Julia Choice
 status: new
-synopsis: '''Julia turns down Cameron''s offer and announces her decision to take
-  her masters at UI.'''
 
 ---
+Julia turns down Cameron's offer and announces her decision to take her masters at UI.
 
-
+------
 
 Julia turns down Cameron's offer and announces her decision to take her masters at UI.  

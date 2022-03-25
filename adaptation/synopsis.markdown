@@ -1,5 +1,5 @@
-$--[SLUGLINE]{name="$name$" date="$date$" category="$category$"} $synopsis$
-**$name$**  $synopsis$
+[SLUGLINE]{name="$name$" date="$date$"} $body$
+$--**$name$**  $body$
 
  
 

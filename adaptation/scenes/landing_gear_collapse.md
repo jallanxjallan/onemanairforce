@@ -3,15 +3,9 @@ category: past
 date: 04 May 1948
 name: Landing Gear Collapse
 status: draft
-synopsis: '''RI-002 cracks a wing when the landing gear collapses prior to takeoff.'''
 title: Landing Gear Collapse
 
 ---
-
-
-
-
-
 The landing gear collapses just as RI-002 is
 preparing to take off from the strip at Bukittinggi. Bob checks the wing
 for damage, and decides that the new crack in not serious. Later that

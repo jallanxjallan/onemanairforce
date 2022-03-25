@@ -3,15 +3,12 @@ category: past
 date: 04 September 1947
 name: Victor Assigned To Spoor
 status: draft
-synopsis: '''Victor is surprised with he receives orders to work at headquarters directly
-  under General Spoor.'''
 title: Victor Assigned To Spoor
 
 ---
+Victor is surprised with he receives orders to work at headquarters directly under General Spoor.
 
-
-
-
+------
 
 Arriving at work, Victor sees a sealed
 envelope on his desk that he knows to be reassignment orders. He opens

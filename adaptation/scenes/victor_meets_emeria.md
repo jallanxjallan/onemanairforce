@@ -3,14 +3,11 @@ category: past
 date: 04 October 1947
 name: Victor Meets Emeria
 status: synopsis
-synopsis: '''After Victor writes a lauditory review of Emeria''s exhibition, Auke Sonnega takes him to her studio.'''
-
 
 ---
+After Victor writes a lauditory review of Emeria's exhibition, Auke Sonnega takes him to her studio.
 
-
-
-
+------
 
 Victor singles out Emeria as the highlight of the
 exhibition in one of his reviews. A few days later, Emeria contacts

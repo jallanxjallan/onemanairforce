@@ -3,9 +3,11 @@ category: past
 date: 28 December 1948
 name: Victor Joins Republicans
 status: synopsis
-synopsis: '''Victor defects to Republicans after being told Emeria is waiting for him in the hills.'''
 
 ---
+Victor defects to Republicans after being told Emeria is waiting for him in the hills.
+
+------
 
 Jogjakarta is declared  secure, and Victor
 can walk around Jogja alone to document the condition of the town. A man

@@ -3,15 +3,13 @@ category: present
 date: 15 August 1988
 name: Santoso Necklace
 status: draft
-synopsis: '''Muharto falls into trance while holding Santoso''s necklace. He sees
-  Bambang in the captain''s chair as RI-002 crashes.'''
 title: Santoso Necklace
 
 ---
+Muharto and Cameron visit the widow and son of
+Santoso. Hadi Muharto falls into trance while holding Santoso's necklace. He sees Bambang in the captain's chair as RI-002 crashes.
 
-
-
-
+------
 
 Muharto and Cameron visit the widow and son of
 Santoso. The son, Hadi, admits that the night before the ceremony he

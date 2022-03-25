@@ -3,16 +3,9 @@ category: past
 date: 5 July 1988
 name: Initial Searches
 status: draft
-synopsis: '''Muharto tells Cameron of the disappearance of RI-002, and the discovery
-  of the wreckage 30 years later.'''
 title: Initial Searches
 
 ---
-
-
-
-
-
 Muharto tells Cameron that on the afternoon of 1 October 1948 he heard
 reports that RI-002 had not arrived at Bukittinggi. In the following
 days, the Dutch denied any knowledge of the disappearance, and the

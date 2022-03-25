@@ -3,14 +3,12 @@ category: past
 date: 04 August 1947
 name: Victor Reviews Art
 status: synopsis
-synopsis: '''Victor reviews art exhibitions for a Batavia newspaper'''
 title: Victor Reviews Art
 
 ---
+Victor reviews art exhibitions for a Batavia newspaper
 
-
-
-
+------
 
 Several of the Indonesian draftsman in the mapping
 office, who are are amateur artists themselves, invite Victor to

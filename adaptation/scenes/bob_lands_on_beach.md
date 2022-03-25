@@ -3,14 +3,11 @@ category: standalone
 date: 08 June 1947
 name: Bob Lands On Beach
 status: draft
-synopsis: '''American aviator Bob Freeberg lands his unmarked Dakota cargo plane on
-  remote Cilotok beach in southwest Java. As soldiers approach the airplane, guns
-  ready, he shouts out the only Indonesian words he knows: Captain Petit Muharto'''
 
 ---
+American aviator Bob Freeberg lands his unmarked Dakota cargo plane on remote Cilotok beach in southwest Java. As soldiers approach the airplane, guns ready, he shouts out the only Indonesian words he knows: Captain Petit Muharto
 
-
-
+------
 
 Bob Freeberg lands his unmarked Dakota cargo plane on
 remote Cilotok beach in southwest Java, the huge aircraft shuddering to

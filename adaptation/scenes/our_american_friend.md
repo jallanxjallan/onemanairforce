@@ -3,9 +3,8 @@ category: past
 date: 21 June 1948
 name: Our American Friend
 status: synopsis
-synopsis: '''Soekarno proclaims Freeberg to be "Our American Friend" during a speech delivered from the wing of RI-002.'''
----
 
+---
 During a speech on an airstrip, Soekarno stands on the
 RI-002 wing and speaks to a small, enthralled crowd of local residents.
 Toward the end of the speech, Soekarno points to Bob in the cockpit,

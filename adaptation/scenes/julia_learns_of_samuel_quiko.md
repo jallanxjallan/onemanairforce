@@ -3,13 +3,12 @@ category: present
 date: 16 August 1988
 name: Julia Learns of Samuel Quiko
 status: draft
-synopsis: '''Cameron tells Julia of meeting Samuel Quiko. Julia wants to interview him, but Cameron dismisses the suggestion not relevant to investigating RI-002.'''
 title: Julia Learns of Samuel Quiko
 
 ---
+Cameron tells Julia of meeting Samuel Quiko. Julia wants to interview him, but Cameron dismisses the suggestion not relevant to investigating RI-002.
 
-
-
+------
 
 Cameron
 mentions his meeting with Samuel Quiko to Julia. She remarks on distinctive

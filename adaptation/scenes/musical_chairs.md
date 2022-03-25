@@ -3,14 +3,12 @@ category: past
 date: 15 March 1948
 name: Musical Chairs
 status: draft
-synopsis: '''Muharto and Bambang argue over who gets to sit the the copilot seat.'''
 title: Musical Chairs
 
 ---
+Muharto and Bambang argue over who gets to sit the the copilot seat.
 
-
-
-
+------
 
 Tensions rise in the RI-002 cockpit as Muharto and
 Bambang argue over who gets to sit in the right-hand seat. Muharto

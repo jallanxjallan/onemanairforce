@@ -3,11 +3,12 @@ category: research
 date: 30 June 1988
 name: Cameron Meets Julia
 status: synopsis
-synopsis: '''In the restricted histrical archives of the National Library, Cameron meets Julia Suryakusuma, an attractive, bookish woman in her early 20s, who retrieves materials from the stacks and assists him by sight translating Dutch-language newspaper articles. '''
 title: Cameron Meets Julia
 
 ---
+In the restricted historical archives of the National Library, Cameron meets Julia Suryakusuma, an attractive, bookish woman in her early 20s, who assists him by retrieving materials from the stacks and sight-translating Dutch-language newspaper articles. 
 
+------
 
 Cameron uses his "foreign correspondent" credentials to gain
 access to the reference section of the National Library. Julia

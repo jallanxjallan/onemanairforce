@@ -1,10 +1,13 @@
 ---
 category: present
 date: 15 July 1988
-status: synopsis
 name: Cameron at the Earthquake
-synopsis: '''Syd introduces Cameron to Sanyoto, who is delighted to help uncover the truth about RI-002 by allowing Cameron to interview his guests.'''   
+status: synopsis
+
 ---
+Syd invites Cameron to join him for a drink at the the Earthquake, owned by his friend Sanyoto, a former Air Force drill sargeant and a fixer for foreign companies. Most of the patrons are senior military officers and government officials who all hold Sanyoto in great respect. Sanyoto is delighted to hear of the investigation into the RI-002 mystery, and allows Cameron to interview his guests as long as he minds his manners.
+
+------
 
 After putting the paper to bed one evening, Syd invites
 Cameron to join him for a few drinks at his favorite bar, the

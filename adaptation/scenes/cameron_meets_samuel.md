@@ -3,12 +3,11 @@ category: present
 date: 15 August 1988
 name: Cameron Meets Samuel
 status: draft
-synopsis: '''Sanyoto introduces Cameron to keroncong musician Samuel Quiko, who has interesting stories to tell about the revolution.'''
-
 
 ---
+Sanyoto introduces Cameron to keroncong musician Samuel Quiko, who has interesting stories to tell about the revolution.
 
-
+------
 
 One evening at the Earthquake, the music is supplied by a band playing keroncong, a
 guitar-driven genre that features sentimental Dutch-language lyrics.

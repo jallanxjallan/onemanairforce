@@ -2,13 +2,13 @@
 category: past
 date: 29 July 1947
 name: VT-CLA Crashes
-status: synopsis
-synopsis: '''While celebrating the victory in courts, Bob Muharto, Pang, and Boedi hear the news that 
-  an Indian blockade runner has been shot down on approach to Maguwo. '''
+status: drop
 title: VT-CLA Crashes
 
 ---
+While celebrating the victory in courts, Bob Muharto, Pang, and Boedi hear the news that an Indian blockade runner has been shot down on approach to Maguwo. 
 
+------
 
 Bob invites Muharto, Pang, and Boedi to his apartment
 to celebrate that morning's verdict awarding the quinine to them. Bob's

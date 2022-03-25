@@ -3,14 +3,12 @@ category: present
 date: 7 July 1988
 name: Julia and her friends
 status: draft
-synopsis: '''Julia''s friends urge her to get closer to Cameron, noting that her father,
-  who unlike theirs, is only mildly corrupt and cannot afford to send Julia to graduate school
-  in America.'''
 title: Julia and her friends
 
 ---
+Julia's friends urge her to get closer to Cameron, noting that her father, who unlike theirs, is only mildly corrupt and cannot afford to send Julia to graduate school in America.
 
-
+------
 
 Julia tells Cameron that she is meeting friends at the Mandarin Hotel. That hotel is also the watering hole for the foreign press, so Cameron offers to give her a lift and meet his colleagues for a beer. Julia ponders a moment, but finally agrees. 
 

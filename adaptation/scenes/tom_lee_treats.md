@@ -3,12 +3,8 @@ category: past
 date: 15 August 1947
 name: Tom Lee Treats
 status: draft
-synopsis: '''Tom Lee treats Pang, Boedi and Muharto for beers and dinner, pumping them for information about the political situation in the Republic.'''
 title: Tom Lee Treats
-
 ---
-
-
 Pang, Boedi and Muharto enjoy a brief respite from
 their meager diet when Tom Lee invites them for drinks or dinner. During
 these pleasant encounters, Tom expresses a lively interest in the

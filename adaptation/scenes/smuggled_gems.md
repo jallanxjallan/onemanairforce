@@ -3,15 +3,9 @@ category: past
 date: 15 April 1948
 name: Smuggled Gems
 status: draft
-synopsis: '''Freeberg is furious to discover that Muharto has smuggled gems on RI-002
-  to trade for handguns.'''
 title: Smuggled Gems
 
 ---
-
-
-
-
 At a party in Manila, Muharto is appalled when one of
 Bob's housemates boasts of shooting down own squad leader. He decides to
 not tell Bob of his plan to smuggle gems into Manila to be traded for

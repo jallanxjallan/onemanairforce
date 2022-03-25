@@ -3,11 +3,12 @@ category: present
 date: 4 December 1988
 name: Eddy Offers Tuition
 status: synopsis
-synopsis: '''Julia confronts her father with the suspicion that he was behind the
-  PP harassment of Cameron.'''
 title: Eddy Offers Tuition
 
 ---
+Julia confronts her father with the suspicion that he was behind the PP harassment of Cameron.
+
+------
 
 Julia confronts her father with the suspicion that he was behind the
 PP harassment of Cameron. Eddy confesses, insisting he was doing it for

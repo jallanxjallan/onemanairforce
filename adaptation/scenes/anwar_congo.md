@@ -3,12 +3,11 @@ category: interview
 date: 04 December 1988
 name: Anwar Congo
 status: synopsis
-synopsis: '''Anwar reveals that KNIL officers had paid him to smuggle a substantial
-  quantity of gold to Singapore.'''
+
 ---
+Anwar reveals that KNIL officers had paid him to smuggle a substantial quantity of gold to Singapore.
 
-
-
+------
 
 Anwar reveals that KNIL officers had paid him to
 smuggle a substantial quantity of gold to Singapore. Anwar also

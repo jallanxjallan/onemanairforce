@@ -3,10 +3,11 @@ category: present
 date: 07 December 1988
 name: Julia Finds Emeria
 status: synopsis
-synopsis: '''Julia tracks down Emiria teaching art to children in a village on the
-  outskirts of Jogja. Emeria says she regrets using Victor, but it was wartime.'''
 
 ---
+Julia tracks down Emiria teaching art to children in a village on the outskirts of Jogja. Emeria says she regrets using Victor, but it was wartime.
+
+------
 
 Julia tracks down Emiria teaching art to children
 in a village on the outskirts of Jogja. Emeria reveals that she after

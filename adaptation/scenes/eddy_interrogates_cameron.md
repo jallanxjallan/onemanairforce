@@ -3,15 +3,12 @@ category: present
 date: 20 July 1988
 name: Eddy Interrogates Cameron
 status: draft
-synopsis: '''Sanyoto introduces Cameron to Colonel Eddy without disclosing his relationship
-  to Julia. After a few minutes of conversation, Cameron begins to feel he is being
-  skillfully interrogated.'''
 title: Eddy Interrogates Cameron
 
 ---
+Sanyoto introduces Cameron to Colonel Eddy without disclosing his relationship to Julia. After a few minutes of conversation, Cameron begins to feel he is being skillfully interrogated.
 
-
-
+------
 
 Cameron is conversing with Sanyoto at the bar when a middle-aged Indonesian, clearly a military man though out of uniform, takes the empty stool beside him. Sanyoto introduces him as "Pak Eddy"
 and leaves them to chat. Eddy is affable, and asks Cameron

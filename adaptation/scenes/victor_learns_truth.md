@@ -3,9 +3,11 @@ category: present
 date: 07 December 1988
 name: Victor Learns Truth
 status: synopsis
-synopsis: '''Julia tells meets Victor to tell him about her encounter with Emeria.'''
 
 ---
+Julia tells meets Victor to tell him about her encounter with Emeria.
+
+------
 
 Julia tells meets Victor to tell him about her
 encounter with Emeria. Victor now confesses to Julia that he did not

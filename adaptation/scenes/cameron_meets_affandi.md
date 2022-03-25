@@ -3,13 +3,12 @@ category: interview
 date: 1 August 1988
 name: Cameron Meets Affandi
 status: omit
-synopsis: '''Cameron meets Affandi, who tells him of his activities as a painter during
-  the struggle for independence.'''
 title: Cameron Meets Affandi
 
 ---
+Cameron meets Affandi, who tells him of his activities as a painter during the struggle for independence.
 
-
+------
 
 Cameron roars up the driveway of the Affandi Museum, in the process startling a
 disheveled elderly man, is sitting on a bench on the grounds

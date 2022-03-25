@@ -3,12 +3,12 @@ category: present
 date: 9 July 1988
 name: Eddy Warns Julia
 status: rework
-synopsis: '''Pak Eddy lectures Julia about entering into a relationship with a penniless foreigner.'''
 title: Eddy Warns Julia
 
 ---
+Pak Eddy lectures Julia about entering into a relationship with a penniless foreigner.
 
-
+------
 
 "Pak Eddy" lectures Julia at the breakfast table of their home. He warns his daughter against getting into a relationship Cameron, who is penniless and
 with a spotty academic record. Julia retorts that her relationship with
