@@ -2,7 +2,7 @@
 category: past
 date: 4 August 1947
 name: Propaganda Paintings
-status: omit
+status: drop
 title: Propaganda Paintings
 
 ---

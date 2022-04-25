@@ -2,9 +2,7 @@
 category: past
 date: 04 May 1948
 name: Landing Gear Collapse
-status: draft
-title: Landing Gear Collapse
-
+status: synopsis
 ---
 The landing gear collapses just as RI-002 is
 preparing to take off from the strip at Bukittinggi. Bob checks the wing

@@ -1,4 +1,5 @@
 --- 
 index-file: screenplay.ctd
-document-dir: scenes
+document-dir: scene
+base-dir: Scenes
 document-template: scene

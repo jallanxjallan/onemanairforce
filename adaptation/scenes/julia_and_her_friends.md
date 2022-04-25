@@ -2,11 +2,16 @@
 category: present
 date: 7 July 1988
 name: Julia and her friends
-status: draft
+status: synopsis
 title: Julia and her friends
 
 ---
-Julia's friends urge her to get closer to Cameron, noting that her father, who unlike theirs, is only mildly corrupt and cannot afford to send Julia to graduate school in America.
+Cameron and Julia walk into the lobby together,
+where her friends are waiting. Julia introduces Cameron to them, then he
+walks toward the bar, while Julia and her friends proceed to the coffee shop. 
+
+Naturally, Julia's friends grill her about Cameron. Julia insists that they have only a professional relationship, research assistant to a journalist. Later, when Julia tries to contribute to the bill, her friends laugh, saying "Honest Eddy's daughter can't afford to pay for her own meal!" If she wants to go overseas, she had better get more friendly with Harley
+boy.
 
 ------
 
@@ -14,11 +19,5 @@ Julia tells Cameron that she is meeting friends at the Mandarin Hotel. That hote
 
 Cameron and Julia roar up tp the front entrance. The doorman is a Harley owner himself, and let's Cameron park near the door. 
 
-Cameron and Julia walk into the lobby together,
-where her friends are waiting. Julia introduces Cameron to them, then he
-walks toward the bar, while Julia and her friends proceed to the coffee shop. 
 
-Julia friends grill her about the bule. Julia insists that they have only a professional relationship, research assistant to a journalist. When they are about to leave, Julia tries to contribute to the bill, but her friends laugh, saying "Honest Eddy's daughter can't afford to pay for her own drinks!" If she
-wants to do that, they say, she had better get friendly with Harley
-boy.
 

@@ -1,10 +1,8 @@
 ---
-name: Stranded in Manila 
-sequence: 2
-status: draft
+name: Stranded in Manila
+date: 13 June 1947
+location: Manila
+status: synopsis
 ---
 
-In Manila, Dutch representatives take Muharto and Pang to court, claiming the quinine as Dutch property. After a dramatic court appearance, Muharto wins the case, and RI-002 returns to Jogja in September. 
-
-
-
+In Manila, Freeberg and his "Javanese Crew" become media celebrities, but are stranded for months fighting the efforts of Dutch diplomats for ownership of the cargo. Freeberg is also in court, attempting to reach an agreement with Bob Walters, his former partner, regarding ownership of RI-002. 

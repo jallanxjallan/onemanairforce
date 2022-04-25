@@ -3,13 +3,8 @@ category: past
 date: 17 April 1977
 name: Crash Site Discovery
 status: synopsis
-title: Crash Site Discovery
-
+xdate: True
 ---
-Two farmers lead Air Force investigators to the RI-002 crash site, where they find human remains, but no gold.
-
-------
-
 Two wiry men dressed in shabby clothes lead a squad of
 airmen and their officer, Lt. Sulaiman, through a forested hillside to
 the wreckage of RI-002. The airmen set up camp and search the area. They

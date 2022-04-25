@@ -2,7 +2,7 @@
 category: past
 date: 15 November 1947
 name: Into The Typhoon
-status: draft
+status: drop
 title: Into The Typhoon
 
 ---

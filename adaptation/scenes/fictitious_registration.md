@@ -2,7 +2,7 @@
 category: past
 date: 10 June 1947
 name: Fictitious Registration
-status: draft
+status: synopsis
 title: Fictitious Registration
 
 ---

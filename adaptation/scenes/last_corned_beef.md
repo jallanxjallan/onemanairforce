@@ -2,7 +2,7 @@
 category: past
 date: 21 October 1947
 name: Last Corned Beef
-status: synopsis
+status: drop
 title: Last Corned Beef
 
 ---

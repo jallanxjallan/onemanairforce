@@ -2,7 +2,7 @@
 category: present
 date: 2 August 1988
 name: Museum Trance
-status: omit
+status: synopsis
 title: Museum Trance
 
 ---

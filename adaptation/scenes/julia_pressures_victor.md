@@ -7,7 +7,3 @@ title: Julia Pressures Victor
 
 ---
 Julia returns to confront Victor with her suspicion that he and Emeria were lovers.
-
-------
-
-Julia returns to confront Victor with her suspicion that he and Emeria were lovers.  

@@ -2,17 +2,12 @@
 category: past
 date: 04 September 1947
 name: Krokodil Kourier
-status: draft
-
+status: synopsis
 ---
 
-Samuel and his band play at an exhibition. Between sets, Samuel chats with flamboyant Dutch artist Auke Sonnega, who surreptitiously hands him a small package. Walking back to their lodgings after the event they are stopped by a Dutch patrol. Samuel tells them they are musicians returning from a society gathering, and as proof they take out their guitars and break into a Dutch-language Stamboel song. The soldiers grin and let him pass. They continue walking to the house in a kampung where they will spend the night. Samuel gives the package to a preman who will smuggle it across the demarcation line to Jogja.
+Samuel and
+his band play at the Kuntzkrieg. During a break, Auke Sonnega gives Samuel a glass of iced genever wrapped in a napkin. Concealed in the napkin is a message to be passed to Republican operatives. On the way to the kampung house to meet the contact, Samuel and his band are
+stopped by a Dutch patrol. They immediately break into an impromptu
+concert of Dutch-language *Stamboel* songs to show they are only harmless musicians returning from an event. The soldiers grin and let them pass.
 
-Samuel and his band play at an exhibition at the Kuntskring. In between sets, Samuel chats with Auke Sonnega, who surreptitiously hands him a small package. Walking back to their lodgings after the event they are stopped by a Dutch patrol. Samuel tells them
-they are musicians returning from a society gathering, and as proof they
-take out their guitars and break into a Dutch-language Stamboel song.
-The soldiers grin and let him pass.
-
-They continue walking to the house in a "native" neighborhood where they
-will spend the night. Samuel gives the package to a preman who will smuggle it across the demarcation line to Jogja.
 

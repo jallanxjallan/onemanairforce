@@ -2,7 +2,7 @@
 category: past
 date: 04 October 1947
 name: Bob Trains Bambang
-status: synopsis
+status: drop
 title: Bob Trains Bambang
 
 ---

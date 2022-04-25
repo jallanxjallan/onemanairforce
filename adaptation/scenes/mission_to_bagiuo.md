@@ -3,13 +3,8 @@ category: past
 date: 30 November 1947
 name: Mission To Bagiuo
 status: synopsis
-title: Mission To Bagiuo
-
+xdate: True
 ---
-Bob flies a team of Republican officials and technocrats from Maguwo to a United Nation's conference in the Philippines to make the case for Indonesian independence. 
-
-------
-
 Bob flies a team of
 Republican officials and technocrats from Maguwo to a United Nation's
 conference in the Philippines to make the case for Indonesian

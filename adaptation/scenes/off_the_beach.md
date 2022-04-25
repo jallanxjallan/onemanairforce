@@ -2,7 +2,7 @@
 category: past
 date: 09 June 1947
 name: Off the Beach
-status: draft
+status: synopsis
 title: Off the Beach
 
 ---

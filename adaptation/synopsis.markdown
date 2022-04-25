@@ -1,5 +1,2 @@
-[SLUGLINE]{name="$name$" date="$date$"} $body$
-$--**$name$**  $body$
-
- 
+[SLUGLINE]{date="$date$" category="$category$" xdate=$xdate$} $body$
 

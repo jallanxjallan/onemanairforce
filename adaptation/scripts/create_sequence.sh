@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 
-sequence=$1 
-output_filename=$(echo $sequence | sed 's/ /_/g' | sed -e 's/\(.*\)/\L\1/')
-output_filepath=sequences/$output_filename".md"
+filename=$(echo $1 | sed 's/ /_/g' | sed -e 's/\(.*\)/\L\1/')
+filepath=sequences/$filename".md"
 
-if test -f $output_filepath; then
+if test -f $filepath; then
   echo "$filepath already exists"
 else
-  
-  output_indexed_documents.py screenplay.ctd --base_node "$sequence" --label "Document" \
-  | xargs pandoc --template=sequence -M title="$sequence" -o $output_filepath 
-  echo $output_filepath | tr -d '\n' | xclip -sel clip
-
+    /home/jeremy/Library/scripts/output_document_filepaths.py \
+    screenplay.ctd \
+    --base_node="$1" \
+    --label=Treatment \
+    | /home/jeremy/Library/scripts/output_pandoc_args.py \
+    | xargs -l1 pandoc -d synopsis  \
+    | xargs pandoc -M name="$1" -d sequence -o $filepath 
+    echo file://$(pwd)/$filepath
 fi

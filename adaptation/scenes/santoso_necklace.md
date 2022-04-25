@@ -2,7 +2,7 @@
 category: present
 date: 15 August 1988
 name: Santoso Necklace
-status: draft
+status: drop
 title: Santoso Necklace
 
 ---

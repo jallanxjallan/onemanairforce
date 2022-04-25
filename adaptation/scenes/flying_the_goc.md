@@ -1,14 +1,9 @@
 ---
 category: past
-date: 30 October 1947
+date: 15 October 1947
 name: Flying The GOC
-status: omit
+status: drop
 title: Flying The GOC
-
 ---
-Bob flies three United Nations representatives to Sumatra, where they will assess popular support for the Republic.
-
-------
-
-Bob flies three United Nations representatives to
+Freeberg secretly flies three United Nations representatives to
 Sumatra, where they will assess popular support for the Republic.

@@ -3,13 +3,5 @@ category: past
 date: 11 June 1947
 name: Javanese Celebrities
 status: synopsis
-title: Javanese Celebrities
-
 ---
-Muharto awakes to discover that he and his crew are celebrities, with several newspapers giving front-page treatment to RI-002 and the Javanese Crew.
-
-------
-
-Muharto awakes to discover that he and his crew are
-celebrities, with several newspapers giving front-page treatment to
-RI-002 and the "Javanese Crew".
+Muharto and Pang awake in Manila to discover that they are local are celebrities, with several morning newspapers giving front-page treatment to Bob Freeberg and his "Javanese Crew". Unfortunately, this unintended notoriety attracts the attention of Dutch diplomats.

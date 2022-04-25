@@ -3,7 +3,6 @@ category: interview
 date: 15 July 1988
 name: Cameron Interviews Sudaryono
 status: synopsis
-title: Cameron Interviews Sudaryono
 
 ---
 Sudaryono tells Cameron of the rivalry between the two best cadet pilots in the class: Bambang Sudarmadji and Moeljono.

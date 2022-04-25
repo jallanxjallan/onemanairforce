@@ -2,14 +2,8 @@
 category: past
 date: 17 October 1947
 name: Kalimantan Paratroopers
-status: draft
-title: Kalimantan Paratroopers
-
+status: synopsis
 ---
-Bob and Boedi fly ten paratroopers to be dropped near an insurgent stronghold in the forests of Kalimantan.
-
-------
-
 Bob and Boedi fly ten paratroopers to be dropped
 near an insurgent stronghold in the forests of Kalimantan. None have
 jumped before, or even been in a aircraft, so tension is high. There is
@@ -23,11 +17,12 @@ them safely. He goes to the cockpit and talks with Bob for a moment. The
 Bob turns the aircraft over to his co pilot, leaves his seat and stands
 in the doorway, his body filling the frame. With Boedi translating, Bob
 assures the troops that he has done this many times during the war, and
-will drop them exactly on the requested target. Emboldened by Bobs air
-of quiet competence, each trooper moves forward and shakes Bobs hand.
-Bob returns to his seat, the dropmaster issues the command to jump, and
+will drop them exactly where they can make a safe landing. Emboldened by Bob's air
+of quiet competence, each trooper moves forward and shakes his hand.
+Bob returns to his seat. After minutes later, the dropmaster issues the command to jump, and
 the cabin empties, save for the dropmaster and a lone recruit wondering
 what fate is in store for him back at Maguwo. Boedi watches as the
-parachutes drift down and land are enveloped by the endless forest.
-Boedi asks Bob how many paradrops he made. Bob grins and answers: "None.
+parachutes drift down and land are enveloped by the endless forest, then
+asks Bob how many paradrops he made. Bob grins and answers: "None.
 I was a Navy pilot. All my missions were over water."
+

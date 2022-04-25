@@ -2,7 +2,7 @@
 category: past
 date: 29 July 1977
 name: Sixth Coffin
-status: draft
+status: synopsis
 title: Sixth Coffin
 
 ---

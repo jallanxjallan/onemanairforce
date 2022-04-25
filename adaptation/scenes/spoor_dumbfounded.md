@@ -2,7 +2,7 @@
 category: past
 date: 28 December 1947
 name: Spoor Dumbfounded
-status: omit
+status: synopsis
 title: Spoor Dumbfounded
 
 ---

@@ -7,8 +7,3 @@ title: Thai Authorities Released Freeberg
 
 ---
 Spoor is furious when he learns that Thai authorities have released Freeberg.
-
-------
-
-Spoor is furious when he learns that Thai authorities have released
-Freeberg.

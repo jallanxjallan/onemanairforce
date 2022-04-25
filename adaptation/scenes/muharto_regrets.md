@@ -2,14 +2,10 @@
 category: interview
 date: 28 June 1988
 name: Muharto Regrets
-status: draft
+status: synopsis
 title: Muharto Regrets
 
 ---
-Muharto tells Cameron that if he had flown with Freeberg on that last flight it might not have ended in tragedy.
-
-------
-
 Muharto tells Cameron that the sixth coffin, presumably containing Bob's
 remains, could not be buried with the others in the National Hero cemetary because he was a foreigner.
 Muharto's expression as he finishes his reminiscences convinces Cameron

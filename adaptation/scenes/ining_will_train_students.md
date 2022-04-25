@@ -2,7 +2,7 @@
 category: past
 date: 07 October 1947
 name: Ining Will Train Students
-status: synopsis
+status: draft
 
 ---
 Muharto installs Ining in a house on the slopes of Mount Merapi.

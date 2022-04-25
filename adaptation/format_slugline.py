@@ -12,69 +12,84 @@ Pandoc filter using panflute
 import panflute as pf
 from dateutil.relativedelta import relativedelta
 from dateutil.parser import parse as parse_date
-import attr
+from attr import define, field
+from attr.converters import optional
 
 
-@attr.s
+@define
 class Slugline():
-    name = attr.ib(default=None)
-    date = attr.ib(default=None, converter=attr.converters.optional(parse_date))
-    location = attr.ib(default=None) 
-    category = sttr.ib(default=None)
-    exact_date=attr.ib(default=False)
+    name = field(default=None)
+    date = field(default=None, converter=optional(parse_date))
+    location = field(default=None)
+    category = field(default=None)
+    xdate = field(default=False)
+
+    def format_slugline(self, prefix=None):
+        if self.xdate:
+            date_string = f'On {self.date.strftime("%d %B %Y")}'
+        else:
+            date_string = f'{prefix} {self.date.strftime("%B %Y")}'
+        return pf.Strong(pf.Str(date_string), pf.Space)
 
 
-def format_slugline(prefix, date):
-    ss = [pf.Str(prefix)]
-    if date:
-       ss.extend([pf.Space, pf.Str()])
-
-   
-
-
-def format_date(elem, doc):
+def format_slugline(elem, doc):
     cs = doc.sluglines[-1]
-    ps = doc.sluglines[-2] 
-    if cs.exact_date:
-        return f'On {cs.date.strftime('%d %B %Y')}'
-    
+    if cs.xdate:
+        return cs.format_slugline()
+
+    try:
+        ps = doc.sluglines[-2]
+    except IndexError:
+        return cs.format_slugline()
 
 
     dd = relativedelta(cs.date, ps.date)
 
-    if dd.day == 0:
-        return format_slugline('Later that day', None)
 
-    elif 1 < dd.days < 5:
-        return format_slugline('A few days later', None)
+    if dd.years < -10 and ps.category in ('interview', 'research'):
+        return cs.format_slugline('Flashing back to')
 
-    elif dd.years < -10:
-        return format_slugline('Flashing back to', cs.date.strftime('%B %Y'))
+    elif dd.years > 10 and cs.category in ('interview', 'research'):
+        return cs.format_slugline('Returning to')
 
-    elif dd.years > 10:
-        return format_slugline('Returning to', cs.date)
+    elif dd.years > 10 and not cs.category in ('interview', 'research'):
+        return cs.format_slugline()
+
+    elif dd.days > 10:
+        return cs.format_slugline('Later in')
+
 
     else:
-        return format_slugline('In', cs.date)
+        return []
+
 
 
 def prepare(doc):
-    doc.sluglines = Slugline(date="1 June 1947", category="scene")
+    doc.sluglines = []
 
 def action(elem, doc):
 
     if isinstance(elem, pf.Span) and elem.content[0].text == 'SLUGLINE':
-        doc.sluglines.append(Slugline(**elem.attributes)) 
-        date = format_date(elem, doc) 
-        location = format_location(elem, doc) 
-        return pf.Span(pf.Strong(date, location), pf.Space) 
-    else:
-        return elem
+        doc.sluglines.append(Slugline(**elem.attributes))
+        return format_slugline(elem, doc) or []
+
+
+def finalize(doc):
+    output_blocks = [pf.Para(pf.Str('Placeholder'))]
+    for block in doc.content:
+        if isinstance(block.content[0], pf.Span):
+            pf.debug('Processing Span')
+            output_blocks.append(block)
+        else:
+            output_blocks[-1].content.extend([b for b in block.content])
+    return output_blocks
+
 
 
 def main(doc=None):
     return pf.run_filter(action,
                          prepare=prepare,
+                         finalize=finalize,
                          doc=doc)
 
 if __name__ == '__main__':
