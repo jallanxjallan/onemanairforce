@@ -1,6 +1,6 @@
 ---
-category: interview
-date: 18 August 1988
+
+date: 10 October 1945
 name: Samuel Proves Patriotism
 status: synopsis
 ---

@@ -2,14 +2,10 @@
 category: present
 date: 22 July 1988
 name: Eric explains corruption
-status: draft
+status: synopsis
 title: Eric explains corruption
 
 ---
-Julia has an arranged dinner with Eric, son of a family friend. Eric boasts that their respective parents are cooking up a business deal involving selling insider information to foreign investors.
-
-------
-
 Julia is sitting in a restaurant
 with Eric, a young Indonesian man of good family. Eric mentions his
 surprise Julia's mother phoned his mother to suggest he take her to

@@ -4,8 +4,5 @@ date: 5 July 1988
 name: Muharto Thanks Cameron
 status: synopsis
 ---
-Muharto 
-visits The Jakarta Times to personally thank Cameron and Syd and pick up any extra copies of the edition. He says
-he has been bombarded with calls from old Air Force comrades, asking
-about what happened to the gold. Muharto goes on to say that he had
-tried to solve the mystery himself, but had gotten nowhere.
+The day after the interview is published, Muharto visits the Jakarta Times to thank Cameron personally and pick up more copies to give to those who also knew Freeberg. Muharto remarks that, beside praising Freeberg and his contribution to the nation, all of his friends wondered about the fate of the gold. Muharto admits that soon after the discovery of the RI-002 wreckage he attempted to investigate further, but little success. 
+

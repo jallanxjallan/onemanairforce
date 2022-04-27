@@ -3,8 +3,6 @@ category: past
 date: 04 January 1980
 name: Muharto Investigates
 status: synopsis
-title: Muharto Investigates
-
 ---
 Muharto writes to his contacts in the Air Force and to the
 officers who participated in the crash-site investigation, but receives

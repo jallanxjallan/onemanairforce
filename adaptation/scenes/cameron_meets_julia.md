@@ -5,8 +5,7 @@ name: Cameron Meets Julia
 status: synopsis
 title: Cameron Meets Julia
 ---
-Cameron uses his "foreign correspondent" credentials to gain
-access to the reference section of the National Library. Julia
+In the library, Julia
 Suryakusuma, an attractive, bookish woman in her early 20s, the only
 staffer speaking fluent English, is assigned to assist him. Cameron explains his mission,
 and Julia disappears into the stacks, returning shortly with some books
