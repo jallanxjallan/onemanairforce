@@ -2,13 +2,8 @@
 category: present
 date: 07 December 1988
 name: Victor Learns Truth
-status: synopsis
-
+status: draft
 ---
-Julia tells meets Victor to tell him about her encounter with Emeria.
-
-------
-
 Julia tells meets Victor to tell him about her
 encounter with Emeria. Victor now confesses to Julia that he did not
 resign from KNIL after independence, but deserted during the taking of

@@ -8,7 +8,3 @@ title: Gold Run
 ---
 Suryadarma reluctantly assigns Bob Freeberg the mission to transport gold to Bukittinggi.
 
-------
-
-Suryadarma reluctantly assigns Bob Freeberg the mission to
-transport gold to Bukittinggi.

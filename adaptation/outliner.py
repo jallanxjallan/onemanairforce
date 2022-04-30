@@ -61,7 +61,7 @@ class Outliner():
         dfd['scene_no'] = dfd.index
         dfs = pd.DataFrame(filter(None, [incident_data(ct, n) for n in ct.nodes(STORY_NODE) if n.notes]))
         dft = dfs.merge(dfd, how='left', on='scene').sort_values('scene_no')
-        self.df = dft[dft.status != 'drop']
+        self.df = dft[dft.status != 'drop'].sort_values('scene_no')
         self.ct = ct
 
     @property
@@ -79,7 +79,7 @@ class Outliner():
     @property
     def outline(self):
         columns = [c for c in ('source', 'story', 'incident', 'sequence','scene', 'date', 'category', 'status') if c in self.df.columns]
-        print(self.df.sort_values('scene_no')[columns])
+        print(self.df[columns])
 
 
     def mentions(self, *pats):

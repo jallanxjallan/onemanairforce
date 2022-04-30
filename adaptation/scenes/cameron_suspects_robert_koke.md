@@ -6,10 +6,6 @@ status: synopsis
 title: Cameron Suspects Robert Koke
 
 ---
-Victor tells Cameron of Robert Koke, who his Indonesian friends identified as a CIA operative.
-
-------
-
 Victor tells Cameron of
 Robert Koke, who his Indonesian friends identified as a CIA operative.
 Cameron becomes convinced that the newly formed CIA supported Walter

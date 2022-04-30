@@ -2,13 +2,9 @@
 category: present
 date: 13 December 1988
 name: Syd Fills In
-status: synopsis
+status: draft
 
 ---
-Cameron asks Syd to fill in for him. But an additional work load taxes even this old pro.
-
-------
-
 Cameron asks Syd to fill in while he takes three
 days off to go to Karangendah. But the other copy editors flake out,
 leaving Sid alone on the copy desk. He works three triple shifts,

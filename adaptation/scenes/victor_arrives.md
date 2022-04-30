@@ -3,13 +3,7 @@ category: past
 date: 10 November 1946
 name: Victor Arrives
 status: draft
-title: Victor Arrives
-
 ---
-Victor arrives in Batavia. He already knows some Indonesia from studying a phrasebook during the voyage.
-
-------
-
 Victor marches off troop ship with other recruits.
 Among his possessions is a Malay-Dutch phrasebook and a sketchpad.
 Victor had been told that he and his fellow recruits were being sent to

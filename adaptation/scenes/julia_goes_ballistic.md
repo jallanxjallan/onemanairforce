@@ -3,13 +3,8 @@ category: present
 date: 21 November 1988
 name: Julia Goes Ballistic
 status: synopsis
-
 ---
-Julia is driven to fury while overhearing the open racism of Dutch expats during a party in Kemang.
-
-------
-
-Cameron invites Julia to a party in Kemang in late November 1988. Julia
+At an expat party in Kemang, Julia
 is quietly incensed when she overhears a group of Dutch men joking about
 the laziness and incompetence of their Indonesian staff. She hides her
 displeasure, but when another expat attempts to offer her money to leave

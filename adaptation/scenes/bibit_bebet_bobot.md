@@ -2,7 +2,7 @@
 category: present
 date: 12 October 1988
 name: Bibit Bebet Bobot
-status: synopsis
+status: drop
 title: Bibit Bebet Bobot
 
 ---

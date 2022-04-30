@@ -2,13 +2,9 @@
 category: interview
 date: 15 December 1988
 name: Verspoor Confesses
-status: synopsis
+status: draft
 
 ---
-Verspoor confesses the Westerling had asked if his squadron would support a military coup. 
-
-------
-
 Cameron arranges to meet Alex and Paul at the
 Earthquake the night before Paul will return to the Netherlands. After
 several drinks, and with Alex urging him on, Paul reveals that

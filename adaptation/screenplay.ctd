@@ -789,6 +789,14 @@ Julia visists alone to check if victoe is Regina's friend.
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Stories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618822840.0" ts_lastsave="1651059149.64" unique_id="894">
 		<rich_text>
 </rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Air America" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651059149.64" ts_lastsave="1651280527.07" unique_id="1674">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1600066441.38" ts_lastsave="1651059165.56" unique_id="419">
+				<rich_text>• Tom Lee treats Muharto, Boedi, and Pang to drinks and dinner
+• Asks a lot of questions
+</rich_text>
+			</node>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Alternate Herstory" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619160466.32" ts_lastsave="1646722908.93" unique_id="957">
 			<rich_text>
 </rich_text>
@@ -1232,7 +1240,7 @@ Japanese.</rich_text>
 • Show Ining on board but don't explain who he is
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Lands Ri-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618476070.86" ts_lastsave="1642840867.93" unique_id="871">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Lands RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618476070.86" ts_lastsave="1651280634.83" unique_id="871">
 				<rich_text>• March 1948
 • With Bambang looking on in abject envy, Freeberg lets Muharto land RI-002 in Bukittinggi. He places his left hand near, but not touching the yoke ready to take control instantly. But Muharto lands with only a couple of bounces. 
 • Muharto successfully lands RI-002 at Maguwo 
@@ -1558,7 +1566,7 @@ Japanese.</rich_text>
 • Freeberg counters that Savage has spent their seed capital on women and drinking. They part acrimoniously
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="SE Air Bankrupt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1639370089.3" unique_id="115">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Southeastern Airways Bankrupt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651280566.17" unique_id="115">
 				<rich_text>• Hugh Savage tells Freeberg that Southeastern airlines is bankrupt, and Freeberg has lost his investment. 
 </rich_text>
 			</node>
@@ -1861,14 +1869,6 @@ Cameron tells Julia how writing a successful book will give him the freedom to d
 Om auke used to tease him about having to get home by ten. 
 I thought he might be a soldier as they have to be in thale barracks by ten.
 areer.  </rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Air America" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651059149.64" ts_lastsave="1651059149.64" unique_id="1674">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1600066441.38" ts_lastsave="1651059165.56" unique_id="419">
-				<rich_text>• Tom Lee treats Muharto, Boedi, and Pang to drinks and dinner
-• Asks a lot of questions
-</rich_text>
 			</node>
 		</node>
 	</node>

@@ -2,7 +2,7 @@
 category: past
 date: 15 October 1947
 name: Spoor Meets Koke
-status: synopsis
+status: draft
 title: Spoor Meets Koke
 
 ---
