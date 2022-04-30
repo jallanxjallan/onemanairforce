@@ -1,7 +1,7 @@
 ---
 category: present
 date: 1 November 1988
-location: Jalan Jaksa
+location: Jakarta Times
 name: Relationship Crisis
 status: new
 ---

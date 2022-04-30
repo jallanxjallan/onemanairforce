@@ -3,7 +3,7 @@ category: past
 date: 15 August 1947
 name: Tom Lee Treats
 status: draft
-title: Tom Lee Treats
+location: Manila
 ---
 Pang, Boedi and Muharto enjoy a brief respite from
 their meager diet when Tom Lee invites them for drinks or dinner. During

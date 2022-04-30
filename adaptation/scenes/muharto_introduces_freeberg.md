@@ -4,6 +4,7 @@ date: 28 June 1988
 name: Muharto Introduces Freeberg
 status: synopsis
 xdate: True 
+location: Muharto Residence
 ---
 Petit Muharto, a lively,
 dapper Indonesian in his late 60s, is sitting with his wife Ani in their

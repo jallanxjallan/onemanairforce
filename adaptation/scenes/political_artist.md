@@ -1,7 +1,7 @@
 ---
 category: interview
 date: 21 July 1988
-location: Hendra Studio
+location: Taman Sari
 name: Political Artist
 status: synopsis
 ---

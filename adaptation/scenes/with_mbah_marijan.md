@@ -3,8 +3,7 @@ category: present
 date: 2 August 1988
 name: With Mbah Marijan
 status: synopsis
-title: With Mbah Marijan
-
+location: Jogjakarta
 ---
 Cameron accompanies Muharto to a village on the
 upper slopes of the Merapi volcano to meet Muharto's spiritual advisor,

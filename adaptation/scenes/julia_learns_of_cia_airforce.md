@@ -3,6 +3,7 @@ category: present
 date: 21 November 1988
 name: Julia Learns of CIA Airforce
 status: synopsis
+location: Library
 ---
 Julia finds Muharto's name mentioned in article
 about Permesta, the failed military rebellion against the Soekarno government. "Colonel" Muharto had commanded the Revolutionary Air

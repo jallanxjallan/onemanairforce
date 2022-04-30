@@ -3,6 +3,7 @@ category: present
 date: 2 August 1988
 name: Museum Trance
 status: synopsis
+location: Aviation Museum
 ---
 Muharto seeks out the curator, who invites them into his
 office. Muharto asks the curator to retrieve scraps from the RI-002

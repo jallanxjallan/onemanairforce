@@ -2,8 +2,8 @@
 category: present
 date: 07 December 1988
 name: Julia Finds Emeria
-status: synopsis
-
+status: rework
+location: Jogjakarta
 ---
 Julia tracks down Emiria teaching art to children
 in a village on the outskirts of Jogja. Emeria reveals that she after

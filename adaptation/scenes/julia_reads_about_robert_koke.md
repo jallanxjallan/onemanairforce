@@ -3,6 +3,7 @@ category: present
 date: 5 October 1988
 name: Julia Reads About Robert Koke
 status: draft
+location: Library
 ---
 Julia is processing a shipment of English-language
 books about Indonesia for inclusion in the library collection when one book,

@@ -3,7 +3,7 @@ category: past
 date: 07 April 1948
 name: Father Interrogates
 status: draft
-
+location: Jogjakarta
 ---
 Ani's father questions Muharto about his career
 path. He notes that as nominal co-pilot of RI-002 he is no more than an

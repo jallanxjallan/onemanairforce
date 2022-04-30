@@ -3,8 +3,7 @@ category: past
 date: 05 October 1948
 name: Spoor has no clue
 status: synopsis
-title: Spoor has no clue
-
+location: KNIL
 ---
 Jan Boon, a reporter from the Bataviaasch Nieuwsblad newspaper,
 accosts General Spoor in the hallway and badgers him for information of

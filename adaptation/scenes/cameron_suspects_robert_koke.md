@@ -3,8 +3,7 @@ category: present
 date: 21 October 1988
 name: Cameron Suspects Robert Koke
 status: synopsis
-title: Cameron Suspects Robert Koke
-
+location: IPPHOS
 ---
 Victor tells Cameron of
 Robert Koke, who his Indonesian friends identified as a CIA operative.

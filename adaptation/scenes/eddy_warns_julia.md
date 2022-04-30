@@ -3,8 +3,9 @@ category: present
 date: 9 July 1988
 name: Eddy Warns Julia
 status: synopsis
+location: Julia Residence
 ---
-At the breakfast table of Julia's home, Cameron's mysterious interrogator is revealed to be Julia's father. Colonel Eddy warns his daughter against getting into a relationship Cameron, who is penniless and
+At the breakfast table, Cameron's mysterious interrogator is revealed to be Julia's father. Colonel Eddy warns his daughter against getting into a relationship Cameron, who is penniless and
 with a spotty academic record. Julia retorts that her relationship with
 Cameron is purely professional. If the story they are researching
 results in a book, her expert facilitation will look good on a future

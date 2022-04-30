@@ -3,7 +3,7 @@ category: past
 date: 29 July 1947
 name: Crushing Disappointment
 status: synopsis
-title: Crushing Disappointment
+location: Maguwo
 ---
 Bambang prepares to fly as wing man to the squadron
 tasked with bombing Dutch facilities on the north coast of Java. Bambang

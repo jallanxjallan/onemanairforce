@@ -2,9 +2,8 @@
 category: interview
 date: 1 August 1988
 name: Affandi's Gift
-status: drop
-title: Affandi's Gift
-
+status: draft
+location: Affandi Museum
 ---
 Affandi grabs
 a sketch pad, dashes off a self-portrait, signs it, and hands it

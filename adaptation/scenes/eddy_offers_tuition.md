@@ -3,7 +3,7 @@ category: present
 date: 4 December 1988
 name: Eddy Offers Tuition
 status: fix up
-title: Eddy Offers Tuition
+location: Julia Residence
 ---
 
 Julia confronts her father with the suspicion that he was behind the Pemuda Pancasila harassment of Cameron. Eddy confesses, insisting he was doing it for

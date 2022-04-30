@@ -3,6 +3,7 @@ category: present
 date: 7 July 1988
 name: Julia and her friends
 status: synopsis
+location: Hotel Mandarin
 ---
 Cameron and Julia walk into the lobby together,
 where her friends are waiting. Julia introduces Cameron to them, then he

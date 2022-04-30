@@ -3,6 +3,7 @@ category: past
 date: 1 January 1947
 name: Victor Makes Maps
 status: synopsis
+location: Batavia
 ---
 Victor is assigned to
 the mapping department as a junior draftsman upon the recommendation of

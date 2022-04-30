@@ -3,6 +3,7 @@ category: present
 date: 16 August 1988
 name: Julia Learns of Samuel Quiko
 status: synopsis
+location: Library
 ---
 Cameron
 mentions his meeting with Samuel Quiko to Julia. She remarks on distinctive

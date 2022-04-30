@@ -3,8 +3,7 @@ category: past
 date: 04 March 1948
 name: Black Flights
 status: draft
-title: Black Flights
-
+location: Maguwo
 ---
 Suryadarma orders Bob to transport Republican opium to
 Bukittinggi. Bob knows that if he is intercepted, the Dutch could jail

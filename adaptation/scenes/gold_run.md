@@ -4,7 +4,7 @@ date: 30 September 1948
 name: Gold Run
 status: expand
 title: Gold Run
-
+location: Maguwo
 ---
 Suryadarma reluctantly assigns Bob Freeberg the mission to transport gold to Bukittinggi.
 

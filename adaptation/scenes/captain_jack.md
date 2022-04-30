@@ -3,8 +3,7 @@ category: interview
 date: 07 December 1988
 name: Captain Jack
 status: synopsis
-title: Captain Jack
-
+location: Earthquake
 ---
 George Rueneker introduces Cameron to Captain
 Jack, a retired pilot who had learned his bush-piloting skills flying with Dave Fowler during the early days of Airfast. During

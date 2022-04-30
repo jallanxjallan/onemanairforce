@@ -3,9 +3,9 @@ category: past
 date: 13 June 1947
 name: Quinine Case
 status: synopsis
-title: Quinine Case
+location: Manila
 ---
-Dutch representatives in Manila sue Muharto and Pang in
+Dutch representatives  sue Muharto and Pang in
 civil court for possession of the quinine. Fortunately, Muharto's
 celebrity status also attracts the attention of Salipada Penatun, a
 sitting Senator as well as a practicing lawyer. His family has close

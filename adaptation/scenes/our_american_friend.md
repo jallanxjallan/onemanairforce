@@ -3,7 +3,7 @@ category: past
 date: 21 June 1948
 name: Our American Friend
 status: synopsis
-
+location: Sumatra
 ---
 During a speech on an airstrip, Soekarno stands on the
 RI-002 wing and speaks to a small, enthralled crowd of local residents.

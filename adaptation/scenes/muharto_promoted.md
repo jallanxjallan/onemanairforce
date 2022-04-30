@@ -2,7 +2,7 @@
 category: past
 date: 15 May 1948
 name: Muharto Promoted
-status: synopsis
+status: drop
 ---
 Freeberg's haggard appearance and premature greying reflects the constant strain of being the Republic's "One Man Air Force". In May 1948 Muharto is offered a promotion to major and reassignment to a desk job. Worried about his friend, Muharto considers declining the promotion. However, he is now engaged to his girlfiend Ani, and must think about their future. 
 

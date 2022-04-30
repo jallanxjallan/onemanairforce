@@ -2,9 +2,9 @@
 category: past
 date: 15 October 1947
 name: Spoor Meets Koke
-status: draft
+status: rework
 title: Spoor Meets Koke
-
+location: KNIL
 ---
 Victor sees Robert Koke arrive with Walter Foote. He hears Koke speaking fluent Indonesian to a local soldier.
 

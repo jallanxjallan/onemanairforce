@@ -3,7 +3,7 @@ category: interview
 date: 15 December 1988
 name: Verspoor Confesses
 status: draft
-
+location: Earthquake
 ---
 Cameron arranges to meet Alex and Paul at the
 Earthquake the night before Paul will return to the Netherlands. After

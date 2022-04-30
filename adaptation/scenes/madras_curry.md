@@ -3,7 +3,7 @@ category: past
 date: 15 July 1947
 name: Madras Curry
 status: synopsis
-title: Madras Curry
+location: Manila
 ---
 Muharto, Boedi and Pang are penniless as they await the verdict. Bob buys his "Javanese boys" a single meal
 each day at the cheapest eatery in Manila: The Madras Curry Restaurant.

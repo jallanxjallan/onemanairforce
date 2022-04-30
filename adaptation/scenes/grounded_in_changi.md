@@ -3,6 +3,7 @@ category: past
 date: 29 December 1947
 name: Grounded In Changi
 status: synopsis
+location: RI-002
 ---
 RI-002 flies Ining's remains to Manila by way to Pekanbaru to drop off Republican
 officials. Bad weather over

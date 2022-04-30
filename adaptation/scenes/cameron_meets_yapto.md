@@ -3,6 +3,7 @@ category: present
 date: 07 December 1988
 name: Cameron Meets Yapto
 status: synopsis
+location: Earthquake
 ---
 Sanyoto arranges meeting with Yapto, the head of
 the Pemuda Pancasila. Yapto is affable, and expresses a sincere

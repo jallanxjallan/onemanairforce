@@ -3,6 +3,7 @@ category: present
 date: 21 July 1988
 name: Eddy Promises Funding
 status: draft
+location: Julia Residence
 ---
 Eddy tells Julia that he is determined to fulfill
 the dream of his only child to study overseas. Julia reminds him that

@@ -3,7 +3,7 @@ category: present
 date: 13 December 1988
 name: Syd Fills In
 status: draft
-
+location: Jakarta Times
 ---
 Cameron asks Syd to fill in while he takes three
 days off to go to Karangendah. But the other copy editors flake out,

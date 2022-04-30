@@ -3,6 +3,7 @@ category: past
 date: 10 November 1946
 name: Victor Arrives
 status: draft
+location: Batavia
 ---
 Victor marches off troop ship with other recruits.
 Among his possessions is a Malay-Dutch phrasebook and a sketchpad.

@@ -2,9 +2,8 @@
 category: past
 date: 15 November 1947
 name: Into The Typhoon
-status: drop
-title: Into The Typhoon
-
+status: synopsis
+location: RI-002
 ---
 In the co-pilot seat, Muharto spots an small airplane near the horizon
 as they fly near Dutch territory. This is most likely a Dutch fighter on

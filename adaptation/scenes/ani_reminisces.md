@@ -3,8 +3,7 @@ category: interview
 date: 30 September 1988
 name: Ani Reminisces
 status: draft
-title: Ani Reminisces
-
+location: Muharto Residence
 ---
 Cameron and Julia have dinner with Muharto and
 Ani. Afterward, Cameron and Muharto fall deep into discussion about the

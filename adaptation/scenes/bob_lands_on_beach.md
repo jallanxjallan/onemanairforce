@@ -3,9 +3,10 @@ date: 08 June 1947
 name: Bob Lands On Beach
 status: synopsis
 xdate: True
+location: Cilotok 
 ---
 Bob Freeberg lands his unmarked
-Dakota cargo plane on remote Cilotok beach in southwest Java, the huge
+Dakota cargo plane on this remote beach in southwest Java, the huge
 aircraft shuddering to a stop a few meters from a rocky bluff.
 Villagers appear, marveling at this colossus from the sky. They are
 friendly and offer Bob and his two Filipino crew members food and a

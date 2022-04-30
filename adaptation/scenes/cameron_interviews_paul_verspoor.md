@@ -3,8 +3,7 @@ category: interview
 date: 04 November 1988
 name: Cameron Interviews Paul Verspoor
 status: rework
-title: Cameron Interviews Paul Verspoor
-
+location: Earthquake
 ---
 Muharto takes Cameron to meet his friend Alex
 Kawilarang, Also present is a Paul Verspoor, a retired Dutch

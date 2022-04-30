@@ -3,6 +3,7 @@ category: past
 date: 08 June 1947
 name: Surprise Message
 status: synopsis
+location: Maguwo
 ---
 Muharto is surprised to be given a
 message from Army Lieutenant Pang Soeparto, stationed in Tasikmalaya,

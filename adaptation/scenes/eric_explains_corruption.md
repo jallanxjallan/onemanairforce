@@ -3,11 +3,10 @@ category: present
 date: 22 July 1988
 name: Eric explains corruption
 status: synopsis
-title: Eric explains corruption
-
+location: Hotel Mandarin
 ---
-Julia is sitting in a restaurant
-with Eric, a young Indonesian man of good family. Eric mentions his
+Julia is having dinner 
+with Eric, a well-dressed, well-groomed young Indonesian man. Eric mentions his
 surprise Julia's mother phoned his mother to suggest he take her to
 dinner. Eric dominates the conversation, insisting, with the
 authoritative confidence typical of the offspring of new wealth, how he

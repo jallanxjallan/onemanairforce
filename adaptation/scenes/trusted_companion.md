@@ -1,7 +1,7 @@
 ---
 category: interview
 date: 1 December 1988
-location: Herman House
+location: Jakarta
 name: Trusted Companion
 status: new
 ---

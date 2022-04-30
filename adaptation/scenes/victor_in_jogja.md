@@ -3,6 +3,7 @@ category: past
 date: 27 December 1948
 name: Victor In Jogja
 status: draft
+location: Beringhardjo Market
 ---
 Spoor sends Victor to Jogja with the invading
 troops to prove photograph what he expects to be a warm welcome as

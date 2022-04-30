@@ -3,6 +3,7 @@ category: past
 date: 01 April 1947
 name: Missing Dakota
 status: synopsis
+location: Manila
 ---
 Bob returns to Manila to find the jointly owned Dakota
 is missing. Suspecting an April Fools joke, Bob plays along, but becomes

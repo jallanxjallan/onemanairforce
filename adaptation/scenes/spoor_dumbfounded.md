@@ -3,8 +3,7 @@ category: past
 date: 28 December 1947
 name: Spoor Dumbfounded
 status: synopsis
-title: Spoor Dumbfounded
-
+location: KNIL
 ---
 Spoor is dumbfounded when he reads the report on
 the crash of RI-003. Spoor investigators discover that the plane, though

@@ -3,8 +3,7 @@ category: scene
 date: 30 June 1988
 name: Coffee With Julia
 status: synopsis
-title: Coffee With Julia
-
+location: Library
 ---
 Halfway through his stack of material, Cameron asks Julia where he can get some coffee. Julia informs him that beverages are not allowed in the reading room, but since she is also due for a break, he can join her in the library canteen. Over coffee, she tells of her childhood in the Netherlands, where her father had been a military diplomat, her frustrations living in conservative, parochial Indonesia, and her dream of taking her post-graduate studies in America. 
 

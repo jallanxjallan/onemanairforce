@@ -3,13 +3,8 @@ category: past
 date: 31 March 1947
 name: Landing At Karangendah
 status: drop
-title: Landing At Karangendah
-
+location: RI-002
 ---
-Freeberg tests the usability of a Japanese airstrip by simply landing on it.
-
-------
-
 On the return leg to Singapore, Muharto asks Bob if he
 can attempt a landing on a refurbished Japanese airstrip at Karangendah.
 Bob readily agrees. They circle the strip and Bob ponders the attempt.

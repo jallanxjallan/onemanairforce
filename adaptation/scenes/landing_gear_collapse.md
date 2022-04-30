@@ -3,8 +3,9 @@ category: past
 date: 04 May 1948
 name: Landing Gear Collapse
 status: synopsis
+location: Bukittinggi
 ---
 The landing gear collapses just as RI-002 is
-preparing to take off from the strip at Bukittinggi. Bob checks the wing
+powering up for take off . Bob checks the wing
 for damage, and decides that the new crack in not serious. Later that
-morning he takes off. Dave Fowler looks on, shaking his head.
+morning, after impromptu repairs, he takes off, while Dave Fowler looks on, shaking his head.

@@ -3,7 +3,7 @@ category: past
 date: 04 August 1947
 name: Money For Nothing
 status: draft
-title: Money For Nothing
+location: Manila
 ---
 Muharto attempts to pay for their meals at
 Madras Curry, explaining that it is an honorarium for a talk about the

@@ -2,15 +2,9 @@
 category: present
 date: 15 August 1988
 name: Santoso Necklace
-status: drop
-title: Santoso Necklace
-
+status: draft
+location: Jakarta
 ---
-Muharto and Cameron visit the widow and son of
-Santoso. Hadi Muharto falls into trance while holding Santoso's necklace. He sees Bambang in the captain's chair as RI-002 crashes.
-
-------
-
 Muharto and Cameron visit the widow and son of
 Santoso. The son, Hadi, admits that the night before the ceremony he
 talked a guard into letting him view his father's remains, and took a

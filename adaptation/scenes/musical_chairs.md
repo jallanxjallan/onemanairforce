@@ -3,8 +3,7 @@ category: past
 date: 15 March 1948
 name: Musical Chairs
 status: synopsis
-title: Musical Chairs
-
+location: RI-002
 ---
 Tensions rise in the RI-002 cockpit as Muharto and
 Bambang argue over who gets to sit in the right-hand seat. Muharto

@@ -3,7 +3,7 @@ category: research
 date: 30 June 1988
 name: Cameron Meets Julia
 status: synopsis
-title: Cameron Meets Julia
+location: Library
 ---
 In the library, Julia
 Suryakusuma, an attractive, bookish woman in her early 20s, the only
