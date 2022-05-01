@@ -3,7 +3,7 @@ category: research
 date: 15 July 1988
 name: Julia Researches Emeria
 status: synopsis
-location: library
+location: Library
 ---
 Julia's curiosity about Emeria grows after meeting Victor. She researches
 Emeria in the art publications from the period. learning that she had been was the

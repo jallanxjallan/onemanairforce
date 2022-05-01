@@ -5,7 +5,7 @@ name: Off the Beach
 status: synopsis
 location: Cilotok
 ---
-On arrival, Muharto recognizes Freeberg as the pilot of a previous blockade run that Muharto had organized. Muharto and Pang
+Muharto recognizes Freeberg as the pilot of a previous blockade run that Muharto had organized. Muharto and Pang
 marvel that Freeberg had been able to land on this short stretch of
 beach, bookended by high bluffs.  Fearing that a patrolling Dutch fighter could appear
 at any time, Muharto, in a stirring speech, implores the assembled

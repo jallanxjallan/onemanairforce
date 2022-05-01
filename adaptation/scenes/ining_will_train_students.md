@@ -3,7 +3,7 @@ category: past
 date: 07 October 1947
 name: Ining Will Train Students
 status: draft
-location: Jalan Jatis
+location: Jalan Jetis
 ---
 Muharto and George take Ining to a house on the slopes of Mount Merapi, adjacent to the forested areas where Ining will train students to become guerrilla fighters. Muharto tells Ining that George will look after his requirements whenever Muharto is away on a mission with RI-002. Ining breaks out one of the bottles of whiskey he brought from Manila, and they toast the new adventure. 
 

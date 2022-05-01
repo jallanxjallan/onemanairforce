@@ -1,7 +1,7 @@
 ---
 name: VT-CLA Shot Down
 date: 29 July 1947
-location: Bob Apartment
+location: Freeberg Apartment
 status: synopsis
 ---
 

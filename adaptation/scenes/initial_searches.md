@@ -1,6 +1,6 @@
 ---
 category: interview
-date: 5 July 1988
+date: 28 June 1988
 name: Initial Searches
 status: synopsis
 location: Muharto Residence

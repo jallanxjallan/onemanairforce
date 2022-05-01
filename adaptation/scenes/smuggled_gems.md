@@ -3,7 +3,7 @@ category: past
 date: 15 April 1948
 name: Smuggled Gems
 status: draft
-location: Manila
+location: Freeberg Apartment
 ---
 Muharto is appalled when he overhears one of
 Bob's housemates boasts of shooting down own squad leader. He decides to

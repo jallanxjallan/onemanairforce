@@ -3,7 +3,7 @@ category: past
 date: 04 August 1947
 name: Victor Reviews Art
 status: synopsis
-location: Kuntskrieg
+location: Kunstkring
 ---
 At an event featuring the flamboyant
 Dutch artist Auke Sonnega, the artist overhears Victor giving astute

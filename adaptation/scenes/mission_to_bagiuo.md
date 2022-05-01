@@ -4,7 +4,7 @@ date: 30 November 1947
 name: Mission To Bagiuo
 status: synopsis
 xdate: True 
-locati
+location: Maguwo
 ---
 Bob flies a team of
 Republican officials and technocrats from Maguwo to a United Nation's

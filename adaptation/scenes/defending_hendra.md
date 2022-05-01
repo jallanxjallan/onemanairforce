@@ -1,7 +1,7 @@
 ---
 category: past
 date: 1 October 1947
-location: Kuntzkrieg
+location: Kunstkring
 name: Defending Hendra
 status: synopsis
 ---

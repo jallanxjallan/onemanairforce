@@ -3,7 +3,7 @@ category: research
 date: 6 July 1988
 name: Julia Translates Newspapers
 status: synopsis
-location: library
+location: Library
 ---
 
 Cameron returns to the library to enlist Julia's

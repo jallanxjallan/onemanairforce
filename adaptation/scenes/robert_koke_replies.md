@@ -3,7 +3,7 @@ category: research
 date: 07 December 1988
 name: Robert Koke Replies
 status: synopsis
-location: library
+location: Library
 ---
 Julia receives a letter from Florida. It is not
 from Robert Koke, but a nephew, who explains that his uncle is reticent to talk

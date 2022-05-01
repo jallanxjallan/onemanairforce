@@ -4,6 +4,7 @@ date: 29 July 1977
 name: Sixth Coffin
 status: synopsis
 location: Tanjung Karang
+xdate: True
 ---
 Five coffins draped in Indonesian flags lie on a
 platform in an otherwise empty hanger. A sixth coffin, larger than the

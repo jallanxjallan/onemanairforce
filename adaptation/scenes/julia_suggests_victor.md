@@ -3,7 +3,7 @@ category: research
 date: 6 July 1988
 name: Julia Suggests Victor
 status: synopsis
-location: library
+location: Library
 ---
 Julia notes that the snide tone of the language in the article suggests
 the reporter was convinced that Spoor was hiding something. She says

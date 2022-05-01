@@ -1,7 +1,7 @@
 ---
 category: research
 date: 20 July 1988
-location: library
+location: Library
 name: Finding Hendra
 status: synopsis
 ---

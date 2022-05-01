@@ -517,20 +517,32 @@ Julia visists alone to check if victoe is Regina's friend.
 			</node>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1634530552.9" unique_id="1194">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1651392088.11" unique_id="1194">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="AB Bar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1219">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1651392102.77" unique_id="1675">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Brotherhood Bar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391973.11" unique_id="1219">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392102.78" ts_lastsave="1651392114.62" unique_id="1676">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509611.09" unique_id="1196">
 			<rich_text>
 </rich_text>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Batavia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392114.62" ts_lastsave="1651392135.39" unique_id="1677">
+			<rich_text></rich_text>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Beringhardjo Market" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1210">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg Apartment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392135.4" ts_lastsave="1651392691.08" unique_id="1678">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1218">
 			<rich_text>
@@ -544,9 +556,15 @@ Julia visists alone to check if victoe is Regina's friend.
 			<rich_text>
 </rich_text>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Kos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392151.9" ts_lastsave="1651392161.66" unique_id="1679">
+			<rich_text></rich_text>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1229">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cengkarang Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392161.66" ts_lastsave="1651392182.21" unique_id="1680">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Changi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1211">
 			<rich_text>
@@ -559,9 +577,12 @@ Julia visists alone to check if victoe is Regina's friend.
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Earthquake" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530552.9" ts_lastsave="1634530596.95" unique_id="1245">
 			<rich_text>Sanyoto's generals and ministers club</rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Studio" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1203">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391982.67" unique_id="1203">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Mandarin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392182.21" ts_lastsave="1651392193.78" unique_id="1681">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Merdeka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1197">
 			<rich_text>
@@ -571,13 +592,19 @@ Julia visists alone to check if victoe is Regina's friend.
 			<rich_text>
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta Post" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1205">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392193.78" ts_lastsave="1651392211.12" unique_id="1682">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta Times" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391991.58" unique_id="1205">
 			<rich_text>
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jaksa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1202">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jetis" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392211.12" ts_lastsave="1651392226.84" unique_id="1683">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Jogjakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1201">
 			<rich_text>
@@ -586,6 +613,9 @@ Julia visists alone to check if victoe is Regina's friend.
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1215">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kampung Tugu" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392226.84" ts_lastsave="1651392236.7" unique_id="1684">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1207">
 			<rich_text>
@@ -599,9 +629,11 @@ Julia visists alone to check if victoe is Regina's friend.
 			<rich_text>
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Kuntskring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1223">
-			<rich_text>
-</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kunstkring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392236.71" ts_lastsave="1651392637.1" unique_id="1685">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392248.97" ts_lastsave="1651392280.78" unique_id="1686">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry Diner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1641535478.26" unique_id="1231">
 			<rich_text>
@@ -611,6 +643,12 @@ Julia visists alone to check if victoe is Regina's friend.
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1220">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Malaya" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392280.78" ts_lastsave="1651392287.96" unique_id="1687">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392287.97" ts_lastsave="1651392500.98" unique_id="1688">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1198">
 			<rich_text>
@@ -656,15 +694,30 @@ Julia visists alone to check if victoe is Regina's friend.
 			<rich_text>
 </rich_text>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Regina Gallery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392318.79" ts_lastsave="1651392328.02" unique_id="1691">
+			<rich_text></rich_text>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1216">
 			<rich_text>
 </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-005" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392307.49" ts_lastsave="1651392318.79" unique_id="1690">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Singapore" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392328.02" ts_lastsave="1651392337.72" unique_id="1692">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Soeparto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392337.73" ts_lastsave="1651392346.42" unique_id="1693">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Sumatra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392346.42" ts_lastsave="1651392346.42" unique_id="1694">
+			<rich_text></rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Sumatra Airfield" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1213">
 			<rich_text>
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Taman Sari Restaurant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1204">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Taman Sari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651392353.5" unique_id="1204">
 			<rich_text>
 </rich_text>
 		</node>
@@ -1956,9 +2009,8 @@ En route Muharto tells his nervous comrades to follow Bob's example and just do 
 					<rich_text>. </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Stranded in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642475794.12" ts_lastsave="1648988193.16" unique_id="1604">
-				<rich_text link="file c2VxdWVuY2VzL3N0cmFuZGVkX2luX21hbmlsYS5tZA==">Document</rich_text>
-				<rich_text> 
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Stranded in Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642475794.12" ts_lastsave="1651393515.14" unique_id="1604">
+				<rich_text>
 
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Setting the Flaps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1642475797.93" unique_id="1408">
@@ -1968,20 +2020,20 @@ Bob asked Muharto to take the co-pilot seat to s</rich_text>
 					<rich_text link="node 338">et the flaps</rich_text>
 					<rich_text>, but in his nervousness had pushed the levers too far, almost sending the Dakota into a steep dive. </rich_text>
 				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Lost in Translation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.62" ts_lastsave="1651393602.46" unique_id="1545">
+					<rich_text link="file c2NlbmVzL3BpbG90X29mZmljZXIubWQ=">Document</rich_text>
+					<rich_text>
+But after landing, Muharto redeemed himself by falsely identifies himself as p</rich_text>
+					<rich_text link="node 457">ilot officer</rich_text>
+					<rich_text> to aviation authorities, so Freeberg would not be fined from operating a Dakota on an international flight with only one qualified pilot.  
+</rich_text>
+				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.24" ts_lastsave="1650853323.19" unique_id="1390">
 					<rich_text link="file c2NlbmVzL3F1aW5pbmVfY2FzZS5tZA==">Document</rich_text>
 					<rich_text>
 </rich_text>
 					<rich_text link="node 336">Quinine case in court</rich_text>
 					<rich_text>  
-</rich_text>
-				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Lost in Translation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.62" ts_lastsave="1642475799.42" unique_id="1545">
-					<rich_text link="file c2NlbmVzL3BpbG90X29mZmljZXIubWQ=">Document</rich_text>
-					<rich_text>
-But after landing, Muharto redeemed himself by falsely identifies himself as p</rich_text>
-					<rich_text link="node 457">ilot officer</rich_text>
-					<rich_text> to aviation authorities, so Freeberg would not be fined from operating a Dakota on an international flight with only one qualified pilot.  
 </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Wins Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.42" ts_lastsave="1650853352.64" unique_id="1468">

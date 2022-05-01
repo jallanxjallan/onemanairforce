@@ -3,7 +3,7 @@ category: past
 date: 15 July 1948
 name: Ani Serves Rice
 status: synopsis
-location: Berinhardjo Market
+location: Beringhardjo Market
 ---
 Ani helps to acquire rice for a communal kitchen to
 feed the thousands of refugees pouring into Jogjakarta. She is

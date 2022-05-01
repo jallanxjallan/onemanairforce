@@ -1,7 +1,7 @@
 ---
 category: present
 date: 16 December 1988
-location: Airport
+location: Cengkarang Airport
 name: Julia Choice
 status: new
 ---

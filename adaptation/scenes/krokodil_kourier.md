@@ -3,7 +3,7 @@ category: past
 date: 04 September 1947
 name: Krokodil Kourier
 status: synopsis
-location: Kuntzkrieg
+location: Kunstkring
 ---
 
 Samuel and
