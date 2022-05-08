@@ -1,5 +1,5 @@
 ---
-date: 08 June 1947
+date: 8 June 1947
 name: Bob Lands On Beach
 status: synopsis
 xdate: True

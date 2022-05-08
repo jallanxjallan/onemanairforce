@@ -6,3 +6,4 @@ status: expand
 location: Earthquake
 ---
 Cameron is waylaid by Pemuda Pancasila thugs. Sanyoto appears, and whacks the leader on the nose with his cane.
+

@@ -6,7 +6,7 @@ status: synopsis
 location: Manila
 ---
 Dutch representatives  sue Muharto and Pang in
-civil court for possession of the quinine. Fortunately, Muharto's
+civil court for possession of the quinine. Fortunately, their
 celebrity status also attracts the attention of Salipada Penatun, a
 sitting Senator as well as a practicing lawyer. His family has close
 cultural ties to Indonesia, and so offers his services pro bono. Penatun lays out the legal

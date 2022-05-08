@@ -227,13 +227,16 @@ Bio
 				<rich_text>• Batavia Preman leader
 • Samuel Quiko's contact</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1643000632.17" unique_id="1261">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1651743394.26" unique_id="1261">
 				<rich_text>
 </rich_text>
 				<rich_text link="webs https://noosatoday.com.au/entertainment/22-04-2019/our-hotel-in-bali/">Short Bio</rich_text>
 				<rich_text> 
 </rich_text>
 				<rich_text link="webs https://docs.google.com/document/d/1StGPuOawMeFf9MTEB0zJtoXKnHeRsN9WRaf8_IqTUeo/edit?usp=sharing">Our House In Bali</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="webs https://historia.id/politik/articles/agen-cia-yang-menuduh-sukarno-bernegosiasi-dengan-belanda-PMa8X/page/4">As CIA</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530476.81" ts_lastsave="1643344725.35" unique_id="1244">
 				<rich_text>• A keroncong crocodile from Kampung Tugu
@@ -517,217 +520,287 @@ Julia visists alone to check if victoe is Regina's friend.
 			</node>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1651392088.11" unique_id="1194">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1651467523.89" unique_id="1194">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1651392102.77" unique_id="1675">
-			<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1651470637.88" unique_id="1675">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">---
+display: At the Affandi Museum
+</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Brotherhood Bar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391973.11" unique_id="1219">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392102.78" ts_lastsave="1651392114.62" unique_id="1676">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509611.09" unique_id="1196">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Batavia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392114.62" ts_lastsave="1651392135.39" unique_id="1677">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Beringhardjo Market" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1210">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg Apartment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392135.4" ts_lastsave="1651392691.08" unique_id="1678">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1218">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1222">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="CALI Dakota" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1212">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Kos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392151.9" ts_lastsave="1651392161.66" unique_id="1679">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1229">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cengkarang Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392161.66" ts_lastsave="1651392182.21" unique_id="1680">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Changi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1211">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cilotok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1224">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Earthquake" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530552.9" ts_lastsave="1634530596.95" unique_id="1245">
-			<rich_text>Sanyoto's generals and ministers club</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391982.67" unique_id="1203">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Mandarin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392182.21" ts_lastsave="1651392193.78" unique_id="1681">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Merdeka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1197">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="IPPHOS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1226">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392193.78" ts_lastsave="1651392211.12" unique_id="1682">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta Times" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651391991.58" unique_id="1205">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jaksa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1202">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jetis" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392211.12" ts_lastsave="1651392226.84" unique_id="1683">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jogjakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1201">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1215">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Kampung Tugu" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392226.84" ts_lastsave="1651392236.7" unique_id="1684">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1207">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Kemang Mansion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1232">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="KNIL" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1234">
-			<rich_text>
-</rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Kunstkring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392236.71" ts_lastsave="1651392637.1" unique_id="1685">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392248.97" ts_lastsave="1651392280.78" unique_id="1686">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry Diner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1641535478.26" unique_id="1231">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Brotherhood Bar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468015.43" unique_id="1219">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Aviation Brotherhood Bar</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1220">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviation Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392102.78" ts_lastsave="1651468023.61" unique_id="1676">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Aviation Museum</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468047.47" unique_id="1196">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Bangkok</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Malaya" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392280.78" ts_lastsave="1651392287.96" unique_id="1687">
-			<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Batavia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392114.62" ts_lastsave="1651468061.72" unique_id="1677">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Batavia</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392287.97" ts_lastsave="1651392500.98" unique_id="1688">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1198">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Beringhardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468110.82" unique_id="1210">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Beringhardjo market</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila courtroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1209">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468139.49" unique_id="1218">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Boediardjo Residence</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Mount Merapi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1227">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468169.65" unique_id="1222">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Bukittinggi</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Mount Punggur" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1225">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="CALI Dakota" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468189.29" unique_id="1212">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: Aboard the CALI Dakota</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1206">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Kos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392151.9" ts_lastsave="1651468212.28" unique_id="1679">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Cameron's room</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cengkarang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392161.66" ts_lastsave="1651468231.17" unique_id="1680">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Cengkarang Airport</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Changi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468249.63" unique_id="1211">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Changi Airport</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="National Library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1221">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cilotok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651471173.71" unique_id="1224">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On Cilotok Beach</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Pasar Beringharjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1199">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Earthquake" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530552.9" ts_lastsave="1651468281.69" unique_id="1245">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+Sanyoto's generals and ministers club</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Earthquake Club</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Emeria Salon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468521.82" unique_id="1203">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Emeria's Salon</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Pemuda Pancasila Palembang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1217">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg Apartment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392135.4" ts_lastsave="1651468540.83" unique_id="1678">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Bob Freeberg's apartment</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Mandarin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392182.21" ts_lastsave="1651468567.57" unique_id="1681">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Hotel Mandarin</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Hotel Merdeka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468581.77" unique_id="1197">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Hotel Merdeka</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="POAS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1228">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="IPPHOS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468599.8" unique_id="1226">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the IPPHOS archives</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Presidential Palace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1200">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392193.78" ts_lastsave="1651468701.25" unique_id="1682">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Jakarta</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta Times" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468713.51" unique_id="1205">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Jakarta Times newsroom</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Raffles Hotel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1208">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jaksa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651468740.7" unique_id="1202">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On Jalan Jaksa</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Regina Gallery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392318.79" ts_lastsave="1651392328.02" unique_id="1691">
-			<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jalan Jetis" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392211.12" ts_lastsave="1651469293.17" unique_id="1683">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the house on Jalan Jetis</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1216">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jogjakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469309.08" unique_id="1201">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Jogjakarta</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-005" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392307.49" ts_lastsave="1651392318.79" unique_id="1690">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Singapore" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392328.02" ts_lastsave="1651392337.72" unique_id="1692">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Soeparto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392337.73" ts_lastsave="1651392346.42" unique_id="1693">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Sumatra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392346.42" ts_lastsave="1651392346.42" unique_id="1694">
-			<rich_text></rich_text>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Sumatra Airfield" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1213">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469425.02" unique_id="1215">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Suryakusuma residence</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Taman Sari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651392353.5" unique_id="1204">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kampung Tugu" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392226.84" ts_lastsave="1651469455.57" unique_id="1684">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Kampung Tugu</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469476.11" unique_id="1207">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Karangendah airstrip</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Tanjung Karang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1631509480.48" unique_id="1214">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kemang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651469519.84" unique_id="1232">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Kemang</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Tanjung Priok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1631509480.49" unique_id="1233">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="KNIL" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651469543.05" unique_id="1234">
+			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At KNIL headquarters</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kunstkring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392236.71" ts_lastsave="1651469565.86" unique_id="1685">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Kunstring</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Library" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392248.97" ts_lastsave="1651469594.09" unique_id="1686">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the National Library</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry Diner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651469614.72" unique_id="1231">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Madras Curry restaurant
+</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469636.09" unique_id="1220">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Maguwo airbase</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Malaya" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392280.78" ts_lastsave="1651469653.03" unique_id="1687">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Malaya</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469732.51" unique_id="1198">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Manila Airport</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila courtroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469749.49" unique_id="1209">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In a Manila courtroom</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Mount Merapi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469766.29" unique_id="1227">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On the slope of Mount Merapi</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Mount Punggur" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469789.62" unique_id="1225">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On the slopes of Mount Punggur</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469814.62" unique_id="1206">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Muharto residence</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Pemuda Pancasila Palembang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469866.57" unique_id="1217">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Pemuda Pancasila Palembang headquarters</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="POAS" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651469893.91" unique_id="1228">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: Aboard a POAS Dakota</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Presidential Palace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469915.43" unique_id="1200">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Jogjakarta Presidential Palace</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Raffles Hotel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469934.31" unique_id="1208">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Raffles Hotel</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Regina Gallery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392318.79" ts_lastsave="1651469948.27" unique_id="1691">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Regina's Gallery</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469970.1" unique_id="1216">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: Aboard RI-002</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="RI-005" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392307.49" ts_lastsave="1651469986.71" unique_id="1690">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: Aboard RI-005</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Soeparto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392337.73" ts_lastsave="1651470007.15" unique_id="1693">
+			<rich_text justification="left"></rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Soeparto residence</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Sumatra Airfield" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651470029.45" unique_id="1213">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On an airfield in Sumatra</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Taman Sari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651470053.48" unique_id="1204">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Hendra's studio in Taman Sari</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tanjung Karang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651470081.36" unique_id="1214">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Tanjung Karang airbase</codebox>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tanjung Priok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651470101.21" unique_id="1233">
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Tanjung Priok Harbor</codebox>
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Threads" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1620098846.72" ts_lastsave="1642920051.69" unique_id="996">
@@ -842,14 +915,6 @@ Julia visists alone to check if victoe is Regina's friend.
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Stories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618822840.0" ts_lastsave="1651059149.64" unique_id="894">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Air America" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651059149.64" ts_lastsave="1651280527.07" unique_id="1674">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1600066441.38" ts_lastsave="1651059165.56" unique_id="419">
-				<rich_text>• Tom Lee treats Muharto, Boedi, and Pang to drinks and dinner
-• Asks a lot of questions
-</rich_text>
-			</node>
-		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Alternate Herstory" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619160466.32" ts_lastsave="1646722908.93" unique_id="957">
 			<rich_text>
 </rich_text>
@@ -1013,9 +1078,6 @@ Julia visists alone to check if victoe is Regina's friend.
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Bob The Best" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1635239898.67" unique_id="100">
 			<rich_text>
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Arrives" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1642494745.82" unique_id="104">
-				<rich_text>In July 1946 Bob arrives in Manila and is soon hired by CALI as a cargo pilot.</rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg Meets Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650787694.65" unique_id="107">
 				<rich_text>• Freeberg is the captain of the third CALI blockade run led by Muharto
 </rich_text>
@@ -1030,10 +1092,26 @@ Julia visists alone to check if victoe is Regina's friend.
 				<rich_text>• Freeberg expertly drops air force civil engineers over the airstrip at Bukittinggi.
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Lands On Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1639283934.53" unique_id="102">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Lands On Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651555731.15" unique_id="102">
 				<rich_text>• Bob lands on the beach with his two mechanics. 
 • The villagers are hospitable.
 </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto surprised at work" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651555649.15" unique_id="141">
+				<rich_text>• Muharto receives message from Pang Soeparto
+• Brought by pilot making communications run
+• All telephone, telegraph controlled by Dutch
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Flies to Tasik" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637742853.59" ts_lastsave="1651555758.73" unique_id="1354">
+				<rich_text>
+• Flying to tasik in the Nishikoren, Muharto wonders who the pilot is. Thinks back over the three blockade runs he organized. 
+• The first two had been routine commercial runs, with even a flight attendant. 
+• But the third was memorable. 
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto in Tasik" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651555758.74" ts_lastsave="1651555881.99" unique_id="1695">
+				<rich_text>• Muharto meets Pang in Tasik</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto inspires Villagers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618112533.64" ts_lastsave="1642839789.15" unique_id="863">
 				<rich_text>• Muharto and Pang inspire villagers to tear apart their homes to make runway from bamboo mats. 
@@ -1139,10 +1217,6 @@ Check dates</rich_text>
 				<rich_text>• Bob accepts commission to fly gold 
 </rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee In Jogja" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1608020193.54" ts_lastsave="1642817169.67" unique_id="789">
-				<rich_text>• Tom Lee accompanies Freeberg to Jogja for unclear reasons. 
-</rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="RI-002 drops leaflets" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="0.0" ts_lastsave="1642817156.04" unique_id="114">
 				<rich_text>• RI-002 drops leaflets over Madiun
 </rich_text>
@@ -1223,6 +1297,18 @@ missions were hardly exciting or glamorous, though there were moments.
 </rich_text>
 			</node>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Company Men" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651562507.52" ts_lastsave="1651562527.92" unique_id="1696">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee Treats" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1600066441.38" ts_lastsave="1651562516.84" unique_id="419">
+				<rich_text>• Tom Lee treats Muharto, Boedi, and Pang to drinks and dinner
+• Asks a lot of questions
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee In Jogja" prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1608020193.54" ts_lastsave="1651562522.98" unique_id="789">
+				<rich_text>• Tom Lee accompanies Freeberg to Jogja for unclear reasons. 
+</rich_text>
+			</node>
+		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Expecting To Fly" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1622376552.57" unique_id="134">
 			<rich_text>
 </rich_text>
@@ -1235,19 +1321,6 @@ Japanese.</rich_text>
 				<rich_text>
 • December 1946
 • Maharto flies the Zogling and Suryadarma slaps him down. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto surprised at work" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1642840882.02" unique_id="141">
-				<rich_text>• Muharto receives message from Pang Soeparto
-• Brought by pilot making communications run
-• All telephone, telegraph controlled by Dutch
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Flies to Tasik" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637742853.59" ts_lastsave="1642840895.84" unique_id="1354">
-				<rich_text>
-• Flying to tasik in the Nishikoren, Muharto wonders who the pilot is. Thinks back over the three blockade runs he organized. 
-• The first two had been routine commercial runs, with even a flight attendant. 
-• But the third was memorable. 
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto sets the flaps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595848253.97" ts_lastsave="1641984830.72" unique_id="338">
@@ -1573,6 +1646,9 @@ Japanese.</rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Freeberg in Business" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635239898.68" ts_lastsave="1642839879.76" unique_id="1270">
 			<rich_text>
 </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Arrives" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651555440.34" unique_id="104">
+				<rich_text>In July 1946 Bob arrives in Manila and is soon hired by CALI as a cargo pilot.</rich_text>
+			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Southeastern Airways" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1642829661.2" unique_id="116">
 				<rich_text>• On a trip to Singapore, Freeberg joins with Hugh Savage to set up Southeastern Airlines
 
@@ -1634,9 +1710,9 @@ Japanese.</rich_text>
 • Sanyoto had been the Air Force drill sergeant during the early years of independence. 
 • His erstwhile cadets, now top-ranked officers and government officials, have made the Earthquake their watering hole</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Wants Freedom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651055809.97" ts_lastsave="1651055814.15" unique_id="1672">
-				<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Cameron tells Julia how writing a successful book will give him the freedom to do what he wants in his career. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Wants Freedom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651055809.97" ts_lastsave="1651491131.99" unique_id="1672">
+				<rich_text>Cameron tells Julia that a best-selling book will give him freedom
+</rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Eddy Interrogates Cameron" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631001458.88" ts_lastsave="1650880636.64" unique_id="1137">
 				<rich_text>• 20 October 1988
@@ -1832,7 +1908,7 @@ Cameron tells Julia how writing a successful book will give him the freedom to d
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Songs of Freedom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651053683.72" ts_lastsave="1651053709.26" unique_id="1671">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Songs of Freedom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651053683.72" ts_lastsave="1651563374.54" unique_id="1671">
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Brown Dutchmen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636882773.18" ts_lastsave="1651053701.75" unique_id="1320">
 				<rich_text>• Backstory on Kampung Tugu and relations with other Indonesians
@@ -1846,6 +1922,17 @@ Cameron tells Julia how writing a successful book will give him the freedom to d
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Proves Patriotism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1636944910.2" ts_lastsave="1651053703.85" unique_id="1322">
 				<rich_text>• Samuel offers to be courier between Dutch sympathizers and Republicans
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="South is Red" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651058897.72" ts_lastsave="1651563359.34" unique_id="1673">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Primitivo accuses Muharto " prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1619925613.57" ts_lastsave="1651058931.42" unique_id="995">
+				<rich_text>• Primitivo accuses Muharto of being a communist
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cobley Flies Cadres" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651059228.14" unique_id="93">
+				<rich_text>• Cobley flies exiled communists into Madiun
 </rich_text>
 			</node>
 		</node>
@@ -1881,18 +1968,7 @@ Cameron tells Julia how writing a successful book will give him the freedom to d
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="The South is Red" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651058897.72" ts_lastsave="1651058897.72" unique_id="1673">
-			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Primitivo accuses Muharto " prog_lang="custom-colors" readonly="False" tags="east_is_red" ts_creation="1619925613.57" ts_lastsave="1651058931.42" unique_id="995">
-				<rich_text>• Primitivo accuses Muharto of being a communist
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cobley Flies Cadres" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651059228.14" unique_id="93">
-				<rich_text>• Cobley flies exiled communists into Madiun
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="The War of Art " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642479135.75" ts_lastsave="1651053717.95" unique_id="1605">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="War of Art " prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642479135.75" ts_lastsave="1651563367.96" unique_id="1605">
 			<rich_text>
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi joins Pelukis Rakyat" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637913491.76" ts_lastsave="1642483022.19" unique_id="1372">
@@ -1937,12 +2013,11 @@ American naval veteran </rich_text>
 might understand, a name: &quot;Captain Petit Muharto&quot;
  </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Birth of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1648892516.0" unique_id="1407">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Birth of RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1651567845.53" unique_id="1407">
 			<rich_text link="file c2NlbmVzL211aGFydG9faW50cm9kdWNlc19mcmVlYmVyZy5tZA==">Document</rich_text>
 			<rich_text> 
-American freelance journalist Cameron Bishop interviews Petit  </rich_text>
-			<rich_text link="node 1143">Muharto</rich_text>
-			<rich_text> for the Jakarta Times, a local English-language newspaper. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In June 1988, Cameron Bishop, an engaging, disheveled young American freelance journalist, interviews retired Indonesian Air Force Major Petit Muharto about his running the post-war Dutch blockade on RI-022, a war-surplus Dakota cargo aircraft owned and piloted by American naval veteran Bob Freeberg. Muharto relates his adventures with Freeberg from the first blockade run in March 1947, until RI-002 disappeared in October 1948 while flying two tonnes of Republican gold bullion to Sumatra ahead of a feared Dutch invasion of Jogjakarta. Muharto tells Cameron that the RI-002 wreckage was discovered in April 1977, but an investigator by the Air Force only raised more questions than it answered.  
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="On The Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1642475760.53" ts_lastsave="1642475794.12" unique_id="1603">
 				<rich_text>
@@ -1970,7 +2045,7 @@ Freeberg pilots the </rich_text>
 					<rich_text> 
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Landing At Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.66" ts_lastsave="1648125179.09" unique_id="1558">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Landing At Karangendah" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.66" ts_lastsave="1651549572.15" unique_id="1558">
 					<rich_text link="file c2NlbmVzL2xhbmRpbmdfYXRfa2FyYW5nZW5kYWgubWQ=">Document</rich_text>
 					<rich_text>
 In the air Muharto remembers the blockade  run he had organized two months previously, which included a </rich_text>
@@ -1978,13 +2053,20 @@ In the air Muharto remembers the blockade  run he had organized two months previ
 					<rich_text> on a disused airstrip  He decides the intrepid pilot must be Bob Freeberg, the captain of that memorable blockade run. 
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Drop Over Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.24" ts_lastsave="1642475777.01" unique_id="1393">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Drop Over Bukittinggi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.24" ts_lastsave="1651473860.71" unique_id="1393">
 					<rich_text link="file c2NlbmVzL2Ryb3Bfb3Zlcl9idWtpdHRpbmdnaS5tZA==">Document</rich_text>
 					<rich_text> 
 and </rich_text>
 					<rich_text link="node 377">dropping paratroopers</rich_text>
 					<rich_text> into a highland valley.
 </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Meets Pang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651473860.71" ts_lastsave="1651555814.93" unique_id="1694">
+					<rich_text link="file c2NlbmVzL211aGFydG9fbWVldHNfcGFuZy5tZA==">Document</rich_text>
+					<rich_text>
+</rich_text>
+					<rich_text link="node 1695">In Tasik</rich_text>
+					<rich_text>, Muharto meets Pang and goes to the beach.   </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Off The Beach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.41" ts_lastsave="1642475777.59" unique_id="1465">
 					<rich_text link="file c2NlbmVzL29mZl90aGVfYmVhY2gubWQ=">Document</rich_text>
@@ -2028,6 +2110,13 @@ But after landing, Muharto redeemed himself by falsely identifies himself as p</
 					<rich_text> to aviation authorities, so Freeberg would not be fined from operating a Dakota on an international flight with only one qualified pilot.  
 </rich_text>
 				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Javanese Celebrities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1651556174.88" unique_id="1403">
+					<rich_text link="file c2NlbmVzL2phdmFuZXNlX2NlbGVicml0aWVzLm1k">Document</rich_text>
+					<rich_text>
+Pang explains that he, Muharto, and Boedi became instant </rich_text>
+					<rich_text link="node 1001">celebrities</rich_text>
+					<rich_text>.</rich_text>
+				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Quinine Case" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.24" ts_lastsave="1650853323.19" unique_id="1390">
 					<rich_text link="file c2NlbmVzL3F1aW5pbmVfY2FzZS5tZA==">Document</rich_text>
 					<rich_text>
@@ -2065,8 +2154,12 @@ They have difficulty finding a buyer for the quinine, and only return late Septe
 					<rich_text>. </rich_text>
 				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1650853771.42" unique_id="1422">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Republican Lifeline" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.3" ts_lastsave="1651557044.57" unique_id="1422">
+				<rich_text link="file c2NlbmVzL3JlcHVibGljYW5fbGlmZWxpbmUubWQ=">Document</rich_text>
 				<rich_text>
+• Muharto describes RI-002 as the </rich_text>
+				<rich_text link="node 1357">Lifeline of the Republic</rich_text>
+				<rich_text> 
 </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Meeting Soekarno" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.4" ts_lastsave="1641966233.13" unique_id="1463">
 					<rich_text link="file c2NlbmVzL2JvYl9tZWV0c19zb2VrYXJuby5tZA==">Document</rich_text>
@@ -2149,19 +2242,26 @@ He finishes by saying how he r</rich_text>
 				<rich_text> his decision to accept the promotion and and leave Bob to face the challenges alone.</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="White Savior" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.38" ts_lastsave="1647679863.71" unique_id="1458">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="White Savior" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.38" ts_lastsave="1651626372.29" unique_id="1458">
 			<rich_text link="file c2NlbmVzL3N5ZF9lZGl0c19jYW1lcm9uLm1k">Document</rich_text>
 			<rich_text>
 </rich_text>
 			<rich_text link="node 1081">Syd Jardine, a retired foreign correspondent, edits Cameron</rich_text>
-			<rich_text>'s first draft, then sends him to the library for additional research.</rich_text>
+			<rich_text>'s first draft, then sends him to the library for additional research.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cameron submits his article to Syd Jardine, a retired foreign correspondent assisting the Jakarta Times, an English-language newspaper set up by a business mogul to promote foreign investment in Indonesia. Syd remarks that Freeberg comes across as a &quot;white savior&quot; singlehandedly responsible for Indonesia gaining freedom from the Dutch. He notes that there were many foreign pilots helping the Indonesians. He suggests Cameron flesh out the story by reading accounts of Freeberg written by foreigners in the region. The newly opened National Library has these books in the reference section. Syd writes an introductory letter on Jakarta Times letterhead to give Cameron access to the restricted stacks. </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cute and Nerdy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.43" ts_lastsave="1646975722.89" unique_id="1474">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cute and Nerdy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.43" ts_lastsave="1651569346.2" unique_id="1474">
 			<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfanVsaWEubWQ=">Document</rich_text>
 			<rich_text>
  </rich_text>
 			<rich_text link="node 123">Julia</rich_text>
-			<rich_text> Suryakusuma, a recent university graduate and the only intern fluent in English, finds the material he needs. </rich_text>
+			<rich_text> Suryakusuma, a recent university graduate and the only intern fluent in English, finds the material he needs. 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Julia
+Suryakusuma, an attractive, bookish woman in her early 20s working part-time in the library as she finishes her degree, retrieves a selection of books from the restricted stacks. Most of the authors praise Freeberg for his piloting skills, modesty, and humanity, while others describe him as little more than a criminal. 
+
+By lunch time, Cameron is only halfway through the stack of books. Julia invites him to join her at the library canteen. As they eat, Julia tells of her wish to take her post-graduate degree in America, and casually mentions that her father is a military intelligence officer.  </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Sharing the Wealth" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.69" ts_lastsave="1641966051.9" unique_id="1567">
 				<rich_text link="file c2NlbmVzL2NvYmxleV90aHJlYXRlbnNfZnJlZWJlcmcubWQ=">Document</rich_text>
 				<rich_text>
@@ -2178,12 +2278,14 @@ After finishing his research, Cameron and Julia </rich_text>
 				<rich_text>, and Cameron learns that her father is a military intelligence officer. </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Where is the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1647685446.81" unique_id="1406">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Where is the Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1651569469.95" unique_id="1406">
 			<rich_text link="file c2NlbmVzL211aGFydG9fdGhhbmtzX2NhbWVyb24ubWQ=">Document</rich_text>
 			<rich_text> 
 After the article is published, Muharto visits the Jakarta Times to thank Cameron for the story and pick up extra copies to show to former Air Force officers. Many of his old colleagues have asked him about the missing gold, and urge him to research the mystery.  </rich_text>
 			<rich_text link="node 918">Cameron offers to help</rich_text>
 			<rich_text> him give it another try. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muharto visits the Jakarta Times to thank Cameron for the story and pick up extra copies to show to former Air Force officers. Many of his old colleagues have asked him about the missing gold, and urge him to research the mystery. Muharto tells of his unsuccessful attempts in 1978 to seeks clues to the mystery
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Only Silence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1639274985.23" ts_lastsave="1651050923.68" unique_id="1575">
 				<rich_text link="file c2NlbmVzL211aGFydG9faW52ZXN0aWdhdGVzLm1k">Document</rich_text>
@@ -2202,18 +2304,22 @@ Muharto </rich_text>
 				<rich_text> on how to approach investigation.</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Snarky Articles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.37" ts_lastsave="1647759096.43" unique_id="1454">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Snarky Articles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.37" ts_lastsave="1651627261.87" unique_id="1454">
 			<rich_text link="file c2NlbmVzL2p1bGlhX3RyYW5zbGF0ZXNfbmV3c3BhcGVycy5tZA==">Document</rich_text>
 			<rich_text>
 Cameron returns to the library, where </rich_text>
 			<rich_text link="node 895">Julia agrees to help with </rich_text>
-			<rich_text>the project. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Claiming Ignorance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.59" ts_lastsave="1642043690.39" unique_id="1535">
+			<rich_text>the project. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Julia is eager to help Cameron investigate the mystery. She sight-reads Dutch-language articles from October 1948 in which KNIL commander General Simon Spoor angrily rejects suggestions that his fighters shot down RI-002. Julia feels that the snarky tone of the articles imply that Spoor had been lying. She suggests they speak to the library's photographic archive consultant, Victor de Jong,  a Dutch conscript posted at KNIL headquarters who stayed on an took Indonesian citizenship after independence.  </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Claiming Ignorance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.59" ts_lastsave="1651626457.18" unique_id="1535">
 				<rich_text link="file c2NlbmVzL3Nwb29yX2hhc19ub19jbHVlLm1k">Document</rich_text>
 				<rich_text> 
 In response to a reporters question, </rich_text>
 				<rich_text link="node 1084">Spoor has no clue</rich_text>
 				<rich_text> about the disappearance of RI-002.  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 </rich_text>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="A Possible Source" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.44" ts_lastsave="1648280610.38" unique_id="1479">
@@ -2225,12 +2331,15 @@ Julia thinks he was lying, and </rich_text>
 </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Photographic Memory" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.49" ts_lastsave="1647759119.07" unique_id="1496">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Photographic Memory" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.49" ts_lastsave="1651632988.55" unique_id="1496">
 			<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfdmljdG9yLm1k">Document</rich_text>
 			<rich_text>
 </rich_text>
 			<rich_text link="node 1148">Cameron Interviews Victor</rich_text>
 			<rich_text> at the IPPHOS photo agency, which he manages. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+At the IPPHOS photo archives, Victor, a slight, elderly man of sallow complexion who is openly delighted at receiving company, pulls images. Through the images he pulls from overflowing shelves and cabinets, he takes Cameron and Julia to 1947 Batavia: Spoor in his office, raging at the impunity of foreign freebooters violating NEI airspace, 
+
  
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Ground RI-002" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.27" ts_lastsave="1641970660.13" unique_id="1410">
@@ -2248,8 +2357,9 @@ Julia notices a p</rich_text>
 				<rich_text> named Emeria Soenassa, but Victor snatches it away. </rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Anak Jendral" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1647761842.98" ts_lastsave="1648282635.49" unique_id="1653">
-			<rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Anak Jendral" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1647761842.98" ts_lastsave="1651635364.02" unique_id="1653">
+			<rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cameron gives Julia a ride on his Harley Davidson to the Hotel Mandarin, where each will meet friends. Julia's friends push her to marry Cameron and move to America as her father, unlike theirs, is famously not corrupt and cannot afford to sent her to a foreign grad school. 
 </rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron offers a ride" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1646884185.16" ts_lastsave="1647761860.04" unique_id="1645">
 				<rich_text link="file c2NlbmVzL2NhbWVyb25fb2ZmZXJzX2FfcmlkZS5tZA==">Document</rich_text>
@@ -2262,6 +2372,34 @@ Julia notices a p</rich_text>
 After the interview, Cameron offers Julia a ride to the Hotel Hilton, where he meets </rich_text>
 				<rich_text link="node 887">her friends</rich_text>
 				<rich_text>, who are all daughters of senior military officers or government officials. Julia's friends urge her to get better acquainted with Cameron, whom they assume to be rich because he rides a Harley Davidson, so that she can realize her dream of studying overseas. </rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Airmen Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1651548195.88" unique_id="1440">
+			<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfYm9lZGlhcmRqby5tZA==">Document</rich_text>
+			<rich_text>
+Muharto takes Cameron to </rich_text>
+			<rich_text link="node 1612"> interview</rich_text>
+			<rich_text> several surviving RI-002 crew. </rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
+				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Document</rich_text>
+				<rich_text>
+Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
+				<rich_text link="node 356"> Paratroopers</rich_text>
+				<rich_text> over Kalimantan in October 1947</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1648966685.14" unique_id="1540">
+				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Document</rich_text>
+				<rich_text>
+and being  g</rich_text>
+				<rich_text link="node 1170">rounded in Bangkok</rich_text>
+				<rich_text>. </rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Likes Affandi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1648966685.14" ts_lastsave="1648978088.78" unique_id="1656">
+				<rich_text link="file c2NlbmVzL2NhbWVyb25fbGlrZXNfYWZmYW5kaS5tZA==">Document</rich_text>
+				<rich_text> 
+</rich_text>
+				<rich_text link="node 1663">Cameron Admires Affandi</rich_text>
+				<rich_text> paintings at Boedi house.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Military Comfort Zone" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1651051739.65" unique_id="1436">
@@ -2290,34 +2428,6 @@ Syd invites </rich_text>
 					<rich_text link="node 154">Bambang Crushed</rich_text>
 					<rich_text> to miss out on the Ambarrawa raid. </rich_text>
 				</node>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Old Airmen Reunion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.34" ts_lastsave="1650869371.69" unique_id="1440">
-			<rich_text link="file c2NlbmVzL2NhbWVyb25fbWVldHNfYm9lZGlhcmRqby5tZA==">Document</rich_text>
-			<rich_text>
-Muharto takes Cameron to </rich_text>
-			<rich_text link="node 1612"> interview</rich_text>
-			<rich_text> several surviving RI-002 crew. </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Kalimantan Paratroopers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1639456439.65" unique_id="1402">
-				<rich_text link="file c2NlbmVzL2thbGltYW50YW5fcGFyYXRyb29wZXJzLm1k">Document</rich_text>
-				<rich_text>
-Boedi fills in the stories of missions Muharto missed, like dropping </rich_text>
-				<rich_text link="node 356"> Paratroopers</rich_text>
-				<rich_text> over Kalimantan in October 1947</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Grounded In Bangkok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.6" ts_lastsave="1648966685.14" unique_id="1540">
-				<rich_text link="file c2NlbmVzL2dyb3VuZGVkX2luX2Jhbmdrb2subWQ=">Document</rich_text>
-				<rich_text>
-and being  g</rich_text>
-				<rich_text link="node 1170">rounded in Bangkok</rich_text>
-				<rich_text>. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Likes Affandi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1648966685.14" ts_lastsave="1648978088.78" unique_id="1656">
-				<rich_text link="file c2NlbmVzL2NhbWVyb25fbGlrZXNfYWZmYW5kaS5tZA==">Document</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="node 1663">Cameron Admires Affandi</rich_text>
-				<rich_text> paintings at Boedi house.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Charismatic Artist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.33" ts_lastsave="1651051726.39" unique_id="1433">
@@ -2491,13 +2601,6 @@ acting as a </rich_text>
 
 
 </rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Javanese Celebrities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.26" ts_lastsave="1642309195.82" unique_id="1403">
-				<rich_text link="file c2NlbmVzL2phdmFuZXNlX2NlbGVicml0aWVzLm1k">Document</rich_text>
-				<rich_text>
-Pang explains that he, Muharto, and Boedi became instant </rich_text>
-				<rich_text link="node 1001">celebrities</rich_text>
-				<rich_text>.</rich_text>
-			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Grooming Assets" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1638936155.66" ts_lastsave="1647336127.21" unique_id="1557">
 				<rich_text link="file c2NlbmVzL3RvbV9sZWVfdHJlYXRzLm1k">Document</rich_text>
 				<rich_text>

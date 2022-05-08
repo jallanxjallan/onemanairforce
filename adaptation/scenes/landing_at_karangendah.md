@@ -2,7 +2,7 @@
 category: past
 date: 31 March 1947
 name: Landing At Karangendah
-status: drop
+status: synopsis
 location: RI-002
 ---
 On the return leg to Singapore, Muharto asks Bob if he

@@ -1,15 +1,13 @@
 ---
 category: interview
-date: 7 July 1988
+date: 6 July 1988
 name: Cameron Meets Victor
 status: synopsis
 location: IPPHOS
 ---
-Julia and Cameron enter the office located
-on the ground floor of a building in the colonial-era section of
-Jakarta. The building is one municipal inspection away from being
+Julia and Cameron find a colonial-era building one municipal inspection away from being
 condemned. An ancient air conditioner wheezes over a window, having no
-discernible effect on the heat and humidity. The office has a single
+discernible effect on the heat and humidity. The archive has a single
 occupant: Victor, a slight, elderly man of sallow complexion who is openly delighted at receiving company.
 
 Julia introduces Cameron and explains the purpose of their visit. The

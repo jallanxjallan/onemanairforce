@@ -3,7 +3,7 @@ category: past
 date: 31 March 1947
 name: Drop Over Bukittinggi
 status: drop
-title: Drop Over Bukittinggi
+location: Bukittinggi
 
 ---
 Freeberg expertly flies through highland valleys to drop two air force engineers directly onto a damaged runway near Bukittinggi.

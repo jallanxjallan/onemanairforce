@@ -7,7 +7,7 @@ title: Non Stop To Jogja
 xdate: True
 location: RI-002
 ---
-Returning to Java, they are dangerously low on fuel as
+Freeberg and his crew are returning to Java. They are dangerously low on fuel as
 they cross the northern coastline of the island at sunset. In the gathering darkness, Muharto has difficulty
 identifying landmarks. Tension mounts in the cabin as the fuel gauges
 slide toward empty. Bob admonishes Muharto saying: "This is your

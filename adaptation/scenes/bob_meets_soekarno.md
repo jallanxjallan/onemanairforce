@@ -2,7 +2,7 @@
 category: past
 date: 22 September 1947
 name: Bob Meets Soekarno
-status: synopsis
+status: drop
 location: Presidential Palace
 ---
 Muharto takes Bob for an afternoon walk to show

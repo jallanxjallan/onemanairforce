@@ -5,7 +5,7 @@ name: Cameron Meets Julia
 status: synopsis
 location: Library
 ---
-In the library, Julia
+Julia
 Suryakusuma, an attractive, bookish woman in her early 20s, the only
 staffer speaking fluent English, is assigned to assist him. Cameron explains his mission,
 and Julia disappears into the stacks, returning shortly with some books
