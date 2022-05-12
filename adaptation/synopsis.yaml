@@ -1,9 +1,12 @@
 ---
 reader: markdown 
-writer: markdown
+writer: docx
+input-file: synopsis.md
+output-file: output/one_man_air_force_synopsis.docx 
 filters: 
-  - drop_on_status_flag.lua
-  - above_the_line.lua
-  - output_to_temp.lua 
+  - strip_headers.lua
 metadata:
-    template: synopsis
+  title: One Man Air Force
+  subtitle: Synopsis for limited television series 
+  author: Jeremy Allan 
+
