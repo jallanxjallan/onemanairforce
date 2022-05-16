@@ -1,2 +1,2 @@
-[SLUGLINE]{date="$date$" category="$category$" location="$location$" xdate=$xdate$} $body$
+[SLUGLINE]{name="$name$" date="$date$" location="$location$"} $body$
 

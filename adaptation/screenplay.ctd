@@ -523,8 +523,10 @@ Julia visists alone to check if victoe is Regina's friend.
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1651467523.89" unique_id="1194">
 		<rich_text>
 </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1651470637.88" unique_id="1675">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1652709252.63" unique_id="1675">
 			<rich_text justification="left"></rich_text>
+			<rich_text>
+</rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">---
 display: At the Affandi Museum
 </codebox>
