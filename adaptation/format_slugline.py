@@ -15,6 +15,7 @@ from dateutil.parser import parse as parse_date
 from attr import define, field
 from attr.converters import optional
 from storage.cherrytree import CherryTree
+import logging
 
 @define
 class Slugline():
@@ -22,41 +23,52 @@ class Slugline():
     location = field()
     name = field()
 
-    def slugline(self, ps, doc):
+    def format_location(self, ps, doc):
+        if self.location == ps.location:
+            return None
+        try:
+            location = doc.locations[self.location]
+        except KeyError:
+            logging.warning(f'Slugline Error in {self.name} ! {self.location} Invalid')
+            return 'Invalid location'
+
+        return location['display']
+
+    def format_date(self, ps):
+        try:
+            date = self.date.strftime("%B %Y")
+        except Exception as e:
+            logging.warning(f'Slugline Error {e} in {self.name} ! {self.date} Invalid')
+            return f'Slugline Error in {self.name} ! Invalid date'
+
         dd = relativedelta(self.date, ps.date)
-        date = None
-        location = None
-        if dd.months > 0 or abs(dd.years) > 0:
-            date = f'In {self.date.strftime("%B %Y")}'
 
-        location_node = doc.ct.find_node_by_name(self.location)
-        if not location_node:
-            pf.debug(f'No location for {self.name}')
-        elif not self.location == ps.location:
-            location = location_node.name
-            
-        if date and location:
-            return f'{date} {location}'
-        elif date:
-            return date
-        elif location:
-            return location
+        if dd.years == 0 and dd.months == 0:
+            if dd.days == 0:
+                date = None
+            elif dd.days == 1:
+                date = 'The following day'
+            elif dd.days < 7:
+                date = 'A few days later'
+            else:
+                date = f'Later in {date}'
         else:
-            return 'Slugline Error'
-
+            date = f'In {date}'
+        return date
 
 def uppercase_name(elem, doc):
     if isinstance(elem, pf.Str):
         word = elem.text
-        if word in doc.character_names and doc.character_names[word] == 0:
+        if word in doc.characters and doc.characters[word] == 0:
             elem.text = word.upper()
-            doc.character_names[word] = 1
+            doc.characters[word] = 1
     return elem
 
-
 def prepare(doc):
+    ct = CherryTree('screenplay.ctd')
     doc.sluglines = [Slugline(name='Placeholder', date='17 August 1945', location='Jakarta')]
-    doc.ct = CherryTree('screenplay.ctd')
+    doc.characters = {w.strip():0 for c in ct.nodes('Characters') for w in c.name.split()}
+    doc.locations =  {n.name:n.data for n in ct.nodes('Locations')}
 
 def action(elem, doc):
     if isinstance(elem, pf.Span) and elem.content[0].text == 'SLUGLINE':
@@ -67,10 +79,16 @@ def action(elem, doc):
             return pf.Strong(pf.Str('Slugline Error'))
         ps = doc.sluglines[-1]
         doc.sluglines.append(cs)
-        return pf.Strong(pf.Str(cs.slugline(ps, doc)), pf.Space)
+        slugline = ' '.join([s for s in (cs.format_date(ps), cs.format_location(ps,doc)) if s])
+        try:
+            slugline = slugline[0].upper() + slugline[1:]
+        except IndexError as e:
+            logging.warning(f'Slugline formatting Error {e} in {cs.name}')
+            slugline = 'Slugline formatting error'
+        return pf.Strong(pf.Str(slugline), pf.Space)
 
 def finalize(doc):
-    doc.character_names = {w.strip():0 for c in doc.ct.nodes('Characters') for w in c.name.split()}
+
     uppercased = doc.walk(uppercase_name)
     return uppercased
 

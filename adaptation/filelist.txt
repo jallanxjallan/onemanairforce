@@ -3,8 +3,17 @@ scenes/muharto_introduces_freeberg.md
 scenes/surprise_message.md
 scenes/muharto_flies_to_tasik.md
 scenes/third_cali_run.md
+scenes/landing_at_karangendah.md
 scenes/drop_over_bukittinggi.md
 scenes/muharto_meets_pang.md
 scenes/off_the_beach.md
 scenes/fictitious_registration.md
 scenes/come_what_may.md
+scenes/setting_the_flaps.md
+scenes/pilot_officer.md
+scenes/javanese_celebrities.md
+scenes/quinine_case.md
+scenes/wins_quinine_case.md
+scenes/vt-cla_shot_down.md
+scenes/madras_curry.md
+scenes/non_stop_to_jogja.md

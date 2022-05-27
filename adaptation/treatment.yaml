@@ -3,6 +3,7 @@ reader: markdown
 writer: markdown
 
 filters: 
+  - drop_on_status_flag.lua
   - above_the_line.lua
   - output_to_temp.lua 
 

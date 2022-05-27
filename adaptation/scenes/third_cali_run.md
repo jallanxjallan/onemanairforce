@@ -2,7 +2,7 @@
 category: past
 date: 31 March 1947
 name: Third Cali Run
-status: synopsis
+status: drop
 location: Cali Dakota
 xdate: true
 ---

@@ -3,8 +3,31 @@
 	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1647857831.46" unique_id="7">
 		<rich_text>
  </rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Alex Kawilarang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891805.99" ts_lastsave="1629792047.09" unique_id="897">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647113.77" unique_id="8">
+			<rich_text>• Indonesia's leading modern artist in the 80s
+• Famously apolitical, but friends with communists
+• 
+
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Ahmad Saladi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000403.6" ts_lastsave="1653647110.92" unique_id="1621">
 			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Alex Kawilarang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891805.99" ts_lastsave="1653647125.05" unique_id="897">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647057.58" unique_id="11">
+			<rich_text>
+• Ani has noblesse oblige. Ani and her mother help to organize food for the refugees flooding into Jogja.
+• Ani teaches school. With no resources save a blackboard and half piece of chalk.
+• Ani tells wedding guests to wear shabby clothes with pride.
+• Ani endures hardships in preparing for marriage
+• Ani bests Westerling when detained in market during Operation Crow
+
+
 </rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Anwar Congo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650892547.16" unique_id="9">
@@ -25,132 +48,8 @@
 
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Artists" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000651.34" ts_lastsave="1643000736.96" unique_id="1624">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Auke Sonnega" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647073.75" unique_id="12">
 			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000663.25" unique_id="8">
-				<rich_text>• Indonesia's leading modern artist in the 80s
-• Famously apolitical, but friends with communists
-• 
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Hendra Gunawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000179.05" ts_lastsave="1643000675.62" unique_id="1617">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Srihadi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000192.19" ts_lastsave="1643000685.97" unique_id="1618">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Kusnadi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000322.49" ts_lastsave="1643000694.99" unique_id="1619">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Solihin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000333.53" ts_lastsave="1643000704.73" unique_id="1620">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ahmad Saladi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000403.6" ts_lastsave="1643000717.44" unique_id="1621">
-				<rich_text>
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="AURI" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000736.96" ts_lastsave="1643000817.3" unique_id="1625">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Suryadarma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000756.71" unique_id="33">
-				<rich_text>
-• Suryadarma Chief of Staff of AURI
-• Suryadarma Treats foreign pilots flying RI-00x registration like his own AURI pilots. Demands military chain of command. This puts him at serious odds with Aviation Brotherhood.
-• Suryadarma has sense of entitlement
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bambang Saptoadji" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650892015.78" unique_id="13">
-				<rich_text>• Bambang born in village. 
-• Bambang brash and overly confident in abilities.
-• A village boy who had never seen an airplane until 1946, Bambang Saptoadji is a cocky Air Force pilot whose self-regard far outstrips his skills
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Sudaryono" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637896936.16" ts_lastsave="1643000850.45" unique_id="1362">
-				<rich_text>• Lt from Semarang during the war
-• Based on Adisuciptos younger brother. Need to change name
-• Tells of training, and rivalry between Moelyono and Bambang</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Moeljono" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000866.3" unique_id="28">
-				<rich_text>
-• Moeljono is an ace pilot. 
-• Moeljono Friendly rival to Bambang Moeljono 
-• Moeljono handsome. Like Gary Grant. Suave and charming. 
-• Moeljono is given the prime assignment. Piloting the Hayabusa bomber for the Ambarrawa Raid.
-• Moeljono selected to relocate RI-005 from Bukittinggi to Jogjakarta. 
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650892061.06" unique_id="20">
-				<rich_text link="file c2NlbmVzL2dlb3JnZV9ydWVuZWtlci5tZA==">Document</rich_text>
-				<rich_text>
-• Change name and other details to deal with fact that George died ten years before. 
-• George writes to Dave Fowler, who was in the indonesian aviation industry until 1956, and during the New Order until 1980. 
-• George introduces story of Ining, which much surprises Cameron.George is an indo who sided with the Republic. He and his son founded
-Aviation George went on to found an aviation company, which flourished
-servicing the foreign oil companies in remote regions.
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Pang Soeparto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643001261.72" ts_lastsave="1643001261.72" unique_id="1630">
-				<rich_text>
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Aviator" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000969.94" ts_lastsave="1643000969.94" unique_id="1627">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650892110.05" unique_id="14">
-				<rich_text>
-• Bob is a straight shooter. Others seduced by the easy life in the east. Bob compares Lives of expats in Manila contrasted to deprivation in Jogja
-• Bob is haggard. Grey hairs at 27.
-• Bob is responsible for crew. Insists that as captain of RI-002 he is responsible for them until they return to Java As they wait for the verdict.
-• Bob handles petty annoyances. Handles the little problems with his apartment and room mates, his jeep etc with a sort of gruff good nature.
-• Bob shows his appreciation for local customs when Boedi's mother's buntil becomes his favorite dish. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Captain Jack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637235559.5" ts_lastsave="1643000988.7" unique_id="1335">
-				<rich_text>Zamrud Air Pilot
-Spent hundreds of hours with Dave Fowler and heard all the stories. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Dave Fowler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629597124.42" ts_lastsave="1650892119.47" unique_id="1017">
-				<rich_text>
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1643001170.97" unique_id="898">
-				<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. First job would be to intercept gold shipment to finance it.
-• Verspoor lied and said he was not sure of the loyalty of some of his pilots as they were Indos. Better select a squadron that is all native Dutch. Westerling agreed, and both decided to never mention this phone call again. 
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Richard Cobley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619338735.53" ts_lastsave="1643001144.23" unique_id="963">
-				<rich_text>• Cobley makes deal with 
-• Suryadarma is annoyed at being circumvented.
-• Suspicion that Cobley sabotaged hydraulic gear on RI-002 to keep it out of commission. 
-</rich_text>
-				<rich_text link="webs https://www.liputan6.com/regional/read/3393928/rr-cobley-tentara-bayaran-yang-gugur-di-sungai-batanghari">Bio Notes</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Walters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001160.01" unique_id="15">
-				<rich_text>• Walters Tells Boedi stories of Dave Fowler and Rick Cobley
-• Walters badmouths Freeberg to Boediarjo. Insists Freeberg is a cheat.
-• Walters acts unhinged throughout the latter half of 1947.
-
-</rich_text>
-			</node>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Batavia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000585.09" ts_lastsave="1643000585.09" unique_id="1623">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Auke Sonnega" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1651061509.38" unique_id="12">
-				<rich_text>
 • Harley riding painter, graphic designer
 • Center of Batavia Kuntskring
 • Crush on Emiria
@@ -166,10 +65,76 @@ Spent hundreds of hours with Dave Fowler and heard all the stories. </rich_text>
 A Dutch artist and graphic designer, Auke Sonnega is a prominent, if
 Bohemian figure in Batavia society. Though equally appealing to men and
 women, Auke reserves his affections for his Harley Davidson motorcycle.</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Emiria Soenassa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595990870.22" ts_lastsave="1650892167.79" unique_id="359">
-				<rich_text link="file c2NlbmVzL2VtaXJpYV9zb2VuYXNzYS5tZA==">Document</rich_text>
-				<rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bambang Saptoadji" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647100.71" unique_id="13">
+			<rich_text>• Bambang born in village. 
+• Bambang brash and overly confident in abilities.
+• A village boy who had never seen an airplane until 1946, Bambang Saptoadji is a cocky Air Force pilot whose self-regard far outstrips his skills
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Bob Freeberg" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647087.07" unique_id="14">
+			<rich_text>
+• Bob is a straight shooter. Others seduced by the easy life in the east. Bob compares Lives of expats in Manila contrasted to deprivation in Jogja
+• Bob is haggard. Grey hairs at 27.
+• Bob is responsible for crew. Insists that as captain of RI-002 he is responsible for them until they return to Java As they wait for the verdict.
+• Bob handles petty annoyances. Handles the little problems with his apartment and room mates, his jeep etc with a sort of gruff good nature.
+• Bob shows his appreciation for local customs when Boedi's mother's buntil becomes his favorite dish. 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647040.07" unique_id="16">
+			<rich_text>
+</rich_text>
+			<rich_text link="webs https://en.wikipedia.org/wiki/Boediardjo">Wiki bio</rich_text>
+			<rich_text>
+
+• Boedi interviewed surrounded by Affandi paintings
+• Boedi serves Cameron buntil, from mother's recipe. 
+• Boedi hangs out with Aviation Brotherhood. 
+• Boedi started on First Flight. On every mission until after Soekarno Tour.
+• Boedi mentions that when not resting or working on his plane, Freeberg would be writing letters home.
+• Boedi strives to improve his (already adequate) English by hanging out with members of the Aviation Brotherhood, who enjoy his company. The pilots of the Aviation Brotherhood are reluctant to accept the stiff and reserved Muharto, but the charismatic Boedi is welcomed into the fold. 
+• Tells Cameron that, even when telephones are available, anyone can drop in at the 4 pm visiting hour and he will receive them. Old Javanese custom. This will be important later, and also give Cameron a chance to meet other visitors. 
+• In his spacious salon, walls lined with an
+extensive collection of European art and Indonesian masters, Boediardjo,
+a short, heavy-set man in his early sixties, displays the Javanese
+statesmans ideal of blending commanding authority with refined manners
+and easy grace. 
+• The skilled, engaging radio operator on RI-002 equally at home in the
+company of Asians and Westerners, and who went on to an illustrious
+career as an Air Force commander, government minister, and ambassador,
+Boediardjo now displays the Javanese statesman's ideal of blending
+commanding authority with refined manners and easy grace.
+
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Bishop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647046.52" unique_id="17">
+			<rich_text>• 30 years old.
+• Father an instructor at Neiman program.
+• Cameron could not get into Harvard, took journalism at a second-tier school. 
+• When he says Harvard connection every assumes he went to Harvard. Doesn't correct them.  
+• Just graduated with degree in journalism. Favorite professor who knows Sabam from Harvard arranged for one year internship with Jakarta Post. 
+• Cameron graduated with degree. Worked for local newspaper but unhappy with trivial work and low pay.
+• Cameron worked in boiler room. College drinking buddy got Cam a job as stock broker in US boiler room. Narrowly escaped jail when company raided
+• Partially based on Paul Handley. 
+• Our reporter tells him “Any hack can get himself kicked out of the country”
+• Cameron flees to Jakarta to live with sister working in American bank invites him to use spare room in Kemang mansion until case settles down.
+• Cameron rides a Harley Davidson he bought from a friend of Syd. 
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Captain Jack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637235559.5" ts_lastsave="1653647086.43" unique_id="1335">
+			<rich_text>Zamrud Air Pilot
+Spent hundreds of hours with Dave Fowler and heard all the stories. </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Dave Fowler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629597124.42" ts_lastsave="1653647085.88" unique_id="1017">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Emiria Soenassa" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1595990870.22" ts_lastsave="1653647072.48" unique_id="359">
+			<rich_text link="file c2NlbmVzL2VtaXJpYV9zb2VuYXNzYS5tZA==">Document</rich_text>
+			<rich_text>
 
 • Painter, socialite, and friend of Soekarno, Sjahrir etc
 • In her mid 30s
@@ -179,12 +144,12 @@ women, Auke reserves his affections for his Harley Davidson motorcycle.</rich_te
 • She herself got a &quot;colonial guilt&quot; scholarship and moved to the Hague. She could still have gotten a scholarship even in her mid-thirties, especially if she took a few year off her age because she looks young.
 • She married a Dutch academic who had been one of the voices pushing for Indonesian independence. She kept a low profile, raising children, supporting her husband's work, and painting a little on the side. She and her husband frequently visited Indonesia for conferences etc, but she did not try to contact Victor. On her husband's death she moved back to Jogja, where she still has many friends. 
 </rich_text>
-				<rich_text scale="h1">Relationship with Victor</rich_text>
-				<rich_text>
+			<rich_text scale="h1">Relationship with Victor</rich_text>
+			<rich_text>
 • She was fond of him, but her nation was at war, and needed guns. It was a clear choice. 
 • </rich_text>
-				<rich_text scale="h1">Emeria salon</rich_text>
-				<rich_text>
+			<rich_text scale="h1">Emeria salon</rich_text>
+			<rich_text>
 She would invite different people to her studio to see her paintings. They would hold their clandestine meetings.
 • No one at KNIL paid attention. Republicans were a bunch of thugs. Why would they be interested in art. 
 • A talented painter and socialite with contacts at the highest levels in
@@ -194,76 +159,49 @@ information from senior officials on the Batavia arts circuit and
 passing them along to the Republicans through her friendship with
 Republican senior leaders.
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Hermann Bennick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643344725.36" ts_lastsave="1650892574.15" unique_id="1636">
-				<rich_text>• Spoors bodyguard
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Ernesto Primitivo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647029.09" unique_id="26">
+			<rich_text>
+• Head of Philippine army intel
+• Assigned by Roxas as liaison with RI through Muharto and Pang
+• Virulent  anti-communist
+• Close ties with American intel, including the newly formed CIA.
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="George Rueneker" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647099.02" unique_id="20">
+			<rich_text link="file c2NlbmVzL2dlb3JnZV9ydWVuZWtlci5tZA==">Document</rich_text>
+			<rich_text>
+• Change name and other details to deal with fact that George died ten years before. 
+• George writes to Dave Fowler, who was in the indonesian aviation industry until 1956, and during the New Order until 1980. 
+• George introduces story of Ining, which much surprises Cameron.George is an indo who sided with the Republic. He and his son founded
+Aviation George went on to found an aviation company, which flourished
+servicing the foreign oil companies in remote regions.
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Hendra Gunawan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000179.05" ts_lastsave="1653647113.23" unique_id="1617">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Hermann Bennick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643344725.36" ts_lastsave="1653647071.93" unique_id="1636">
+			<rich_text>• Spoors bodyguard
 • Spoor trusted him more than any other person.
 • Assigned him to investigate corruption
 • Found many minor cases and hints of a big case that maybe involved gunrunning.
 
 • Regrets that he was not able to protect Spoor from poison.
 • Left KNIL soon after and married local woman and took Indo citizenship. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629791942.35" ts_lastsave="1643000881.2" unique_id="1060">
-				<rich_text>• Reporter for Bataviaasch Nieuwsblad
-• Indo. Decided to stay after 1951 
-• Julia tracks him down and interviews him </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julius Tahija" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001125.32" unique_id="24">
-				<rich_text>
-• Julius was Spoors adjutant. As KNIL officer adjutant to Spoor
-• Julius not a confidant. Spoor cannot confide. All in Tahija as he is Indonesian at heart. 
-• Julius witnesses Spoor daily duties., Westerling, and the colonial government. However, he was so busy with political activities (NIT etc) that he was not always around. Knew nothing about Westerling's coup plotting. 
-• Julius still running Caltex when Cam interviews him. 
-• Julius raised money for Freeport. And was Chairman of the Board. Tahija worked to get best possible deal for Indonesians when working with foreign scoundrels. 
-• Julius tells Cameron that much of his career has been spent keeping foreign investors on line. At the end Cameron asks about his time with spoor. Saying he had come across his readings. Julius grins saying no one likes to talk about that any more.
-• Julius introduces Cameron to Anwar Congo. He met him first when checking out new &quot;Palembang II&quot; for Spoor, then again when supervising logistics for one of this outside companies during 60s. Said his son should still be active. Used Anwar to make deals with other riverport &quot;jago&quot;. &quot;Need to deal with all kinds in this business&quot;
-
-Bio
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Ignatio Espina" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647056.83" unique_id="21">
+			<rich_text>
+• Experienced guerrilla with Philippines army.
+• Party animal 
+• Arrogant and easy to offend
+• drinking problem made worse by isolation
+• Muharto organized the deal with Primitivo, so, as in the Indonesian fashion, is responsible for him
+• Brings him whiskey on every flight to keep him happy.
 
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Muhammad Arif" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1647857831.5" ts_lastsave="1647857935.58" unique_id="1654">
-				<rich_text>• Batavia Preman leader
-• Samuel Quiko's contact</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1651743394.26" unique_id="1261">
-				<rich_text>
-</rich_text>
-				<rich_text link="webs https://noosatoday.com.au/entertainment/22-04-2019/our-hotel-in-bali/">Short Bio</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="webs https://docs.google.com/document/d/1StGPuOawMeFf9MTEB0zJtoXKnHeRsN9WRaf8_IqTUeo/edit?usp=sharing">Our House In Bali</rich_text>
-				<rich_text> 
-</rich_text>
-				<rich_text link="webs https://historia.id/politik/articles/agen-cia-yang-menuduh-sukarno-bernegosiasi-dengan-belanda-PMa8X/page/4">As CIA</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530476.81" ts_lastsave="1643344725.35" unique_id="1244">
-				<rich_text>• A keroncong crocodile from Kampung Tugu
-• Can travel freely in Dutch-controlled areas after dark, and so is valuable as courier. </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Simon Spoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346420.18" unique_id="31">
-				<rich_text>• Spoor concerned about gun running.
-• Spoors orders operation product
-• Spoor Furious at Bob over Ining incident. Vows to crack down on gun running
-• Spoor has reservations about Westerling
-• Spoor learns about KNIL corruption. The irony that his own officers were the gun runners. 
-• Spoor was a strict, humorless martinet universally hated by his subordinates and convinced that the Republicans were no more than thugs and bandits. Victor had often heard Spoor's voice rise in fury as he is briefed about Freeberg's daily blockade runs, which he seems to take as a personal affront. 
-
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Walter Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000805.0" unique_id="37">
-				<rich_text>
-• Foote is pro-Dutch American consul in Batavia
-• Shares Spoor's view that Indonesians cannot govern a nation.
-• Worked closely with OSS during Operation Rust with Robert Koke
-• Like to be called Uncle Billy. Treated Indonesians, including Hatta and Sjahrir as errant nephews.
-• Affable but considered a lightweight
-
-</rich_text>
-			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Jakarta" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643001203.18" ts_lastsave="1643001203.18" unique_id="1629">
 			<rich_text>
@@ -296,79 +234,13 @@ Bio
 •</rich_text>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Jogja" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643001030.86" ts_lastsave="1643001030.86" unique_id="1628">
-			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ani Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001048.94" unique_id="11">
-				<rich_text>
-• Ani has noblesse oblige. Ani and her mother help to organize food for the refugees flooding into Jogja.
-• Ani teaches school. With no resources save a blackboard and half piece of chalk.
-• Ani tells wedding guests to wear shabby clothes with pride.
-• Ani endures hardships in preparing for marriage
-• Ani bests Westerling when detained in market during Operation Crow
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ignatio Espina" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643001104.14" unique_id="21">
-				<rich_text>
-• Experienced guerrilla with Philippines army.
-• Party animal 
-• Arrogant and easy to offend
-• drinking problem made worse by isolation
-• Muharto organized the deal with Primitivo, so, as in the Indonesian fashion, is responsible for him
-• Brings him whiskey on every flight to keep him happy.
-
-</rich_text>
-			</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Jan Boon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1629791942.35" ts_lastsave="1653647071.33" unique_id="1060">
+			<rich_text>• Reporter for Bataviaasch Nieuwsblad
+• Indo. Decided to stay after 1951 
+• Julia tracks him down and interviews him </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Main" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000444.07" ts_lastsave="1643002462.4" unique_id="1622">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Suryakusuma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647045.94" unique_id="23">
 			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Boediardjo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1650892321.76" unique_id="16">
-				<rich_text>
-</rich_text>
-				<rich_text link="webs https://en.wikipedia.org/wiki/Boediardjo">Wiki bio</rich_text>
-				<rich_text>
-
-• Boedi interviewed surrounded by Affandi paintings
-• Boedi serves Cameron buntil, from mother's recipe. 
-• Boedi hangs out with Aviation Brotherhood. 
-• Boedi started on First Flight. On every mission until after Soekarno Tour.
-• Boedi mentions that when not resting or working on his plane, Freeberg would be writing letters home.
-• Boedi strives to improve his (already adequate) English by hanging out with members of the Aviation Brotherhood, who enjoy his company. The pilots of the Aviation Brotherhood are reluctant to accept the stiff and reserved Muharto, but the charismatic Boedi is welcomed into the fold. 
-• Tells Cameron that, even when telephones are available, anyone can drop in at the 4 pm visiting hour and he will receive them. Old Javanese custom. This will be important later, and also give Cameron a chance to meet other visitors. 
-• In his spacious salon, walls lined with an
-extensive collection of European art and Indonesian masters, Boediardjo,
-a short, heavy-set man in his early sixties, displays the Javanese
-statesmans ideal of blending commanding authority with refined manners
-and easy grace. 
-• The skilled, engaging radio operator on RI-002 equally at home in the
-company of Asians and Westerners, and who went on to an illustrious
-career as an Air Force commander, government minister, and ambassador,
-Boediardjo now displays the Javanese statesman's ideal of blending
-commanding authority with refined manners and easy grace.
-
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Cameron Bishop" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000522.46" unique_id="17">
-				<rich_text>• 30 years old.
-• Father an instructor at Neiman program.
-• Cameron could not get into Harvard, took journalism at a second-tier school. 
-• When he says Harvard connection every assumes he went to Harvard. Doesn't correct them.  
-• Just graduated with degree in journalism. Favorite professor who knows Sabam from Harvard arranged for one year internship with Jakarta Post. 
-• Cameron graduated with degree. Worked for local newspaper but unhappy with trivial work and low pay.
-• Cameron worked in boiler room. College drinking buddy got Cam a job as stock broker in US boiler room. Narrowly escaped jail when company raided
-• Partially based on Paul Handley. 
-• Our reporter tells him “Any hack can get himself kicked out of the country”
-• Cameron flees to Jakarta to live with sister working in American bank invites him to use spare room in Kemang mansion until case settles down.
-• Cameron rides a Harley Davidson he bought from a friend of Syd. 
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Julia Suryakusuma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000533.69" unique_id="23">
-				<rich_text>
 • Julia is from a priyayi family. 
 • Only child, which is unusual in Indonesia. So her father will give her anything she wants. 
 • Envious of all her anak jendral friends being able to take master's degrees in America and Europe. 
@@ -391,21 +263,133 @@ commanding authority with refined manners and easy grace.
 
 
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Petit Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000552.54" unique_id="29">
-				<rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Julius Tahija" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647070.3" unique_id="24">
+			<rich_text>
+• Julius was Spoors adjutant. As KNIL officer adjutant to Spoor
+• Julius not a confidant. Spoor cannot confide. All in Tahija as he is Indonesian at heart. 
+• Julius witnesses Spoor daily duties., Westerling, and the colonial government. However, he was so busy with political activities (NIT etc) that he was not always around. Knew nothing about Westerling's coup plotting. 
+• Julius still running Caltex when Cam interviews him. 
+• Julius raised money for Freeport. And was Chairman of the Board. Tahija worked to get best possible deal for Indonesians when working with foreign scoundrels. 
+• Julius tells Cameron that much of his career has been spent keeping foreign investors on line. At the end Cameron asks about his time with spoor. Saying he had come across his readings. Julius grins saying no one likes to talk about that any more.
+• Julius introduces Cameron to Anwar Congo. He met him first when checking out new &quot;Palembang II&quot; for Spoor, then again when supervising logistics for one of this outside companies during 60s. Said his son should still be active. Used Anwar to make deals with other riverport &quot;jago&quot;. &quot;Need to deal with all kinds in this business&quot;
+
+Bio
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Kusnadi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000322.49" ts_lastsave="1653647112.12" unique_id="1619">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Miss Brown" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647028.43" unique_id="27">
+			<rich_text>
+• Flight attendant of the three CALI blockade runs
+• Boedi runs into her while having coffee (in a respectable coffee shop) with another pilot.
+• Stories Miss Brown can tell about CALI blockade runs and other pilots.
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Moeljono" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647099.64" unique_id="28">
+			<rich_text>
+• Moeljono is an ace pilot. 
+• Moeljono Friendly rival to Bambang Moeljono 
+• Moeljono handsome. Like Gary Grant. Suave and charming. 
+• Moeljono is given the prime assignment. Piloting the Hayabusa bomber for the Ambarrawa Raid.
+• Moeljono selected to relocate RI-005 from Bukittinggi to Jogjakarta. 
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muhammad Arif" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1647857831.5" ts_lastsave="1653647069.65" unique_id="1654">
+			<rich_text>• Batavia Preman leader
+• Samuel Quiko's contact</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Pang Soeparto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643001261.72" ts_lastsave="1653647098.32" unique_id="1630">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Paul Verspoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1618891818.3" ts_lastsave="1653647085.29" unique_id="898">
+			<rich_text>• Admits to Cameron that Westerling phoned him to recruit his squadron for coup. First job would be to intercept gold shipment to finance it.
+• Verspoor lied and said he was not sure of the loyalty of some of his pilots as they were Indos. Better select a squadron that is all native Dutch. Westerling agreed, and both decided to never mention this phone call again. 
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Petit Muharto" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647045.37" unique_id="29">
+			<rich_text>
 • Muharto insists that he and Bob were close friends. 
 • Muharto has tidy home in southern suburbs. Full of Javanese bric a brac.
 • Initially Muharto does not mention Ining because the memory is painful. 
 • Primitivo suspects muharto since he grew up in madiun
 • Knows that father ordered a communist to be released before being shipped off to bogen Duval.
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346434.07" unique_id="34">
-				<rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Richard Cobley" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1619338735.53" ts_lastsave="1653647084.67" unique_id="963">
+			<rich_text>• Cobley makes deal with 
+• Suryadarma is annoyed at being circumvented.
+• Suspicion that Cobley sabotaged hydraulic gear on RI-002 to keep it out of commission. 
 </rich_text>
-				<rich_text scale="h1">Model</rich_text>
-				<rich_text>
+			<rich_text link="webs https://www.liputan6.com/regional/read/3393928/rr-cobley-tentara-bayaran-yang-gugur-di-sungai-batanghari">Bio Notes</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Koke" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1635060145.39" ts_lastsave="1653647069.1" unique_id="1261">
+			<rich_text>
+</rich_text>
+			<rich_text link="webs https://noosatoday.com.au/entertainment/22-04-2019/our-hotel-in-bali/">Short Bio</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="webs https://docs.google.com/document/d/1StGPuOawMeFf9MTEB0zJtoXKnHeRsN9WRaf8_IqTUeo/edit?usp=sharing">Our House In Bali</rich_text>
+			<rich_text> 
+</rich_text>
+			<rich_text link="webs https://historia.id/politik/articles/agen-cia-yang-menuduh-sukarno-bernegosiasi-dengan-belanda-PMa8X/page/4">As CIA</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Robert Walters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647083.63" unique_id="15">
+			<rich_text>• Walters Tells Boedi stories of Dave Fowler and Rick Cobley
+• Walters badmouths Freeberg to Boediarjo. Insists Freeberg is a cheat.
+• Walters acts unhinged throughout the latter half of 1947.
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Samuel Quiko" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530476.81" ts_lastsave="1653647068.52" unique_id="1244">
+			<rich_text>• A keroncong crocodile from Kampung Tugu
+• Can travel freely in Dutch-controlled areas after dark, and so is valuable as courier. </rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Simon Spoor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647067.91" unique_id="31">
+			<rich_text>• Spoor concerned about gun running.
+• Spoors orders operation product
+• Spoor Furious at Bob over Ining incident. Vows to crack down on gun running
+• Spoor has reservations about Westerling
+• Spoor learns about KNIL corruption. The irony that his own officers were the gun runners. 
+• Spoor was a strict, humorless martinet universally hated by his subordinates and convinced that the Republicans were no more than thugs and bandits. Victor had often heard Spoor's voice rise in fury as he is briefed about Freeberg's daily blockade runs, which he seems to take as a personal affront. 
+
+
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Solihin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000333.53" ts_lastsave="1653647111.53" unique_id="1620">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Srihadi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000192.19" ts_lastsave="1653647112.68" unique_id="1618">
+			<rich_text>
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Sudaryono" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1637896936.16" ts_lastsave="1653647100.17" unique_id="1362">
+			<rich_text>• Lt from Semarang during the war
+• Based on Adisuciptos younger brother. Need to change name
+• Tells of training, and rivalry between Moelyono and Bambang</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Suryadarma" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647101.27" unique_id="33">
+			<rich_text>
+• Suryadarma Chief of Staff of AURI
+• Suryadarma Treats foreign pilots flying RI-00x registration like his own AURI pilots. Demands military chain of command. This puts him at serious odds with Aviation Brotherhood.
+• Suryadarma has sense of entitlement
+
+
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Syd Jardine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647044.77" unique_id="34">
+			<rich_text>
+</rich_text>
+			<rich_text scale="h1">Model</rich_text>
+			<rich_text>
 • Based on partially on Syd Perret and David Jardine. 
 • Wicked sense of humor. 
 Background
@@ -415,8 +399,8 @@ Background
 • Syd  settled in Indonesia after marrying an Indonesian woman he knocked up. 
 • Now divorced and penniless.
 </rich_text>
-				<rich_text scale="h1">Jakarta Post</rich_text>
-				<rich_text>
+			<rich_text scale="h1">Jakarta Post</rich_text>
+			<rich_text>
 • Syd  is a good copy editor, works cheap, always shows up. So Sabam must keep Syd  instincts in check. This is difficult, as he is the last person to see the copy before it goes to the press.  
 • OR speaks fluent Javanese and thoroughly familiar with Jakarta bahasa gaul and allusion
 • Always trying to sneak Pos Kota sex-crime translations into Post when Sabam is preoccupied. Running gag.
@@ -429,87 +413,14 @@ Behavior
 • Syd  Fluent in both proper indonesian and slang, which he used to use in previous job. 
 • Syd does this every few weeks. His skill in rendering tone-perfect translations of articles taken from sensationalist local newspapers, often writing in regional vernacular, has earned him the sobriquet of &quot;cunning linguist&quot; among expatriate readers.  
 </rich_text>
-				<rich_text scale="h1">Marriage</rich_text>
-				<rich_text>
+			<rich_text scale="h1">Marriage</rich_text>
+			<rich_text>
 • He had been a brilliant foreign correspondent, too busy to settle down, until he met his Dini, a well-educated, much younger woman from a prominent Padang family. The family hated him, but they were devoted to each other. Dini died in a senseless accident, and family swooped in to take the house and his son. Syd was broken, and never recovered. 
  
 </rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Victor deJong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346361.24" unique_id="36">
-				<rich_text>
-• Julia introduces Cameron to Victor. Says he is always there.
-• Chronic skin condition from confinement. Like the cold climate of the newspaper archive.
-• Victor helps Julia with obscure Dutch vocabulary in newspapers.
-• On visit to library, Julia points out Victor. Says he is here at least one day a week.
-• Has a &quot;photographic memory&quot; Has difficulty remembering with early-onset dementia, but seeing a photograph that he has taken will trigger a flood of vivid memories about that time and place.  
-
-</rich_text>
-				<rich_text scale="h1"> KNIL conscript</rich_text>
-				<rich_text>
-   • talented artist and photographer
-   • worked for mapping department
-   • attended art exhibits so met progressive Dutch and educated Indonesians
-   • flew to Karangendah to map area
-   • Spoor used him as documentary photographer. Blended into the background, saw encounters like the friendly meetings of Spoor and Walter Foote.
-</rich_text>
-				<rich_text scale="h1">Defection</rich_text>
-				<rich_text>
-•   Deserted in Jogja during Operation Crow. 
-•   Received Indonesian citizenship right after transfer of sovereignty
-•   Mistrusted as a civilian because he deserted. Even arrested and threatened with deportation, although he has no place to go. 
-
-</rich_text>
-				<rich_text scale="h1">Timeline</rich_text>
-				<rich_text> 
-Julia and Cameron visit first time.
-Cameron visit s alone to learn about koke
-Julia visists alone to check if victoe is Regina's friend.
-
-
-</rich_text>
-				<rich_text scale="h1">Photographic Memory</rich_text>
-				<rich_text>
-• Can recognize patterns from previous photographs, even glimpsed weeks before.
-• Put in Spoors office to analyse aerial photos. Coordinates taped over so he does not need security clearance.
-• Intel officer with him at all times.
-•
-</rich_text>
-				<rich_text scale="h1">Arts Reporter</rich_text>
-				<rich_text>
-• Gets stolen film from corrupt KNIL quartermaster.
-• Gives him article fees, so gets film for half price (or less) This sets up corruption throughout KNIL
-• Develops film at BN.
-</rich_text>
-				<rich_text scale="h1">Atrocity Photographs</rich_text>
-				<rich_text>
-• Spoor assigns him to photograph Dutch atrocity victims brought in from Bekasi.
-• Emeria takes him to kampung to help out Frans from IPPHOS, who wants complete documentation of Rawagede victims but is how on film.
-• This is how Victor meets Frans
-• Frans is light skinned and well-know, so the residents assume Victor, who is out of uniform, is an Indo sympathizer.</rich_text>
-			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1643000817.31" ts_lastsave="1643000817.31" unique_id="1626">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647027.68" unique_id="35">
 			<rich_text>
-</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ernesto Primitivo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643346444.52" unique_id="26">
-				<rich_text>
-• Head of Philippine army intel
-• Assigned by Roxas as liaison with RI through Muharto and Pang
-• Virulent  anti-communist
-• Close ties with American intel, including the newly formed CIA.
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Miss Brown" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643002492.49" unique_id="27">
-				<rich_text>
-• Flight attendant of the three CALI blockade runs
-• Boedi runs into her while having coffee (in a respectable coffee shop) with another pilot.
-• Stories Miss Brown can tell about CALI blockade runs and other pilots.
-
-</rich_text>
-			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Tom Lee" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1643000829.38" unique_id="35">
-				<rich_text>
 • Tom Lee is an American government lawyer and suspected intelligence asset. 
 • Tom Lee advises Bob that deporting Walters would be a bad move.
 • Muharto raises suspicion about Lee with Chrysler story.
@@ -517,10 +428,71 @@ Julia visists alone to check if victoe is Regina's friend.
 
 
 </rich_text>
-			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Victor deJong" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647044.09" unique_id="36">
+			<rich_text>
+• Julia introduces Cameron to Victor. Says he is always there.
+• Chronic skin condition from confinement. Like the cold climate of the newspaper archive.
+• Victor helps Julia with obscure Dutch vocabulary in newspapers.
+• On visit to library, Julia points out Victor. Says he is here at least one day a week.
+• Has a &quot;photographic memory&quot; Has difficulty remembering with early-onset dementia, but seeing a photograph that he has taken will trigger a flood of vivid memories about that time and place.  
+
+</rich_text>
+			<rich_text scale="h1"> KNIL conscript</rich_text>
+			<rich_text>
+   • talented artist and photographer
+   • worked for mapping department
+   • attended art exhibits so met progressive Dutch and educated Indonesians
+   • flew to Karangendah to map area
+   • Spoor used him as documentary photographer. Blended into the background, saw encounters like the friendly meetings of Spoor and Walter Foote.
+</rich_text>
+			<rich_text scale="h1">Defection</rich_text>
+			<rich_text>
+•   Deserted in Jogja during Operation Crow. 
+•   Received Indonesian citizenship right after transfer of sovereignty
+•   Mistrusted as a civilian because he deserted. Even arrested and threatened with deportation, although he has no place to go. 
+
+</rich_text>
+			<rich_text scale="h1">Timeline</rich_text>
+			<rich_text> 
+Julia and Cameron visit first time.
+Cameron visit s alone to learn about koke
+Julia visists alone to check if victoe is Regina's friend.
+
+
+</rich_text>
+			<rich_text scale="h1">Photographic Memory</rich_text>
+			<rich_text>
+• Can recognize patterns from previous photographs, even glimpsed weeks before.
+• Put in Spoors office to analyse aerial photos. Coordinates taped over so he does not need security clearance.
+• Intel officer with him at all times.
+•
+</rich_text>
+			<rich_text scale="h1">Arts Reporter</rich_text>
+			<rich_text>
+• Gets stolen film from corrupt KNIL quartermaster.
+• Gives him article fees, so gets film for half price (or less) This sets up corruption throughout KNIL
+• Develops film at BN.
+</rich_text>
+			<rich_text scale="h1">Atrocity Photographs</rich_text>
+			<rich_text>
+• Spoor assigns him to photograph Dutch atrocity victims brought in from Bekasi.
+• Emeria takes him to kampung to help out Frans from IPPHOS, who wants complete documentation of Rawagede victims but is how on film.
+• This is how Victor meets Frans
+• Frans is light skinned and well-know, so the residents assume Victor, who is out of uniform, is an Indo sympathizer.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Walter Foote" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1653647067.22" unique_id="37">
+			<rich_text>
+• Foote is pro-Dutch American consul in Batavia
+• Shares Spoor's view that Indonesians cannot govern a nation.
+• Worked closely with OSS during Operation Rust with Robert Koke
+• Like to be called Uncle Billy. Treated Indonesians, including Hatta and Sjahrir as errant nephews.
+• Affable but considered a lightweight
+
+</rich_text>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1651467523.89" unique_id="1194">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509578.22" ts_lastsave="1653641819.49" unique_id="1194">
 		<rich_text>
 </rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Affandi Museum" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392088.11" ts_lastsave="1652709252.63" unique_id="1675">
@@ -590,11 +562,12 @@ display: At the Affandi Museum
 </rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Changi Airport</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Cilotok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651471173.71" unique_id="1224">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Cilotok" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1653647758.05" unique_id="1224">
 			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
-			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On Cilotok Beach</codebox>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On Cilotok Beach
+region: Southwest Java</codebox>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Earthquake" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1634530552.9" ts_lastsave="1651468281.69" unique_id="1245">
 			<rich_text justification="left"></rich_text>
@@ -690,7 +663,7 @@ Sanyoto's generals and ministers club</rich_text>
 			<rich_text justification="left"></rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the National Library</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry Diner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1651469614.72" unique_id="1231">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Madras Curry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.49" ts_lastsave="1653644856.35" unique_id="1231">
 			<rich_text justification="left"></rich_text>
 			<rich_text>
 
@@ -698,27 +671,20 @@ Sanyoto's generals and ministers club</rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In the Madras Curry restaurant
 </codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469636.09" unique_id="1220">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Maguwo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1653647812.01" unique_id="1220">
 			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
-			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Maguwo airbase</codebox>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Maguwo Airbase
+region: Jogjakarta</codebox>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Malaya" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1651392280.78" ts_lastsave="1651469653.03" unique_id="1687">
 			<rich_text justification="left"></rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Malaya</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila Airport" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469732.51" unique_id="1198">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1653641819.49" ts_lastsave="1653642171.81" unique_id="1697">
 			<rich_text justification="left"></rich_text>
-			<rich_text>
-</rich_text>
-			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At Manila Airport</codebox>
-		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Manila courtroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469749.49" unique_id="1209">
-			<rich_text justification="left"></rich_text>
-			<rich_text>
-</rich_text>
-			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In a Manila courtroom</codebox>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: In Manila</codebox>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Mount Merapi" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469766.29" unique_id="1227">
 			<rich_text justification="left"></rich_text>
@@ -732,11 +698,12 @@ Sanyoto's generals and ministers club</rich_text>
 </rich_text>
 			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: On the slopes of Mount Punggur</codebox>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469814.62" unique_id="1206">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Muharto Residence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1653647787.93" unique_id="1206">
 			<rich_text justification="left"></rich_text>
 			<rich_text>
 </rich_text>
-			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Muharto residence</codebox>
+			<codebox char_offset="0" frame_height="100" frame_width="700" highlight_brackets="True" show_line_numbers="False" syntax_highlighting="yaml" width_in_pixels="True">display: At the Muharto residence
+region: Jakarta</codebox>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Pemuda Pancasila Palembang" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1631509480.48" ts_lastsave="1651469866.57" unique_id="1217">
 			<rich_text justification="left"></rich_text>
